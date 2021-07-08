@@ -1,0 +1,8620 @@
+-DOCSTART- -X- -X- O
+
+Sữa B-san_pham
+tươi I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Từ O
+: O
+01 B-date
+- O
+31/07/2020 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+220.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Pack O
+6 O
+Lon_Pepsi O
+330ml O
+. O
+
+-DOCSTART- -X- -X- O
+
+Pack B-san_pham
+6 I-san_pham
+Chai_Pepsi I-san_pham
+390ml O
+. O
+
+-DOCSTART- -X- -X- O
+
+Twin_Pack_Lon_Pepsi O
+1,5 O
+L B-muc_giam_gia
+. I-muc_giam_gia
+
+-DOCSTART- -X- -X- O
+
+BÁNH B-san_pham
+SỪNG I-san_pham
+TRÂU I-san_pham
+CÁ_NGỪ I-san_pham
+PHÔ_MAI I-san_pham
+NƯỚNG I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Đấy O
+chính O
+là O
+món O
+sashimi B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Chỉ O
+12000đ B-gia_san_pham
+thôi O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nhập O
+mã O
+VNPAY711 O
+- O
+Giảm O
+20% B-muc_giam_gia
+tối_đa O
+20K B-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+Có O
+bạn O
+nào O
+từng O
+có O
+kỷ_niệm O
+đẹp O
+với O
+tô B-san_pham
+Oden I-san_pham
+nghi_ngút O
+khói O
+của O
+MINISTOP O
+chưa O
+nhỉ O
+? O
+
+-DOCSTART- -X- -X- O
+
+Có O
+bạn O
+nào O
+đã O
+thử O
+CHICKEN B-san_pham
+SALAD I-san_pham
+vừa_mới O
+ra_mắt O
+tuần O
+rồi O
+ở O
+MINISTOP O
+chưa O
+nah O
+. O
+
+-DOCSTART- -X- -X- O
+
+Trái B-san_pham
+bí I-san_pham
+: O
+. O
+1 O
+. O
+
+-DOCSTART- -X- -X- O
+
+Theo O
+các O
+bạn O
+thì O
+nên O
+ăn O
+món O
+nào O
+kèm O
+với O
+salad B-san_pham
+gà I-san_pham
+là O
+ngon O
+nhất O
+nah O
+? O
+
+-DOCSTART- -X- -X- O
+
+Người O
+Nhật O
+quả O
+là O
+biết O
+cách O
+làm O
+tăng O
+thêm O
+khẩu_vị O
+trong O
+các O
+món O
+ẩm_thực O
+của O
+mình O
+đây O
+mah O
+~ O
+~ O
+~ O
+Chỉ O
+17.000 B-gia_san_pham
+Đ I-gia_san_pham
+thôi O
+, O
+vừa O
+ngon O
+, O
+bổ_dưỡng O
+lại O
+rẻ O
+nữa O
+chứ O
+. O
+
+-DOCSTART- -X- -X- O
+
+CH B-vi_tri
+Garden_Gate I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+NGÀY O
+27/07 B-date
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+Ảnh O
+: O
+Hoàng_hôn O
+thung_lũng O
+( O
+Mù_Cang_Chải B-ten_quan_huyen_thanhpho
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+HOÀN O
+TIỀN O
+30% B-muc_giam_gia
+, O
+tối_đa O
+15k B-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+CH B-vi_tri
+134 I-vi_tri
+Pasteur B-ten_duong
+. O
+
+-DOCSTART- -X- -X- O
+
+CH B-vi_tri
+111 I-vi_tri
+Ngô_Quyền B-ten_duong
+. O
+
+-DOCSTART- -X- -X- O
+
+Thêm O
+1 O
+cây O
+kem B-san_pham
+tươi I-san_pham
+socola I-san_pham
+cho O
+mát O
+cổ O
+, O
+mát O
+miệng O
+nah O
+! O
+
+-DOCSTART- -X- -X- O
+
+Vòng B-san_pham
+đeo I-san_pham
+tay I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+BURGER B-san_pham
+BÒ I-san_pham
+NẤM I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Danh_sách O
+tham_quan O
+VinEco_Tam_Đảo B-vi_tri
+: I-vi_tri
+. I-vi_tri
+
+-DOCSTART- -X- -X- O
+
+- O
+Danh_sách O
+tham_quan O
+VinEco_Long_Thành B-vi_tri
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+10 O
+Giải O
+Ba O
+: O
+1 O
+Gift_Card O
+trị_giá O
+100.000 B-muc_giam_gia
+đ I-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+Thời_gian O
+tham_dự O
+: O
+08/06/2018 B-date
+- O
+16/06/2018 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Bánh_Sandwich_Cá_Ngừ B-san_pham
+Trứng_Ốp_La I-san_pham
+thì O
+đậm_đà O
+bổ_dưỡng O
+, O
+còn O
+Trứng_Chiên_Phô_Mai B-san_pham
+beo_béo O
+thơm_lừng O
+hay O
+Bánh_Sừng_Trâu_Cá B-san_pham
+Ngừ_Phô_Mai_Nướng I-san_pham
+siêu O
+lạ_miệng O
+, O
+tất_cả O
+đều O
+vừa O
+lên O
+kệ O
+nhà O
+Bảy O
+đó O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đủ O
+loại O
+thực_phẩm O
+: O
+thịt B-san_pham
+tươi I-san_pham
+, O
+rau O
+củ O
+, O
+đồ_ăn O
+liền O
+và O
+tất_tần_tật O
+thứ O
+bạn O
+cần O
+đều O
+có O
+. O
+
+-DOCSTART- -X- -X- O
+
+30/06/2021 B-date
+. O
+Ghé_Bảy O
+mua O
+về O
+hoặc O
+order O
+qua O
+7NOW O
+giao O
+ngay O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đem O
+đến O
+sự O
+tiện_lợi O
+trong O
+dịch_vụ O
+và O
+đa_dạng O
+trong O
+sản_phẩm O
+với O
+đầy_đủ O
+mặt_hàng O
+: O
+thịt B-san_pham
+tươi I-san_pham
+, O
+rau O
+củ O
+đủ O
+loại O
+, O
+đồ O
+đông_lạnh O
+hay O
+sản_phẩm O
+ăn_liền O
+giúp O
+bạn O
+tiết_kiệm O
+thời_gian O
+nấu_nướng O
+. O
+
+-DOCSTART- -X- -X- O
+
+MÓN O
+MỚI O
+: O
+CHÁO B-san_pham
+MỰC I-san_pham
+TIÊU I-san_pham
+XANH I-san_pham
+/ O
+CHÁO B-san_pham
+SƯỜN I-san_pham
+SỤN I-san_pham
+nóng_hổi O
+vừa O
+thổi O
+vừa O
+ăn️ O
+. O
+
+-DOCSTART- -X- -X- O
+
+️Cháo B-san_pham
+Mực_Tiêu_Xanh I-san_pham
+ngọt O
+nước O
+, O
+thơm_lừng O
+, O
+bừng O
+vị O
+tiêu O
+. O
+
+-DOCSTART- -X- -X- O
+
+️Cháo B-san_pham
+Sườn_Sụn I-san_pham
+đậm_đà O
+mà_lại O
+bổ_dưỡng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thơm O
+ngào_ngạt O
+MÓN O
+MỚI O
+: O
+XÔI B-san_pham
+GÀ I-san_pham
+XÀO I-san_pham
+HÚNG_QUẾ I-san_pham
+mang O
+hương_vị O
+đậm_đà O
+khó O
+quên O
+. O
+
+-DOCSTART- -X- -X- O
+
+Vẫn O
+là O
+gói O
+xôi B-san_pham
+chắc_nịch O
+với O
+hạt O
+nếp O
+mềm_dẻo O
+nhưng O
+giờ_đây O
+đã O
+thêm O
+hương_vị O
+mới_toanh O
+: O
+Xôi_Gà_Xào_Húng B-san_pham
+Quế I-san_pham
+sẽ O
+làm O
+các O
+fan O
+xỉu O
+lên O
+xỉu O
+xuống O
+vì O
+chỉ O
+cần O
+vừa O
+mở O
+ra O
+thôi O
+là O
+đã O
+điêu_đứng O
+vì O
+độ O
+thơm O
+hoà_quyện O
+tuyệt_hảo O
+từ O
+nếp O
+mới O
+, O
+gà O
+chắc O
+thịt O
+đậm_đà O
+xào O
+cùng O
+lá O
+húng_quế O
+ngon O
+ngon O
+lạ O
+miệng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Sài_Gòn B-ten_tinh_thanh_pho
+tháng O
+nhớ O
+năm O
+thương O
+: O
+
+-DOCSTART- -X- -X- O
+
+Bổ_sung O
+năng_lượng O
+với O
+SỮA B-san_pham
+/ O
+SỮA_CHUA B-san_pham
+GIẢM O
+ĐẾN O
+50% B-muc_giam_gia
+tràn_đầy O
+dưỡng O
+chất O
+. O
+
+-DOCSTART- -X- -X- O
+
+Món_Bánh_Mì_Que B-san_pham
+luôn O
+là O
+một O
+trong O
+những O
+mặt_hàng O
+hot O
+nhất O
+nhì O
+bên O
+Bảy O
+vì O
+chẳng_những O
+thơm O
+ngon O
+, O
+tiện_lợi O
+mà_còn O
+có O
+nhiều O
+hương_vị O
+đa_dạng O
+: O
+Khô_Gà_Lá_Chanh B-san_pham
+/ O
+Pate_Heo_Cay B-san_pham
+/ O
+Chà_Bông_Bơ_Hột B-san_pham
+Gà I-san_pham
+và O
+Pate_Hải_Phòng B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Bắt O
+lấy O
+cơ_hội O
+vàng O
+- O
+Thả O
+ga O
+mua_sắm O
+xùng O
+SHOPEEPAY O
+HOẢN O
+TIỀN O
+50% B-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+Nhân_dịp O
+kỉ_niệm O
+4 O
+năm O
+7 O
+- O
+Eleven O
+tại O
+Việt_Nam O
+và O
+mục_tiêu O
+hướng O
+đến O
+không_gian O
+mua_sắm O
+tiện_lợi O
+và O
+an_toàn O
+, O
+Bảy O
+cùng O
+ShopeePay O
+tung O
+chiếc O
+deal O
+Hoàn_Tiền O
+50% B-muc_giam_gia
+dành O
+riêng O
+cho O
+các O
+khách_hàng O
+khi O
+thanh_toán O
+tại O
+7 O
+- O
+Eleven O
+. O
+
+-DOCSTART- -X- -X- O
+
+CHI O
+TIẾT O
+CHƯƠNG_TRÌNH O
+: O
+. O
+1 O
+️⃣HOÀN O
+TIỀN O
+50% B-muc_giam_gia
+, O
+TỐI_ĐA O
+20K B-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+16/06/2021 B-date
+. O
+- O
+Áp_dụng O
+: O
+1 O
+lần O
+/ O
+1 O
+khách O
+. O
+2 O
+️⃣HOÀN O
+TIỀN O
+50% B-muc_giam_gia
+, O
+TỐI_ĐA O
+10K B-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Thời_gian O
+: O
+14 B-date
+- O
+20/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+30/06/2021 B-date
+. O
+Ghé_Bảy O
+mua O
+ngay O
+hoặc O
+đặt O
+trên O
+7NOW O
+để O
+trữ O
+vài O
+chiếc O
+combo O
+tha_hồ O
+lai_rai O
+hết O
+mùa O
+bóng O
+này O
+luôn O
+nhe O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giải O
+nhất O
+: O
+01 O
+Loa_JBL_Go B-san_pham
+2 I-san_pham
+thời_thượng O
+dành O
+cho O
+1 O
+bạn O
+có O
+số O
+like O
+trên O
+hình O
+cao O
+nhất O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giải O
+nhì O
+: O
+01 O
+Voucher O
+7 O
+- O
+Eleven O
+trị_giá O
+100K B-muc_giam_gia
+sẽ O
+dành O
+cho O
+3 O
+bạn O
+có O
+số O
+like O
+trên O
+hình O
+nhiều O
+tiếp_theo O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Thời_gian O
+diễn O
+ra O
+từ O
+ngày O
+: O
+15 B-date
+- O
+25/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+26/06/2021 B-date
+. O
+- O
+Trong O
+mọi O
+trường_hợp O
+xảy O
+ra O
+, O
+Ban O
+tổ_chức O
+là O
+người O
+quyết_định O
+cuối_cùng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Lại O
+một O
+đêm O
+vô_cùng O
+sôi_động O
+nữa O
+sắp O
+đến O
+với O
+các O
+fan O
+bóng_đá O
+Việt_Nam O
+khi O
+đội_tuyển O
+nhà O
+ta O
+sắp O
+hết_mình O
+với O
+đội_tuyển O
+UAE O
+vào O
+lúc O
+23h45' O
+ngày O
+15/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+QUÀ O
+TẶNG O
+: O
+01 O
+VOUCHER O
+7 O
+- O
+ELEVEN O
+TRỊ_GIÁ O
+50K B-muc_giam_gia
+sẽ O
+dành O
+cho O
+5 O
+bạn O
+dự_đoán O
+đúng O
+tỉ_số O
+trận O
+đấu O
+và O
+may_mắn O
+được O
+lựa_chọn O
+ngẫu_nhiên O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Minigame O
+sẽ O
+kết_thúc O
+vào O
+lúc O
+22h O
+ngày O
+15/06/2021 B-date
+và O
+kết_quả O
+sẽ O
+công_bố O
+vào O
+17/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Quà O
+được O
+trao O
+tại O
+TP.HCM. B-ten_tinh_thanh_pho
+- O
+Và O
+trong O
+mọi O
+trường_hợp O
+xảy O
+ra O
+, O
+ban O
+tổ_chức O
+là O
+người O
+quyết_định O
+cuối_cùng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Tiện_lợi O
+gặp O
+chất_lượng O
+MÓN O
+MỚI O
+: O
+CƠM B-san_pham
+NẮM I-san_pham
+MISO I-san_pham
+CÁ_NGỪ I-san_pham
+NƯỚNG I-san_pham
+/ O
+CÁ_BASA B-san_pham
+KHO I-san_pham
+TIÊU I-san_pham
+ngon O
+mê O
+ly O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bật O
+ngay O
+chế_độ O
+" O
+high-mood O
+" O
+với O
+7 B-san_pham
+- I-san_pham
+CAFE I-san_pham
+GIÁ O
+CHỈ O
+TỪ O
+11K B-gia_san_pham
+bừng O
+tỉnh O
+cả O
+ngày O
+. O
+
+-DOCSTART- -X- -X- O
+
+Dù O
+là O
+cà_phê B-san_pham
+đen I-san_pham
+đậm_đà O
+thơm_nức O
+mũi O
+hay O
+cà_phê B-san_pham
+sữa I-san_pham
+thoảng O
+hương O
+ngọt_ngào O
+thì O
+chắc_chắn O
+khi O
+uống O
+vào O
+sẽ O
+tạo O
+cảm_giác O
+vô_cùng O
+sảng_khoái O
+và O
+tỉnh_táo O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chỉ O
+từ O
+11K B-gia_san_pham
+để O
+thưởng_thức O
+được O
+vị O
+nước O
+uống O
+đậm O
+chất O
+Việt_Nam O
+thì O
+quá O
+tuyệt O
+rồi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nhưng O
+đặc_biệt O
+hơn O
+hết O
+phải O
+kể O
+đến O
+những O
+ưu_đãi O
+siêu O
+khủng O
+lên O
+tới O
+50% B-muc_giam_gia
+chỉ O
+dành O
+riêng O
+cho O
+các O
+khách_hàng O
+sử_dụng O
+ví O
+điện O
+tử O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hoà O
+cùng O
+niềm O
+vui O
+sân_cỏ O
+với O
+đội_tuyển O
+nước_nhà O
+từ O
+trận O
+đấu O
+trước O
+, O
+các O
+fan O
+yêu O
+bóng_đá O
+nhà O
+Bảy O
+có O
+đoán O
+được O
+tỉ O
+sổ O
+trận O
+đấu O
+giữa O
+đội_tuyển O
+Việt_Nam O
+vs O
+Malaysia O
+vào O
+lúc O
+23:45 O
+ngày O
+11/06/2021 B-date
+là O
+như_thế_nào O
+không O
+nè O
+. O
+
+-DOCSTART- -X- -X- O
+
+CẢI_TIẾN O
+: O
+BÁNH B-san_pham
+PA I-san_pham
+TÊ I-san_pham
+SÔ I-san_pham
+với O
+diện_mạo O
+mới O
+vị O
+ngon O
+nhân O
+đôi O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Minigame O
+sẽ O
+kết_thúc O
+vào O
+lúc O
+22h O
+ngày O
+11/06 B-date
+và O
+kết_quả O
+sẽ O
+công_bố O
+vào O
+14/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Quà O
+được O
+trao O
+tại O
+TP.HCM. B-ten_tinh_thanh_pho
+- O
+Và O
+trong O
+mọi O
+trường_hợp O
+xảy O
+ra O
+, O
+ban O
+tổ_chức O
+là O
+người O
+quyết_định O
+cuối_cùng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Địa O
+chỉ O
+: O
+Shop B-vi_tri
+72 I-vi_tri
+, O
+Lô_S B-vi_tri
+6-3 I-vi_tri
+, O
+Chung_Cư B-vi_tri
+Nam_Phúc I-vi_tri
+- I-vi_tri
+Le_Jadin I-vi_tri
+, O
+P.Tân B-ten_phuong_xa_thitran
+Phú I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Thời_gian O
+khuyến_mãi O
+: O
+10 B-date
+- O
+16/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Điểm O
+đến O
+ngày O
+hôm_nay O
+chính O
+là O
+đất_nước O
+Thái_Lan O
+cùng O
+món O
+Bún_Thái B-san_pham
+chua_cay O
+với O
+topping O
+ngập_tràn O
+và O
+Mì_Trộn_Sốt_Thái B-san_pham
+hấp_dẫn O
+, O
+vừa O
+ăn O
+vừa O
+hít O
+hà️ O
+. O
+
+-DOCSTART- -X- -X- O
+
+MÓN O
+MỚI O
+: O
+BÁNH_MÌ B-san_pham
+QUE I-san_pham
+PATE I-san_pham
+HẢI_PHÒNG I-san_pham
+/ O
+CHÀ B-san_pham
+BÔNG I-san_pham
+BƠ I-san_pham
+HỘT I-san_pham
+GÀ I-san_pham
+CHỈ O
+12k B-gia_san_pham
+ngon O
+, O
+thơm O
+, O
+chất O
+lượng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hội O
+fan O
+Bánh_Mì B-san_pham
+Que I-san_pham
+chắc O
+đang O
+rần_rần O
+hết O
+cả O
+lên O
+khi O
+Bảy O
+vừa O
+cho O
+ra O
+thêm O
+hai O
+loại O
+bánh O
+mới O
+với O
+Pate_Hải_Phòng B-san_pham
+bùi_bùi_, O
+đậm O
+vị O
+và O
+Chà_Bông_Bơ_Hột B-san_pham
+Gà I-san_pham
+béo O
+ngậy O
+dậy O
+vị O
+. O
+
+-DOCSTART- -X- -X- O
+
+ƯU O
+ĐÃI O
+TƯNG_BỪNG O
+, O
+MỪNG O
+RE-OPENING O
+CỬA_HÀNG B-vi_tri
+7 I-vi_tri
+- I-vi_tri
+ELEVEN I-vi_tri
+NGUYỄN_DU I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+Địa O
+chỉ O
+: O
+81 B-so_nha
+Nguyễn_Du B-ten_duong
+, B-ten_phuong_xa_thitran
+P. I-ten_phuong_xa_thitran
+Bến_Thành I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+, O
+Tp. B-ten_tinh_thanh_pho
+Hồ_Chí_Minh I-ten_tinh_thanh_pho
+. I-ten_tinh_thanh_pho
+
+-DOCSTART- -X- -X- O
+
+Sau O
+một O
+thời_gian O
+thì O
+Bảy O
+đã O
+mang O
+store B-vi_tri
+7 I-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Du I-vi_tri
+trở_lại O
+với O
+các O
+fan O
+rồi_đây O
+! O
+
+-DOCSTART- -X- -X- O
+
+30/06/2021 B-date
+. O
+Đeo O
+khẩu_trang O
+lên O
+rồi O
+ghé O
+Bảy O
+mua O
+ngay O
+hoặc O
+đặt_hàng O
+trên O
+7NOW O
+giao O
+tới O
+tận O
+nơi O
+để O
+hạn_chế O
+tiếp_xúc O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đồ_ăn O
+, O
+thức O
+uống O
+rủ O
+nhau O
+trẩy_hội O
+ưu_đãi O
+quá_trời O
+từ O
+Sữa_Trái_Cây B-san_pham
+, O
+7 B-san_pham
+- I-san_pham
+Café I-san_pham
+, O
+đến O
+Xôi_Cuộn B-san_pham
+và O
+Bánh_Mì B-san_pham
+Que I-san_pham
+đều O
+tụ O
+hội O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giàu O
+dinh_dưỡng O
+COMBO O
+XÔI B-san_pham
+CUỘN I-san_pham
++ O
+SỮA_ĐẬU_NÀNH B-san_pham
+GIẢM O
+5K B-muc_giam_gia
+sẵn_sàng O
+" O
+hello O
+" O
+ngày O
+mới O
+. O
+
+-DOCSTART- -X- -X- O
+
+Mua_sắm O
+thả O
+ga O
+mỗi O
+ngày O
+cùng O
+EVERYDAY O
+VALUE O
+DEALS O
+GIẢM O
+ĐẾN O
+50% B-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+MÓN O
+MỚI O
+: O
+SỮA B-san_pham
+TRÁI_CÂY I-san_pham
+thơm O
+ngây_ngất O
+đã O
+ra_mắt O
+tại O
+7 O
+- O
+Eleven O
+rồi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Ngày O
+01/06 B-date
+gần O
+kề O
+rồi O
+, O
+bạn O
+đang O
+đi O
+tìm O
+một O
+món O
+quà O
+nhỏ O
+xinh O
+cho O
+bé O
+yêu O
+nhà O
+mình O
+? O
+
+-DOCSTART- -X- -X- O
+
+Không O
+cần O
+phải O
+nghĩ O
+thêm O
+nữa O
+, O
+những O
+thanh O
+KitKat B-san_pham
+ngọt_ngào O
+chắc_chắn O
+sẽ O
+khiến O
+các O
+bé O
+thích O
+mê O
+cho O
+xem O
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Áp_dụng O
+từ O
+: O
+24/05 B-date
+- O
+13/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Địa O
+chỉ O
+: O
+11A B-so_nha
+- I-so_nha
+1 I-so_nha
+, O
+Lô B-vi_tri
+M6 I-vi_tri
+, O
+Toà_Symphony B-vi_tri
+, O
+Phú_Mỹ_Hưng B-vi_tri
+- I-vi_tri
+Midtown I-vi_tri
+, O
+P. B-ten_phuong_xa_thitran
+Tân_Phú I-ten_phuong_xa_thitran
+, B-ten_quan_huyen_thanhpho
+Q. I-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Thời_gian O
+ưu_đãi O
+: O
+29/05 B-date
+- O
+04/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Địa O
+chỉ O
+: O
+CT B-vi_tri
+01.11 I-vi_tri
+, O
+Số B-so_nha
+56 I-so_nha
+Bến_Vân_Đồn B-ten_duong
+, O
+Phường B-ten_phuong_xa_thitran
+12 I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+4 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Sài_Gòn B-ten_tinh_thanh_pho
+vào O
+mùa O
+mưa O
+. O
+
+-DOCSTART- -X- -X- O
+
+Áo_Mưa B-san_pham
+với O
+chất_liệu O
+dày_dặn O
+, O
+Dù B-san_pham
+đa_năng I-san_pham
+dùng O
+được O
+cả O
+khi O
+thời_tiết O
+ẩm_ương O
+mưa_nắng O
+thất_thường O
+hay O
+Giày_Đi_Mưa B-san_pham
+chẳng O
+thế O
+thiếu O
+để O
+bảo_vệ O
+cho O
+đôi O
+sneakers O
+luôn O
+khô O
+ráo O
+. O
+
+-DOCSTART- -X- -X- O
+
+Mua O
+3 O
+sản_phẩm O
+: O
+Coca-Cola B-san_pham
+/ O
+Sprite B-san_pham
+/ O
+Fanta B-san_pham
+bất_kì O
+tại O
+cửa_hàng O
+7 O
+- O
+Eleven O
+sẽ O
+nhận O
+được O
+1 O
+vòng O
+quay O
+may_mắn O
+trên O
+ứng_dụng O
+7REWARDS O
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+* O
+* O
+Chương_trình O
+áp_dụng O
+tới O
+hết O
+tháng O
+05/2021. B-date
+Mau O
+mau O
+đến O
+Bảy O
+để O
+xem O
+may_mắn O
+có O
+gõ_cửa O
+không O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Uống O
+thật O
+nhiều O
+, O
+trả O
+thật O
+ít O
+khi O
+NƯỚC B-san_pham
+UỐNG I-san_pham
+TH I-san_pham
+GIẢM O
+ĐẾN O
+8K B-muc_giam_gia
+cực O
+đã O
+. O
+
+-DOCSTART- -X- -X- O
+
+Cay O
+ngon O
+tuyệt_đỉnh O
+MÓN O
+MỚI O
+: O
+CƠM_CHIÊN B-san_pham
+HẢI_SẢN I-san_pham
+SA I-san_pham
+TẾ I-san_pham
+càng O
+ăn O
+càng O
+thèm️ O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hè O
+tới O
+rồi O
+, O
+làm_sao O
+mà O
+có_thể O
+bỏ_qua O
+được O
+những O
+ly O
+Yo-Cruz B-san_pham
+Ổi_Hồng I-san_pham
+thơm_nức O
+hay O
+Lê_& B-san_pham
+amp I-san_pham
+; I-san_pham
+Hoa_Cúc I-san_pham
+thanh O
+mát O
+cùng O
+chiếc O
+deal O
+Đồng O
+Giá O
+20K B-gia_san_pham
+tê_tái O
+lòng O
+ngừơi O
+này O
+. O
+
+-DOCSTART- -X- -X- O
+
+Áp O
+dụng O
+duy_nhất O
+từ O
+: O
+24 B-date
+- O
+31/05/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Thời_gian O
+ưu_đãi O
+: O
+22 B-date
+- O
+28/5/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Áp O
+dụng O
+từ O
+: O
+20/5 B-date
+- O
+31/05/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Hương_vị O
+khác_biệt O
+cho O
+hội O
+Tea-holic O
+nhà O
+mình O
+MÓN O
+MỚI O
+: O
+LỤC B-san_pham
+TRÀ I-san_pham
+VẢI I-san_pham
+PHÚC I-san_pham
+BỒN I-san_pham
+TỬ I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Ăn O
+phát O
+mê O
+luôn O
+CHẢ B-san_pham
+CÁ I-san_pham
+BẮP I-san_pham
+/ O
+BÁNH_MÌ B-san_pham
+CHẢ I-san_pham
+CÁ I-san_pham
+BẮP I-san_pham
+MỚI_TOANH O
+" O
+hót O
+hòn O
+họt O
+" O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nhiều O
+hơn O
+, O
+rẻ O
+hơn O
+với O
+MUA O
+2 O
+TÍNH O
+TIỀN O
+1 O
+CHẢ_LỤA B-san_pham
+QUE I-san_pham
+BÌ I-san_pham
+nhâm_nhi O
+là O
+mê O
+ly O
+. O
+
+-DOCSTART- -X- -X- O
+
+Những_ai O
+thích O
+ăn O
+một_chút O
+the O
+the O
+thì O
+nhớ O
+chọn O
+loại O
+có O
+Ớt_Xiêm_Xanh B-san_pham
+nha O
+, O
+đảm_bảo O
+ghiền O
+luôn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thời_gian O
+khuyến_mại O
+: O
+13/5 B-date
+- O
+25/5/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Mua O
+3 O
+sản_phẩm O
+: O
+Coca-Cola B-san_pham
+/ B-san_pham
+Sprite I-san_pham
+/ O
+Fanta B-san_pham
+bất_kì O
+tại O
+cửa_hàng O
+7 O
+- O
+Eleven O
+sẽ O
+nhận O
+được O
+1 O
+vòng O
+quay O
+may_mắn O
+trên O
+ứng_dụng O
+7REWARDS O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chương_trình O
+áp_dụng O
+trong O
+tháng O
+05/2021. B-date
+Mau O
+mau O
+đến O
+Bảy O
+để O
+xem O
+may_mắn O
+có O
+gõ_cửa O
+không O
+bạn O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+Một O
+lựa_chọn O
+mới O
+cho O
+bữa O
+sáng O
+tại O
+nhà O
+Bảy O
+đây O
+, O
+nay O
+có O
+thêm O
+Bánh_Mì B-san_pham
+Thịt_Chả_Đặc_Biệt I-san_pham
+với O
+lượng O
+nhân O
+tăng O
+thêm O
+50% O
+cùng O
+sốt O
+đậm_đà O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bánh B-san_pham
+Mì_Thịt_Chả I-san_pham
+: O
+giá O
+chỉ O
+25k B-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Bánh B-san_pham
+Mì_Thịt_Chả_Đặc I-san_pham
+Biệt I-san_pham
+: O
+giá O
+chỉ O
+29k B-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+️Thời O
+gian O
+: O
+từ O
+ngày O
+15/05 B-date
+- O
+31/05/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Healthy O
+hết O
+cỡ O
+với O
+COMBO O
+SA_LÁT B-san_pham
+THANH I-san_pham
+CUA I-san_pham
+RONG I-san_pham
+BIỂN I-san_pham
++ O
+TRÀ B-san_pham
+OOLONG I-san_pham
+TEA I-san_pham
++ O
+GIẢM O
+5 B-muc_giam_gia
+K I-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+Nghe O
+thôi O
+là O
+đã O
+thấy O
+hấp_dẫn O
+rồi O
+, O
+và O
+sẽ O
+hoàn_hảo O
+hơn_nữa O
+khi O
+uống O
+thêm O
+chút O
+Trà B-san_pham
+Oolong_Tea I-san_pham
++ O
+thanh O
+mát O
+. O
+
+-DOCSTART- -X- -X- O
+
+Quà O
+tặng O
+: O
+10 O
+bộ O
+Gaming_Gear B-san_pham
+độc_quyền O
+từ O
+Monster_Energy O
+bao_gồm O
+lót O
+chuột O
+, O
+bình O
+nước O
+và O
+áo O
+thun O
+dành O
+cho O
+người O
+chơi O
+trả_lời O
+đúng O
+và O
+may_mắn O
+nhất O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giòn O
+rùm O
+rụm O
+GÀ B-san_pham
+XIÊN I-san_pham
+QUE I-san_pham
+/ O
+MÁ B-san_pham
+ĐÙI I-san_pham
+GÀ I-san_pham
+CHIÊN I-san_pham
+GIÒN I-san_pham
++ O
+PEPSI B-san_pham
+COLA I-san_pham
+GIẢM O
+5K B-muc_giam_gia
+tuyệt_đỉnh O
+nhâm O
+nhi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thử O
+ngay O
+Gà B-san_pham
+Xiên_Que I-san_pham
+hoặc O
+Má B-san_pham
+Đùi_Gà_Chiên_Giòn I-san_pham
+nhà O
+Bảy O
+nào O
+. O
+
+-DOCSTART- -X- -X- O
+
+Uống O
+cùng O
+Pepsi B-san_pham
+Cola I-san_pham
+mát O
+lạnh O
+giảm O
+5k B-muc_giam_gia
+khi O
+mua O
+kèm O
+nữa O
+thì O
+vô_cùng O
+" O
+mlem O
+" O
+luôn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Mua_sắm O
+thả O
+ga O
+với O
+ƯU_ĐÃI O
+GIẢM O
+SỐC O
+50% B-muc_giam_gia
+khi O
+thanh_toán O
+bằng O
+Zalopay O
+tại O
+7 O
+- O
+Eleven O
+. O
+
+-DOCSTART- -X- -X- O
+
+️ƯU O
+ĐÃI O
+50% B-muc_giam_gia
+( O
+giảm O
+tối_đa O
+15K B-muc_giam_gia
+cho O
+hoá_đơn O
+từ O
+30 O
+K O
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+️Thời O
+gian O
+: O
+từ O
+ngày O
+01 B-date
+- O
+31/05/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Đón O
+tháng O
+5 O
+tươi_mát O
+: O
+KHI O
+MUA O
+2 O
+TRÀ B-san_pham
+TRÁI_CÂY I-san_pham
+, O
+TẶNG O
+1 O
+ỔI B-san_pham
+RUỘT I-san_pham
+TRẮNG I-san_pham
+CẮT O
+SẴN O
+giòn O
+ngọt O
+. O
+
+-DOCSTART- -X- -X- O
+
+Mùa O
+hè O
+đã O
+đến O
+và O
+còn O
+gì O
+tuyệt O
+hơn O
+khi O
+có O
+những O
+ly O
+Trà B-san_pham
+Trái_Cây I-san_pham
+mát O
+lạnh O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nay O
+lại O
+còn O
+ưu_đãi O
+Tặng O
+01 O
+Ổi_Ruột_Trắng_Cắt B-san_pham
+Sẵn O
+nữa O
+thì O
+còn O
+gì O
+bằng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đừng O
+quên O
+nếu O
+muốn O
+dằn O
+chắc O
+bụng O
+thì O
+nhớ O
+order O
+Bánh_Mì B-san_pham
+Hotdog I-san_pham
+nhé O
+, O
+giá O
+chỉ O
+từ O
+23k B-gia_san_pham
+thui O
+nè O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bữa O
+ăn O
+đầy O
+tiện_lợi O
+với O
+: O
+CƠM B-san_pham
+NẮM I-san_pham
+HƯƠNG_VỊ O
+MỚI O
+vừa O
+lên O
+kệ O
+tại O
+7 O
+- O
+Eleven O
+. O
+
+-DOCSTART- -X- -X- O
+
+️Gà B-san_pham
+Xào_Kim_Chi I-san_pham
+chua_cay O
+, O
+đậm_đà O
+- O
+Giá O
+chỉ O
+: O
+
+-DOCSTART- -X- -X- O
+
+15k B-gia_san_pham
+. O
+️Cá B-san_pham
+Saba_Sốt_Terriyaki I-san_pham
+chuẩn O
+hương O
+Nhật_Bản O
+- O
+Giá O
+chỉ O
+: O
+
+-DOCSTART- -X- -X- O
+
+17k B-gia_san_pham
+. O
+Chờ O
+gì O
+nữa O
+, O
+mau O
+đến O
+7 O
+- O
+Eleven O
+thử O
+ngay O
+món O
+cơm O
+hấp_dẫn O
+này O
+nào O
+. O
+
+-DOCSTART- -X- -X- O
+
+TƯNG O
+BỪNG O
+ƯU_ĐÃI O
+TỚI O
+50% B-muc_giam_gia
+- O
+MỪNG O
+SOFT O
+OPENING O
+chi_nhánh O
+mới O
+. O
+
+-DOCSTART- -X- -X- O
+
+Các O
+fan O
+ở O
+Quận B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+ơi O
+! O
+7 O
+- O
+Eleven O
+nay O
+đã O
+mở O
+thêm O
+một O
+cửa_hàng O
+nữa O
+giúp O
+cho O
+việc O
+mua_sắm O
+của O
+các O
+bạn O
+được O
+thuận_tiện O
+hơn O
+nè O
+. O
+
+-DOCSTART- -X- -X- O
+
+Và O
+các O
+chủ_nhân O
+của O
+07 O
+CHIẾC O
+LOA B-san_pham
+JBL I-san_pham
+là O
+ài O
+ai_ai O
+ái O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bộ O
+đôi O
+tuyệt_hảo O
+: O
+FREEUPSIZE B-san_pham
+TRÀ I-san_pham
+TẮC I-san_pham
+khi O
+mua O
+Mì_Cay_Bò_Sốt B-san_pham
+Tiêu I-san_pham
+/ O
+Bắp_Xào_Phô B-san_pham
+Mai I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Ăn_Bắp_Xào_Phô B-san_pham
+Mai I-san_pham
+đậm_đà O
+thơm_lừng O
+hay O
+Mì_Cay_Bò_Sốt B-san_pham
+Tiêu I-san_pham
+toé O
+lửa O
+thách_thức O
+vị_giác O
+mà O
+uống O
+cùng O
+Trà B-san_pham
+Tắc I-san_pham
+chua_chua O
+- O
+ngọt O
+ngọt O
+thì O
+miễn O
+chê O
+luôn O
+. O
+
+-DOCSTART- -X- -X- O
+
+️ O
+HOÀN O
+TIỀN O
+TỐI_ĐA O
+20K B-muc_giam_gia
+( O
+cho O
+hoá_đơn O
+từ O
+50 O
+k O
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thời_gian O
+: B-date
+01 I-date
+- O
+31/05/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Quên O
+cái O
+nóng O
+Sài_Gòn B-ten_tinh_thanh_pho
+đi O
+, O
+đã O
+có O
+YO-CRUZ B-san_pham
+GIẢM O
+10K B-muc_giam_gia
+mát O
+lạnh O
+mùa O
+hè O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thêm O
+ưu_đãi O
+giảm O
+hẳn O
+10k B-muc_giam_gia
+khi O
+mua O
+Yo-cruz B-san_pham
+bất_kì O
+nữa O
+thì O
+ôi_thôi O
+phải O
+ghé O
+Bảy O
+liền O
+nào O
+. O
+
+-DOCSTART- -X- -X- O
+
+Sớm O
+nay O
+ăn O
+gì O
+: O
+có O
+ngay O
+COMBO O
+BÁNH_MÌ B-san_pham
+VIỆT_NAM I-san_pham
+/ O
+HOTDOG B-san_pham
+/ O
+PATÊSÔ B-san_pham
+& I-san_pham
+amp I-san_pham
+; I-san_pham
+7 I-san_pham
+- I-san_pham
+CAFÉ I-san_pham
+GIẢM O
+5 B-muc_giam_gia
+K I-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+Đã O
+vậy O
+còn O
+được O
+giảm O
+ngay_lập_tức O
+5k B-muc_giam_gia
+thì O
+phải O
+lựa_chọn O
+ngay O
+thôi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bảy O
+chính O
+tức O
+tung O
+món O
+ăn O
+siêu O
+phẩm O
+Mì_Cay_Bò_Sốt B-san_pham
+Tiêu I-san_pham
+thách_thức O
+vị_giác O
+fan O
+nhà O
+mình O
+đây O
+. O
+
+-DOCSTART- -X- -X- O
+
+Một O
+phần O
+được O
+bán O
+với O
+giá O
+43k B-gia_san_pham
+, O
+lựa_chọn O
+hoàn_hảo O
+cho O
+mọi O
+bữa O
+ăn O
+đây O
+rồi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thanh O
+mát O
+cả O
+mùa O
+Hè O
+với O
+TRÀ B-san_pham
+TRÁI_CÂY I-san_pham
+đậm_đà O
+hương_vị O
+nhiệt O
+đới O
+. O
+
+-DOCSTART- -X- -X- O
+
+Như O
+một O
+cơn O
+lốc O
+mát_lành O
+để O
+giải_nhiệt O
+ngay_lập_tức O
+sức O
+nóng O
+oi_ả O
+của O
+Sài_Gòn B-ten_tinh_thanh_pho
+khi O
+Hè O
+về O
+, O
+đây O
+hiện O
+chính O
+là O
+dòng O
+thức O
+uống O
+thu_hút O
+được O
+sự O
+quan_tâm O
+đặc_biệt O
+tại O
+nhà O
+Bảy O
+dịp O
+gần O
+đây O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nay O
+còn O
+có O
+thêm O
+ưu_đãi O
+: O
+" O
+Mua O
+2 O
+Trà B-san_pham
+Trái_Cây I-san_pham
+bất_kì O
+, O
+TẶNG O
+01 O
+Ổi_Ruột_Trắng_Cắt B-san_pham
+Sẵn O
+" O
+áp_dụng O
+từ O
+01 B-date
+- O
+31/05/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Áp_dụng O
+từ O
+: O
+01 B-date
+- O
+31/05/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Khi O
+mua O
+3 O
+sản_phẩm O
+: O
+Coca-Cola B-san_pham
+/ O
+Sprite B-san_pham
+/ O
+Fanta B-san_pham
+bất_kì O
+tại O
+cửa_hàng O
+7 O
+- O
+Eleven O
+sẽ O
+nhận O
+được O
+1 O
+vòng O
+quay O
+trên O
+ứng_dụng O
+7REWARDS O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chương O
+trình O
+áp_dụng O
+trong O
+tháng O
+05/2021. B-date
+Ghé_Bảy O
+ngay O
+để O
+không O
+bỏ O
+lỡ O
+vận O
+may O
+trúng O
+quà O
+siêu O
+xịn O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Combo O
+hoàn_hảo O
+, O
+khuynh_đảo O
+mùa O
+lễ O
+: O
+MUA O
+2 O
+LON B-san_pham
+STRONGBOW I-san_pham
+, O
+TẶNG O
+1 O
+CHẢ_LỤA B-san_pham
+QUE I-san_pham
+BÌ I-san_pham
+bất O
+kì O
+. O
+
+-DOCSTART- -X- -X- O
+
+Mồi O
+bén O
+như O
+này O
+mà O
+bỏ O
+lỡ O
+là O
+bảo_đảm O
+tiếc O
+lắm O
+nha O
+, O
+nếu O
+thích O
+vị O
+cay O
+nồng O
+thì O
+nhớ O
+chọn O
+Chả_Lụa B-san_pham
+Que_Bì_Ớt_Xiêm I-san_pham
+Xanh I-san_pham
+ăn O
+ghiền O
+liền O
+. O
+
+-DOCSTART- -X- -X- O
+
+Mọi O
+bữa O
+tiệc O
+sẽ O
+nhân O
+đôi O
+niềm O
+vui O
+khi O
+có O
+bia_tươi B-san_pham
+mát O
+lạnh O
+đồng_hành O
+. O
+
+-DOCSTART- -X- -X- O
+
+Tin_vui O
+đầu O
+ngày O
+: O
+TRÀ B-san_pham
+TRÁI_CÂY I-san_pham
+ĐÃ O
+CHÍNH_THỨC O
+BÁN O
+TRÊN O
+TOÀN O
+HỆ_THỐNG O
+7 O
+- O
+ELEVEN O
+. O
+
+-DOCSTART- -X- -X- O
+
+Mùa_Hè O
+sẽ O
+không O
+còn O
+nóng_nực O
+khi O
+ừng_ực O
+series O
+Trà B-san_pham
+Trái_Cây I-san_pham
+mát O
+lạnh O
+này O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đừng O
+quên O
+ưu_đãi O
+Đồng O
+Giá O
+25k B-gia_san_pham
+chỉ O
+áp_dụng O
+tới O
+30/4/2021 B-date
+thôi O
+đó O
+. O
+
+-DOCSTART- -X- -X- O
+
+Xèo_xèo O
+MÓN O
+MỚI O
+: O
+BẮP B-san_pham
+XÀO I-san_pham
+PHÔ_MAI I-san_pham
+thơm O
+nồng O
+khó O
+cưỡng O
+giá O
+chỉ O
+25 B-gia_san_pham
+k I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Fan O
+Bảy O
+có O
+nhớ O
+mùi O
+Bắp_Xào B-san_pham
+siêu O
+ngon O
+của O
+các O
+gánh O
+hàng O
+rong O
+không O
+nè O
+? O
+
+-DOCSTART- -X- -X- O
+
+Uống O
+thả O
+ga O
+với O
+deal O
+xịn O
+MUA O
+2 O
+ĐƯỢC O
+3 O
+MACCHIATO B-san_pham
+bất O
+kì O
+. O
+
+-DOCSTART- -X- -X- O
+
+Macchiato_Series O
+bao_gồm O
+04 O
+hương_vị O
+Trà_Sữa B-san_pham
+, O
+Yo-Cruz B-san_pham
+Xoài I-san_pham
+, O
+Trà B-san_pham
+Lài_Mật_Ong I-san_pham
+, O
+và O
+Cà_Phê B-san_pham
+Sữa_Tươi I-san_pham
+vô_cùng O
+đa_dạng O
+. O
+
+-DOCSTART- -X- -X- O
+
+30/04/2021 B-date
+. O
+Ghé_Bảy O
+ngay O
+hoặc O
+order O
+7NOW O
+để O
+thưởng_thức O
+món O
+thức O
+uống O
+siêu O
+phẩm O
+này O
+thôi O
+nào O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chỉ O
+19K B-gia_san_pham
+, O
+một O
+bước O
+gần O
+hơn O
+với O
+Trái_Đất O
+xanh O
+cùng O
+TÚI B-san_pham
+TÁI_SỬ_DỤNG I-san_pham
+7 I-san_pham
+- I-san_pham
+ELEVEN I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Cùng O
+chung O
+tay O
+giảm_thiểu O
+việc O
+dùng O
+túi O
+nilong O
+bằng O
+cách O
+sử_dụng O
+dòng O
+Túi_Tái_Sử_Dụng B-san_pham
+7 I-san_pham
+- I-san_pham
+Eleven I-san_pham
+với O
+chất_liệu O
+bền_bỉ O
+, O
+kiểu_dáng O
+gọn_nhẹ O
+nhưng O
+lại O
+rất O
+rộng_rãi O
+, O
+đáp_ứng O
+hiệu_quả O
+nhu_cầu O
+của O
+người O
+dùng O
+với O
+giá O
+chỉ O
+19K B-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Với O
+vô_vàn O
+hương_vị O
+kem B-san_pham
+hấp_dẫn O
+đang O
+" O
+on O
+sale O
+" O
+GIẢM O
+TỚI O
+50% B-muc_giam_gia
+thì O
+mùa O
+hè O
+này O
+các O
+fan O
+nhà O
+Bảy O
+khỏi O
+lo O
+nắng_nóng O
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Ưu_đãi O
+áp_dụng O
+từ O
+: O
+23 B-date
+- O
+30/04/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Chẳng O
+cần O
+đi O
+Nhật O
+cũng O
+có_thể O
+ăn O
+SUSHI B-san_pham
+ngon O
+quên O
+lối O
+về O
+- O
+GIÁ O
+DÙNG O
+THỬ O
+CHỈ O
+30 B-gia_san_pham
+K I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Thoảng O
+vị O
+Địa_Trung_Hải O
+với O
+YO-CRUZ B-san_pham
+ĐÀO I-san_pham
+VÀNG I-san_pham
+HY_LẠP I-san_pham
+- O
+MÓN O
+MỚI O
+nhà O
+Bảy O
+. O
+
+-DOCSTART- -X- -X- O
+
+Yo-Cruz B-san_pham
+Đào_Vàng_Hy_Lạp I-san_pham
+là O
+sự O
+kết_hợp O
+tuyệt_hảo O
+giữa O
+vị O
+chua_ngọt O
+truyền_thống O
+và O
+thanh O
+mát O
+của O
+những O
+lát O
+đào O
+vàng O
+tươi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Làm_đẹp O
+cùng O
+Bảy O
+: O
+MUA O
+KEM B-san_pham
+CHỐNG I-san_pham
+NẮNG I-san_pham
+SUNPLAY I-san_pham
+TONE I-san_pham
+UP I-san_pham
+- O
+TẶNG O
+NGAY O
+TÚI B-san_pham
+TOLE I-san_pham
+tiện_dụng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Không_những O
+đẹp O
+, O
+nay O
+còn O
+tiện_dụng O
+hơn O
+khi O
+được O
+tặng O
+kèm O
+túi B-san_pham
+Tole I-san_pham
+" O
+trendy O
+" O
+đựng O
+được O
+“ O
+cả O
+thế_giới O
+" O
+trên O
+vai O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nhâm_nhi O
+đã_đời O
+với O
+MUA O
+2 O
+LON B-san_pham
+STRONGBOW I-san_pham
+- O
+TẶNG O
+01 O
+CHẢ_LỤA B-san_pham
+QUE I-san_pham
+BÌ I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Nước B-san_pham
+trái_cây I-san_pham
+lên_men I-san_pham
+Strongbow I-san_pham
+với O
+hương_vị O
+thơm O
+nồng O
+và O
+đa_dạng O
+sẽ O
+là O
+lựa_chọn O
+hoàn_hảo O
+cho O
+fan O
+mê O
+tiệc_tùng O
+nhà O
+Bảy O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nay O
+còn O
+ngon O
+hơn O
+khi O
+ăn O
+kèm O
+với O
+Chả_Lụa B-san_pham
+Que_Bì I-san_pham
+dai O
+giòn O
+, O
+sừng_sực O
+được O
+tặng O
+kèm O
+khi O
+mua O
+02 O
+lon B-san_pham
+Strong_Bow I-san_pham
+330ml I-san_pham
+bất O
+kì O
+. O
+
+-DOCSTART- -X- -X- O
+
+CƠM B-san_pham
+SƯỜN I-san_pham
+XÀO I-san_pham
+CHUA_NGỌT I-san_pham
+" O
+CẢI_TIẾN O
+" O
+đã O
+được O
+cho O
+ra_mắt O
+. O
+
+-DOCSTART- -X- -X- O
+
+Trà B-san_pham
+Đào_Cam_Sả I-san_pham
+ngập O
+trong O
+vitamin O
+C O
+cùng O
+những O
+lát O
+đào O
+giòn O
+tươi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Lục B-san_pham
+Trà I-san_pham
+Thạch_Xoài I-san_pham
+tràn_ngập O
+hương_vị O
+nhiệt_đới O
+với O
+thạch O
+mọng O
+mướt O
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Món O
+mới O
+với O
+ưu_đãi O
+Giá O
+dùng O
+thử O
+chỉ O
+25k B-gia_san_pham
+từ O
+19/04 B-date
+- O
+30/04/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+TẶNG O
+BÚT_BI B-san_pham
+NGỘ_NGHĨNH I-san_pham
+- O
+KHI O
+MUA O
+HÓA O
+ĐƠN O
+KEM O
+TỪ O
+50 O
+K O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chẳng O
+phải O
+là O
+em O
+bé O
+, O
+kem B-san_pham
+ngon O
+mát O
+lạnh O
+với O
+ưu_đãi O
+quá_chừng O
+lại O
+còn O
+thêm O
+quà O
+tặng O
+Bút_Bi B-san_pham
+Nông_Sản I-san_pham
+đáng I-san_pham
+yêu O
+hết_sức O
+như O
+này O
+thì O
+đến O
+người_lớn O
+cũng O
+sẽ O
+mê_đắm O
+mê O
+đuối O
+đó O
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Áp_dụng O
+từ O
+: O
+15 B-date
+- O
+30/04/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Đừng O
+lo O
+nữa O
+vì O
+Bảy O
+hết_sức O
+tâm_lý O
+khi O
+tặng O
+cho O
+các O
+fan O
+Túi_Giữ_Nhiệt B-san_pham
+giúp O
+giữ O
+kem B-san_pham
+luôn O
+lạnh O
+mát O
+để O
+thưởng_thức O
+thoả O
+sức O
+mọi O
+lúc O
+mọi O
+nơi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Ghé O
+Bảy O
+hoặc O
+order O
+7NOW O
+5 O
+Kem_Kido B-san_pham
+cùng O
+loại O
+để O
+nhận O
+ngay O
+Túi_Giữ_Nhiệt B-san_pham
+bên O
+Bảy O
+nào O
+! O
+
+-DOCSTART- -X- -X- O
+
+ĐOÁN O
+TÊN O
+: O
+MÓN O
+THỨC O
+UỐNG O
+SẮP O
+RA_MẮT O
+VÀO O
+NGÀY O
+19/04/2021 B-date
+tại O
+7 O
+- O
+Eleven O
+. O
+
+-DOCSTART- -X- -X- O
+
+Ăn O
+sang O
+uống O
+chảnh O
+PIZZA B-san_pham
+MANNA I-san_pham
+GIẢM O
+5K B-muc_giam_gia
++ O
+FREE O
+COCA-COLA B-san_pham
+thiệt O
+là O
+đã O
+. O
+
+-DOCSTART- -X- -X- O
+
+Ảnh O
+: O
+Chiến_thắng O
+( O
+cuộc O
+thi_đua O
+bò O
+ở O
+huyện B-ten_quan_huyen_thanhpho
+Tri_Tôn I-ten_quan_huyen_thanhpho
+- O
+An_Giang B-ten_tinh_thanh_pho
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+Ảnh O
+: O
+Chạng_vạng O
+Nha_Trang B-ten_quan_huyen_thanhpho
+- O
+Tác_giả O
+: O
+Nguyễn_Đình_Thành O
+
+-DOCSTART- -X- -X- O
+
+Chỉ O
+cần O
+ghé O
+7 O
+- O
+Eleven O
+mua O
+2 O
+cây O
+Kem_Cornetto B-san_pham
+bất_kì O
+! O
+
+-DOCSTART- -X- -X- O
+
+Slurpee B-san_pham
+đã O
+trở_lại O
+mang O
+theo O
+2 O
+vị O
+mới O
+, O
+Dâu_Tươi O
+và O
+Nho_Tím O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chỉ O
+10K B-gia_san_pham
+cho O
+ly O
+lớn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thời O
+hạn O
+tham_gia O
+chương_trình O
+: O
+Từ O
+8/3 B-date
+- O
+31/3/2019 B-date
+. O
+7 O
+- O
+Eleven O
+sẽ O
+chọn O
+ra O
+3 O
+bạn O
+may_mắn O
+nhất O
+được O
+nhận O
+bộ O
+quà O
+của O
+Cola_Cola O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bữa O
+trưa O
+ngon-rẻ-chất O
+lượng O
+25K B-gia_san_pham
+chỉ O
+với O
+100 O
+điểm O
+trên O
+7REWARDS O
+. O
+
+-DOCSTART- -X- -X- O
+
+Và O
+bí_mật O
+ngày O
+8/3 B-date
+tại O
+7 B-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Thị_Minh I-vi_tri
+Khai I-vi_tri
+là O
+đây O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chiếc O
+máy O
+kì_diệu O
+này O
+sẽ O
+biến O
+một O
+chai O
+Coca B-san_pham
+cực O
+lạnh O
+thành O
+một O
+thức O
+uống O
+sền_sệt O
+chỉ O
+trong O
+vài O
+giây O
+, O
+mang O
+đến O
+trải_nghiệm O
+bất_ngờ O
+và O
+đầy O
+thú_vị O
+cho O
+những O
+người O
+hâm_mộ O
+Coca_Cola B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Hãy O
+đến O
+7 B-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Thị_Minh I-vi_tri
+Khai I-vi_tri
+vào O
+ngày O
+8/3 B-date
+để O
+trải_nghiệm O
+chiếc O
+máy O
+tuyệt_vời O
+và O
+tham_gia O
+những O
+hoạt_động O
+thú_vị O
+tại O
+buổi O
+ra_mắt O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Tặng O
+1 O
+Mặt_Nạ B-san_pham
+Hazeline I-san_pham
+và O
+1 O
+Trái_Dừa_GTJ B-san_pham
+với O
+hoá_đơn O
+từ O
+100K O
+. O
+
+-DOCSTART- -X- -X- O
+
+Duy_nhất O
+ngày O
+8/3 B-date
+! O
+
+-DOCSTART- -X- -X- O
+
+Cư_dân O
+Botanica O
+ơi O
+, O
+cùng O
+nhau O
+ghé O
+chung O
+vui O
+cùng O
+7 O
+- O
+Eleven O
+vào O
+ngày O
+8/3/2019 B-date
+và O
+để O
+nhận O
+những O
+ưu_đãi O
+hấp_dẫn O
+nhất O
+nhân_dịp O
+khai_trương O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Địa O
+chỉ O
+: B-vi_tri
+Botanica_Premier I-vi_tri
+- O
+BPB B-vi_tri
+01.05 I-vi_tri
+- O
+108 B-so_nha
+Hồng_Hà B-ten_duong
+, O
+Phường B-ten_phuong_xa_thitran
+2 I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+Tân_Bình I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Ưu_đãi O
+áp_dụng O
+từ O
+8/3 B-date
+- O
+14/3/2019 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Bật O
+ngay O
+ứng_dụng O
+Grab O
+đặt O
+combo O
+Bánh_Mì B-san_pham
+Ốp_La I-san_pham
+2 I-san_pham
+Trứng I-san_pham
+& O
+amp O
+; O
+Aquafina B-san_pham
+cho O
+buổi O
+sáng O
+bận_rộn O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Tèn O
+tennn O
+, O
+đáp_án O
+chính_xác O
+của O
+minigame O
+ngày O
+3/3 B-date
+chính O
+là O
+Trà B-san_pham
+Bưởi_Thanh_Long I-san_pham
+nhé O
+cả O
+nhà O
+. O
+7 O
+- O
+Eleven O
+sẽ O
+trao O
+giải O
+cho O
+5 O
+bạn O
+trả_lời O
+đúng O
+và O
+may_mắn O
+nhất O
+trong O
+ngày O
+hôm_nay O
+ạ O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bánh_Mì B-san_pham
+Nem_Nướng I-san_pham
+chỉ O
+19K B-gia_san_pham
+, O
+nếu O
+ăn O
+vẫn O
+chưa O
+đã O
+thì O
+có_thể O
+thêm O
+nem B-san_pham
+nướng I-san_pham
+chỉ O
+7K B-gia_san_pham
+1 O
+chiếc O
+. O
+
+-DOCSTART- -X- -X- O
+
+Vào O
+đúng O
+ngày O
+Quốc_Tế_Phụ_Nữ O
+8/3 B-date
+, O
+7 O
+- O
+Eleven O
+sẽ O
+tổ_chức O
+sự_kiện O
+ra_mắt O
+1 O
+sản_phẩm O
+mới O
+cực O
+hot O
+, O
+hứa_hẹn O
+sẽ O
+làm_mưa_làm_gió O
+. O
+
+-DOCSTART- -X- -X- O
+
+A. B-vi_tri
+7 I-vi_tri
+- I-vi_tri
+Eleven_Tôn_Dật_Tiên I-vi_tri
+. I-vi_tri
+
+-DOCSTART- -X- -X- O
+
+B. O
+7 B-vi_tri
+- I-vi_tri
+Eleven_Vinhomes_Central_Park I-vi_tri
+, O
+Central B-vi_tri
+1 I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+Tặng O
+ngay O
+Bút_Bi B-san_pham
+Heo_Hồng I-san_pham
+cực O
+hot O
+khi O
+mua O
+2 O
+Kem_Cornetto B-san_pham
+bất_kì O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bữa O
+trưa O
+chất_lượng O
+- O
+Phần O
+Cơm_Đùi_Gà_Rán B-san_pham
+chỉ O
+25K B-gia_san_pham
+với O
+100 O
+điểm O
+trên O
+7REWARDS O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đặc_biệt O
+, O
+duy_nhất O
+1 O
+size O
+lớn O
+, O
+chỉ O
+10 B-gia_san_pham
+K I-gia_san_pham
+! O
+
+-DOCSTART- -X- -X- O
+
+Thử O
+vị O
+Cơm_Nắm_Onigiri B-san_pham
+mới O
+giá O
+chỉ O
+10K B-gia_san_pham
+với O
+100 O
+điểm O
+trên O
+7REWARDS O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chương_trình O
+bắt_đầu O
+từ O
+28/2 B-date
+- O
+13/3/2019 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+Cơm B-san_pham
+nắm I-san_pham
+Onigiri I-san_pham
+là O
+một O
+lựa_chọn O
+hoàn_hảo O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thử O
+ngay O
+Cơm_Nắm_Thanh_Cua B-san_pham
+và O
+Cơm_Nắm_Cá_Ngừ B-san_pham
+vừa O
+lên O
+kệ O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Rau_Câu B-san_pham
+Dừa I-san_pham
+và O
+Rau_Câu B-san_pham
+Sâm I-san_pham
+Bổ_Lượng I-san_pham
+không_chỉ O
+thanh O
+mát O
+, O
+giải_nhiệt O
+mà_còn O
+rất O
+tốt O
+cho O
+sức_khoẻ O
+với O
+thành_phần O
+hoàn_toàn O
+tự_nhiên O
+. O
+
+-DOCSTART- -X- -X- O
+
+Fan O
+của O
+món O
+ăn O
+xứ O
+Mặt_Trời O
+Mọc O
+chắc O
+không O
+còn O
+lạ O
+gì O
+món O
+Cơm_Nắm B-san_pham
+vừa O
+ngon O
+vừa O
+tiện_lợi O
+này O
+nhỉ O
+? O
+
+-DOCSTART- -X- -X- O
+
+Khoan O
+khoan O
+, O
+bạn O
+còn O
+được O
+tặng O
+01 O
+lon B-san_pham
+Pepsi I-san_pham
+để O
+tiếp O
+thêm O
+cuồng_nhiệt O
+nữa O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+58.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Những O
+chiếc O
+bánh B-san_pham
+Sandwich I-san_pham
+đầy O
+dinh_dưỡng O
+- O
+ngon O
+khó O
+cưỡng O
+với O
+đa_dạng O
+các O
+loại O
+nhân O
+ắt O
+hắn O
+sẽ O
+đem O
+đến O
+cho O
+bạn O
+bữa O
+sáng O
+tràn_đầy O
+năng_lượng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đừng O
+quên O
+thêm O
+kết_hợp O
+với O
+TEA B-san_pham
++ I-san_pham
+Plus I-san_pham
+mát O
+lạnh O
+cho O
+bữa O
+sáng O
+thêm O
+hoàn_hảo O
+đó O
+nha O
+. O
+
+-DOCSTART- -X- -X- O
+
+Combo O
+siêu O
+hot O
+này O
+còn O
+giúp O
+bạn O
+tiết_kiệm O
+3.000 B-muc_giam_gia
+đ I-muc_giam_gia
+nữa O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Cuối O
+tuần O
+đi O
+chơi O
+cùng O
+bạn_bè O
+, O
+chưa O
+biết O
+ăn O
+gì O
+thì O
+ra O
+ngày O
+FamilyMart O
+chọn O
+liền O
+những O
+món O
+mì B-san_pham
+từ O
+" O
+Ta O
+" O
+sang O
+Âu O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+Áo B-san_pham
+thun I-san_pham
+Coca-Cola I-san_pham
+cao_cấp O
+. O
+
+-DOCSTART- -X- -X- O
+
+Lon B-san_pham
+Coca-Cola I-san_pham
+cờ I-san_pham
+Nhật I-san_pham
+độc_đáo O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bánh B-san_pham
+tươi I-san_pham
+– O
+cho O
+buổi O
+chiều O
+trà O
+thêm O
+thú_vị O
+. O
+
+-DOCSTART- -X- -X- O
+
+Không O
+cần O
+đi O
+đâu O
+xa O
+, O
+tới O
+ngay O
+FamilyMart O
+bạn O
+vẫn O
+có_thể O
+thưởng_thức O
+“ O
+bữa O
+tiệc O
+bánh O
+ngọt O
+ngon O
+ngất_ngây O
+ngọt_ngào O
+” O
+với O
+Pound B-san_pham
+cake I-san_pham
+mềm O
+mịn O
+đậm O
+vị O
+trà O
+xanh O
+hay O
+bánh B-san_pham
+vỏ I-san_pham
+sò I-san_pham
+chuẩn O
+vị O
+mật_ong O
+, O
+bánh B-san_pham
+Financier I-san_pham
+thơm_lừng O
+vị O
+bơ O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hủ_Tiếu B-san_pham
+Khô_Tôm_Thịt I-san_pham
+- O
+món O
+ăn O
+" O
+gây O
+ghiền O
+" O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+32.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Tới O
+FamilyMart O
+liền O
+ngay O
+để O
+có O
+cơ_hội O
+mua O
+ngay O
+những O
+" O
+người O
+bạn O
+thân O
+" O
+Pepsi B-san_pham
+, O
+Mirinda B-san_pham
+, O
+7up B-san_pham
+, O
+Mountain_Dew B-san_pham
+với O
+giá O
+hấp_dẫn O
+chỉ O
+5.000 B-gia_san_pham
+đ I-gia_san_pham
+thôi O
+nào O
+! O
+
+-DOCSTART- -X- -X- O
+
+Vòng O
+quay O
+thế_giới O
+“ O
+thưởng_thức O
+” O
+ẩm_thực O
+, O
+nay O
+cùng O
+quay O
+về O
+Nhật_Bản O
+để O
+thưởng_thức O
+Omusubi B-san_pham
+đậm O
+vị O
+truyền_thống O
+thôi O
+nào O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+10.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Bánh_mì B-san_pham
+xốp I-san_pham
+sôcôla I-san_pham
+– O
+bữa O
+sáng O
+năng_lượng O
+cho O
+ngày O
+bận_rộn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+11.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Kéo O
+hơi O
+lạnh O
+về O
+mùa O
+hè O
+với O
+kem B-san_pham
+Cornetto I-san_pham
+ngon O
+ngất_ngây O
+ngay O
+nào O
+bạn O
+ơi O
+! O
+
+-DOCSTART- -X- -X- O
+
+Tuyệt_đỉnh O
+Burger_Double_Hamburg B-san_pham
+và O
+phô_mai B-san_pham
+Cheddar I-san_pham
+khiến O
+vạn O
+người O
+mê O
+nay O
+đã O
+có_mặt O
+tại O
+FamilyMart O
+. O
+
+-DOCSTART- -X- -X- O
+
+Với O
+sự O
+cải_tiến O
+hoàn_toàn O
+mới O
+, O
+Burger_Hamburg B-san_pham
+đã O
+lợi_hại O
+hơn O
+xưa O
+với O
+vị O
+thịt O
+mềm O
+hơn O
+khi O
+áp_chảo O
+làm O
+dậy O
+hương_vị O
+và O
+mang O
+đến O
+màu_sắc O
+vô_cùng O
+hấp_dẫn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Khởi_đầu O
+tuần O
+mới O
+cùng O
+Omusubi B-san_pham
+- O
+hương_vị O
+chuẩn O
+Nhật O
+thơm_lừng O
+từ O
+gạo O
+hoà_quyện O
+cùng O
+lá O
+rong O
+biển O
+bổ_dưỡng O
+, O
+kết_hợp O
+với O
+đa_dạng O
+các O
+loại O
+nhân O
+. O
+
+-DOCSTART- -X- -X- O
+
+Và O
+giờ_đây O
+, O
+khi O
+mua O
+02 O
+sản_phẩm O
+Omusubi B-san_pham
+bất_kì O
+, O
+bạn O
+sẽ O
+được O
+liền_tay O
+2,000 B-muc_giam_gia
+đ I-muc_giam_gia
+luôn O
+đó O
+nha O
+! O
+
+-DOCSTART- -X- -X- O
+
+Đại_hội O
+tích O
+điểm O
+khi O
+mua O
+“ O
+anh_em O
+” O
+nhà O
+xúc_xích B-san_pham
+ngay O
+tại O
+FamilyMart O
+bạn O
+ơi O
+! O
+
+-DOCSTART- -X- -X- O
+
+“ O
+Anh O
+ba O
+” O
+- O
+Xúc_xích B-san_pham
+heo I-san_pham
+xông I-san_pham
+khói I-san_pham
+50g I-san_pham
+với O
+2.000 B-muc_giam_gia
+điểm I-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+“ O
+Chị O
+tư O
+” O
+- O
+Cá B-san_pham
+viên I-san_pham
+tôm I-san_pham
+( I-san_pham
+Set I-san_pham
+4 I-san_pham
+viên I-san_pham
+) I-san_pham
+với O
+2.000 B-muc_giam_gia
+điểm I-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+“ O
+Em_út O
+” O
+- O
+Xúc_xích B-san_pham
+xông I-san_pham
+khói I-san_pham
+50g I-san_pham
+với O
+1.000 B-muc_giam_gia
+điểm I-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+Khởi_đầu O
+một O
+ngày O
+mới O
+năng_động O
+và O
+tỉnh_táo O
+với O
+“ O
+NESCAFE B-san_pham
+” O
+– O
+hương_vị O
+cà_phê O
+thơm O
+ngon O
+ắt_hẳn O
+sẽ O
+“ O
+xua_tan O
+” O
+cơn O
+buồn_ngủ O
+, O
+khơi O
+ngợi O
+nguồn O
+hứng_khởi O
+giúp O
+bạn O
+hoàn_thành O
+các O
+mục_tiêu O
+một_cách O
+dễ_dàng O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Snack_Khoai_Tây_Tayo B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Oishi_Snack_Bắp B-san_pham
+16g I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+20 B-so_nha
+Lê_Thánh_Tôn B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+210 B-so_nha
+B I-so_nha
+/ I-so_nha
+1 I-so_nha
+Nguyễn_Khắc_Nhu B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+454 B-so_nha
+Lê_Văn_Sỹ B-ten_duong
+, O
+Quận O
+Quận B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+145 B-so_nha
+Nguyễn_Đình_Chiểu B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+16 B-so_nha
+Quốc_Hương B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+2 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+9 B-so_nha
+Thanh_Đa B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+201 B-so_nha
+Nguyễn_Xí B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+14B9 B-so_nha
+Ngô_Tất_Tố B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+918 B-so_nha
+Nguyễn_Trãi B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+5 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Quận B-ten_quan_huyen_thanhpho
+Gò_Vấp I-ten_quan_huyen_thanhpho
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+27 B-so_nha
+PhạmVăn_Chiêu B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Gò_Vấp I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+529 B-so_nha
+Lê_Đức_Thọ B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Gò_Vấp I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+198 B-so_nha
+Phan_Huy_Ích B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Gò_Vấp I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+400 B-so_nha
+Lê_Văn_Sỹ B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Tân_Bình I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+54-56 B-so_nha
+Thái_Thị_Nhạn B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Tân_Bình I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+809B B-so_nha
+Tạ_Quang_Bửu B-ten_duong
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Chung_Cư B-vi_tri
+Ehome I-vi_tri
+, O
+Quận B-ten_quan_huyen_thanhpho
+8 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Bình_Dương B-ten_tinh_thanh_pho
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+203 B-so_nha
+Lê_Hồng_Phong B-ten_duong
+- O
+Bình_Dương B-ten_tinh_thanh_pho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Chung_Cư B-vi_tri
+Phú_Hoà I-vi_tri
+- O
+Bình_Dương B-ten_tinh_thanh_pho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+KDC B-vi_tri
+Vĩnh_Phú I-vi_tri
+– O
+Bình_Dương B-ten_tinh_thanh_pho
+. O
+
+-DOCSTART- -X- -X- O
+
+Quận B-ten_quan_huyen_thanhpho
+Phú_Nhuận I-ten_quan_huyen_thanhpho
+: O
+129 B-so_nha
+Huỳnh_Văn_Bánh B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Phú_Nhuận I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Quận B-ten_quan_huyen_thanhpho
+10 I-ten_quan_huyen_thanhpho
+: O
+BB18 B-so_nha
+Trường_Sơn B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+10 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Quận B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+: O
+Belleza B-vi_tri
+( O
+Đường B-ten_duong
+số I-ten_duong
+2 I-ten_duong
+) O
+, O
+Quận B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Quận B-ten_quan_huyen_thanhpho
+Thủ_Đức I-ten_quan_huyen_thanhpho
+: O
+34 B-so_nha
+Hiệp_Bình B-ten_duong
+, O
+Quận B-ten_quan_huyen_thanhpho
+Thủ_Đức I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Vũng_Tàu B-ten_tinh_thanh_pho
+: O
+816 B-so_nha
+Trần_Phú B-ten_duong
+– O
+Vũng_Tàu B-ten_tinh_thanh_pho
+. O
+
+-DOCSTART- -X- -X- O
+
+Ai O
+cũng O
+biết O
+món O
+ăn O
+yêu O
+thích O
+của O
+Thuyền_trưởng O
+Doraemon O
+chính O
+là O
+món O
+bánh_rán B-san_pham
+Dorayaki I-san_pham
+, O
+nhưng O
+mấy_ai O
+có_thể O
+khéo_léo O
+trổ_tài O
+làm O
+món O
+này O
+được O
+nhỉ O
+? O
+
+-DOCSTART- -X- -X- O
+
+Với O
+“ O
+Bột B-san_pham
+bánh_rán I-san_pham
+pha I-san_pham
+sẵn I-san_pham
+” I-san_pham
+Ajinomoto I-san_pham
+, O
+mọi O
+chuyện O
+chỉ O
+còn O
+là O
+" O
+muỗi O
+" O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+32.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Nigirizushi_Lươn B-san_pham
+nướng O
+sốt B-san_pham
+Kabayaki I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Ghé_FamilyMart O
+, O
+chọn O
+ngay O
+Nestle O
+để O
+có O
+một O
+bữa O
+sáng O
+đầy_đủ O
+dưỡng_chất O
+với O
+sữa B-san_pham
+Milo I-san_pham
+cho O
+ngày O
+dài O
+năng_động O
+hay O
+sữa_tươi O
+đậm O
+vị O
+hương O
+việt O
+quất O
+thơm_lừng O
+cho O
+mỗi O
+bữa O
+sáng O
+bận_rộn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Trưa O
+trưa O
+còn O
+có O
+kem B-san_pham
+KitKat I-san_pham
+sôcôla I-san_pham
+ăn O
+đã O
+ghiền O
+nữa O
+chứ O
+! O
+
+-DOCSTART- -X- -X- O
+
+Kẹo B-san_pham
+xe I-san_pham
+cún I-san_pham
+cưng I-san_pham
+và O
+chim_cánh_cụt B-san_pham
+: O
+45,000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Pop_Toy B-san_pham
+lung_linh O
+: O
+25,000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Transformers B-san_pham
+siêu O
+xịn O
+: O
+99,000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Cà_phê B-san_pham
+Birdy I-san_pham
+lon I-san_pham
+sẽ O
+mang O
+đến O
+cảm_giác O
+sảng_khoái O
+hơn O
+giúp O
+bạn O
+tập_trung O
+và O
+cảm_thấy O
+hưng_phấn O
+khi O
+bắt_đầu O
+một O
+ngày O
+dài O
+đấy O
+. O
+
+-DOCSTART- -X- -X- O
+
+Ý O
+quên O
+, O
+trà B-san_pham
+matcha I-san_pham
+gạo I-san_pham
+rang I-san_pham
+Blendy I-san_pham
+cũng O
+làm O
+phấn_chấn O
+tinh_thần O
+lắm O
+à O
+nha O
+! O
+
+-DOCSTART- -X- -X- O
+
+Không_SỐT O
+như O
+trà_vải B-san_pham
+, O
+không O
+HOT O
+như O
+trà_đào B-san_pham
+, O
+nhưng O
+Trà B-san_pham
+Dâu_Nestea I-san_pham
+vẫn O
+mang O
+đến O
+một O
+cảm_giác O
+rất O
+tuyệt_vời O
+không O
+chê O
+vào O
+đâu O
+được O
+. O
+
+-DOCSTART- -X- -X- O
+
+Mì O
+Satsuma-age O
+Ramen O
+~ O
+Mì B-san_pham
+chả I-san_pham
+cá I-san_pham
+Nhật I-san_pham
+mới_toanh O
+vừa O
+xuất_hiện O
+tại O
+tất_cả O
+các O
+cửa_hàng O
+MINISTOP O
+nah O
+. O
+
+-DOCSTART- -X- -X- O
+
+Để O
+tiếp_nối O
+sê-ri O
+cùng O
+FamilyMart O
+“ O
+ăn O
+" O
+khắp O
+thế_gian O
+, O
+trạm O
+dừng O
+chân O
+lần O
+này O
+sẽ O
+là O
+nước O
+Ý O
+thơ_mộng O
+với O
+món O
+spaghetti B-san_pham
+nổi_tiếng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chả_Cá_Rim_Xốt B-san_pham
+Cà I-san_pham
+– O
+bữa O
+trưa O
+thanh_đạm O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+30.000 B-san_pham
+đ I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Túi B-san_pham
+đựng I-san_pham
+viết I-san_pham
+: O
+35,000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Mirinda B-san_pham
+soda I-san_pham
+vị I-san_pham
+kem I-san_pham
+thật O
+đã O
+! O
+
+-DOCSTART- -X- -X- O
+
+Chưa O
+hết O
+, O
+khi O
+mua O
+02 O
+lon O
+Mirinda B-san_pham
+kem I-san_pham
+này O
+, O
+bạn O
+sẽ O
+nhận O
+liền_tay O
+01 O
+bình B-san_pham
+nước I-san_pham
+thể_thao I-san_pham
+cực O
+chất O
+cho O
+hè O
+sôi_động O
+này O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+10.000 B-gia_san_pham
+đ I-gia_san_pham
+/ O
+lon O
+. O
+
+-DOCSTART- -X- -X- O
+
+Ai O
+yêu O
+bánh B-san_pham
+Dorayaki I-san_pham
+bằng O
+mèo O
+máy O
+Doraemon O
+? O
+
+-DOCSTART- -X- -X- O
+
+Cho O
+Ad O
+thấy O
+cánh_tay O
+của O
+các O
+bạn O
+đi O
+nào O
+500 O
+anh_em O
+hội O
+ghiền O
+bánh B-san_pham
+Dorayaki I-san_pham
+ơi O
+! O
+
+-DOCSTART- -X- -X- O
+
+Thông_báo O
+một O
+tin_vui O
+cho O
+các O
+bạn O
+đây O
+: O
+ngoài O
+hương_vị O
+custard O
+quen_thuộc O
+, O
+hôm_nay O
+một O
+lính O
+mới O
+tò_te O
+của O
+gia_đình O
+Dorayaki B-san_pham
+sẽ O
+chào O
+sân O
+FamilyMart O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Bạn O
+í O
+chính O
+là O
+bánh O
+Dorayaki B-san_pham
+nhân I-san_pham
+chocolate I-san_pham
+ngọt_ngào O
+mê_hoặc O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hãy O
+yên_tâm O
+, O
+chỉ O
+cần O
+một O
+thanh B-san_pham
+ngũ_cốc I-san_pham
+Fitness I-san_pham
+với O
+2 O
+vị O
+dâu O
+và O
+chocolate O
+ngon O
+tuyệt O
+cũng O
+đủ O
+giúp O
+bạn O
+tràn_đầy O
+năng_lượng O
+cho O
+ngày O
+dài O
+rồi O
+đó O
+nha O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đặc_biệt O
+hơn O
+, O
+khi O
+mua O
+10 O
+thanh B-san_pham
+Fitness I-san_pham
+dâu I-san_pham
+hoặc O
+chocolate O
+bất_kì O
+, O
+bạn O
+sẽ O
+được O
+nhận O
+liền_tay O
+01 O
+BÌNH B-san_pham
+MINIONS I-san_pham
+2 I-san_pham
+NGĂN I-san_pham
+siêu O
+dễ_thương O
+hoặc O
+01 O
+LY B-san_pham
+ĐÔI I-san_pham
+cực O
+chất O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+14.000 B-gia_san_pham
+đ I-gia_san_pham
+/ O
+thanh O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hãy O
+tới O
+FamilyMart O
+và O
+chọn O
+ngay O
+cho O
+mình O
+“ O
+nước B-san_pham
+tăng I-san_pham
+lực I-san_pham
+Monster I-san_pham
+” O
+và O
+“ O
+Coca-Cola B-san_pham
+vị I-san_pham
+cà_phê I-san_pham
+” O
+để O
+bổ_sung O
+năng_lượng O
+cho O
+ngày O
+dài O
+tươi_tỉnh O
+, O
+hoàn_thành O
+các O
+mục_tiêu O
+một_cách O
+nhanh_chóng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Tại O
+“ O
+đảo O
+vàng O
+FamilyMart O
+” O
+đang O
+“ O
+chứa O
+” O
+những O
+“ O
+kho-báu-có O
+-1-0-2 O
+” O
+được O
+bước O
+ra O
+từ O
+bộ O
+phim O
+" O
+Doraemon O
+: O
+Nobita O
+và O
+Đảo O
+Giấu_Vàng O
+” O
+sắp O
+khởi O
+chiếu O
+vào O
+ngày O
+25/05/2018 B-date
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Balo B-san_pham
+túi I-san_pham
+rút I-san_pham
+: O
+85,000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Sổ B-san_pham
+ghi_chú I-san_pham
+: O
+18,000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Móc B-san_pham
+khoá I-san_pham
+: O
+15,000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Ngày O
+dài O
+năng_động O
+với O
+sữa B-san_pham
+trái_cây I-san_pham
+– O
+bạn O
+đã O
+thử O
+chưa O
+? O
+
+-DOCSTART- -X- -X- O
+
+Với O
+mùi_vị O
+vô_cùng O
+thơm O
+ngon O
+, O
+những O
+chai O
+sữa B-san_pham
+trái_cây I-san_pham
+và O
+trà B-san_pham
+hạt I-san_pham
+chia I-san_pham
+đến O
+từ O
+Coca-Cola O
+không_những O
+giúp O
+bổ_sung O
+vitamin O
+và O
+những O
+khoáng_chất O
+cần_thiết O
+mà_còn O
+“ O
+đập_tan O
+” O
+cơn O
+khát O
+, O
+“ O
+xua_tan O
+” O
+cảm_giác O
+mệt_mỏi O
+, O
+đem O
+lại_sức O
+sống O
+tràn_đầy O
+cho O
+ngày O
+dài O
+năng_động O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nhờ O
+vào O
+kỹ_thuật O
+áp_chảo O
+mới O
+không_những O
+làm O
+dậy_mùi O
+thơm O
+mà_còn O
+đảm_bảo O
+được O
+vị O
+mặn O
+ban_đầu O
+của O
+miếng O
+thịt B-san_pham
+xông I-san_pham
+khói I-san_pham
+cao_cấp O
+cùng O
+với O
+sự O
+kết_hợp O
+giữa O
+các O
+loại O
+rau O
+xanh_tươi O
+được O
+thu_hoạch O
+trực_tiếp O
+từ O
+Đà_Lạt B-ten_tinh_thanh_pho
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+35.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Gunkan B-san_pham
+còi I-san_pham
+sò I-san_pham
+điệp I-san_pham
+với I-san_pham
+sốt I-san_pham
+cay I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Hosomaki B-san_pham
+cá_hồi I-san_pham
+nướng I-san_pham
+trộn I-san_pham
+với I-san_pham
+sốt I-san_pham
+konbu I-san_pham
+daisi I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+32.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Trong O
+thời_gian O
+từ O
+14/05 B-date
+– O
+20/05/2018 B-date
+, O
+hãy O
+ghé O
+FamilyMart O
+để O
+được O
+liền_tay O
+cho O
+bữa O
+trưa O
+dinh_dưỡng O
+của O
+mình O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+Chả B-san_pham
+cá I-san_pham
+bọc I-san_pham
+trứng I-san_pham
+cút I-san_pham
+– O
+tưởng O
+lạ O
+mà O
+hoá_ra O
+quen O
+! O
+
+-DOCSTART- -X- -X- O
+
+Chưa O
+kể O
+, O
+ăn O
+với O
+Ngon_Ngon_Lẩu B-san_pham
+chua_chua O
+ngọt O
+ngọt O
+có O
+thêm O
+xíu O
+cay O
+thì O
+số O
+dzách O
+luôn O
+à O
+nha O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+6.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+220.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Bằng O
+công_thức O
+đặc_biệt O
+tạo O
+nên O
+những O
+chiếc O
+bánh O
+sandwich B-san_pham
+mềm O
+mịn O
+vừa O
+thơm O
+ngon O
+lại O
+còn O
+bổ_dưỡng O
+khi O
+kết_hợp O
+với O
+những O
+miếng O
+nho O
+khô O
+càng O
+làm O
+tăng O
+thêm O
+sự O
+tươi O
+ngon O
+của O
+chiếc O
+bánh O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+13.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+25.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Các O
+“ O
+tín_đồ O
+Omusubi B-san_pham
+” O
+đâu O
+rồi O
+! O
+
+-DOCSTART- -X- -X- O
+
+Với O
+vị O
+ngọt O
+và O
+mềm O
+từ O
+cơm O
+và O
+cá_basa O
+tẩm O
+bột O
+chiên O
+giòn_rụm O
+, O
+đi O
+kèm O
+với O
+xốt B-san_pham
+Teriyaki I-san_pham
+ngon O
+khó O
+cưỡng O
+sẽ O
+làm O
+dậy O
+hương_vị O
+đậm_đà O
+cho O
+cả O
+phần O
+nhân O
+và O
+lớp O
+cơm O
+bọc O
+ở O
+ngoài O
+đấy O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+16.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Túi B-san_pham
+điện_thoại I-san_pham
+chống I-san_pham
+nước I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Túi B-san_pham
+vải I-san_pham
+dễ_thương O
+không_tưởng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Sổ_tay B-san_pham
+xinh_xắn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hộp B-san_pham
+khăn I-san_pham
+giấy I-san_pham
+siêu O
+tiện_lợi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Cơm_chiên B-san_pham
+hải_sản I-san_pham
+& O
+amp O
+; O
+Gà B-san_pham
+Karaage I-san_pham
+đầy O
+dinh_dưỡng O
+tiếp O
+năng_lượng O
+cho O
+bữa O
+trưa O
+của O
+bạn O
+đây O
+! O
+
+-DOCSTART- -X- -X- O
+
+Được O
+chế_biến O
+từ O
+những O
+hải_sản O
+tươi O
+ngon O
+hấp_dẫn O
+, O
+cơm_chiên B-san_pham
+hải_sản I-san_pham
+không_những O
+khiến O
+bạn O
+phải O
+ngất_ngây O
+với O
+hương_vị O
+thơm O
+ngon O
+mà_còn O
+khiến O
+bạn O
+mãn O
+nhãn O
+với O
+những O
+sắc_màu O
+bắt_mắt O
+nữa O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+️ O
+Đặc_biệt O
+, O
+vào O
+ngày O
+này O
+, O
+người_dân O
+Nhật_Bản O
+thường O
+làm O
+bánh B-san_pham
+Kashiwa I-san_pham
+mochi I-san_pham
+- O
+một O
+loại O
+bánh O
+gạo O
+ngọt O
+mịn O
+, O
+được O
+bọc O
+trong O
+một O
+lá O
+sồi O
+cùng O
+nhân O
+đậu_đỏ O
+thơm O
+ngon O
+, O
+dẻo O
+mềm O
+lại O
+rất O
+hấp_dẫn O
+dễ O
+ăn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bánh_bao B-san_pham
+Doraemon I-san_pham
+phiên_bản I-san_pham
+Thuyền_Trưởng I-san_pham
+- O
+một O
+" O
+phi_vụ O
+" O
+kết_hợp O
+vô_cùng O
+độc_đáo O
+giữa O
+sự O
+đáng O
+yêu O
+và O
+ngộ_nghĩnh O
+của O
+Doraemon O
+cùng O
+với O
+chiếc O
+mũ O
+thuyền_trưởng O
+cực_kỳ O
+" O
+fancy O
+" O
+, O
+ắt_hẳn O
+sẽ O
+làm_bạn O
+phải O
+“ O
+đổ O
+gục O
+” O
+trong O
+vòng O
+1 O
+. O
+miếng O
+cắn O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+13.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Kiềm O
+sao O
+nổi O
+với O
+món O
+hủ_tiếu B-san_pham
+trộn I-san_pham
+bò I-san_pham
+viên I-san_pham
+đây O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+25.000 B-gia_san_pham
+đ I-gia_san_pham
+
+-DOCSTART- -X- -X- O
+
+Chyu_Maki B-san_pham
+chính O
+là O
+cuộn O
+sushi O
+được O
+cuộn O
+tròn O
+trong O
+rong O
+biển O
+kết_hợp O
+với O
+nhân O
+thịt O
+bò O
+Úc O
+được O
+chế_biến O
+theo O
+phong_cách O
+Nhật O
+hoàn_hảo O
+, O
+không_những O
+làm O
+cho O
+miếng O
+bò O
+mềm O
+hơn O
+mà_còn O
+dậy_mùi O
+thơm_phức O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+18.000 B-gia_san_pham
+đ I-gia_san_pham
+
+-DOCSTART- -X- -X- O
+
+Địa_điểm O
+cụ_thể O
+286A B-so_nha
+An_Dương_Vương B-ten_duong
+, O
+Phường O
+4 O
+, O
+Quận O
+5 O
+, O
+Tp. O
+HCM O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thời_gian O
+chi_tiết O
+ngày O
+03.05.2018 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+1000 O
+SNACK B-san_pham
+BẮP I-san_pham
+KARAMUCHO I-san_pham
+VỊ I-san_pham
+TÔM I-san_pham
+CAY I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Một O
+màu O
+xanh_tươi O
+của O
+rau_sạch B-san_pham
+Đà_Lạt I-san_pham
+được O
+sắp_xếp O
+khéo_léo O
+với O
+những O
+miếng O
+thịt O
+đầy O
+mê_hoặc O
+, O
+cùng O
+nước O
+sốt O
+chất_lượng O
+Nhật_Bản O
+. O
+
+-DOCSTART- -X- -X- O
+
+Phải O
+nói O
+là O
+Salad_Thịt_Xá_Xíu B-san_pham
+Xốt_Chua_Ngọt I-san_pham
+khiến O
+hội O
+" O
+sống O
+xanh O
+" O
+- O
+yêu O
+giảm O
+cân O
+không O
+khỏi O
+chao_đảo O
+bởi O
+vị O
+ngon O
+từ O
+thịt O
+, O
+giòn O
+từ O
+rau O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+21.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Hoà_quyện O
+cùng O
+gà B-san_pham
+nướng I-san_pham
+mật_ong I-san_pham
+được O
+tẩm O
+ướp O
+với O
+xốt O
+BBQ O
+đậm O
+vị O
+châu_Âu O
+. O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+34.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Đặc_biệt O
+, O
+trong O
+ngay O
+tuần O
+đầu_tiên O
+khi O
+mua O
+sản_phẩm O
+, O
+bạn O
+sẽ O
+được O
+GIẢM O
+LIỀN O
+2,000 B-muc_giam_gia
+đ I-muc_giam_gia
+nữa O
+nha O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+14.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+. O
+05 O
+bạn O
+có O
+câu O
+trả_lời O
+đúng O
+được O
+lựa_chọn O
+ngẫu_nhiên O
+từ O
+sẽ O
+nhận O
+ngay O
+30,000 B-muc_giam_gia
+vào O
+thẻ O
+thành_viên O
+điểm O
+tương_đương O
+30,000 B-muc_giam_gia
+đ I-muc_giam_gia
+mua_sắm O
+tại O
+FamilyMart O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Đó O
+là O
+lúc O
+bánh B-san_pham
+kếp I-san_pham
+kem I-san_pham
+dừa I-san_pham
+lên_ngôi O
+! O
+
+-DOCSTART- -X- -X- O
+
+Vậy_thì O
+chắc_chắn O
+là O
+Bánh_Kếp_Kem_Dừa B-san_pham
+ngon O
+vô O
+đối O
+tại O
+FamilyMart O
+rồi O
+! O
+
+-DOCSTART- -X- -X- O
+
+Giá O
+: O
+16.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Vừa O
+ngon O
+vừa O
+tiện_lợi O
+khỏi O
+đợi O
+xếp_hàng O
+chỉ O
+với O
+15 B-gia_san_pham
+ngàn I-gia_san_pham
+! O
+
+-DOCSTART- -X- -X- O
+
+Ý O
+mà O
+khoan O
+, O
+vào O
+ngày O
+26/04 B-date
+trong O
+khung O
+giờ O
+vàng O
+từ O
+11:00 O
+– O
+12:00 O
+bạn O
+sẽ O
+được O
+mua O
+ngay O
+ly O
+trà B-san_pham
+sữa I-san_pham
+siêu O
+ngon O
+với O
+giá O
+cực O
+hạt_dẻ O
+chỉ O
+còn O
+5.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+20 B-so_nha
+Lê_Thánh_Tôn B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+Bến_Nghé I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Đây O
+cũng O
+là O
+đầu O
+mùa O
+nắng O
+ở O
+TP. B-ten_tinh_thanh_pho
+HCM I-ten_tinh_thanh_pho
+nên O
+rất O
+nhiều O
+trẻ_em O
+cũng O
+như O
+người_lớn O
+đổ_bệnh O
+trong O
+3 O
+tuần O
+vừa_qua O
+. O
+
+-DOCSTART- -X- -X- O
+
+9h O
+sáng O
+ngày_mai O
+( O
+2/4 B-date
+) O
+, O
+FamilyMart O
+tiếp_tục O
+đưa O
+cửa_hàng O
+mới O
+vào O
+hoạt_động O
+tại O
+Tầng O
+trệt O
+cao_ốc B-vi_tri
+căn_hộ I-vi_tri
+thương_mại I-vi_tri
+Tản_Đà I-vi_tri
+, O
+86 B-so_nha
+Tản_Đà B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+5 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Đây O
+là O
+cửa_hàng O
+thứ O
+2 O
+tại O
+quận B-ten_quan_huyen_thanhpho
+5 I-ten_quan_huyen_thanhpho
+: O
+) O
+Các O
+bạn O
+ghé O
+đến O
+cửa_hàng O
+vào O
+những O
+ngày O
+đầu O
+khai_trương O
+không_chỉ O
+được O
+nhận O
+quà O
+tặng O
+mà_còn O
+được O
+tham_gia O
+rút O
+thăm O
+trúng O
+thưởng O
+và O
+mua_sắm O
+với O
+giá O
+ưu_đãi O
+nữa O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Mưa O
+se_se O
+lạnh O
+, O
+mà O
+được O
+thưởng_thức O
+hương_vị O
+thịt O
+gà O
+nướng O
+và O
+xốt O
+BBQ O
+cay O
+nhè_nhẹ O
+trong O
+omusubi B-san_pham
+được O
+hâm_nóng O
+thì O
+tuyệt_vời O
+nhỉ O
+? O
+
+-DOCSTART- -X- -X- O
+
+* O
+Cà_phê B-san_pham
+đá I-san_pham
+nào O
+! O
+
+-DOCSTART- -X- -X- O
+
+Cappuccino B-san_pham
+, O
+American B-san_pham
+coffee I-san_pham
+, O
+Latte B-san_pham
+và O
+Mocha B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+242 B-so_nha
+G-244 I-so_nha
+Nguyễn_Đình_Chiểu B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Sản_phẩm O
+được O
+pha_chế O
+theo O
+công_nghệ O
+đặc_biệt O
+giúp O
+nước O
+nóng O
+được O
+nén O
+dưới O
+áp_suất O
+cao O
+, O
+chảy O
+qua O
+bột O
+cà_phê O
+được O
+xay O
+nhuyễn O
+khiến O
+cà_phê B-san_pham
+trở_nên O
+thật O
+đậm_đà O
+và O
+đều O
+vị O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hãy O
+cùng O
+thưởng_thức O
+café B-san_pham
+hiện_đại O
+cho O
+nhịp O
+sống O
+năng_động O
+theo O
+cách O
+riêng O
+của O
+bạn O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+- O
+PetroLand_Tower B-vi_tri
+, O
+12 B-so_nha
+Tân_Trào B-ten_duong
+, O
+P.Tân B-ten_phuong_xa_thitran
+Phú I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+242 B-so_nha
+G-244 I-so_nha
+Nguyễn_Đình_Chiểu B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Phòng O
+1 O
+, O
+Toà B-vi_tri
+nhà_văn I-vi_tri
+phòng I-vi_tri
+Centre_Point I-vi_tri
+, O
+106 B-so_nha
+Nguyễn_Văn_Trỗi B-ten_duong
+P. B-ten_phuong_xa_thitran
+8 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+PN I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+66C B-so_nha
+Phó B-ten_duong
+Đức_Chính I-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+Nguyễn_Thái_Bình I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+598 B-so_nha
+- I-so_nha
+600 I-so_nha
+CMT8 B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+234 B-so_nha
+Đề_Thám B-ten_duong
+P. B-ten_phuong_xa_thitran
+Phạm_Ngũ_Lão I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+49 B-so_nha
+Bùi_Thị_Xuân B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+Bến_Thành I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Tầng O
+trệt O
+, O
+cao_ốc B-vi_tri
+căn_hộ I-vi_tri
+thương_mại I-vi_tri
+Tản_Đà I-vi_tri
+, O
+86 B-so_nha
+Tản_Đà B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+5 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Ngày O
+hôm_qua O
+có O
+ghé O
+xuống O
+một_số O
+cửa_hàng O
+thấy O
+nhiều O
+bạn O
+khen O
+lẩu B-san_pham
+ngon O
+. O
+
+-DOCSTART- -X- -X- O
+
+Thix O
+wá O
+thix O
+wá O
+( O
+✿ฺ´∀`✿ฺ O
+) O
+ﾉ_Có O
+một_số O
+bạn O
+hỏi O
+Ad O
+về O
+các O
+thành_phần O
+chính O
+trong O
+Ngon_Ngon_Lẩu B-san_pham
+, O
+nên O
+Ad O
+post O
+1 O
+bài O
+giới_thiệu O
+cho O
+các O
+bạn O
+chi_tiết O
+hơn O
+về O
+các O
+thành_phần O
+trong O
+Ngon_Ngon_Lẩu B-san_pham
+luôn O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bên O
+cạnh O
+phần O
+bún O
+vừa O
+ăn O
+cho O
+một O
+người O
+dùng O
+( O
+có O
+phục_vụ O
+tại O
+cửa_hàng O
+) O
+, O
+Ngon_Ngon_Lẩu B-san_pham
+đem O
+đến O
+cho O
+bạn O
+14 O
+lựa_chọn O
+khác O
+nhau O
+bao_gồm O
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Tôm B-san_pham
+định_hình I-san_pham
+Surimi I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Cá B-san_pham
+viên I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Xúc_xích B-san_pham
+Cocktail I-san_pham
+xông I-san_pham
+khói I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Sò B-san_pham
+điệp I-san_pham
+Surimi I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Bắp B-san_pham
+cắt I-san_pham
+khúc I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Bắp_cải B-san_pham
+cuộn I-san_pham
+tôm I-san_pham
+. I-san_pham
+
+-DOCSTART- -X- -X- O
+
+- O
+Thịt B-san_pham
+ba_rọi I-san_pham
+xông I-san_pham
+khói I-san_pham
+xiên I-san_pham
+que I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Thanh B-san_pham
+chả I-san_pham
+cua I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Đậu_hũ B-san_pham
+cá I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Trứng B-san_pham
+gà I-san_pham
+ngâm I-san_pham
+gia_vị I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Đặc_biệt O
+, O
+trong O
+danh_sách O
+này O
+Ad O
+thích O
+nhất O
+là O
+thịt B-san_pham
+ba_rọi I-san_pham
+xông I-san_pham
+khói I-san_pham
+xiên I-san_pham
+que I-san_pham
+, O
+chả B-san_pham
+cá I-san_pham
+ốc I-san_pham
+và O
+sò B-san_pham
+điệp I-san_pham
+surimi I-san_pham
+^ O
+O O
+^ O
+Thịt B-san_pham
+ba_rọi I-san_pham
+xông I-san_pham
+khói I-san_pham
+xiên I-san_pham
+que I-san_pham
+được O
+chế_biến O
+theo O
+công_nghệ O
+xông O
+khói O
+đặc_biệt O
+của O
+Nhật O
+đem O
+lại O
+cảm_giác O
+thật O
+mềm O
+, O
+thật O
+thơm O
+cho O
+người O
+dùng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Còn O
+chả B-san_pham
+cá I-san_pham
+ốc I-san_pham
+lại O
+là O
+một O
+món O
+ăn O
+mới_lạ O
+, O
+được O
+kết_hợp O
+từ O
+thịt O
+cá_basa O
+và O
+ốc_bươu O
+, O
+nấm_mèo O
+cùng O
+vị O
+cay O
+nhẹ O
+nên O
+ăn O
+thấy O
+lạ O
+và O
+thích O
+lắm O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+598-600 B-so_nha
+Cách_Mạng B-ten_duong
+Tháng I-ten_duong
+8 I-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Bạn O
+có_thể O
+dùng O
+Ngon_Ngon_Lẩu B-san_pham
+chung O
+với O
+bún B-san_pham
+tươi I-san_pham
+, O
+mì B-san_pham
+ly I-san_pham
+hoặc O
+đặc_biệt O
+hơn O
+là O
+dùng O
+chung O
+với O
+Omusubi B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Tụ_họp O
+bạn_bè O
+, O
+chiến_hữu O
+lại O
+thôi O
+, O
+mua O
+bia B-san_pham
+ngon O
+, O
+đồ O
+nhắm O
+giá O
+rẻ O
+, O
+vui_vẻ O
+hò_reo O
+. O
+
+-DOCSTART- -X- -X- O
+
+Trong O
+tháng O
+4 O
+này O
+, O
+đến O
+với O
+FamilyMart O
+, O
+các O
+bạn O
+sẽ O
+được O
+giảm_giá O
+1.500 B-muc_giam_gia
+đồng I-muc_giam_gia
+khi O
+mua O
+combo O
+một O
+sandwich B-san_pham
+( O
+hoặc O
+Burger B-san_pham
+/ O
+Goo-danish B-san_pham
+) O
+bất_kỳ O
+và O
+một O
+chai B-san_pham
+Pepsi I-san_pham
+400ml I-san_pham
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Hãy O
+chờ O
+đón O
+điều O
+bất_ngờ O
+vào O
+ngày O
+13/3 B-date
+các O
+bạn O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+Khác O
+với O
+những O
+gói O
+quà O
+trông O
+gọn_gàng O
+và O
+màu_sắc O
+khác O
+, O
+bạn O
+ấy O
+đã O
+tự O
+gói O
+quà O
+cho O
+Ad O
+bằng O
+những O
+tờ O
+giấy_báo B-san_pham
+, O
+được O
+cột O
+lại O
+bằng O
+một O
+sợi B-san_pham
+đăng_ten I-san_pham
+cũ O
+( O
+mà O
+có_lẽ O
+nếu O
+theo O
+style O
+của O
+thời O
+nay O
+thì O
+trông O
+nó O
+rất O
+vintage O
+: O
+p O
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+Trên O
+gói O
+quà O
+được O
+dán O
+dòng O
+chữ O
+“ O
+Chúc_mừng O
+8/3 B-date
+” O
+được O
+cắt O
+ghép O
+từ O
+các O
+ký_tự O
+trên O
+tạp_chí O
+trông O
+có_vẻ O
+lộn_xộn O
+nhưng O
+khi O
+kết_hợp O
+với O
+nhau O
+thì O
+cực_kỳ O
+chất O
+. O
+
+-DOCSTART- -X- -X- O
+
+Vậy O
+nên O
+hãy O
+dành O
+một_ít O
+thời_gian O
+để O
+tự O
+tay O
+gói O
+món O
+quà O
+8/3 B-date
+thật O
+đẹp O
+mà O
+đơn_giản O
+nhé O
+các O
+bạn O
+nam O
+! O
+
+-DOCSTART- -X- -X- O
+
+Kàkà O
+( O
+ﾉ◕ヮ◕ O
+) O
+ﾉ O
+* O
+: O
+・ﾟ✧ B-san_pham
+Ngon_Ngon_Lẩu I-san_pham
+của O
+Ad O
+này O
+: O
+3 O
+Thix O
+toá O
+! O
+
+-DOCSTART- -X- -X- O
+
+Có O
+bạn O
+nào O
+dùng O
+Ngon_Ngon_Lẩu B-san_pham
+rồi O
+thì O
+share O
+cho O
+Ad O
+bik O
+với O
+nào O
+^ O
+O O
+^ O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+242 B-so_nha
+G-244 I-so_nha
+Nguyễn_Đình_Chiểu B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+137-139 B-so_nha
+Cô B-ten_duong
+Bắc I-ten_duong
+, O
+P.Cô B-ten_phuong_xa_thitran
+Giang I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+598-600 B-so_nha
+Cách_Mạng B-ten_duong
+Tháng I-ten_duong
+8 I-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Thực_đơn O
+bánh_bao B-san_pham
+của O
+FamilyMart O
+ngày_càng O
+đa_dạng O
+và O
+phong_phú O
+. O
+
+-DOCSTART- -X- -X- O
+
+Có O
+nhiều O
+gian_hàng O
+như O
+quần_áo B-san_pham
+, O
+mỹ_phẩm B-san_pham
+, O
+đất_sét B-san_pham
+Nhật I-san_pham
+, O
+khắc B-san_pham
+bút_chì I-san_pham
+, O
+vẽ O
+chân_dung O
+và O
+đặc_biệt O
+là O
+thưởng_thức O
+âm O
+thực O
+như O
+lẩu B-san_pham
+chua_cay I-san_pham
+, O
+xúc_xích B-san_pham
+xông I-san_pham
+khói I-san_pham
+, O
+bánh_rán_viên B-san_pham
+, O
+bắp B-san_pham
+rang I-san_pham
+bơ I-san_pham
+, O
+Omusubi B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+( O
+๑ O
+& O
+gt O
+; O
+◡ O
+& O
+lt O
+; O
+๑ O
+) O
+Bánh_Macaron B-san_pham
+nay O
+đã O
+có_mặt O
+tại O
+FamilyMart O
+rồi O
+! O
+
+-DOCSTART- -X- -X- O
+
+Bánh_Macaron B-san_pham
+sẽ O
+có_mặt O
+tại O
+FamilyMart O
+từ O
+ngày O
+24.2 B-date
+ở O
+4 O
+cửa_hàng O
+sau O
+nhé O
+các O
+bạn O
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Sky_Garden B-vi_tri
+, O
+số O
+20 B-so_nha
+Lê_Thánh_Tôn B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+Bến_Nghé I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Block_E O
+, O
+khu_phố O
+Riverside_Residence B-vi_tri
+, O
+180 B-so_nha
+Nguyễn_Lương_Bằng B-ten_duong
+, O
+P.Tân B-ten_phuong_xa_thitran
+Phú I-ten_phuong_xa_thitran
+, I-ten_phuong_xa_thitran
+Phú_Mỹ_Hưng I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Khu B-vi_tri
+căn_hộ I-vi_tri
+Mỹ_Phát I-vi_tri
+, O
+137 B-so_nha
+Nguyễn_Đức_Cảnh B-ten_duong
+, O
+P.Tân B-ten_phuong_xa_thitran
+Phong I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+598-600 B-so_nha
+Cách_Mạng B-ten_duong
+Tháng I-ten_duong
+8 I-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. I-ten_quan_huyen_thanhpho
+
+-DOCSTART- -X- -X- O
+
+Đây O
+là O
+clip O
+đã O
+từng O
+làm O
+rơi O
+nước_mắt O
+của O
+nhiều O
+bạn O
+trẻ O
+của O
+một O
+du_học O
+sinh_nhật O
+làm O
+để O
+tặng O
+mẹ O
+vào O
+mùa O
+8/3 B-date
+năm_ngoái O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chúc O
+cho O
+tất_cả O
+những O
+người O
+mẹ O
+một O
+ngày O
+8/3 B-date
+tràn_đầy O
+yêu_thương O
+! O
+
+-DOCSTART- -X- -X- O
+
+Gà B-san_pham
+viên I-san_pham
+tẩm I-san_pham
+bột I-san_pham
+( O
+chicken B-san_pham
+nuggets I-san_pham
+) O
+không_chỉ O
+cuốn_hút O
+người O
+dùng O
+bởi O
+sự O
+thơm O
+ngon O
+của O
+nó O
+mà O
+kích_thước O
+nhỏ O
+vừa_miệng O
+cũng O
+là O
+lý_do O
+lựa_chọn O
+của O
+những O
+bạn O
+thích O
+sự O
+tiện_lợi O
+và O
+nhanh_chóng O
+. O
+
+-DOCSTART- -X- -X- O
+
+Món O
+ăn O
+có_thể O
+được O
+dùng O
+chung O
+với O
+tương B-san_pham
+cà I-san_pham
+, O
+tương_ớt B-san_pham
+hoặc O
+sốt B-san_pham
+Mayonnaise I-san_pham
+để O
+thêm O
+phần O
+đậm_đà O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đặc_biệt O
+, O
+set B-san_pham
+gà I-san_pham
+4 I-san_pham
+viên I-san_pham
+chỉ O
+có_giá O
+20.000 B-gia_san_pham
+đồng I-gia_san_pham
+thôi O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+Hãy O
+đến O
+FamilyMart O
+thưởng_thức O
+Chicken B-san_pham
+nugget I-san_pham
+và O
+chia_sẻ O
+cảm_nhận O
+của O
+bạn O
+nào O
+! O
+
+-DOCSTART- -X- -X- O
+
+Các O
+bạn O
+đừng O
+quên O
+chuẩn_bị O
+một O
+món O
+quà O
+thật O
+ý_nghĩa O
+cho O
+ngày O
+8/3 B-date
+này O
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+Bánh B-san_pham
+kem I-san_pham
+và O
+hoa B-san_pham
+sẽ O
+được O
+bán O
+ở O
+tất_cả O
+các O
+hệ_thống O
+của O
+FamilyMart O
+để O
+phục_vụ O
+cho O
+nhu_cầu O
+của O
+bạn O
+bất_cứ O
+khi O
+nào O
+và O
+bất_cứ O
+nơi O
+đâu O
+. O
+
+-DOCSTART- -X- -X- O
+
+Vào O
+sáng O
+ngày_mai O
+( O
+thứ O
+6 O
+, O
+21/2 B-date
+) O
+, O
+FamilyMart O
+tiếp_tục O
+đưa O
+cửa_hàng O
+thứ O
+26 O
+vào O
+hoạt_động O
+tại O
+531E B-so_nha
+CMT8 B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+13 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+10 I-ten_quan_huyen_thanhpho
+( O
+gần O
+chợ B-vi_tri
+Hoà_Hưng I-vi_tri
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+Vậy O
+là O
+hiện_tại O
+chỉ O
+riêng O
+trên O
+đường O
+CMT8 B-ten_duong
+thôi O
+là O
+đã O
+có O
+4 O
+cửa_hàng O
+của O
+FamilyMart O
+rồi O
+đấy O
+. O
+
+-DOCSTART- -X- -X- O
+
+Hệ_thống O
+cửa_hàng O
+tiện_lợi O
+FamilyMart O
+tiếp_tục O
+đưa O
+cửa_hàng O
+số O
+24 O
+vào O
+hoạt_động O
+tại O
+địa_chỉ O
+297D B-so_nha
+Bùi_Hữu_Nghĩa B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+1 I-ten_phuong_xa_thitran
+, O
+Q.Bình B-ten_quan_huyen_thanhpho
+Thạnh I-ten_quan_huyen_thanhpho
+vào O
+9h O
+sáng_mai O
+( O
+16/1 B-date
+) O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Ngoài_ra O
+, O
+dân_cư O
+, O
+học O
+sinh-sinh O
+viên O
+sinh_sống O
+, O
+học_tập O
+, O
+làm_việc O
+gần O
+cửa_hàng O
+sẽ O
+nhận O
+được O
+tờ_rơi O
+khai_trương O
+có O
+đính O
+kèm O
+phiếu O
+giảm_giá O
+10.000 B-muc_giam_gia
+VNĐ I-muc_giam_gia
+trong O
+tuần O
+khai_trương O
+. O
+
+-DOCSTART- -X- -X- O
+
+Chocolate B-san_pham
+này O
+hiện O
+đang O
+có O
+bán O
+tại O
+các O
+hệ_thống O
+FamilyMart O
+đấy O
+! O
+
+-DOCSTART- -X- -X- O
+
+Trên O
+bàn O
+ăn_ở O
+các O
+gia_đình O
+Nhật_Bản O
+vào O
+thời_khắc O
+này O
+không_thể O
+thiếu O
+các O
+loại O
+mỳ B-san_pham
+Nhật I-san_pham
+làm O
+từ_kiều O
+mạch O
+có_thể O
+kể O
+đến O
+là O
+mì B-san_pham
+Udon I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+Hãy O
+thưởng_thức O
+hương_vị O
+các O
+món O
+ăn O
+truyền_thống O
+Nhật_Omusubi B-san_pham
+và O
+mì_ăn_liền B-san_pham
+Udon I-san_pham
+được O
+bán O
+tại O
+FamilyMart O
+để O
+chào_đón O
+một O
+năm O
+mới O
+rất O
+riêng O
+theo O
+phong_cách O
+Nhật_Bản O
+nhé O
+các O
+bạn O
+! O
+
+-DOCSTART- -X- -X- O
+
+Cùng O
+chào_đón O
+1 O
+thành_viên O
+đặc_biệt O
+trong O
+đại_gia_đình O
+FamilyMart O
+- O
+Cửa_hàng O
+đầu_tiên O
+của O
+FamilyMart O
+tại O
+Bình_Dương B-ten_tinh_thanh_pho
+, O
+được O
+toạ_lạc O
+tại O
+khu B-vi_tri
+Trung_Tâm I-vi_tri
+Hành_Chính I-vi_tri
+Thành_Phố I-vi_tri
+Mới_Bình_Dương I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+Các O
+bạn O
+đã O
+lựa O
+được O
+chiếc O
+bánh B-san_pham
+kem I-san_pham
+ưng_ý O
+nào O
+cho O
+gia_đình O
+hay O
+“ O
+người O
+ấy O
+” O
+chưa O
+? O
+
+-DOCSTART- -X- -X- O
+
+Từ O
+ngày O
+, O
+1/12 B-date
+, O
+sản_phẩm O
+sẽ O
+được O
+bán O
+ở O
+các O
+cửa_hàng O
+của O
+FamilyMart O
+. O
+
+-DOCSTART- -X- -X- O
+
+Với O
+mỗi O
+chiếc O
+bánh B-san_pham
+kem I-san_pham
+mua O
+tại O
+cửa_hàng O
+FamilyMart O
+, O
+bạn O
+sẽ O
+được O
+tặng O
+kèm O
+một O
+tấm O
+thiệp B-san_pham
+Giáng_Sinh I-san_pham
+thật O
+xinh_xắn O
+, O
+cùng O
+bộ O
+đĩa B-san_pham
+, O
+nĩa B-san_pham
+, O
+dao B-san_pham
+, O
+muỗng B-san_pham
+cho O
+bạn O
+thoả_thích O
+tổ_chức O
+những O
+bữa O
+tiệc O
+thật O
+vui O
+và O
+đầm_ấm O
+bên O
+cạnh O
+những O
+người O
+yêu_thương O
+của O
+mình O
+. O
+
+-DOCSTART- -X- -X- O
+
+FamilyMart O
+chào_mừng O
+cửa_hàng O
+mới O
+khai_trương O
+tại O
+129 B-so_nha
+Huỳnh_Văn_Bánh B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+12 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+PN I-ten_quan_huyen_thanhpho
+vào O
+9h O
+ngày_mai O
+( O
+17/4 B-date
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+Đặt O
+1 O
+bánh B-san_pham
+kem I-san_pham
+được O
+tặng O
+1 O
+lốc B-san_pham
+CALPIS I-san_pham
+mini I-san_pham
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+HAPPY O
+BOY O
+' O
+S O
+DAY O
+( O
+Koinobori O
+) O
+( O
+05/05 B-date
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+FamilyMart O
+tiếp_tục O
+chào_mừng O
+cửa_hàng O
+thứ O
+22 O
+khai_trương O
+tại O
+quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Cửa_hàng O
+22 O
+của O
+FamilyMart O
+sẽ O
+khai_trương O
+vào O
+9h O
+sáng O
+ngày_mai O
+( O
+9/1 B-date
+) O
+tại O
+162 B-so_nha
+D2 B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+25 I-ten_phuong_xa_thitran
+, O
+Q.Bình B-ten_quan_huyen_thanhpho
+Thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+Những O
+dân_cư O
+, O
+học O
+sinh_sống O
+, O
+học_tập O
+và O
+làm_việc O
+gần O
+khu_vực O
+này O
+sẽ O
+được O
+nhận O
+tờ_rơi O
+kèm O
+với O
+phiếu O
+giảm_giá O
+10.000 B-muc_giam_gia
+VNĐ I-muc_giam_gia
+trong O
+tuần O
+khai_trương O
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+189 B-so_nha
+Lê_Thánh_Tôn B-ten_duong
+, O
+P.Bến B-ten_phuong_xa_thitran
+Thành I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Hầm O
+B1 O
+, O
+ZENPLAZA B-vi_tri
+, O
+54-56 B-so_nha
+Nguyễn_Trãi B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+Bến_Thành I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+137-139 B-so_nha
+Cô B-ten_duong
+Bắc I-ten_duong
+, O
+P.Cô B-ten_phuong_xa_thitran
+Giang I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+210 B-so_nha
+B I-so_nha
+/ I-so_nha
+1 I-so_nha
+Cô B-ten_duong
+Bắc I-ten_duong
+, O
+P B-ten_phuong_xa_thitran
+Cô I-ten_phuong_xa_thitran
+Giang I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+66C B-so_nha
+Phó B-ten_duong
+Đức_Chính I-ten_duong
+, O
+P.Nguyễn B-ten_phuong_xa_thitran
+Thái_Bình I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Khu B-vi_tri
+vui_chơi I-vi_tri
+Thỏ_Trắng I-vi_tri
+( O
+Công_viên B-vi_tri
+Lê_Thị_Riêng I-vi_tri
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Phòng O
+1 O
+, O
+Toà B-vi_tri
+nhà_văn I-vi_tri
+phòng I-vi_tri
+CentrePoint I-vi_tri
+, O
+106 B-so_nha
+Nguyễn_Văn_Trỗi B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+8 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+Phú_Nhuận I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+77 B-so_nha
+Trần_Bình_Trọng B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+1 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+5 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+162 B-so_nha
+D2 B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+25 I-ten_phuong_xa_thitran
+, O
+Q.Bình B-ten_quan_huyen_thanhpho
+Thạnh I-ten_quan_huyen_thanhpho
+
+-DOCSTART- -X- -X- O
+
+Năm O
+nay O
+, O
+khi O
+mua_sắm O
+tại O
+FamilyMart O
+, O
+các O
+bạn O
+sẽ O
+được O
+một O
+Phiếu_Tích_Điểm O
+để O
+nhận O
+lịch B-san_pham
+Doraemon I-san_pham
+xinh_xắn O
+trang_trí O
+cho O
+bàn O
+học O
+hay O
+bàn O
+làm_việc O
+của O
+mình O
+. O
+
+-DOCSTART- -X- -X- O
+
+Nếu O
+bạn O
+là O
+fan O
+của O
+khoai_tây B-san_pham
+chiên I-san_pham
+thì O
+thêm O
+ngay O
+vào O
+danh_sách O
+lựa_chọn O
+của O
+mình O
+món O
+mới O
+này O
+. O
+
+-DOCSTART- -X- -X- O
+
+Sandwich B-san_pham
+được O
+bán O
+tại O
+FamilyMart O
+Việt_Nam O
+không_chỉ O
+là O
+sản_phẩm O
+bán_chạy O
+nhất O
+trong O
+tất_cả O
+các O
+sản_phẩm O
+mà_còn O
+là O
+sản_phẩm O
+bán_chạy O
+số O
+1 O
+trong O
+chuỗi O
+cửa_hàng O
+FamilyMart O
+trên O
+toàn O
+thế_giới O
+. O
+
+-DOCSTART- -X- -X- O
+
+Vậy O
+bạn O
+có O
+biết O
+Sandwich B-san_pham
+đến O
+từ O
+đâu O
+? O
+
+-DOCSTART- -X- -X- O
+
+Lần O
+đầu_tiên O
+, O
+chiếc O
+bánh_mì B-san_pham
+kẹp I-san_pham
+này O
+được O
+gọi O
+là O
+Sandwich B-san_pham
+là O
+vào O
+năm O
+1726 O
+, O
+nó O
+được O
+đặt O
+theo O
+tên O
+của O
+Bá_tước O
+Sandwich O
+đệ_tứ O
+, O
+John_Montague O
+. O
+
+-DOCSTART- -X- -X- O
+
+Những O
+người O
+chơi O
+bên O
+cạnh O
+thấy O
+vậy O
+, O
+thấy O
+thật O
+tiện O
+nên O
+cũng O
+gọi O
+món O
+ăn O
+“ O
+giống O
+như O
+Sandwich B-san_pham
+” I-san_pham
+, O
+để O
+họ O
+có_thể O
+vừa O
+cầm O
+thẻ_bài O
+của O
+mình O
+, O
+vừa O
+ăn O
+mà O
+không O
+hề O
+sợ O
+bẩn O
+tay O
+. O
+
+-DOCSTART- -X- -X- O
+
+Và O
+thế_là O
+từ O
+đó O
+, O
+lâu O
+dần O
+, O
+người O
+ta O
+gọi O
+món O
+bánh_mì B-san_pham
+kẹp I-san_pham
+thịt I-san_pham
+là O
+Sandwich B-san_pham
+, I-san_pham
+theo O
+tên O
+của O
+vị O
+bá_tước O
+đó O
+. O
+
+-DOCSTART- -X- -X- O
+
+Cứ O
+thế O
+, O
+món O
+sandwich B-san_pham
+chu_du O
+đến O
+mọi O
+miền O
+, O
+và O
+cho O
+đến O
+thế_kỉ O
+20 O
+, O
+nó O
+đã O
+trở_thành O
+món O
+ăn O
+nhanh O
+nổi_tiếng O
+và O
+phổ_biến O
+khắp_nơi O
+. O
+
+-DOCSTART- -X- -X- O
+
+Vào O
+9h O
+sángthứ O
+2 O
+tuần O
+tới O
+( O
+23/12 B-date
+) O
+, O
+chúng_ta O
+sẽ O
+cùng O
+chào_đón O
+cửa_hàng O
+thứ O
+20 O
+của O
+FamilyMart O
+tại O
+234 B-so_nha
+Đề_Thám B-ten_duong
+, O
+Phường B-ten_phuong_xa_thitran
+Phạm_Ngũ_Lão I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+! O
+
+-DOCSTART- -X- -X- O
+
+Dưới O
+đây O
+là O
+danh_sách O
+hệ_thống O
+cửa_hàng O
+hiện_tại O
+của O
+FamilyMart O
+tại O
+TP. B-ten_tinh_thanh_pho
+HCM I-ten_tinh_thanh_pho
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+20 B-so_nha
+Lê_Thánh_Tôn B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+Bến_Nghé I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+126 B-so_nha
+Lý_Tự_Trọng B-ten_duong
+, O
+P.Bến B-ten_phuong_xa_thitran
+Thành I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+58 B-so_nha
+Pasteur B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+Bến_Nghé I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+189 B-so_nha
+Lê_Thánh_Tôn B-ten_duong
+, O
+P.Bến B-ten_phuong_xa_thitran
+Thành I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Hầm O
+B1 O
+, O
+ZENPLAZA B-vi_tri
+, O
+54-56 B-so_nha
+Nguyễn_Trãi B-ten_duong
+, I-ten_duong
+P. B-ten_phuong_xa_thitran
+Bến_Thành I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+137-139 B-so_nha
+Cô B-ten_duong
+Bắc I-ten_duong
+, O
+P.Cô B-ten_phuong_xa_thitran
+Giang I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+210 B-so_nha
+B I-so_nha
+/ I-so_nha
+1 I-so_nha
+Cô B-ten_duong
+Bắc I-ten_duong
+, O
+P B-ten_phuong_xa_thitran
+Cô I-ten_phuong_xa_thitran
+Giang I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+97-99 B-so_nha
+Nguyễn_Hữu_Cầu B-ten_duong
+, O
+P.Tân B-ten_phuong_xa_thitran
+Định I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+234 B-so_nha
+Đề_Thám B-ten_duong
+, O
+P.Phạm B-ten_phuong_xa_thitran
+Ngũ_Lão I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Quận B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+138 B-so_nha
+Lý_Chính_Thắng B-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+7 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+598-600 B-so_nha
+Cách_Mạng B-ten_duong
+Tháng I-ten_duong
+8 I-ten_duong
+, O
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+* O
+Quận B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+PetroLand_Tower B-vi_tri
+, O
+12 B-so_nha
+Tân_Trào B-ten_duong
+, O
+P.Tân B-ten_phuong_xa_thitran
+Phú I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Khu B-vi_tri
+căn_hộ I-vi_tri
+Mỹ I-vi_tri
+Phát I-vi_tri
+137 B-so_nha
+Nguyễn_Đức_Cảnh B-ten_duong
+, O
+P.Tân B-ten_quan_huyen_thanhpho
+Phong I-ten_quan_huyen_thanhpho
+, O
+Q. B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+PetroLand_Tower B-vi_tri
+, I-vi_tri
+12 I-vi_tri
+Tân_Trào I-vi_tri
+, B-vi_tri
+P.Tân I-vi_tri
+Phú I-vi_tri
+, I-vi_tri
+Q. I-vi_tri
+7 I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+Khu B-vi_tri
+vui_chơi I-vi_tri
+Thỏ_Trắng I-vi_tri
+( O
+Công_viên B-vi_tri
+Lê_Thị_Riêng I-vi_tri
+) O
+. O
+
