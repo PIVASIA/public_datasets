@@ -1,10 +1,10 @@
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Để O
+để O
 tiếp_nối O
 sê-ri O
 cùng O
-FamilyMart O
+familymart O
 “ O
 ăn O
 " O
@@ -19,7 +19,7 @@ này O
 sẽ O
 là O
 nước O
-Ý O
+ý O
 thơ_mộng O
 với O
 món O
@@ -27,26 +27,26 @@ spaghetti B-san_pham
 nổi_tiếng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 78-80 B-so_nha
-Lý_Chính_Thắng B-ten_duong
+lý_chính_thắng B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 quên O
 thêm O
 kết_hợp O
 với O
-TEA B-san_pham
+tea B-san_pham
 + I-san_pham
-Plus I-san_pham
+plus I-san_pham
 mát O
 lạnh O
 cho O
@@ -58,22 +58,22 @@ hoàn_hảo O
 nha O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-MÓN O
-MỚI O
+món O
+mới O
 : O
-BÁNH_MÌ B-san_pham
-QUE I-san_pham
-PATE I-san_pham
-HẢI_PHÒNG I-san_pham
+bánh_mì B-san_pham
+que I-san_pham
+pate I-san_pham
+hải_phòng I-san_pham
 / O
-CHÀ B-san_pham
-BÔNG I-san_pham
-BƠ I-san_pham
-HỘT I-san_pham
-GÀ I-san_pham
-CHỈ O
+chà B-san_pham
+bông I-san_pham
+bơ I-san_pham
+hột I-san_pham
+gà I-san_pham
+chỉ O
 12k B-gia_san_pham
 ngon O
 , O
@@ -83,40 +83,40 @@ chất O
 lượng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 từ O
 20,000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh_Mì B-san_pham
-Việt I-san_pham
+bánh_mì B-san_pham
+việt I-san_pham
 , O
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 , O
 tại_sao O
 không O
 nhỉ O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Chung_Cư B-vi_tri
-Ehome I-vi_tri
+chung_cư B-vi_tri
+ehome I-vi_tri
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 8 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chyu-Maki B-san_pham
+chyu-maki B-san_pham
 - O
 cuộn O
 sushi B-san_pham
@@ -130,41 +130,41 @@ bên O
 ngoài O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-PetroLand_Tower B-vi_tri
+petroland_tower B-vi_tri
 , O
 12 B-so_nha
-Tân_Trào B-ten_duong
+tân_trào B-ten_duong
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phú I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phú I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Quốc_Hương I-vi_tri
+eleven_quốc_hương I-vi_tri
 . O
 16 B-so_nha
-Quốc_Hương B-ten_duong
+quốc_hương B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Thảo_Điền I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+thảo_điền I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . I-ten_quan_huyen_thanhpho
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hủ_Tiếu B-san_pham
-Khô_Tôm_Thịt I-san_pham
+hủ_tiếu B-san_pham
+khô_tôm_thịt I-san_pham
 - O
 món O
 ăn O
@@ -174,9 +174,9 @@ ghiền O
 " O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bên O
+bên O
 cạnh O
 đó O
 , O
@@ -184,7 +184,7 @@ nếu O
 bạn O
 mua O
 02 O
-Zaini B-san_pham
+zaini B-san_pham
 bất_kì O
 với O
 giá O
@@ -198,25 +198,25 @@ ngẫu_nhiên O
 được O
 nhận O
 01 O
-Surprise_Egg B-san_pham
+surprise_egg B-san_pham
 khác O
 nữa O
 đó O
 nha O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 10.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Áp_dụng O
+áp_dụng O
 từ O
 : O
 24/05 B-date
@@ -224,38 +224,38 @@ từ O
 13/06/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-TẶNG O
+tặng O
 ngay O
 1 O
 lốc O
 2 O
 chai B-san_pham
-Pepsi I-san_pham
+pepsi I-san_pham
 / O
 7 B-san_pham
-Up I-san_pham
+up I-san_pham
 1.5 I-san_pham
-L I-san_pham
+l I-san_pham
 khi O
-MUA O
+mua O
 1 O
 thùng B-san_pham
 bia I-san_pham
-Heineken I-san_pham
+heineken I-san_pham
 / O
-Tiger B-san_pham
+tiger B-san_pham
 330ml I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Loa O
 loa O
 loa O
-Mỳ_Trộn_Trứng_Xúc B-san_pham
-Xích I-san_pham
+loa O
+mỳ_trộn_trứng_xúc B-san_pham
+xích I-san_pham
 đã O
 lên O
 kệ O
@@ -264,17 +264,17 @@ nhà O
 ơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 với O
 2,000 B-gia_san_pham
 cho O
 1 O
 chai O
-PEPSI B-san_pham
-MUỐI I-san_pham
-CARAMEN I-san_pham
+pepsi B-san_pham
+muối I-san_pham
+caramen I-san_pham
 khi O
 mua O
 các O
@@ -284,28 +284,28 @@ vặt O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-SANDWICH B-san_pham
-TRỨNG I-san_pham
-CHIÊN I-san_pham
-PHÔ_MAI I-san_pham
+sandwich B-san_pham
+trứng I-san_pham
+chiên I-san_pham
+phô_mai I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 quên O
 tích_luỹ O
 6 O
 ly O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 trên O
 ứng_dụng O
-7REWARDS O
+7rewards O
 để O
 được O
 tặng O
@@ -316,62 +316,62 @@ miễn_phí O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ghé O
+ghé O
 7 O
 - O
-Eleven O
+eleven O
 bắt_đầu O
 buổi O
 sáng O
 đầy O
 năng_lượng O
 với O
-Sandwich B-san_pham
+sandwich B-san_pham
 tươi I-san_pham
 và O
-Cà_Phê B-san_pham
-Bean-to-Cup I-san_pham
+cà_phê B-san_pham
+bean-to-cup I-san_pham
 bạn O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-PetroLand_Tower B-vi_tri
+petroland_tower B-vi_tri
 , O
 12 B-so_nha
-Tân_Trào B-ten_duong
+tân_trào B-ten_duong
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phú I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phú I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhập O
+nhập O
 mã O
-VNPAY711 O
+vnpay711 O
 - O
-Giảm O
+giảm O
 20% B-muc_giam_gia
 tối_đa O
-20K B-muc_giam_gia
+20k B-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Áo_Mưa B-san_pham
+áo_mưa B-san_pham
 với O
 chất_liệu O
 dày_dặn O
 , O
-Dù B-san_pham
+dù B-san_pham
 đa_năng I-san_pham
 dùng O
 được O
@@ -382,7 +382,7 @@ thời_tiết O
 mưa_nắng O
 thất_thường O
 hay O
-Giày_Đi_Mưa B-san_pham
+giày_đi_mưa B-san_pham
 chẳng O
 thế O
 thiếu O
@@ -396,28 +396,28 @@ khô O
 ráo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Chả B-san_pham
+chả B-san_pham
 cá I-san_pham
 trứng I-san_pham
 cút I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 198 B-so_nha
-Phan_Huy_Ích B-ten_duong
+phan_huy_ích B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Gò_Vấp I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+gò_vấp I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Có O
+có O
 nhiều O
 gian_hàng O
 như O
@@ -426,7 +426,7 @@ quần_áo B-san_pham
 mỹ_phẩm B-san_pham
 , O
 đất_sét B-san_pham
-Nhật I-san_pham
+nhật I-san_pham
 , O
 khắc B-san_pham
 bút_chì I-san_pham
@@ -453,19 +453,19 @@ bắp B-san_pham
 rang I-san_pham
 bơ I-san_pham
 , O
-Omusubi B-san_pham
+omusubi B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chưa O
+chưa O
 hết O
 , O
 khi O
 mua O
 02 O
 lon O
-Mirinda B-san_pham
+mirinda B-san_pham
 kem I-san_pham
 này O
 , O
@@ -486,66 +486,66 @@ này O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 138 B-so_nha
-Lý_Chính_Thắng B-ten_duong
+lý_chính_thắng B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 7 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 9 B-so_nha
-Thanh_Đa B-ten_duong
+thanh_đa B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa O
+địa O
 điểm O
 : O
-Tầng B-vi_tri
+tầng B-vi_tri
 7 I-vi_tri
 , O
-Toà B-vi_tri
+toà B-vi_tri
 nhà I-vi_tri
-Ngân_hàng I-vi_tri
-Bản I-vi_tri
-Việt I-vi_tri
+ngân_hàng I-vi_tri
+bản I-vi_tri
+việt I-vi_tri
 , O
 412 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
 p B-ten_phuong_xa_thitran
 . I-ten_phuong_xa_thitran
 5 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Poca_Wavy_Bò_Manhattan B-san_pham
+poca_wavy_bò_manhattan B-san_pham
 52g I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hội O
+hội O
 fan O
-Bánh_Mì B-san_pham
-Que I-san_pham
+bánh_mì B-san_pham
+que I-san_pham
 chắc O
 đang O
 rần_rần O
@@ -553,7 +553,7 @@ hết O
 cả O
 lên O
 khi O
-Bảy O
+bảy O
 vừa O
 cho O
 ra O
@@ -563,57 +563,57 @@ loại O
 bánh O
 mới O
 với O
-Pate_Hải_Phòng B-san_pham
+pate_hải_phòng B-san_pham
 bùi_bùi, O
 đậm O
 vị O
 và O
-Chà_Bông_Bơ_Hột B-san_pham
-Gà I-san_pham
+chà_bông_bơ_hột B-san_pham
+gà I-san_pham
 béo O
 ngậy O
 dậy O
 vị O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Vinhomes_Central_Park I-vi_tri
+eleven_vinhomes_central_park I-vi_tri
 , O
-Park B-so_nha
+park B-so_nha
 6 I-so_nha
 . I-so_nha
 208 I-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 29.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 63.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Nắm B-san_pham
+cơm_nắm B-san_pham
 luôn O
 là O
 lựa_chọn O
@@ -644,9 +644,9 @@ và O
 hấp_dẫn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Theo O
+theo O
 các O
 bạn O
 thì O
@@ -664,18 +664,18 @@ nhất O
 nah O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hatchimals B-san_pham
+hatchimals B-san_pham
 xinh_xinh O
 : O
 99,000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 chỉ O
 12k B-gia_san_pham
 thì O
@@ -694,15 +694,15 @@ cuối_cùng O
 này O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cư_dân O
-The_Park B-vi_tri
+cư_dân O
+the_park B-vi_tri
 ơi O
 , O
 7 O
 - O
-Eleven O
+eleven O
 đã O
 đến O
 với O
@@ -711,20 +711,20 @@ bạn O
 đây O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Pack B-san_pham
+pack B-san_pham
 6 I-san_pham
-Lon_Pepsi I-san_pham
+lon_pepsi I-san_pham
 330ml I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thời O
+thời O
 gian O
 : O
-Thứ O
+thứ O
 4 O
 & O
 amp O
@@ -741,46 +741,46 @@ amp O
 17h00 O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ghé O
+ghé O
 ngay O
 7 O
 - O
-Eleven O
+eleven O
 làm O
 1 O
-Ly_Slurpee B-san_pham
+ly_slurpee B-san_pham
 mát O
 lạnh O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-The_Lancaster B-vi_tri
+the_lancaster B-vi_tri
 , O
 22-22 B-so_nha
-Bis_Lê_Thánh_Tôn B-ten_duong
+bis_lê_thánh_tôn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 “ O
-Chị O
+chị O
 tư O
 ” O
 - O
-Cá B-san_pham
+cá B-san_pham
 viên I-san_pham
 tôm I-san_pham
 ( I-san_pham
-Set I-san_pham
+set I-san_pham
 4 I-san_pham
 viên I-san_pham
 ) I-san_pham
@@ -789,35 +789,35 @@ với O
 điểm I-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa O
+địa O
 chỉ O
 : O
 133-135 B-so_nha
-Đường B-ten_duong
+đường B-ten_duong
 số I-ten_duong
 1 I-ten_duong
 , O
-Tân_Phong B-ten_thon_lang_todanpho
+tân_phong B-ten_thon_lang_todanpho
 - I-ten_thon_lang_todanpho
-Kim_Sơn I-ten_thon_lang_todanpho
+kim_sơn I-ten_thon_lang_todanpho
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phong I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phong I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 10 B-gia_san_pham
-K I-gia_san_pham
-Mua O
+k I-gia_san_pham
+mua O
 được O
-Sữa_tươi B-san_pham
+sữa_tươi B-san_pham
 trân_châu I-san_pham
 đường I-san_pham
 đen I-san_pham
@@ -825,80 +825,80 @@ tại O
 cửa_hàng O
 7 O
 - O
-Eleven O
+eleven O
 ( O
 với O
 200 O
 điểm O
 7 O
 - O
-REWARDS O
+rewards O
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 210 B-so_nha
-B I-so_nha
+b I-so_nha
 / I-so_nha
 1 I-so_nha
-Nguyễn_Khắc_Nhu B-ten_duong
+nguyễn_khắc_nhu B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sổ B-san_pham
+sổ B-san_pham
 ghi_chú I-san_pham
 : O
 18,000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Đậu_hũ B-san_pham
+đậu_hũ B-san_pham
 cá I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 234 B-so_nha
-Đề_Thám B-ten_duong
-P. B-ten_phuong_xa_thitran
-Phạm_Ngũ_Lão I-ten_phuong_xa_thitran
+đề_thám B-ten_duong
+p. B-ten_phuong_xa_thitran
+phạm_ngũ_lão I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đùi_Gà_Rán_Giòn B-san_pham
+đùi_gà_rán_giòn B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-The_Lancaster B-vi_tri
+the_lancaster B-vi_tri
 , O
 22-22 B-so_nha
-Bis_Lê_Thánh_Tôn B-ten_duong
+bis_lê_thánh_tôn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhận O
+nhận O
 ngay O
 voucher O
 lên O
@@ -909,12 +909,12 @@ với O
 100 O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 vô_vàn O
 hương_vị O
 kem B-san_pham
@@ -924,8 +924,8 @@ hấp_dẫn O
 on O
 sale O
 " O
-GIẢM O
-TỚI O
+giảm O
+tới O
 50% B-muc_giam_gia
 thì O
 mùa O
@@ -934,130 +934,130 @@ này O
 các O
 fan O
 nhà O
-Bảy O
+bảy O
 khỏi O
 lo O
 nắng_nóng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-L B-vi_tri
+l B-vi_tri
 1.04 I-vi_tri
-Rivergate_Residence I-vi_tri
+rivergate_residence I-vi_tri
 , O
 151-155 B-so_nha
-Bến_Vân_Đồn B-ten_duong
+bến_vân_đồn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 4 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
-10K B-gia_san_pham
+chỉ O
+10k B-gia_san_pham
 cho O
 ly O
 lớn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bữa O
+bữa O
 trưa O
 ngon-rẻ-chất O
 lượng O
-25K B-gia_san_pham
+25k B-gia_san_pham
 chỉ O
 với O
 100 O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Phòng O
+phòng O
 1 O
 , O
-Toà B-vi_tri
+toà B-vi_tri
 nhà_văn I-vi_tri
 phòng I-vi_tri
-CentrePoint I-vi_tri
+centrepoint I-vi_tri
 , O
 106 B-so_nha
-Nguyễn_Văn_Trỗi B-ten_duong
+nguyễn_văn_trỗi B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 8 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
-Phu_Nhuan I-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
+phu_nhuan I-ten_quan_huyen_thanhpho
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ảnh O
+ảnh O
 : O
-Chiến_thắng O
+chiến_thắng O
 ( O
 cuộc O
 thi_đua O
 bò O
 ở O
 huyện B-ten_quan_huyen_thanhpho
-Tri_Tôn I-ten_quan_huyen_thanhpho
+tri_tôn I-ten_quan_huyen_thanhpho
 - O
-An_Giang B-ten_tinh_thanh_pho
+an_giang B-ten_tinh_thanh_pho
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-TƯNG O
-BỪNG O
-ƯU_ĐÃI O
-TỚI O
+tưng O
+bừng O
+ưu_đãi O
+tới O
 50% B-muc_giam_gia
 - O
-MỪNG O
-SOFT O
-OPENING O
+mừng O
+soft O
+opening O
 chi_nhánh O
 mới O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-S06 B-vi_tri
-Shophouse_Saigon_Pearl I-vi_tri
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
 , O
 92 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 34.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh_Macaron B-san_pham
+bánh_macaron B-san_pham
 là O
 loại O
 bánh O
@@ -1069,11 +1069,11 @@ tinh_tế O
 và O
 tao_nhã O
 giữa O
-Vị O
+vị O
 - O
-Sắc O
+sắc O
 – O
-Hương O
+hương O
 khiến O
 bạn O
 luôn O
@@ -1088,16 +1088,16 @@ khi O
 thưởng_thức O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ăn O
+ăn O
 sáng O
 nhẹ_nhàng O
 với O
 combo O
-Món_Hấp B-san_pham
+món_hấp B-san_pham
 và O
-Trà B-san_pham
+trà B-san_pham
 để O
 bắt_đầu O
 một O
@@ -1108,25 +1108,25 @@ nhé O
 ️ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-B. O
+b. O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Vinhomes_Central_Park I-vi_tri
+eleven_vinhomes_central_park I-vi_tri
 , O
-Central B-vi_tri
+central B-vi_tri
 1 I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đặc_biệt O
+đặc_biệt O
 , O
-Sandwich B-san_pham
+sandwich B-san_pham
 7 O
 - O
-Eleven O
+eleven O
 nay O
 đã O
 cải_tiến O
@@ -1141,39 +1141,39 @@ hấp_dẫn O
 hơn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nạp O
+nạp O
 đầy O
 dinh_dưỡng O
 với O
 giá O
 siêu O
 hời O
-ƯU_ĐÃI O
-TỚI O
+ưu_đãi O
+tới O
 50% B-muc_giam_gia
 sữa B-san_pham
 ngon_ngọt O
 lành O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bỗng_dưng O
+bỗng_dưng O
 nhớ O
 mùi O
 kem B-san_pham
 tươi I-san_pham
 socola I-san_pham
-MINISTOP O
+ministop O
 quá O
 ah O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tèn O
+tèn O
 tennn O
 , O
 đáp_án O
@@ -1184,15 +1184,15 @@ ngày O
 3/3 B-date
 chính O
 là O
-Trà B-san_pham
-Bưởi_Thanh_Long I-san_pham
+trà B-san_pham
+bưởi_thanh_long I-san_pham
 nhé O
 cả O
 nhà O
 . O
 7 O
 - O
-Eleven O
+eleven O
 sẽ O
 trao O
 giải O
@@ -1210,9 +1210,9 @@ hôm_nay O
 ạ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đổi O
+đổi O
 ngay O
 voucher O
 lên O
@@ -1226,18 +1226,18 @@ với O
 điểm O
 trên O
 7 O
-REWARDS O
+rewards O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sữa_Juicy_Milk B-san_pham
+sữa_juicy_milk B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Khuyến_mãi O
+khuyến_mãi O
 áp_dụng O
 từ O
 15/1 B-date
@@ -1251,86 +1251,86 @@ quà O
 tặng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa O
+địa O
 chỉ O
 : O
-CT B-vi_tri
+ct B-vi_tri
 01.11 I-vi_tri
 , O
-Số B-so_nha
+số B-so_nha
 56 I-so_nha
-Bến_Vân_Đồn B-ten_duong
+bến_vân_đồn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 12 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 4 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Há_Cảo_Hẹ B-san_pham
+há_cảo_hẹ B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 126 B-so_nha
-Lý_Tự_Trọng B-ten_duong
+lý_tự_trọng B-ten_duong
 , O
-P.Bến B-ten_phuong_xa_thitran
-Thành I-ten_phuong_xa_thitran
+p.bến B-ten_phuong_xa_thitran
+thành I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 + O
-Nhà_xe B-vi_tri
-Bệnh_viện I-vi_tri
-Từ_Dũ I-vi_tri
+nhà_xe B-vi_tri
+bệnh_viện I-vi_tri
+từ_dũ I-vi_tri
 - O
 191 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 5 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 11.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 bất_kỳ O
 1 O
 trong O
 5 O
 loại O
 snack B-san_pham
-Poca I-san_pham
+poca I-san_pham
 sau O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bật O
+bật O
 ngay O
 chế_độ O
 " O
@@ -1339,40 +1339,40 @@ high-mood O
 với O
 7 O
 - O
-CAFE B-san_pham
-GIÁ O
-CHỈ O
-TỪ O
-11K B-gia_san_pham
+cafe B-san_pham
+giá O
+chỉ O
+từ O
+11k B-gia_san_pham
 bừng O
 tỉnh O
 cả O
 ngày O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Các O
+các O
 “ O
 tín_đồ O
-Omusubi B-san_pham
+omusubi B-san_pham
 ” O
 đâu O
 rồi O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Lon B-san_pham
-Coca-Cola I-san_pham
+lon B-san_pham
+coca-cola I-san_pham
 cờ I-san_pham
-Nhật I-san_pham
+nhật I-san_pham
 độc_đáo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chương_trình O
+chương_trình O
 bắt_đầu O
 từ O
 28/2 B-date
@@ -1380,15 +1380,15 @@ từ O
 13/3/2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Chiên B-san_pham
-Dương_Châu I-san_pham
+cơm_chiên B-san_pham
+dương_châu I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nếu O
+nếu O
 chưa O
 biết O
 ăn O
@@ -1401,19 +1401,19 @@ tới O
 ngay O
 7 O
 - O
-Eleven O
+eleven O
 thôi O
 , O
-Combo O
+combo O
 29,000 B-gia_san_pham
 đ I-gia_san_pham
-Bánh_Mì B-san_pham
+bánh_mì B-san_pham
 + O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 và O
-Xôi B-san_pham
+xôi B-san_pham
 + O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 luôn O
 sẵn_sàng O
 để O
@@ -1421,28 +1421,28 @@ phục_vụ O
 bạn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Vinhomes_Central_Park I-vi_tri
+eleven_vinhomes_central_park I-vi_tri
 , O
-Park B-so_nha
+park B-so_nha
 6 I-so_nha
 . I-so_nha
 208 I-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vẫn O
+vẫn O
 là O
 gói O
 xôi B-san_pham
@@ -1458,8 +1458,8 @@ thêm O
 hương_vị O
 mới_toanh O
 : O
-Xôi_Gà_Xào_Húng B-san_pham
-Quế I-san_pham
+xôi_gà_xào_húng B-san_pham
+quế I-san_pham
 sẽ O
 làm O
 các O
@@ -1501,9 +1501,9 @@ lạ O
 miệng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sản_phẩm O
+sản_phẩm O
 được O
 pha_chế O
 theo O
@@ -1535,10 +1535,10 @@ và O
 vị O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Uống_Cà_Phê_Sữa B-san_pham
-Đá I-san_pham
+uống_cà_phê_sữa B-san_pham
+đá I-san_pham
 mỗi O
 ngày O
 rồi O
@@ -1546,20 +1546,20 @@ rồi O
 hôm_nay O
 mình O
 thử O
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 7 O
 - O
-Eleven O
+eleven O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh_bao B-san_pham
-Doraemon I-san_pham
+bánh_bao B-san_pham
+doraemon I-san_pham
 phiên_bản I-san_pham
-Thuyền_Trưởng I-san_pham
+thuyền_trưởng I-san_pham
 - O
 một O
 " O
@@ -1575,7 +1575,7 @@ yêu O
 và O
 ngộ_nghĩnh O
 của O
-Doraemon O
+doraemon O
 cùng O
 với O
 chiếc O
@@ -1603,64 +1603,64 @@ cắn O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Các O
+các O
 fan O
 ở O
-Bình_Chánh B-ten_quan_huyen_thanhpho
+bình_chánh B-ten_quan_huyen_thanhpho
 ơi O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa_điểm O
+địa_điểm O
 cụ_thể O
-286A B-so_nha
-An_Dương_Vương B-ten_duong
+286a B-so_nha
+an_dương_vương B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 4 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 5 I-ten_quan_huyen_thanhpho
 , O
-Tp. B-ten_tinh_thanh_pho
-HCM I-ten_tinh_thanh_pho
+tp. B-ten_tinh_thanh_pho
+hcm I-ten_tinh_thanh_pho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 138 B-so_nha
-Lý_Chính_Thắng B-ten_duong
+lý_chính_thắng B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 7 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Thảo_Điền I-vi_tri
+eleven_thảo_điền I-vi_tri
 . O
 31 B-so_nha
-Thảo_Điền B-ten_duong
+thảo_điền B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Thảo_Điền I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+thảo_điền I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mirinda B-san_pham
+mirinda B-san_pham
 soda I-san_pham
 vị I-san_pham
 kem I-san_pham
@@ -1668,38 +1668,38 @@ thật O
 đã O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 3 O
-Giải O
-Nhì O
+giải O
+nhì O
 : O
 1 O
-Gift_Card O
+gift_card O
 trị_giá O
 200.000 B-muc_giam_gia
 đ I-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Thảo_Điền I-vi_tri
+eleven_thảo_điền I-vi_tri
 . O
 31 B-so_nha
-Thảo_Điền B-ten_duong
+thảo_điền B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Thảo_Điền I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+thảo_điền I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ý O
+ý O
 mà O
 khoan O
 , O
@@ -1734,15 +1734,15 @@ còn O
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-FamilyMart O
+familymart O
 hiện O
 có O
 bán O
 bánh B-san_pham
 kem I-san_pham
-Noel I-san_pham
+noel I-san_pham
 , O
 đặc_biệt O
 những O
@@ -1753,48 +1753,48 @@ chỉ O
 có O
 riêng O
 tại O
-FamilyMart O
+familymart O
 thôi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bạn O
+bạn O
 í O
 chính O
 là O
 bánh O
-Dorayaki B-san_pham
+dorayaki B-san_pham
 nhân I-san_pham
 chocolate I-san_pham
 ngọt_ngào O
 mê_hoặc O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Cá_Thu_Chay B-san_pham
-Sốt_Chua_Ngọt I-san_pham
+cơm_cá_thu_chay B-san_pham
+sốt_chua_ngọt I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 13.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bắt_đầu O
+bắt_đầu O
 từ O
 15/1 B-date
 tới O
@@ -1804,24 +1804,24 @@ cả O
 nhà O
 có_thể O
 tận_hưởng O
-Combo_Flash_Sales O
+combo_flash_sales O
 cực_kì O
 tiết_kiệm O
 : O
-Bánh_Mì B-san_pham
-Trứng_Ốp_La I-san_pham
+bánh_mì B-san_pham
+trứng_ốp_la I-san_pham
 + O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 chỉ O
 19,000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-TIN O
-KHẨN_CẤP O
-Chỉ O
+tin O
+khẩn_cấp O
+chỉ O
 còn O
 1 O
 ngày O
@@ -1829,7 +1829,7 @@ nữa O
 , O
 chương_trình O
 " O
-Tích_luỹ O
+tích_luỹ O
 kem B-san_pham
 , O
 nhận O
@@ -1844,9 +1844,9 @@ sẽ O
 kết_thúc O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Khuyến_mãi O
+khuyến_mãi O
 chỉ O
 áp_dụng O
 tới O
@@ -1855,7 +1855,7 @@ hết O
 thôi O
 , O
 ghé O
-Bảy O
+bảy O
 mua O
 về O
 trữ O
@@ -1863,26 +1863,26 @@ liền O
 nào O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bảy O
+bảy O
 vừa O
 cho O
 ra_mắt O
-MÓN O
-MỚI O
+món O
+mới O
 : O
-TRÀ B-san_pham
-TRÁI_CÂY I-san_pham
+trà B-san_pham
+trái_cây I-san_pham
 nè O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Từng O
+từng O
 tách O
-Cà_Phê B-san_pham
-Bean-to-Cup I-san_pham
+cà_phê B-san_pham
+bean-to-cup I-san_pham
 đều O
 được O
 pha O
@@ -1893,54 +1893,54 @@ chuyên_dụng O
 được O
 nhập_khẩu O
 từ O
-Đức O
+đức O
 để O
 đảm_bảo O
 được O
 hương_vị O
-Cà_Phê O
+cà_phê O
 thơm O
 ngon O
 nhất O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ăn O
+ăn O
 sang O
 uống O
 chảnh O
-PIZZA B-san_pham
-MANNA I-san_pham
-GIẢM O
-5K B-muc_giam_gia
+pizza B-san_pham
+manna I-san_pham
+giảm O
+5k B-muc_giam_gia
 + O
-FREE O
-COCA-COLA B-san_pham
+free O
+coca-cola B-san_pham
 thiệt O
 là O
 đã O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chưa O
+chưa O
 dừng O
 ở O
 đó O
 , O
-Sandwich_Thịt_Xông_Khói B-san_pham
-Xà_Lách I-san_pham
-Cà_Chua I-san_pham
+sandwich_thịt_xông_khói B-san_pham
+xà_lách I-san_pham
+cà_chua I-san_pham
 tại O
-FamilyMart O
+familymart O
 còn O
 được O
 dùng O
 kèm O
 với O
 xốt O
-Aurora O
+aurora O
 có O
 vị O
 chua_ngọt O
@@ -1968,71 +1968,71 @@ hương_vị O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Danh_sách O
+danh_sách O
 tham_quan O
-VinEco_Nam_Hội_An B-vi_tri
+vineco_nam_hội_an B-vi_tri
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 242 B-so_nha
-G-244 I-so_nha
-Nguyễn_Đình_Chiểu B-ten_duong
+g-244 I-so_nha
+nguyễn_đình_chiểu B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 58 B-so_nha
-Pasteur I-so_nha
+pasteur I-so_nha
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 với O
 200 O
 điểm O
 trên O
 ứng_dụng O
-7REWARDS O
+7rewards O
 bạn O
 có_thể O
 đổi O
 ngay O
 1 O
 ly O
-Sữa_Tươi B-san_pham
-Trân_Châu I-san_pham
-Đường I-san_pham
-Đen I-san_pham
+sữa_tươi B-san_pham
+trân_châu I-san_pham
+đường I-san_pham
+đen I-san_pham
 thoả_mãn O
 cơn O
 thèm O
 dịp O
-Tết O
+tết O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Dần_dần O
+dần_dần O
 , O
 vào O
 thế_kỉ O
@@ -2042,9 +2042,9 @@ bánh B-san_pham
 sandwich I-san_pham
 phổ_biến O
 ở O
-Tây_Ban_Nha O
+tây_ban_nha O
 và O
-Anh O
+anh O
 , O
 khi O
 xã_hội O
@@ -2074,47 +2074,47 @@ bữa O
 ăn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Duy_nhất O
+duy_nhất O
 ngày O
 8/3 B-date
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Healthy O
+healthy O
 hết O
 cỡ O
 với O
-COMBO O
-SA_LÁT B-san_pham
-THANH I-san_pham
-CUA I-san_pham
-RONG I-san_pham
-BIỂN I-san_pham
+combo O
+sa_lát B-san_pham
+thanh I-san_pham
+cua I-san_pham
+rong I-san_pham
+biển I-san_pham
 + O
-TRÀ B-san_pham
-OOLONG I-san_pham
-TEA I-san_pham
+trà B-san_pham
+oolong I-san_pham
+tea I-san_pham
 + I-san_pham
-GIẢM O
+giảm O
 5 B-muc_giam_gia
-K I-muc_giam_gia
+k I-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
+eleven I-vi_tri
 - I-vi_tri
-The_Lancaster I-vi_tri
+the_lancaster I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chưa O
+chưa O
 kể O
 thêm O
 một_chút O
@@ -2140,9 +2140,9 @@ nữa O
 nha O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh B-san_pham
+bánh B-san_pham
 tươi I-san_pham
 – O
 cho O
@@ -2153,23 +2153,23 @@ thêm O
 thú_vị O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mua O
+mua O
 3 O
 sản_phẩm O
 : O
-Coca-Cola B-san_pham
+coca-cola B-san_pham
 / O
-Sprite B-san_pham
+sprite B-san_pham
 / O
-Fanta B-san_pham
+fanta B-san_pham
 bất_kì O
 tại O
 cửa_hàng O
 7 O
 - O
-Eleven O
+eleven O
 sẽ O
 nhận O
 được O
@@ -2179,23 +2179,23 @@ quay O
 may_mắn O
 trên O
 ứng_dụng O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Những O
+những O
 chiếc O
 bánh B-san_pham
-Sandwich I-san_pham
+sandwich I-san_pham
 đầy O
 dinh_dưỡng O
 - O
@@ -2220,18 +2220,18 @@ tràn_đầy O
 năng_lượng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Các O
+các O
 fan O
 ở O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 ơi O
 ! O
 7 O
 - O
-Eleven O
+eleven O
 nay O
 đã O
 mở O
@@ -2252,9 +2252,9 @@ hơn O
 nè O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vừa O
+vừa O
 thưởng_thức O
 những O
 hộp B-san_pham
@@ -2286,27 +2286,27 @@ trong O
 tuần O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nếm O
+nếm O
 trọn O
 hương_vị O
-Xứ_Kim_Chi O
+xứ_kim_chi O
 cùng O
 " O
-CƠM B-san_pham
-TRỘN I-san_pham
-HÀN_QUỐC I-san_pham
+cơm B-san_pham
+trộn I-san_pham
+hàn_quốc I-san_pham
 " O
-MỚI_TOANH O
+mới_toanh O
 siêu O
 hấp O
 dẫn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thời_gian O
+thời_gian O
 khuyến_mãi O
 : O
 từ O
@@ -2315,31 +2315,31 @@ từ O
 10/02/2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chuỗi_Cửa_hàng O
+chuỗi_cửa_hàng O
 tiện_lợi O
 lớn O
 nhất O
-Thế_giới O
+thế_giới O
 7 O
 - O
-Eleven O
+eleven O
 tuyển_dụng O
-Nhân_Viên O
+nhân_viên O
 cửa_hàng O
 tại O
-TP. B-ten_tinh_thanh_pho
-Hồ_Chí_Minh I-ten_tinh_thanh_pho
+tp. B-ten_tinh_thanh_pho
+hồ_chí_minh I-ten_tinh_thanh_pho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Món_Mỳ_Trộn_Trứng B-san_pham
+món_mỳ_trộn_trứng B-san_pham
 & I-san_pham
 amp I-san_pham
 ; I-san_pham
-Xúc_Xích I-san_pham
+xúc_xích I-san_pham
 này O
 thật_sự O
 có O
@@ -2354,22 +2354,22 @@ nhà O
 ạ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 từ O
 29,000 B-gia_san_pham
 đ I-gia_san_pham
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Trưa O
+trưa O
 trưa O
 còn O
 có O
 kem B-san_pham
-KitKat I-san_pham
+kitkat I-san_pham
 sôcôla I-san_pham
 ăn O
 đã O
@@ -2378,9 +2378,9 @@ nữa O
 chứ O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hình_ảnh O
+hình_ảnh O
 các O
 " O
 cầu_thủ O
@@ -2392,15 +2392,15 @@ trong O
 trong O
 trận O
 đấu O
-Việt_Nam O
+việt_nam O
 - O
-Nhật_Bản O
+nhật_bản O
 của O
 vòng O
 chung_kết O
 bóng_đá O
 nữ O
-Châu_Á O
+châu_á O
 , O
 vào O
 lúc O
@@ -2409,18 +2409,18 @@ lúc O
 16/5/2014 B-date
 trên O
 sân_vận_động B-vi_tri
-Thống_Nhất I-vi_tri
+thống_nhất I-vi_tri
 , O
 trực_tiếp O
 trên O
 kênh O
-HTV O
+htv O
 thể_thao O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Slurpee B-san_pham
+slurpee B-san_pham
 đã O
 trở_lại O
 và O
@@ -2439,94 +2439,94 @@ nước O
 trái_cây O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Block_E O
+block_e O
 , O
 khu_phố O
-Riverside_Residence B-vi_tri
+riverside_residence B-vi_tri
 , O
 180 B-so_nha
-Nguyễn_Lương_Bằng B-ten_duong
+nguyễn_lương_bằng B-ten_duong
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phú I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phú I-ten_phuong_xa_thitran
 , O
-Phú_Mỹ_Hưng B-vi_tri
+phú_mỹ_hưng B-vi_tri
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giòn O
+giòn O
 rùm O
 rụm O
-GÀ B-san_pham
-XIÊN I-san_pham
-QUE I-san_pham
+gà B-san_pham
+xiên I-san_pham
+que I-san_pham
 / O
-MÁ B-san_pham
-ĐÙI I-san_pham
-GÀ I-san_pham
-CHIÊN I-san_pham
-GIÒN I-san_pham
+má B-san_pham
+đùi I-san_pham
+gà I-san_pham
+chiên I-san_pham
+giòn I-san_pham
 + O
-PEPSI B-san_pham
-COLA I-san_pham
-GIẢM O
-5K B-muc_giam_gia
+pepsi B-san_pham
+cola I-san_pham
+giảm O
+5k B-muc_giam_gia
 tuyệt_đỉnh O
 nhâm O
 nhi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Còn O
+còn O
 bây_giờ O
 , O
 ghé O
 ngay O
 7 O
 - O
-Eleven O
+eleven O
 thưởng_thức O
-Trà B-san_pham
-Bưởi_Thanh_Long I-san_pham
+trà B-san_pham
+bưởi_thanh_long I-san_pham
 thôi O
 nào O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bổ_sung O
+bổ_sung O
 cho O
 thực_đơn O
-Cơm_Chọn_Món O
+cơm_chọn_món O
 nhà O
 chị O
-Bảy O
+bảy O
 đây O
 : O
-Cá_Rô B-san_pham
-Kho_Tiêu I-san_pham
+cá_rô B-san_pham
+kho_tiêu I-san_pham
 ăn O
 cực_kì O
 đưa O
 cơm O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chần_chờ O
+chần_chờ O
 gì O
 mà O
 không O
 ghé O
-FamilyMart O
+familymart O
 chọn O
 ngay O
 combo O
@@ -2536,18 +2536,18 @@ khát O
 ngày O
 hè O
 cùng O
-Lipton B-san_pham
+lipton B-san_pham
 trà I-san_pham
 đen I-san_pham
 vị I-san_pham
 chanh I-san_pham
 và O
-Lipton B-san_pham
+lipton B-san_pham
 trà I-san_pham
 đen I-san_pham
 vị I-san_pham
 đào I-san_pham
-Không_những O
+không_những O
 giải_toả O
 được O
 cơn O
@@ -2563,33 +2563,33 @@ nữa O
 nha O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Thanh B-san_pham
+thanh B-san_pham
 chả I-san_pham
 cua I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Rivergate I-vi_tri
+eleven_rivergate I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Dinh_dưỡng O
+dinh_dưỡng O
 tột_độ O
 với O
-MÓN O
-MỚI O
+món O
+mới O
 : O
-SA_LÁT B-san_pham
-BÒ I-san_pham
-SỐT I-san_pham
-CHUA_NGỌT I-san_pham
+sa_lát B-san_pham
+bò I-san_pham
+sốt I-san_pham
+chua_ngọt I-san_pham
 siêu O
 ngon O
 , O
@@ -2597,23 +2597,23 @@ siêu O
 healthy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-The_Lancaster B-vi_tri
+the_lancaster B-vi_tri
 , O
 22-22 B-so_nha
-Bis_Lê_Thánh_Tôn B-ten_duong
+bis_lê_thánh_tôn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đậm_đà O
+đậm_đà O
 và O
 lãng_mạn O
 qua O
@@ -2622,113 +2622,113 @@ viên O
 chocolate B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Tôm B-san_pham
+tôm B-san_pham
 định_hình I-san_pham
-Surimi I-san_pham
+surimi I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sài_Gòn B-ten_tinh_thanh_pho
+sài_gòn B-ten_tinh_thanh_pho
 vào O
 mùa O
 mưa O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 các O
 hương_vị O
 độc_đáo O
 : O
-Xúc_Xích B-san_pham
-Phô_Mai I-san_pham
+xúc_xích B-san_pham
+phô_mai I-san_pham
 béo O
 ngậy O
 , O
-Xúc_Xích B-san_pham
-Nấm I-san_pham
+xúc_xích B-san_pham
+nấm I-san_pham
 thơm_lừng O
 lạ_miệng O
 hay O
 cho O
 đến O
-Xúc_Xích B-san_pham
-Bia I-san_pham
+xúc_xích B-san_pham
+bia I-san_pham
 thú_vị O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 137-139 B-so_nha
-Cô B-ten_duong
-Bắc I-ten_duong
+cô B-ten_duong
+bắc I-ten_duong
 , O
-P.Cô B-ten_phuong_xa_thitran
-Giang I-ten_phuong_xa_thitran
+p.cô B-ten_phuong_xa_thitran
+giang I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bữa O
+bữa O
 trưa O
 chất_lượng O
 - O
-Phần O
-Cơm_Đùi_Gà_Rán B-san_pham
+phần O
+cơm_đùi_gà_rán B-san_pham
 chỉ O
-25K B-gia_san_pham
+25k B-gia_san_pham
 với O
 100 O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-GIẢI O
-THƯỞNG O
+giải O
+thưởng O
 : O
-Tai B-san_pham
+tai B-san_pham
 nghe I-san_pham
 không I-san_pham
 dây I-san_pham
-LG I-san_pham
-Tone_Free I-san_pham
+lg I-san_pham
+tone_free I-san_pham
 / O
-Loa_LG_XbooomGO B-san_pham
+loa_lg_xbooomgo B-san_pham
 / O
-Sprite B-san_pham
+sprite B-san_pham
 lon I-san_pham
 320ml I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-L B-vi_tri
+l B-vi_tri
 1.04 I-vi_tri
-Rivergate_Residence I-vi_tri
+rivergate_residence I-vi_tri
 , O
 151-155 B-so_nha
-Bến_Vân_Đồn B-ten_duong
+bến_vân_đồn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 4 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 . O
 05 O
@@ -2754,33 +2754,33 @@ tương_đương O
 đ I-muc_giam_gia
 mua_sắm O
 tại O
-FamilyMart O
+familymart O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-L B-vi_tri
+l B-vi_tri
 1.04 I-vi_tri
-Rivergate_Residence I-vi_tri
+rivergate_residence I-vi_tri
 , O
 151-155 B-so_nha
-Bến_Vân_Đồn O
+bến_vân_đồn O
 , O
-Phường O
+phường O
 6 O
 , O
-Quận O
+quận O
 4 O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-MÓN O
-MỚI O
+món O
+mới O
 : O
-SỮA B-san_pham
-TRÁI_CÂY I-san_pham
+sữa B-san_pham
+trái_cây I-san_pham
 thơm O
 ngây_ngất O
 đã O
@@ -2788,143 +2788,143 @@ ra_mắt O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 rồi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Sò B-san_pham
+sò B-san_pham
 điệp I-san_pham
-Surimi I-san_pham
+surimi I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
-Áp_dụng O
+áp_dụng O
 từ O
 21 B-date
 - O
 23/12/2018 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cà_phê B-san_pham
+cà_phê B-san_pham
 vị O
 đậm_đà O
 mà O
 nhâm_nhi O
 cùng O
-Bánh_Mì B-san_pham
-Việt_Nam I-san_pham
+bánh_mì B-san_pham
+việt_nam I-san_pham
 / O
-Hotdog B-san_pham
+hotdog B-san_pham
 đa_dạng O
 đủ O
 loại O
 hay O
-Pateso B-san_pham
+pateso B-san_pham
 giòn_tan O
 thơm_lừng O
 là O
 hết_sảy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 27 B-so_nha
-PhạmVăn_Chiêu B-ten_duong
+phạmvăn_chiêu B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Gò_Vấp I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+gò_vấp I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Khu B-vi_tri
+khu B-vi_tri
 vui_chơi I-vi_tri
-Thỏ_Trắng I-vi_tri
+thỏ_trắng I-vi_tri
 ( O
-Công_viên B-vi_tri
-Lê_Thị_Riêng I-vi_tri
+công_viên B-vi_tri
+lê_thị_riêng I-vi_tri
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhiều O
+nhiều O
 hơn O
 , O
 rẻ O
 hơn O
 với O
-MUA O
+mua O
 2 O
-TÍNH O
-TIỀN O
+tính O
+tiền O
 1 O
-CHẢ_LỤA B-san_pham
-QUE I-san_pham
-BÌ I-san_pham
+chả_lụa B-san_pham
+que I-san_pham
+bì I-san_pham
 nhâm_nhi O
 là O
 mê O
 ly O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
-Duy_nhất O
+duy_nhất O
 tại O
 cửa_hàng O
 7 B-vi_tri
 - I-vi_tri
-Eleven_The_Art_Gia I-vi_tri
-Hoà I-vi_tri
+eleven_the_art_gia I-vi_tri
+hoà I-vi_tri
 , O
-523A B-so_nha
-Đỗ_Xuân_Hợp B-ten_duong
+523a B-so_nha
+đỗ_xuân_hợp B-ten_duong
 , I-ten_duong
-Phường B-ten_phuong_xa_thitran
-Phước_Long_B I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+phước_long_b I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 9 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-HAPPY O
-BOY O
+happy O
+boy O
 ' O
-S O
-DAY O
+s O
+day O
 ( O
-Koinobori O
+koinobori O
 ) O
 ( O
 05/05 B-date
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 lo O
 , O
 quẹo O
 ngay O
 “ O
 trạm O
-FamilyMart O
+familymart O
 ” O
 lựa O
 cho O
@@ -2933,12 +2933,12 @@ những O
 chai B-san_pham
 sữa I-san_pham
 trái_cây I-san_pham
-Juicy I-san_pham
+juicy I-san_pham
 đầy_đủ O
 dinh_dưỡng O
 hay O
 lon B-san_pham
-My I-san_pham
+my I-san_pham
 café I-san_pham
 thơm O
 béo O
@@ -2958,13 +2958,13 @@ ngay O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Các O
+các O
 món O
 mỳ B-san_pham
 hương_vị O
-Âu O
+âu O
 nay O
 đã O
 đổi O
@@ -2976,42 +2976,42 @@ không O
 đổi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-S06 B-vi_tri
-Shophouse_Saigon_Pearl I-vi_tri
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
 , O
 92 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giảm O
+giảm O
 50% B-muc_giam_gia
 giờ O
 hát O
 tại O
-Icool O
+icool O
 phòng O
 hát O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-E_hèm O
+e_hèm O
 , O
 bạn O
 có O
 biết O
 : O
-Soboro B-san_pham
+soboro B-san_pham
 một O
 trong O
 những O
@@ -3020,7 +3020,7 @@ cơm O
 trộn O
 truyền_thống O
 của O
-Nhật_Bản O
+nhật_bản O
 với O
 cách O
 trình_bày O
@@ -3038,7 +3038,7 @@ với O
 màu O
 nâu O
 của O
-Soboro B-san_pham
+soboro B-san_pham
 - O
 được O
 làm O
@@ -3051,49 +3051,49 @@ tẩm O
 ướp O
 cùng O
 nước_tương O
-Nhật O
+nhật O
 và O
 màu O
 xanh O
 của O
 hạt O
 đậu_nành O
-Nhật_Edamame O
+nhật_edamame O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sữa_Tươi B-san_pham
-Trân_Châu I-san_pham
-Đường I-san_pham
-Đen I-san_pham
-10K B-gia_san_pham
+sữa_tươi B-san_pham
+trân_châu I-san_pham
+đường I-san_pham
+đen I-san_pham
+10k B-gia_san_pham
 , O
 duy_nhất O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 đây O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 20 B-so_nha
-Lê_Thánh_Tôn B-ten_duong
+lê_thánh_tôn B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tuyệt_đỉnh O
-Burger_Double_Hamburg B-san_pham
+tuyệt_đỉnh O
+burger_double_hamburg B-san_pham
 và O
 phô_mai B-san_pham
-Cheddar I-san_pham
+cheddar I-san_pham
 khiến O
 vạn O
 người O
@@ -3102,38 +3102,38 @@ nay O
 đã O
 có_mặt O
 tại O
-FamilyMart O
+familymart O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . I-vi_tri
 82 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Chả B-san_pham
+chả B-san_pham
 cá I-san_pham
 ốc I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ngày O
+ngày O
 hôm_qua O
 có O
 ghé O
@@ -3148,28 +3148,28 @@ lẩu B-san_pham
 ngon O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh B-san_pham
-Mì_Thịt_Chả_Đặc I-san_pham
-Biệt I-san_pham
+bánh B-san_pham
+mì_thịt_chả_đặc I-san_pham
+biệt I-san_pham
 : O
 giá O
 chỉ O
 29k B-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 32.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cả O
+cả O
 nhà O
 ơi O
 , O
@@ -3184,16 +3184,16 @@ ra_mắt O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 để O
 nhận O
 quà O
 nào O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cùng O
+cùng O
 nhau O
 chờ O
 đón O
@@ -3205,49 +3205,49 @@ ngày O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ghé O
-Bảy O
+ghé O
+bảy O
 hoặc O
 order O
-7NOW O
+7now O
 5 O
-Kem_Kido B-san_pham
+kem_kido B-san_pham
 cùng O
 loại O
 để O
 nhận O
 ngay O
-Túi_Giữ_Nhiệt B-san_pham
+túi_giữ_nhiệt B-san_pham
 bên O
-Bảy O
+bảy O
 nào O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-️Cháo B-san_pham
-Sườn_Sụn I-san_pham
+️cháo B-san_pham
+sườn_sụn I-san_pham
 đậm_đà O
 mà_lại O
 bổ_dưỡng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 1000 O
-SNACK B-san_pham
-BẮP I-san_pham
-KARAMUCHO I-san_pham
-VỊ I-san_pham
-TÔM I-san_pham
-CAY I-san_pham
+snack B-san_pham
+bắp I-san_pham
+karamucho I-san_pham
+vị I-san_pham
+tôm I-san_pham
+cay I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tranh_thủ O
+tranh_thủ O
 ăn_uống O
 " O
 healthy O
@@ -3255,24 +3255,24 @@ healthy O
 trước O
 khi O
 nghỉ O
-Tết O
+tết O
 với O
-Cơm_Ốp_La B-san_pham
+cơm_ốp_la B-san_pham
 2 I-san_pham
-Trứng I-san_pham
+trứng I-san_pham
 nào O
 cả O
 nhà O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 giá O
 dùng O
 thử O
 chỉ O
-30K B-gia_san_pham
+30k B-gia_san_pham
 , O
 ngại O
 gì O
@@ -3290,38 +3290,38 @@ cũng O
 " O
 này O
 của O
-Bảy O
+bảy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ️ O
-Địa_chỉ O
+địa_chỉ O
 : O
-SH B-vi_tri
+sh B-vi_tri
 05 I-vi_tri
 , O
-Conic_Riverside B-vi_tri
+conic_riverside B-vi_tri
 , O
-Lô_Ba B-vi_tri
+lô_ba B-vi_tri
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 7 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 8 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Trong O
+trong O
 tháng O
 4 O
 này O
 , O
 đến O
 với O
-FamilyMart O
+familymart O
 , O
 các O
 bạn O
@@ -3337,35 +3337,35 @@ một O
 sandwich B-san_pham
 ( O
 hoặc O
-Burger B-san_pham
+burger B-san_pham
 / O
-Goo-danish B-san_pham
+goo-danish B-san_pham
 ) O
 bất_kỳ O
 và O
 một O
 chai B-san_pham
-Pepsi I-san_pham
+pepsi I-san_pham
 400ml I-san_pham
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 30/06/2021 B-date
 . O
-Đeo O
+đeo O
 khẩu_trang O
 lên O
 rồi O
 ghé O
-Bảy O
+bảy O
 mua O
 ngay O
 hoặc O
 đặt_hàng O
 trên O
-7NOW O
+7now O
 giao O
 tới O
 tận O
@@ -3376,18 +3376,18 @@ tiếp_xúc O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Áp_dụng O
+áp_dụng O
 từ O
 14 B-date
 - O
 16/12/2018 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vòng O
+vòng O
 quay O
 thế_giới O
 “ O
@@ -3399,10 +3399,10 @@ nay O
 cùng O
 quay O
 về O
-Nhật_Bản O
+nhật_bản O
 để O
 thưởng_thức O
-Omusubi B-san_pham
+omusubi B-san_pham
 đậm O
 vị O
 truyền_thống O
@@ -3410,19 +3410,19 @@ thôi O
 nào O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 206 B-so_nha
-Xô_Viết_Nghệ_Tĩnh B-ten_duong
+xô_viết_nghệ_tĩnh B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Còn O
+còn O
 chả B-san_pham
 cá I-san_pham
 ốc I-san_pham
@@ -3455,9 +3455,9 @@ thích O
 lắm O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 đôi O
 bàn_tay O
 khéo_léo O
@@ -3490,18 +3490,18 @@ lại O
 ngon O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Chung_Cư B-vi_tri
-Phú_Hoà I-vi_tri
+chung_cư B-vi_tri
+phú_hoà I-vi_tri
 - O
-Bình_Dương B-ten_tinh_thanh_pho
+bình_dương B-ten_tinh_thanh_pho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Áp O
+áp O
 dụng O
 duy_nhất O
 từ O
@@ -3511,14 +3511,14 @@ từ O
 31/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 1 O
-Túi_Tote B-san_pham
+túi_tote B-san_pham
 7 O
 - O
-Eleven O
+eleven O
 cực O
 " O
 cool O
@@ -3530,13 +3530,13 @@ từ O
 đồng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đến O
+đến O
 ngay O
 7 O
 - O
-Eleven O
+eleven O
 vừa O
 thoả O
 cơn O
@@ -3545,16 +3545,16 @@ vừa O
 được O
 tặng O
 ngay O
-TH B-san_pham
-True_Malt I-san_pham
+th B-san_pham
+true_malt I-san_pham
 chai O
 / O
 lon O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Dưới O
+dưới O
 đây O
 là O
 danh_sách O
@@ -3562,16 +3562,16 @@ hệ_thống O
 cửa_hàng O
 hiện_tại O
 của O
-FamilyMart O
+familymart O
 tại O
-TP. B-ten_tinh_thanh_pho
-HCM I-ten_tinh_thanh_pho
+tp. B-ten_tinh_thanh_pho
+hcm I-ten_tinh_thanh_pho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đặc_biệt O
+đặc_biệt O
 , O
 giá O
 chỉ O
@@ -3580,27 +3580,27 @@ từ O
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 210 B-so_nha
-B I-so_nha
+b I-so_nha
 / I-so_nha
 1 I-so_nha
-Cô B-ten_duong
-Bắc I-ten_duong
+cô B-ten_duong
+bắc I-ten_duong
 , O
-P B-ten_phuong_xa_thitran
-Cô I-ten_phuong_xa_thitran
-Giang I-ten_phuong_xa_thitran
+p B-ten_phuong_xa_thitran
+cô I-ten_phuong_xa_thitran
+giang I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Túi B-san_pham
+túi B-san_pham
 đựng I-san_pham
 viết I-san_pham
 : O
@@ -3608,11 +3608,11 @@ viết I-san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tải O
+tải O
 ứng_dụng O
-7Rewards O
+7rewards O
 để O
 nhận O
 trà B-san_pham
@@ -3620,15 +3620,15 @@ sữa I-san_pham
 ngay O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 30/04/2021 B-date
 . O
-Ghé_Bảy O
+ghé_bảy O
 ngay O
 hoặc O
 order O
-7NOW O
+7now O
 để O
 thưởng_thức O
 món O
@@ -3641,58 +3641,58 @@ thôi O
 nào O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 còn O
 3 O
 ngày O
 nữa O
 chương_trình O
-Sữa_Tươi B-san_pham
-Trân_Châu I-san_pham
-Đường I-san_pham
-Đen I-san_pham
+sữa_tươi B-san_pham
+trân_châu I-san_pham
+đường I-san_pham
+đen I-san_pham
 chỉ O
-10K B-gia_san_pham
+10k B-gia_san_pham
 với O
 200 O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 sẽ O
 kết_thúc O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giảm O
+giảm O
 40% B-muc_giam_gia
 khi O
 mua O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Năm O
+năm O
 nay O
 , O
 khi O
 mua_sắm O
 tại O
-FamilyMart O
+familymart O
 , O
 các O
 bạn O
 sẽ O
 được O
 một O
-Phiếu_Tích_Điểm O
+phiếu_tích_điểm O
 để O
 nhận O
 lịch B-san_pham
-Doraemon I-san_pham
+doraemon I-san_pham
 xinh_xắn O
 trang_trí O
 cho O
@@ -3705,9 +3705,9 @@ của O
 mình O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Túi B-san_pham
+túi B-san_pham
 vải I-san_pham
 canvas I-san_pham
 : O
@@ -3715,13 +3715,13 @@ canvas I-san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 quên O
 ưu_đãi O
-Đồng O
-Giá O
+đồng O
+giá O
 25k B-gia_san_pham
 chỉ O
 áp_dụng O
@@ -3731,87 +3731,87 @@ thôi O
 đó O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 210 B-so_nha
-B I-so_nha
+b I-so_nha
 / I-so_nha
 1 I-so_nha
-Cô B-ten_duong
-Bắc I-ten_duong
+cô B-ten_duong
+bắc I-ten_duong
 , O
-P B-ten_phuong_xa_thitran
-Cô I-ten_phuong_xa_thitran
-Giang I-ten_phuong_xa_thitran
+p B-ten_phuong_xa_thitran
+cô I-ten_phuong_xa_thitran
+giang I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
-Duy_nhất O
+duy_nhất O
 tại O
 cửa_hàng O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Cantavil_An_Phú I-vi_tri
+eleven_cantavil_an_phú I-vi_tri
 , O
-Số B-so_nha
+số B-so_nha
 1 I-so_nha
-Song_Hành B-ten_duong
+song_hành B-ten_duong
 , O
-Xa_lộ B-ten_thon_lang_todanpho
-Hà_Nội I-ten_thon_lang_todanpho
+xa_lộ B-ten_thon_lang_todanpho
+hà_nội I-ten_thon_lang_todanpho
 , O
-Phường B-ten_phuong_xa_thitran
-An_Phú I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+an_phú I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mì_Trộn_Trứng B-san_pham
+mì_trộn_trứng B-san_pham
 & I-san_pham
 amp I-san_pham
 ; I-san_pham
-Xúc_Xích I-san_pham
+xúc_xích I-san_pham
 và O
-7Up B-san_pham
+7up B-san_pham
 21 B-gia_san_pham
-K I-gia_san_pham
+k I-gia_san_pham
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-188E B-so_nha
-Phan_Văn_Trị B-ten_duong
+188e B-so_nha
+phan_văn_trị B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 12 I-ten_phuong_xa_thitran
 , O
-Q.Bình B-ten_quan_huyen_thanhpho
-Thạnh I-ten_quan_huyen_thanhpho
+q.bình B-ten_quan_huyen_thanhpho
+thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-QUÀ O
-TẶNG O
+quà O
+tặng O
 : O
 01 O
-VOUCHER O
+voucher O
 7 O
 - O
-ELEVEN O
-TRỊ_GIÁ O
-50K B-muc_giam_gia
+eleven O
+trị_giá O
+50k B-muc_giam_gia
 sẽ O
 dành O
 cho O
@@ -3829,10 +3829,10 @@ lựa_chọn O
 ngẫu_nhiên O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cư_dân O
-Botanica O
+cư_dân O
+botanica O
 ơi O
 , O
 cùng O
@@ -3843,7 +3843,7 @@ vui O
 cùng O
 7 O
 - O
-Eleven O
+eleven O
 vào O
 ngày O
 8/3/2019 B-date
@@ -3859,9 +3859,9 @@ khai_trương O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 28.000 B-gia_san_pham
 đ I-gia_san_pham
@@ -3872,9 +3872,9 @@ còn O
 đ I-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 17,000 B-gia_san_pham
 đ I-gia_san_pham
 cho O
@@ -3885,9 +3885,9 @@ siêu O
 chất_lượng O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bảy O
+bảy O
 chính O
 tức O
 tung O
@@ -3895,8 +3895,8 @@ món O
 ăn O
 siêu O
 phẩm O
-Mì_Cay_Bò_Sốt B-san_pham
-Tiêu I-san_pham
+mì_cay_bò_sốt B-san_pham
+tiêu I-san_pham
 thách_thức O
 vị_giác O
 fan O
@@ -3905,31 +3905,31 @@ mình O
 đây O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vòng B-san_pham
+vòng B-san_pham
 đeo I-san_pham
 tay I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Khi O
+khi O
 mua O
 3 O
 sản_phẩm O
 : O
-Coca-Cola B-san_pham
+coca-cola B-san_pham
 / O
-Sprite B-san_pham
+sprite B-san_pham
 / O
-Fanta B-san_pham
+fanta B-san_pham
 bất_kì O
 tại O
 cửa_hàng O
 7 O
 - O
-Eleven O
+eleven O
 sẽ O
 nhận O
 được O
@@ -3938,52 +3938,52 @@ vòng O
 quay O
 trên O
 ứng_dụng O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Danh_sách O
+danh_sách O
 những O
 cửa_hàng O
 có O
 bán O
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 203 B-so_nha
-Lê_Hồng_Phong B-ten_duong
+lê_hồng_phong B-ten_duong
 - O
-Bình_Dương B-ten_tinh_thanh_pho
+bình_dương B-ten_tinh_thanh_pho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mừng O
+mừng O
 ngày O
-Nhà_Giáo O
-Việt_Nam O
+nhà_giáo O
+việt_nam O
 20/11 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-BÁNH B-san_pham
-SỪNG I-san_pham
-TRÂU I-san_pham
-CÁ_NGỪ I-san_pham
-PHÔ_MAI I-san_pham
-NƯỚNG I-san_pham
+bánh B-san_pham
+sừng I-san_pham
+trâu I-san_pham
+cá_ngừ I-san_pham
+phô_mai I-san_pham
+nướng I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cả O
+cả O
 nhà O
 mình O
 đã O
@@ -3991,65 +3991,65 @@ chuẩn_bị O
 lương_thực O
 cho O
 trận O
-Việt_Nam O
+việt_nam O
 - O
-Malaysia O
+malaysia O
 ngày O
 11/12 B-date
 chưa O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-188E B-so_nha
-Phan_Văn_Trị B-ten_duong
+188e B-so_nha
+phan_văn_trị B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 12 I-ten_phuong_xa_thitran
 , O
-Q.Bình B-ten_quan_huyen_thanhpho
-Thạnh I-ten_quan_huyen_thanhpho
+q.bình B-ten_quan_huyen_thanhpho
+thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 598 B-so_nha
 - I-so_nha
 600 I-so_nha
-CMT8 B-ten_duong
+cmt8 B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 11 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ra_mắt O
+ra_mắt O
 28/2/2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hãy O
+hãy O
 thưởng_thức O
 hương_vị O
 các O
 món O
 ăn O
 truyền_thống O
-Nhật_Omusubi B-san_pham
+nhật_omusubi B-san_pham
 và O
 mì_ăn_liền B-san_pham
-Udon I-san_pham
+udon I-san_pham
 được O
 bán O
 tại O
-FamilyMart O
+familymart O
 để O
 chào_đón O
 một O
@@ -4059,15 +4059,15 @@ rất O
 riêng O
 theo O
 phong_cách O
-Nhật_Bản O
+nhật_bản O
 nhé O
 các O
 bạn O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Áp O
+áp O
 dụng O
 từ O
 : O
@@ -4076,26 +4076,26 @@ từ O
 31/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chúng_mình O
+chúng_mình O
 chuẩn_bị O
 ra_mắt O
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 tại O
 4 O
 cửa_hàng O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 ngay O
 1 O
-Cà_Phê B-san_pham
-Socola_Nescafé I-san_pham
+cà_phê B-san_pham
+socola_nescafé I-san_pham
 180ml I-san_pham
 khi O
 mua O
@@ -4103,18 +4103,18 @@ mua O
 sản_phẩm O
 7 B-san_pham
 - I-san_pham
-Select I-san_pham
+select I-san_pham
 bất_kì O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sandwich B-san_pham
+sandwich B-san_pham
 được O
 bán O
 tại O
-FamilyMart O
-Việt_Nam O
+familymart O
+việt_nam O
 không_chỉ O
 là O
 sản_phẩm O
@@ -4133,15 +4133,15 @@ số O
 trong O
 chuỗi O
 cửa_hàng O
-FamilyMart O
+familymart O
 trên O
 toàn O
 thế_giới O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Các O
+các O
 bạn O
 đã O
 lựa O
@@ -4161,43 +4161,43 @@ người O
 chưa O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Trà B-san_pham
-Tea I-san_pham
+trà B-san_pham
+tea I-san_pham
 + I-san_pham
-Oolong I-san_pham
+oolong I-san_pham
 350ml I-san_pham
 chỉ O
 2k B-gia_san_pham
 khi O
 mua O
-Cơm_Nắm B-san_pham
+cơm_nắm B-san_pham
 bất_kì I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-CH B-vi_tri
-Garden_Gate I-vi_tri
+ch B-vi_tri
+garden_gate I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Fan O
+fan O
 của O
 món O
 ăn O
 xứ O
-Mặt_Trời O
-Mọc O
+mặt_trời O
+mọc O
 chắc O
 không O
 còn O
 lạ O
 gì O
 món O
-Cơm_Nắm B-san_pham
+cơm_nắm B-san_pham
 vừa O
 ngon O
 vừa O
@@ -4206,16 +4206,16 @@ này O
 nhỉ O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Trade_Center I-vi_tri
+eleven_saigon_trade_center I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Trong O
+trong O
 thời_gian O
 từ O
 14/05 B-date
@@ -4224,7 +4224,7 @@ từ O
 , O
 hãy O
 ghé O
-FamilyMart O
+familymart O
 để O
 được O
 liền_tay O
@@ -4237,26 +4237,26 @@ mình O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 23 B-so_nha
-Lý_Long_Tường B-ten_duong
+lý_long_tường B-ten_duong
 , O
-Khu_phố B-ten_thon_lang_todanpho
-Garden_Plaza I-ten_thon_lang_todanpho
+khu_phố B-ten_thon_lang_todanpho
+garden_plaza I-ten_thon_lang_todanpho
 2 I-ten_thon_lang_todanpho
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phong I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phong I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Combo O
+combo O
 siêu O
 hot O
 này O
@@ -4270,11 +4270,11 @@ nữa O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 từ O
-11K B-gia_san_pham
+11k B-gia_san_pham
 để O
 thưởng_thức O
 được O
@@ -4283,48 +4283,48 @@ nước O
 uống O
 đậm O
 chất O
-Việt_Nam O
+việt_nam O
 thì O
 quá O
 tuyệt O
 rồi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 312 B-so_nha
-Điện_Biên_Phủ B-ten_duong
+điện_biên_phủ B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 1 O
-Mặt_Nạ B-san_pham
-Hazeline I-san_pham
+mặt_nạ B-san_pham
+hazeline I-san_pham
 và O
 1 O
-Trái_Dừa_GTJ B-san_pham
+trái_dừa_gtj B-san_pham
 với O
 hoá_đơn O
 từ O
-100K O
+100k O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhanh O
+nhanh O
 tay O
 tích O
 điểm O
 và O
 vào O
 mục O
-Voucher O
+voucher O
 đổi O
 lấy O
 voucher O
@@ -4333,26 +4333,26 @@ food O
 10k B-muc_giam_gia
 và I-muc_giam_gia
 karaoke B-san_pham
-Icool I-san_pham
+icool I-san_pham
 thôi O
 nào O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 10 I-ten_quan_huyen_thanhpho
 : O
-BB18 B-so_nha
-Trường_Sơn B-ten_duong
+bb18 B-so_nha
+trường_sơn B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 10 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Kàkà O
+kàkà O
 ( O
 ﾉ◕ヮ◕ O
 ) O
@@ -4360,19 +4360,19 @@ Kàkà O
 * O
 : O
 ・ﾟ✧ B-san_pham
-Ngon_Ngon_Lẩu I-san_pham
+ngon_ngon_lẩu I-san_pham
 của O
-Ad O
+ad O
 này O
 : O
 3 O
-Thix O
+thix O
 toá O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Từ O
+từ O
 nay O
 bạn O
 có_thể O
@@ -4391,12 +4391,12 @@ hệ_thống O
 cửa_hàng O
 trên O
 khắp O
-TP.HCM. B-ten_tinh_thanh_pho
-Tìm O
+tp.hcm. B-ten_tinh_thanh_pho
+tìm O
 cửa_hàng O
 7 O
 - O
-ELeven O
+eleven O
 gần O
 bạn O
 nhất O
@@ -4405,9 +4405,9 @@ tại O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sản_phẩm O
+sản_phẩm O
 được O
 bán O
 ở O
@@ -4419,127 +4419,127 @@ ngày O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Danh_sách O
+danh_sách O
 những O
 cửa_hàng O
 có O
 bán O
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hoa O
+hoa O
 hậu O
 : O
-Sữa_tươi B-san_pham
+sữa_tươi B-san_pham
 trân_châu I-san_pham
 đường I-san_pham
 đen I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Uống O
+uống O
 thả O
 ga O
 với O
 deal O
 xịn O
-MUA O
+mua O
 2 O
-ĐƯỢC O
+được O
 3 O
-MACCHIATO B-san_pham
+macchiato B-san_pham
 bất O
 kì O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 20 B-so_nha
-Lê_Thánh_Tôn B-ten_duong
+lê_thánh_tôn B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
-Áp_dụng O
+áp_dụng O
 từ O
 21 B-date
 - O
 23/12/2018 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa O
+địa O
 chỉ O
 : O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Sài_Gòn_Avenue I-vi_tri
+eleven_sài_gòn_avenue I-vi_tri
 - I-vi_tri
-SH09 I-vi_tri
+sh09 I-vi_tri
 , O
-Đường B-ten_duong
+đường B-ten_duong
 số I-ten_duong
 11 I-ten_duong
 , O
-P.Tam B-ten_phuong_xa_thitran
-Bình I-ten_phuong_xa_thitran
+p.tam B-ten_phuong_xa_thitran
+bình I-ten_phuong_xa_thitran
 , O
-TP. B-ten_quan_huyen_thanhpho
-Thủ_Đức I-ten_quan_huyen_thanhpho
+tp. B-ten_quan_huyen_thanhpho
+thủ_đức I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-L B-vi_tri
+l B-vi_tri
 1.04 I-vi_tri
-Rivergate_Residence I-vi_tri
+rivergate_residence I-vi_tri
 , O
 151-155 B-so_nha
-Bến_Vân_Đồn B-ten_duong
+bến_vân_đồn B-ten_duong
 , I-ten_duong
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 4 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giảm O
+giảm O
 40% B-muc_giam_gia
 khi O
 mua O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mì B-san_pham
-Satsuma-age I-san_pham
-Ramen I-san_pham
+mì B-san_pham
+satsuma-age I-san_pham
+ramen I-san_pham
 ~ O
-Mì B-san_pham
+mì B-san_pham
 chả I-san_pham
 cá I-san_pham
-Nhật I-san_pham
+nhật I-san_pham
 mới_toanh O
 vừa O
 xuất_hiện O
@@ -4547,14 +4547,14 @@ tại O
 tất_cả O
 các O
 cửa_hàng O
-MINISTOP O
+ministop O
 nah O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-️Cháo B-san_pham
-Mực_Tiêu_Xanh I-san_pham
+️cháo B-san_pham
+mực_tiêu_xanh I-san_pham
 ngọt O
 nước O
 , O
@@ -4565,33 +4565,33 @@ vị O
 tiêu O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 27.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
-Áp_dụng O
+áp_dụng O
 từ O
 28 B-date
 - O
 30/12/2018 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Rau_Câu B-san_pham
-Dừa I-san_pham
+rau_câu B-san_pham
+dừa I-san_pham
 và O
-Rau_Câu B-san_pham
-Sâm I-san_pham
-Bổ_Lượng I-san_pham
+rau_câu B-san_pham
+sâm I-san_pham
+bổ_lượng I-san_pham
 được O
 làm O
 hoàn_toàn O
@@ -4611,25 +4611,25 @@ giòn O
 sần_sật O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 cần O
 ghé O
 7 O
 - O
-Eleven O
+eleven O
 mua O
 2 O
 cây O
-Kem_Cornetto B-san_pham
+kem_cornetto B-san_pham
 bất_kì O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Thời_gian O
+thời_gian O
 diễn O
 ra O
 từ O
@@ -4640,41 +4640,41 @@ ngày O
 26/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-L B-vi_tri
+l B-vi_tri
 1.04 I-vi_tri
-Rivergate_Residence I-vi_tri
+rivergate_residence I-vi_tri
 , O
 151-155 B-so_nha
-Bến_Vân_Đồn B-ten_duong
+bến_vân_đồn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 4 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 918 B-so_nha
-Nguyễn_Trãi B-ten_duong
+nguyễn_trãi B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 5 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nạp O
+nạp O
 đầy O
 năng_lượng O
 với O
-BÁNH_MÌ B-san_pham
-THỊT I-san_pham
-CHẢ I-san_pham
+bánh_mì B-san_pham
+thịt I-san_pham
+chả I-san_pham
 cho O
 bữa O
 sáng O
@@ -4683,14 +4683,14 @@ tiện O
 lợi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Món O
+món O
 mới O
 với O
 ưu_đãi O
-Giá O
+giá O
 dùng O
 thử O
 chỉ O
@@ -4701,15 +4701,15 @@ từ O
 30/04/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Oishi_Snack_Bắp B-san_pham
+oishi_snack_bắp B-san_pham
 16g I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Để O
+để O
 cám_ơn O
 sự O
 ủng_hộ O
@@ -4723,7 +4723,7 @@ suốt O
 thời_gian O
 qua O
 , O
-Bảy O
+bảy O
 tung O
 ngay O
 ưu_đãi O
@@ -4738,13 +4738,13 @@ tới O
 50% B-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 lo O
 nữa O
 vì O
-Bảy O
+bảy O
 hết_sức O
 tâm_lý O
 khi O
@@ -4752,7 +4752,7 @@ tặng O
 cho O
 các O
 fan O
-Túi_Giữ_Nhiệt B-san_pham
+túi_giữ_nhiệt B-san_pham
 giúp O
 giữ O
 kem B-san_pham
@@ -4769,21 +4769,21 @@ mọi O
 nơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chào O
+chào O
 buổi O
 sáng O
 năng_lượng O
 với O
-Bánh_Mì B-san_pham
-Ốp_La I-san_pham
+bánh_mì B-san_pham
+ốp_la I-san_pham
 2 I-san_pham
-Trứng I-san_pham
+trứng I-san_pham
 , O
 thêm O
 ly O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 nữa O
 thì O
 đảm_bảo O
@@ -4793,13 +4793,13 @@ tỉnh_táo O
 nha O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Combo_Món_Hấp B-san_pham
+combo_món_hấp B-san_pham
 và O
-Trà B-san_pham
+trà B-san_pham
 - O
-Ăn O
+ăn O
 sáng O
 hay O
 ăn O
@@ -4810,9 +4810,9 @@ kê O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Duy_nhất O
+duy_nhất O
 tại O
 3 O
 chi_nhánh O
@@ -4820,50 +4820,50 @@ chi_nhánh O
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Thảo_Điền I-vi_tri
+eleven_thảo_điền I-vi_tri
 : O
 31 B-so_nha
-Thảo_Điền B-ten_duong
+thảo_điền B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Thảo_Điền I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+thảo_điền I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Quốc_Hương I-vi_tri
+eleven_quốc_hương I-vi_tri
 : O
 16 B-so_nha
-Quốc_Hương B-ten_duong
+quốc_hương B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Thảo_Điền I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+thảo_điền I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 : O
-S06 B-vi_tri
-Shophouse_Saigon_Pearl I-vi_tri
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
 , O
 92 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 không O
 đổi O
 chỉ O
@@ -4900,36 +4900,36 @@ bàn O
 luôn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Vinhomes_Central_Park I-vi_tri
+eleven_vinhomes_central_park I-vi_tri
 , O
-Park B-so_nha
+park B-so_nha
 6 I-so_nha
 . I-so_nha
 208 I-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Twin_Pack_Lon_Pepsi B-san_pham
+twin_pack_lon_pepsi B-san_pham
 1,5 I-san_pham
-L I-san_pham
+l I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Có_mặt O
+có_mặt O
 tại O
 10 O
 cửa_hàng O
@@ -4937,58 +4937,58 @@ cửa_hàng O
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Lê_Lợi I-vi_tri
+eleven_lê_lợi I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Quốc_Hương I-vi_tri
+eleven_quốc_hương I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Thảo_Điền I-vi_tri
+eleven_thảo_điền I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Gold_House I-vi_tri
+eleven_gold_house I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Tôn_Thất_Tùng I-vi_tri
+eleven_tôn_thất_tùng I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Du I-vi_tri
+eleven I-vi_tri
+nguyễn_du I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Hậu_Giang I-vi_tri
+eleven_hậu_giang I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Crescent_Residence I-vi_tri
+eleven_crescent_residence I-vi_tri
 1 I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Tôn_Dật_Tiên I-vi_tri
+eleven_tôn_dật_tiên I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Miễn_phí O
+miễn_phí O
 1 O
 chai O
 / O
 lon O
-TH B-san_pham
-True_Malt I-san_pham
+th B-san_pham
+true_malt I-san_pham
 ( O
 500 O
 ml O
@@ -5000,35 +5000,35 @@ các O
 sản_phẩm O
 7 O
 - O
-SELECT O
+select O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mua_sắm O
+mua_sắm O
 thả O
 ga O
 mỗi O
 ngày O
 cùng O
-EVERYDAY O
-VALUE O
-DEALS O
-GIẢM O
-ĐẾN O
+everyday O
+value O
+deals O
+giảm O
+đến O
 50% B-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mỗi O
+mỗi O
 sáng O
 nghĩ O
 đến O
-Bánh_Mì B-san_pham
-Ốp_La I-san_pham
+bánh_mì B-san_pham
+ốp_la I-san_pham
 2 I-san_pham
-Trứng I-san_pham
+trứng I-san_pham
 là O
 chỉ O
 muốn O
@@ -5039,27 +5039,27 @@ ngay O
 ra O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-66C B-so_nha
-Phó B-ten_duong
-Đức_Chính I-ten_duong
+66c B-so_nha
+phó B-ten_duong
+đức_chính I-ten_duong
 , O
-P.Nguyễn B-ten_phuong_xa_thitran
-Thái_Bình I-ten_phuong_xa_thitran
+p.nguyễn B-ten_phuong_xa_thitran
+thái_bình I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Có_mặt O
+có_mặt O
 tại O
 10 O
 cửa_hàng O
@@ -5067,84 +5067,84 @@ cửa_hàng O
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Lê_Lợi I-vi_tri
+eleven_lê_lợi I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Quốc_Hương I-vi_tri
+eleven_quốc_hương I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Thảo_Điền I-vi_tri
+eleven_thảo_điền I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Gold_House I-vi_tri
+eleven_gold_house I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Tôn_Thất_Tùng I-vi_tri
+eleven_tôn_thất_tùng I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Du I-vi_tri
+eleven I-vi_tri
+nguyễn_du I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Hậu_Giang I-vi_tri
+eleven_hậu_giang I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Crescent_Residence I-vi_tri
+eleven_crescent_residence I-vi_tri
 1 I-vi_tri
 . O
 7 B-san_pham
 - I-san_pham
-Eleven_Tôn_Dật_Tiên I-san_pham
+eleven_tôn_dật_tiên I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bạn O
+bạn O
 chỉ O
 cần O
 mua O
-Gà B-san_pham
-Rán I-san_pham
+gà B-san_pham
+rán I-san_pham
 , O
-Pepsi B-san_pham
+pepsi B-san_pham
 cứ O
 để O
 7 O
 - O
-Eleven O
+eleven O
 lo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Từ O
+từ O
 : O
 01 B-date
 - O
 31/07/2020 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Á O
+á O
 hậu O
 1 O
 : O
-Trà B-san_pham
+trà B-san_pham
 sữa I-san_pham
 trân_châu I-san_pham
 đường I-san_pham
@@ -5153,9 +5153,9 @@ trân_châu I-san_pham
 trắng I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh_mì B-san_pham
+bánh_mì B-san_pham
 xốp I-san_pham
 sôcôla I-san_pham
 – O
@@ -5167,39 +5167,39 @@ ngày O
 bận_rộn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 82 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nigirizushi_Lươn B-san_pham
+nigirizushi_lươn B-san_pham
 nướng I-san_pham
 sốt I-san_pham
-Kabayaki I-san_pham
+kabayaki I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tích_luỹ O
+tích_luỹ O
 6 O
 ly O
-Cà_Phê B-san_pham
-Bean-to-Cup I-san_pham
+cà_phê B-san_pham
+bean-to-cup I-san_pham
 để O
 nhận O
 ngay O
@@ -5208,54 +5208,54 @@ ly O
 miễn_phí O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-S06 B-vi_tri
-Shophouse_Saigon_Pearl I-vi_tri
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
 , O
 92 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 400 B-so_nha
-Lê_Văn_Sỹ B-ten_duong
+lê_văn_sỹ B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Tân_Bình I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+tân_bình I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
-19K B-gia_san_pham
+chỉ O
+19k B-gia_san_pham
 , O
 một O
 bước O
 gần O
 hơn O
 với O
-Trái_Đất O
+trái_đất O
 xanh O
 cùng O
-TÚI B-san_pham
-TÁI_SỬ_DỤNG I-san_pham
+túi B-san_pham
+tái_sử_dụng I-san_pham
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Dù_cho O
+dù_cho O
 bạn O
 là O
 fan O
@@ -5282,7 +5282,7 @@ chuối O
 thơm O
 mát O
 thì O
-Bảy O
+bảy O
 cũng O
 đều O
 cân O
@@ -5290,9 +5290,9 @@ cân O
 hết O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tín O
+tín O
 đồ O
 trà B-san_pham
 sữa I-san_pham
@@ -5301,9 +5301,9 @@ vào O
 nà O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đã O
+đã O
 vậy O
 còn O
 được O
@@ -5317,9 +5317,9 @@ ngay O
 thôi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hai O
+hai O
 món O
 bánh B-san_pham
 " O
@@ -5327,7 +5327,7 @@ hot O
 " O
 nhất O
 mùa O
-Giáng_Sinh O
+giáng_sinh O
 sắp O
 tới O
 đã O
@@ -5338,30 +5338,30 @@ nhà O
 ơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 126 B-so_nha
-Lý_Tự_Trọng B-ten_duong
+lý_tự_trọng B-ten_duong
 , O
-P.Bến B-ten_phuong_xa_thitran
-Thành I-ten_phuong_xa_thitran
+p.bến B-ten_phuong_xa_thitran
+thành I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 220.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Pad_Thai B-san_pham
+pad_thai B-san_pham
 – O
 “ O
 đại_diện O
@@ -5370,49 +5370,49 @@ Pad_Thai B-san_pham
 của O
 xứ_sở O
 chùa O
-Vàng O
+vàng O
 nay O
 đã O
 “ O
 cập O
 bến O
 ” O
-FamilyMart O
+familymart O
 rồi_đây O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cùng O
+cùng O
 chào_đón O
 1 O
 thành_viên O
 đặc_biệt O
 trong O
 đại_gia_đình O
-FamilyMart O
+familymart O
 - O
-Cửa_hàng O
+cửa_hàng O
 đầu_tiên O
 của O
-FamilyMart O
+familymart O
 tại O
-Bình_Dương B-ten_tinh_thanh_pho
+bình_dương B-ten_tinh_thanh_pho
 , O
 được O
 toạ_lạc O
 tại O
 khu B-vi_tri
-Trung_Tâm I-vi_tri
-Hành_Chính I-vi_tri
-Thành_Phố I-vi_tri
-Mới_Bình_Dương I-vi_tri
+trung_tâm I-vi_tri
+hành_chính I-vi_tri
+thành_phố I-vi_tri
+mới_bình_dương I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cà_phê B-san_pham
-Birdy I-san_pham
+cà_phê B-san_pham
+birdy I-san_pham
 lon I-san_pham
 sẽ O
 mang O
@@ -5434,21 +5434,21 @@ dài O
 đấy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 162 B-so_nha
-D2 B-ten_duong
+d2 B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 25 I-ten_phuong_xa_thitran
 , O
-Q.Bình B-ten_quan_huyen_thanhpho
-Thạnh I-ten_quan_huyen_thanhpho
+q.bình B-ten_quan_huyen_thanhpho
+thạnh I-ten_quan_huyen_thanhpho
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vừa O
+vừa O
 được O
 ăn O
 kem B-gia_san_pham
@@ -5458,7 +5458,7 @@ vừa O
 có O
 quà O
 tặng O
-Gấu O
+gấu O
 thì O
 còn O
 gì O
@@ -5466,15 +5466,15 @@ bằng O
 nhỉ O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 O
 - O
-Eleven O
+eleven O
 ra_mắt O
 siêu O
 phẩm O
-Sữa_tươi B-san_pham
+sữa_tươi B-san_pham
 trân_châu I-san_pham
 đường I-san_pham
 đen I-san_pham
@@ -5485,33 +5485,33 @@ bạn O
 đây O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giáng O
+giáng O
 sinh O
 lung_linh O
-Pepsi B-san_pham
+pepsi B-san_pham
 hết I-san_pham
 mình O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-CHI O
-TIẾT O
-CHƯƠNG_TRÌNH O
+chi O
+tiết O
+chương_trình O
 : O
 . O
 1 O
-️⃣HOÀN O
-TIỀN O
+️⃣hoàn O
+tiền O
 50% B-muc_giam_gia
 , O
-TỐI_ĐA O
-20K B-muc_giam_gia
+tối_đa O
+20k B-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 9h O
 sáng O
@@ -5520,7 +5520,7 @@ ngày_mai O
 2/4 B-date
 ) O
 , O
-FamilyMart O
+familymart O
 tiếp_tục O
 đưa O
 cửa_hàng O
@@ -5528,48 +5528,48 @@ mới O
 vào O
 hoạt_động O
 tại O
-Tầng O
+tầng O
 trệt O
 cao_ốc B-vi_tri
 căn_hộ I-vi_tri
 thương_mại I-vi_tri
-Tản_Đà I-vi_tri
+tản_đà I-vi_tri
 , O
 86 B-so_nha
-Tản_Đà B-ten_duong
+tản_đà B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 11 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 5 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-The B-vi_tri
-Sun_Avenue I-vi_tri
+the B-vi_tri
+sun_avenue I-vi_tri
 6 I-vi_tri
 , O
 28 B-so_nha
-Mai_Chí_Thọ B-ten_duong
+mai_chí_thọ B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-An_Phú I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+an_phú I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bình_Dương B-ten_tinh_thanh_pho
+bình_dương B-ten_tinh_thanh_pho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thử O
+thử O
 ngay O
 combo O
 đặc_biệt O
@@ -5578,41 +5578,41 @@ duy_nhất O
 tại O
 7 B-vi_tri
 - I-vi_tri
-Eleven_The_Lancaster I-vi_tri
+eleven_the_lancaster I-vi_tri
 , O
 22 B-so_nha
-Lê_Thánh_Tôn B-ten_duong
+lê_thánh_tôn B-ten_duong
 , O
 quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thực_đơn O
+thực_đơn O
 món B-san_pham
 hấp I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 1 O
-Sting B-san_pham
+sting B-san_pham
 dâu I-san_pham
 chai I-san_pham
 390ml I-san_pham
 khi O
 mua O
 1 O
-Poca B-san_pham
+poca B-san_pham
 95g I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hãy O
+hãy O
 cùng O
 thưởng_thức O
 café B-san_pham
@@ -5629,12 +5629,12 @@ bạn O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Một O
+một O
 ly O
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 để O
 có O
 một O
@@ -5648,32 +5648,32 @@ nhé O
 ️ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Sky_Garden B-vi_tri
+sky_garden B-vi_tri
 , O
 số O
 20 B-so_nha
-Lê_Thánh_Tôn B-ten_duong
+lê_thánh_tôn B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh B-san_pham
-Kit-Kat I-san_pham
+bánh B-san_pham
+kit-kat I-san_pham
 , O
-Kẹo_Bông_Gòn B-san_pham
+kẹo_bông_gòn B-san_pham
 , O
-Kẹp_Dẻo B-san_pham
+kẹp_dẻo B-san_pham
 , O
-Bánh_Que B-san_pham
+bánh_que B-san_pham
 cùng O
 nhiều O
 quà O
@@ -5683,9 +5683,9 @@ hấp_dẫn O
 chờ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thêm O
+thêm O
 1 O
 cây O
 kem B-san_pham
@@ -5700,9 +5700,9 @@ miệng O
 nah O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhận O
+nhận O
 ngay O
 1 O
 lượt O
@@ -5711,12 +5711,12 @@ với O
 hoá_đơn O
 chỉ O
 từ O
-80K O
+80k O
 để O
 có O
 cơ_hội O
 trúng O
-Bình_Nước B-san_pham
+bình_nước B-san_pham
 tiện_dụng O
 , O
 vừa O
@@ -5735,14 +5735,14 @@ một O
 lần O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 ngay O
-Túi_Tote B-san_pham
+túi_tote B-san_pham
 7 O
 - O
-Eleven O
+eleven O
 dễ_thương O
 với O
 hoá_đơn O
@@ -5751,16 +5751,16 @@ từ O
 đ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Theo O
+theo O
 khảo_sát O
 của O
-Công_ty O
+công_ty O
 nghiên_cứu O
 thị_trường O
-GCOMM O
+gcomm O
 về O
 mức_độ O
 hài_lòng O
@@ -5772,63 +5772,63 @@ các O
 đặt O
 món O
 tại O
-TP. B-ten_tinh_thanh_pho
-HCM I-ten_tinh_thanh_pho
+tp. B-ten_tinh_thanh_pho
+hcm I-ten_tinh_thanh_pho
 và O
-Hà_Nội B-ten_tinh_thanh_pho
+hà_nội B-ten_tinh_thanh_pho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sữa_Tươi B-san_pham
-Trân_Châu I-san_pham
-Đường I-san_pham
-Đen I-san_pham
-10K B-gia_san_pham
+sữa_tươi B-san_pham
+trân_châu I-san_pham
+đường I-san_pham
+đen I-san_pham
+10k B-gia_san_pham
 đã O
 trở_lại O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 82 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-ĐOÁN O
-TÊN O
+đoán O
+tên O
 : O
-MÓN O
-THỨC O
-UỐNG O
-SẮP O
-RA_MẮT O
-VÀO O
-NGÀY O
+món O
+thức O
+uống O
+sắp O
+ra_mắt O
+vào O
+ngày O
 19/04/2021 B-date
 tại O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Miến_Măng_Gà B-san_pham
+miến_măng_gà B-san_pham
 mới O
 ra_mắt O
 mà O
@@ -5845,27 +5845,27 @@ nhà O
 mình O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-TẶNG O
+tặng O
 ngay O
 1 O
-Chai_Trà_Sữa B-san_pham
-C2 I-san_pham
-Đài_Loan I-san_pham
+chai_trà_sữa B-san_pham
+c2 I-san_pham
+đài_loan I-san_pham
 260ml I-san_pham
 khi O
-MUA O
+mua O
 1 O
-Bánh_Tươi_Angel_Smile B-san_pham
+bánh_tươi_angel_smile B-san_pham
 / O
-Fresh_Garden B-san_pham
+fresh_garden B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Gà B-san_pham
-Rán I-san_pham
+gà B-san_pham
+rán I-san_pham
 giòn_rụm O
 ăn O
 kèm O
@@ -5876,9 +5876,9 @@ dẻo O
 thơm O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mùa_Hè O
+mùa_hè O
 sẽ O
 không O
 còn O
@@ -5886,24 +5886,24 @@ nóng_nực O
 khi O
 ừng_ực O
 series O
-Trà B-san_pham
-Trái_Cây I-san_pham
+trà B-san_pham
+trái_cây I-san_pham
 mát O
 lạnh O
 này O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chương_trình O
+chương_trình O
 áp_dụng O
 trong O
 tháng O
 05/2021. B-date
-Mau O
+mau O
 mau O
 đến O
-Bảy O
+bảy O
 để O
 xem O
 may_mắn O
@@ -5914,17 +5914,17 @@ bạn O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thời_gian O
+thời_gian O
 chi_tiết O
 ngày O
 03.05.2018 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sau O
+sau O
 khi O
 hấp O
 nóng O
@@ -5939,7 +5939,7 @@ nhâm_nhi O
 thêm O
 ly O
 01 O
-Sữa_Đậu_Nành B-san_pham
+sữa_đậu_nành B-san_pham
 mát O
 lạnh O
 nữa O
@@ -5952,9 +5952,9 @@ chất_lượng O
 nè️ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cà_phê B-san_pham
+cà_phê B-san_pham
 nhé O
 ! O
 o O
@@ -5967,32 +5967,32 @@ o O
 ) O
 o O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thời_gian O
+thời_gian O
 áp_dụng O
 đến O
 31/12/2018 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bạn O
+bạn O
 có O
 biết O
-Bánh B-san_pham
-Mì_Việt I-san_pham
+bánh B-san_pham
+mì_việt I-san_pham
 và O
-️Cà B-san_pham
-Phê_Ý I-san_pham
+️cà B-san_pham
+phê_ý I-san_pham
 là O
 một O
 sự O
@@ -6001,12 +6001,12 @@ rất O
 hoàn_hảo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nước B-san_pham
+nước B-san_pham
 trái_cây I-san_pham
 lên_men I-san_pham
-Strongbow I-san_pham
+strongbow I-san_pham
 với O
 hương_vị O
 thơm O
@@ -6022,78 +6022,78 @@ fan O
 mê O
 tiệc_tùng O
 nhà O
-Bảy O
+bảy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Áp_dụng O
+áp_dụng O
 cho O
 những O
 cửa_hàng O
 có O
 sản_phẩm O
-Sữa_Đậu_Nành B-san_pham
+sữa_đậu_nành B-san_pham
 : O
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Trade_Center I-vi_tri
+eleven_saigon_trade_center I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Central I-vi_tri
+eleven_central I-vi_tri
 1 I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Landmark I-vi_tri
+eleven_landmark I-vi_tri
 1 I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Park I-vi_tri
+eleven_park I-vi_tri
 6 I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Chợ_Rẫy I-vi_tri
+eleven_chợ_rẫy I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Crescent_Residence I-vi_tri
+eleven_crescent_residence I-vi_tri
 1 I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Tôn_Thất_Tùng I-vi_tri
+eleven_tôn_thất_tùng I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Gold_House I-vi_tri
+eleven_gold_house I-vi_tri
 . O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Rivergate I-vi_tri
+eleven_rivergate I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-MÌ B-san_pham
-CAY I-san_pham
-BÒ I-san_pham
-SỐT I-san_pham
-TIÊU I-san_pham
+mì B-san_pham
+cay I-san_pham
+bò I-san_pham
+sốt I-san_pham
+tiêu I-san_pham
 ngon O
 bùng O
 cháy O
@@ -6102,12 +6102,12 @@ ra O
 mắt O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hệ_thống O
+hệ_thống O
 cửa_hàng O
 tiện_lợi O
-FamilyMart O
+familymart O
 tiếp_tục O
 đưa O
 cửa_hàng O
@@ -6117,14 +6117,14 @@ vào O
 hoạt_động O
 tại O
 địa_chỉ O
-297D B-so_nha
-Bùi_Hữu_Nghĩa B-ten_duong
+297d B-so_nha
+bùi_hữu_nghĩa B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 1 I-ten_phuong_xa_thitran
 , O
-Q.Bình B-ten_quan_huyen_thanhpho
-Thạnh I-ten_quan_huyen_thanhpho
+q.bình B-ten_quan_huyen_thanhpho
+thạnh I-ten_quan_huyen_thanhpho
 vào O
 9h O
 sáng_mai O
@@ -6134,45 +6134,45 @@ sáng_mai O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-PARTY O
+party O
 năm O
 mới O
 - O
 “ O
-ĐÃ O
+đã O
 ” O
 với O
-PEPSI B-san_pham
+pepsi B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 20 B-so_nha
-Lê_Thánh_Tôn B-ten_duong
+lê_thánh_tôn B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
+eleven I-vi_tri
 - I-vi_tri
-The_Lancaster I-vi_tri
+the_lancaster I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Minigame O
+minigame O
 sẽ O
 kết_thúc O
 vào O
@@ -6188,17 +6188,17 @@ vào O
 14/06/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thơm O
+thơm O
 ngào_ngạt O
-MÓN O
-MỚI O
+món O
+mới O
 : O
-XÔI B-san_pham
-GÀ I-san_pham
-XÀO I-san_pham
-HÚNG_QUẾ I-san_pham
+xôi B-san_pham
+gà I-san_pham
+xào I-san_pham
+húng_quế I-san_pham
 mang O
 hương_vị O
 đậm_đà O
@@ -6206,12 +6206,12 @@ khó O
 quên O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Uống O
+uống O
 cùng O
-Pepsi B-san_pham
-Cola I-san_pham
+pepsi B-san_pham
+cola I-san_pham
 mát O
 lạnh O
 giảm O
@@ -6228,11 +6228,11 @@ mlem O
 luôn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh_Ngọt B-san_pham
+bánh_ngọt B-san_pham
 và O
-Sữa B-san_pham
+sữa B-san_pham
 luôn O
 là O
 combo O
@@ -6244,9 +6244,9 @@ ngày O
 năng_lượng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bên O
+bên O
 cạnh O
 phần O
 bún O
@@ -6263,7 +6263,7 @@ tại O
 cửa_hàng O
 ) O
 , O
-Ngon_Ngon_Lẩu B-san_pham
+ngon_ngon_lẩu B-san_pham
 đem O
 đến O
 cho O
@@ -6276,9 +6276,9 @@ bao_gồm O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ngày O
+ngày O
 dài O
 năng_động O
 với O
@@ -6291,12 +6291,12 @@ thử O
 chưa O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Menu_Trái_Cây_Cắt O
-Sẵn O
+menu_trái_cây_cắt O
+sẵn O
 nhà O
-Bảy O
+bảy O
 đã O
 được O
 đa_dạng O
@@ -6305,18 +6305,18 @@ với O
 sự O
 ra_mắt O
 của O
-Thanh_Long B-san_pham
-Ruột_Đỏ I-san_pham
+thanh_long B-san_pham
+ruột_đỏ I-san_pham
 mọng O
 nước O
 , O
 mát_rượi O
 , O
-Ổi_Ruột_Trắng B-san_pham
+ổi_ruột_trắng B-san_pham
 giòn_tan O
 cho O
 đến O
-Đu_Đủ B-san_pham
+đu_đủ B-san_pham
 ngọt O
 dịu O
 , O
@@ -6327,13 +6327,13 @@ ngon O
 quy_tụ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ta O
+ta O
 daaa O
 , O
-Bánh_Mì B-san_pham
-Nem_Nướng I-san_pham
+bánh_mì B-san_pham
+nem_nướng I-san_pham
 đã O
 chính_thức O
 lên O
@@ -6343,42 +6343,42 @@ nhà O
 ơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Và O
+và O
 các O
 chủ_nhân O
 của O
 07 O
-CHIẾC O
-LOA B-san_pham
-JBL I-san_pham
+chiếc O
+loa B-san_pham
+jbl I-san_pham
 là O
 ài O
 ai_ai O
 ái O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thoảng O
+thoảng O
 vị O
-Địa_Trung_Hải O
+địa_trung_hải O
 với O
-YO-CRUZ B-san_pham
-ĐÀO I-san_pham
-VÀNG I-san_pham
-HY_LẠP I-san_pham
+yo-cruz B-san_pham
+đào I-san_pham
+vàng I-san_pham
+hy_lạp I-san_pham
 - O
-MÓN O
-MỚI O
+món O
+mới O
 nhà O
-Bảy O
+bảy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Món O
+món O
 ăn O
 có_thể O
 được O
@@ -6391,70 +6391,70 @@ cà I-san_pham
 tương_ớt B-san_pham
 hoặc O
 sốt B-san_pham
-Mayonnaise I-san_pham
+mayonnaise I-san_pham
 để O
 thêm O
 phần O
 đậm_đà O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Cá B-san_pham
+cá B-san_pham
 viên I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tỉnh_táo O
+tỉnh_táo O
 gấp O
 50% O
 với O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 7 O
 - O
-Eleven O
+eleven O
 ly O
 lớn O
 mà O
 chỉ O
 thêm O
 có O
-4K O
+4k O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bữa O
+bữa O
 ăn O
 đầy O
 tiện_lợi O
 với O
 : O
-CƠM B-san_pham
-NẮM I-san_pham
-HƯƠNG_VỊ O
-MỚI O
+cơm B-san_pham
+nắm I-san_pham
+hương_vị O
+mới O
 vừa O
 lên O
 kệ O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Từ O
-Trà B-san_pham
-Đào_Cam_Sả I-san_pham
+từ O
+trà B-san_pham
+đào_cam_sả I-san_pham
 đầy O
-Vitamin_C O
+vitamin_c O
 , O
-Lục_Trà_Vải_Nha B-san_pham
-Đam I-san_pham
+lục_trà_vải_nha B-san_pham
+đam I-san_pham
 chua_chua O
 , O
 ngọt O
@@ -6466,13 +6466,13 @@ ghiền O
 , O
 cho O
 đến O
-Lục_Trà_Thạch_Xoài B-san_pham
+lục_trà_thạch_xoài B-san_pham
 thơm_lừng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mua O
+mua O
 ngay O
 đi O
 - O
@@ -6480,36 +6480,36 @@ trước O
 khi O
 – O
 “ O
-Hảo_Hảo B-san_pham
+hảo_hảo B-san_pham
 ” O
 dần_dần O
 vơi O
 đi O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Lexington B-vi_tri
+lexington B-vi_tri
 ( O
 67 B-so_nha
-Mai_Chí_Thọ B-ten_duong
+mai_chí_thọ B-ten_duong
 ) O
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Quà O
+quà O
 được O
 trao O
 tại O
-TP.HCM. B-ten_tinh_thanh_pho
+tp.hcm. B-ten_tinh_thanh_pho
 - O
-Và O
+và O
 trong O
 mọi O
 trường_hợp O
@@ -6524,47 +6524,47 @@ quyết_định O
 cuối_cùng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giải O
+giải O
 nhiệt O
 cùng O
-Đại_Tiệc O
-Kem_GIẢM_ĐẾN O
+đại_tiệc O
+kem_giảm_đến O
 50% B-muc_giam_gia
 + O
-RINH O
-LOA B-san_pham
-JBL I-san_pham
+rinh O
+loa B-san_pham
+jbl I-san_pham
 xoã O
 hè O
 thoả_thích O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-CHIÊU_ĐÃI O
-LỚN O
+chiêu_đãi O
+lớn O
 : O
-ĐỒNG O
-GIÁ O
-20K B-gia_san_pham
-KHI O
-MUA O
-YO-CRUZ B-san_pham
-ỔI I-san_pham
-HỒNG I-san_pham
+đồng O
+giá O
+20k B-gia_san_pham
+khi O
+mua O
+yo-cruz B-san_pham
+ổi I-san_pham
+hồng I-san_pham
 / O
-LÊ_& B-san_pham
+lê_& B-san_pham
 amp I-san_pham
 ; I-san_pham
-HOA I-san_pham
-CÚC I-san_pham
+hoa I-san_pham
+cúc I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Slurpee B-san_pham
+slurpee B-san_pham
 mới O
 ra_mắt O
 2 O
@@ -6581,9 +6581,9 @@ nhà O
 ơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mọi O
+mọi O
 bữa O
 tiệc O
 sẽ O
@@ -6599,21 +6599,21 @@ lạnh O
 đồng_hành O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thời O
+thời O
 hạn O
 tham_gia O
 chương_trình O
 : O
-Từ O
+từ O
 8/3 B-date
 - O
 31/3/2019 B-date
 . O
 7 O
 - O
-Eleven O
+eleven O
 sẽ O
 chọn O
 ra O
@@ -6626,39 +6626,39 @@ nhận O
 bộ O
 quà O
 của O
-Cola_Cola O
+cola_cola O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-TƯNG_BỪNG O
-KHAI_TRƯƠNG O
+tưng_bừng O
+khai_trương O
 7 B-vi_tri
 - I-vi_tri
-ELEVEN I-vi_tri
-THE I-vi_tri
-LANCASTER I-vi_tri
+eleven I-vi_tri
+the I-vi_tri
+lancaster I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 598-600 B-so_nha
-Cách_Mạng B-ten_duong
-Tháng I-ten_duong
+cách_mạng B-ten_duong
+tháng I-ten_duong
 8 I-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 11 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . I-ten_quan_huyen_thanhpho
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Ưu_đãi O
+ưu_đãi O
 áp_dụng O
 từ O
 : O
@@ -6667,55 +6667,55 @@ từ O
 30/04/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 77 B-so_nha
-Trần_Bình_Trọng B-ten_duong
+trần_bình_trọng B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 1 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 5 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Thịt_Heo_Xào B-san_pham
-Húng_Quế I-san_pham
+cơm_thịt_heo_xào B-san_pham
+húng_quế I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 82 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-san_pham
 - I-san_pham
-Eleven I-san_pham
+eleven I-san_pham
 - I-san_pham
-The_Lancaster I-san_pham
+the_lancaster I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Lại O
+lại O
 một O
 đêm O
 vô_cùng O
@@ -6727,7 +6727,7 @@ với O
 các O
 fan O
 bóng_đá O
-Việt_Nam O
+việt_nam O
 khi O
 đội_tuyển O
 nhà O
@@ -6736,7 +6736,7 @@ sắp O
 hết_mình O
 với O
 đội_tuyển O
-UAE O
+uae O
 vào O
 lúc O
 23h45' O
@@ -6744,24 +6744,24 @@ ngày O
 15/06/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vậy_thì O
+vậy_thì O
 chắc_chắn O
 là O
-Bánh_Kếp_Kem_Dừa B-san_pham
+bánh_kếp_kem_dừa B-san_pham
 ngon O
 vô O
 đối O
 tại O
-FamilyMart O
+familymart O
 rồi O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Người O
-Nhật O
+người O
+nhật O
 quả O
 là O
 biết O
@@ -6781,9 +6781,9 @@ mah O
 ~ O
 ~ O
 ~ O
-Chỉ O
+chỉ O
 17.000 B-gia_san_pham
-Đ I-gia_san_pham
+đ I-gia_san_pham
 thôi O
 , O
 vừa O
@@ -6796,10 +6796,10 @@ nữa O
 chứ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Yo-Cruz B-san_pham
-Đào_Vàng_Hy_Lạp I-san_pham
+yo-cruz B-san_pham
+đào_vàng_hy_lạp I-san_pham
 là O
 sự O
 kết_hợp O
@@ -6819,14 +6819,14 @@ vàng O
 tươi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Trên O
+trên O
 bàn O
 ăn_ở O
 các O
 gia_đình O
-Nhật_Bản O
+nhật_bản O
 vào O
 thời_khắc O
 này O
@@ -6835,7 +6835,7 @@ thiếu O
 các O
 loại O
 mỳ B-san_pham
-Nhật I-san_pham
+nhật I-san_pham
 làm O
 từ_kiều O
 mạch O
@@ -6844,26 +6844,26 @@ kể O
 đến O
 là O
 mì B-san_pham
-Udon I-san_pham
+udon I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-The_Lancaster B-vi_tri
+the_lancaster B-vi_tri
 , O
 22-22 B-so_nha
-Bis_Lê_Thánh_Tôn B-ten_duong
+bis_lê_thánh_tôn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hoà O
+hoà O
 cùng O
 niềm O
 vui O
@@ -6881,7 +6881,7 @@ fan O
 yêu O
 bóng_đá O
 nhà O
-Bảy O
+bảy O
 có O
 đoán O
 được O
@@ -6891,9 +6891,9 @@ trận O
 đấu O
 giữa O
 đội_tuyển O
-Việt_Nam O
+việt_nam O
 vs O
-Malaysia O
+malaysia O
 vào O
 lúc O
 23:45 O
@@ -6905,58 +6905,58 @@ không O
 nè O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-S06 B-vi_tri
-Shophouse_Saigon_Pearl I-vi_tri
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
 , O
 92 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
-Chỉ O
+chỉ O
 áp_dụng O
 tại O
 cửa_hàng O
 7 B-vi_tri
 - I-vi_tri
-Eleven_The_Park I-vi_tri
+eleven_the_park I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Phòng O
+phòng O
 1 O
 , O
-Toà B-vi_tri
+toà B-vi_tri
 nhà_văn I-vi_tri
 phòng I-vi_tri
-Centre_Point I-vi_tri
+centre_point I-vi_tri
 , O
 106 B-so_nha
-Nguyễn_Văn_Trỗi B-ten_duong
-P. B-ten_phuong_xa_thitran
+nguyễn_văn_trỗi B-ten_duong
+p. B-ten_phuong_xa_thitran
 8 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
-PN I-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
+pn I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Áp_dụng O
+áp_dụng O
 tới O
 31/1/2019 B-date
 tại O
@@ -6965,19 +6965,19 @@ các O
 cửa_hàng O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Poca_KT_Tảo_Biển B-san_pham
-Nori I-san_pham
+poca_kt_tảo_biển B-san_pham
+nori I-san_pham
 52g I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-️Thời O
+️thời O
 gian O
 : O
 từ O
@@ -6987,16 +6987,16 @@ ngày O
 31/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đặc_biệt O
+đặc_biệt O
 hơn O
 , O
 khi O
 mua O
 10 O
 thanh B-san_pham
-Fitness I-san_pham
+fitness I-san_pham
 dâu I-san_pham
 hoặc O
 chocolate O
@@ -7008,26 +7008,26 @@ sẽ O
 nhận O
 liền_tay O
 01 O
-BÌNH B-san_pham
-MINIONS I-san_pham
+bình B-san_pham
+minions I-san_pham
 2 I-san_pham
-NGĂN I-san_pham
+ngăn I-san_pham
 siêu O
 dễ_thương O
 hoặc O
 01 O
-LY B-san_pham
-ĐÔI I-san_pham
+ly B-san_pham
+đôi I-san_pham
 cực O
 chất O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Trứng_Ốp_La B-san_pham
+cơm_trứng_ốp_la B-san_pham
 - O
-Món O
+món O
 ăn O
 tuổi_thơ O
 mà O
@@ -7041,58 +7041,58 @@ ra_mắt O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 vào O
 ngày O
 15/1/2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Combo O
+combo O
 hoàn_hảo O
 , O
 khuynh_đảo O
 mùa O
 lễ O
 : O
-MUA O
+mua O
 2 O
-LON O
-STRONGBOW B-san_pham
+lon O
+strongbow B-san_pham
 , O
-TẶNG O
+tặng O
 1 O
-CHẢ_LỤA B-san_pham
-QUE I-san_pham
-BÌ I-san_pham
+chả_lụa B-san_pham
+que I-san_pham
+bì I-san_pham
 bất O
 kì O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-CH B-vi_tri
+ch B-vi_tri
 9 I-vi_tri
-Thanh_Đa I-vi_tri
+thanh_đa I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 20 B-so_nha
-Lê_Thánh_Tôn B-ten_duong
+lê_thánh_tôn B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nay O
+nay O
 còn O
 ngon O
 hơn O
@@ -7100,8 +7100,8 @@ khi O
 ăn O
 kèm O
 với O
-Chả_Lụa B-san_pham
-Que_Bì I-san_pham
+chả_lụa B-san_pham
+que_bì I-san_pham
 dai O
 giòn O
 , O
@@ -7113,15 +7113,15 @@ khi O
 mua O
 02 O
 lon B-san_pham
-Strong_Bow I-san_pham
+strong_bow I-san_pham
 330ml I-san_pham
 bất O
 kì O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 10.000 B-gia_san_pham
 đ I-gia_san_pham
@@ -7129,11 +7129,11 @@ Giá O
 lon O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Trà B-san_pham
+trà B-san_pham
 và O
-Món_Hấp B-san_pham
+món_hấp B-san_pham
 luôn O
 là O
 một O
@@ -7142,9 +7142,9 @@ kết_hợp O
 hoàn_hảo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Một O
+một O
 phần O
 được O
 bán O
@@ -7162,50 +7162,50 @@ bữa O
 rồi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Quận B-ten_quan_huyen_thanhpho
-Phú_Nhuận I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+phú_nhuận I-ten_quan_huyen_thanhpho
 : O
 129 B-so_nha
-Huỳnh_Văn_Bánh B-ten_duong
+huỳnh_văn_bánh B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Phú_Nhuận I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+phú_nhuận I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thanh O
+thanh O
 mát O
 cả O
 mùa O
-Hè O
+hè O
 với O
-TRÀ B-san_pham
-TRÁI_CÂY I-san_pham
+trà B-san_pham
+trái_cây I-san_pham
 đậm_đà O
 hương_vị O
 nhiệt O
 đới O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-CH B-vi_tri
+ch B-vi_tri
 111 I-vi_tri
-Ngô_Quyền I-vi_tri
+ngô_quyền I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ăn_Bắp_Xào_Phô B-san_pham
-Mai I-san_pham
+ăn_bắp_xào_phô B-san_pham
+mai I-san_pham
 đậm_đà O
 thơm_lừng O
 hay O
-Mì_Cay_Bò_Sốt B-san_pham
-Tiêu I-san_pham
+mì_cay_bò_sốt B-san_pham
+tiêu I-san_pham
 toé O
 lửa O
 thách_thức O
@@ -7213,8 +7213,8 @@ vị_giác O
 mà O
 uống O
 cùng O
-Trà B-san_pham
-Tắc I-san_pham
+trà B-san_pham
+tắc I-san_pham
 chua_chua O
 - O
 ngọt O
@@ -7225,23 +7225,23 @@ chê O
 luôn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mua O
+mua O
 3 O
 sản_phẩm O
 : O
-Coca-Cola B-san_pham
+coca-cola B-san_pham
 / B-san_pham
-Sprite I-san_pham
+sprite I-san_pham
 / O
-Fanta B-san_pham
+fanta B-san_pham
 bất_kì O
 tại O
 cửa_hàng O
 7 O
 - O
-Eleven O
+eleven O
 sẽ O
 nhận O
 được O
@@ -7251,12 +7251,12 @@ quay O
 may_mắn O
 trên O
 ứng_dụng O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bên O
+bên O
 cạnh O
 việc O
 nấu O
@@ -7303,11 +7303,11 @@ lắm O
 đấy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Lục B-san_pham
-Trà I-san_pham
-Thạch_Xoài I-san_pham
+lục B-san_pham
+trà I-san_pham
+thạch_xoài I-san_pham
 tràn_ngập O
 hương_vị O
 nhiệt_đới O
@@ -7317,40 +7317,40 @@ mọng O
 mướt O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ghé O
+ghé O
 ngay O
 7 O
 - O
-Eleven O
+eleven O
 thưởng_thức O
-Combo_Xôi B-san_pham
+combo_xôi B-san_pham
 & O
 amp O
 ; O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 chỉ O
 29,000 B-gia_san_pham
 đ I-gia_san_pham
 nào O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-809B B-so_nha
-Tạ_Quang_Bửu B-ten_duong
+809b B-so_nha
+tạ_quang_bửu B-ten_duong
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chuẩn_bị O
+chuẩn_bị O
 đến O
 giờ O
 " O
-Trà B-san_pham
-Sữa I-san_pham
+trà B-san_pham
+sữa I-san_pham
 " O
 rồi O
 cả O
@@ -7358,9 +7358,9 @@ nhà O
 ơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hoà O
+hoà O
 vào O
 không_khí O
 sôi_động O
@@ -7368,10 +7368,10 @@ của O
 bộ O
 phim O
 “ O
-Nobita O
+nobita O
 và O
-Đảo O
-Giấu_Vàng O
+đảo O
+giấu_vàng O
 ” O
 - O
 dự_kiến O
@@ -7381,7 +7381,7 @@ chiếu O
 ngày O
 25/05/2018 B-date
 , O
-FamilyMart O
+familymart O
 đã O
 mang O
 đến O
@@ -7389,7 +7389,7 @@ cho O
 các O
 fan O
 của O
-Mèo_Ú O
+mèo_ú O
 một O
 món O
 quà O
@@ -7403,24 +7403,24 @@ và O
 người_thân O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bạn O
+bạn O
 có O
 biết O
 05.05 B-date
 là O
 ngày O
-Tết O
-Thiếu_Nhi O
+tết O
+thiếu_nhi O
 ở O
-Nhật_Bản O
+nhật_bản O
 hay O
 còn O
 gọi O
 là O
 “ O
-Kodomo-No-Hi O
+kodomo-no-hi O
 ” O
 , O
 với O
@@ -7436,9 +7436,9 @@ khoẻ_mạnh O
 đấy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Những O
+những O
 dân_cư O
 , O
 học O
@@ -7459,31 +7459,31 @@ với O
 phiếu O
 giảm_giá O
 10.000 B-muc_giam_gia
-VNĐ I-muc_giam_gia
+vnđ I-muc_giam_gia
 trong O
 tuần O
 khai_trương O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Nắm_Miso_Cá B-san_pham
-Ngừ_Nướng I-san_pham
+cơm_nắm_miso_cá B-san_pham
+ngừ_nướng I-san_pham
 bùi_bùi_, O
 thơm O
 thơm O
 còn O
-Cá_Basa B-san_pham
-Kho_Tiêu I-san_pham
+cá_basa B-san_pham
+kho_tiêu I-san_pham
 thì O
 lại O
 đậm O
 vị O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vào O
+vào O
 9h O
 sángthứ O
 2 O
@@ -7501,38 +7501,38 @@ cửa_hàng O
 thứ O
 20 O
 của O
-FamilyMart O
+familymart O
 tại O
 234 B-so_nha
-Đề_Thám B-ten_duong
+đề_thám B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Phạm_Ngũ_Lão I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+phạm_ngũ_lão I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-HOÀN O
-TIỀN O
+hoàn O
+tiền O
 30% B-muc_giam_gia
 , O
 tối_đa O
 15k B-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nay O
+nay O
 mua O
 1 O
-Món_Hấp B-san_pham
+món_hấp B-san_pham
 bất_kì O
 được O
 tặng O
-Trà_lun B-san_pham
+trà_lun B-san_pham
 , O
 chiều_chiều O
 đói O
@@ -7541,27 +7541,27 @@ ghé O
 ngay O
 7 O
 - O
-Eleven O
+eleven O
 làm O
 một O
-Combo O
+combo O
 nào O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Poca_Vị_Phô_Mai B-san_pham
-Cheddar I-san_pham
+poca_vị_phô_mai B-san_pham
+cheddar I-san_pham
 52 I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 “ O
-Anh_cả O
+anh_cả O
 ” O
 - O
-Xúc_xích B-san_pham
+xúc_xích B-san_pham
 heo I-san_pham
 xông I-san_pham
 khói I-san_pham
@@ -7572,51 +7572,51 @@ với O
 điểm I-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mua_sắm O
+mua_sắm O
 thả O
 ga O
 với O
-ƯU_ĐÃI O
-GIẢM O
-SỐC O
+ưu_đãi O
+giảm O
+sốc O
 50% B-muc_giam_gia
 khi O
 thanh_toán O
 bằng O
-Zalopay O
+zalopay O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 189 B-so_nha
-Lê_Thánh_Tôn B-ten_duong
+lê_thánh_tôn B-ten_duong
 , O
-P.Bến B-ten_phuong_xa_thitran
-Thành I-ten_phuong_xa_thitran
+p.bến B-ten_phuong_xa_thitran
+thành I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 quên O
 " O
 dùng O
 kèm O
 " O
 với O
-TEA B-san_pham
+tea B-san_pham
 + I-san_pham
-Plus I-san_pham
+plus I-san_pham
 mát O
 lạnh O
 sảng_khoái O
@@ -7636,41 +7636,41 @@ nữa O
 đó O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
+eleven I-vi_tri
 - I-vi_tri
-The_Lancaster I-vi_tri
+the_lancaster I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhận O
+nhận O
 ngay O
 1 O
 lon B-san_pham
-Pepsi I-san_pham
+pepsi I-san_pham
 khi O
 mua O
 các O
 phụ_kiện O
 trang_trí O
-Giáng_sinh O
+giáng_sinh O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giải O
+giải O
 nhất O
 : O
 01 O
-Loa_JBL_Go B-san_pham
+loa_jbl_go B-san_pham
 2 I-san_pham
 thời_thượng O
 dành O
@@ -7686,18 +7686,18 @@ cao O
 nhất O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
+eleven I-vi_tri
 - I-vi_tri
-The_Lancaster I-vi_tri
+the_lancaster I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-FamilyMart O
+familymart O
 tiếp_tục O
 chào_mừng O
 cửa_hàng O
@@ -7706,39 +7706,39 @@ thứ O
 khai_trương O
 tại O
 quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-TẶNG O
+tặng O
 ngay O
 1 O
-Poca B-san_pham
+poca B-san_pham
 52gr I-san_pham
 khi O
-MUA O
+mua O
 04 O
 lon B-san_pham
-Sapporo_Blue I-san_pham
+sapporo_blue I-san_pham
 cap O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
 * O
-Chương_trình O
+chương_trình O
 áp_dụng O
 tới O
 hết O
 tháng O
 05/2021. B-date
-Mau O
+mau O
 mau O
 đến O
-Bảy O
+bảy O
 để O
 xem O
 may_mắn O
@@ -7748,10 +7748,10 @@ không O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
-10K B-gia_san_pham
+chỉ O
+10k B-gia_san_pham
 cho O
 ly O
 lớn O
@@ -7760,12 +7760,12 @@ nhà O
 ơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Khi O
+khi O
 thưởng_thức O
 bánh B-san_pham
-Macaron I-san_pham
+macaron I-san_pham
 , O
 ta O
 phải O
@@ -7782,22 +7782,22 @@ bánh O
 ngồm_ngoàm O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bật O
+bật O
 ngay O
 ứng_dụng O
-Grab O
+grab O
 đặt O
 combo O
-Bánh_Mì B-san_pham
-Ốp_La I-san_pham
+bánh_mì B-san_pham
+ốp_la I-san_pham
 2 I-san_pham
-Trứng I-san_pham
+trứng I-san_pham
 & O
 amp O
 ; O
-Aquafina B-san_pham
+aquafina B-san_pham
 cho O
 buổi O
 sáng O
@@ -7805,36 +7805,36 @@ bận_rộn O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 ngay O
-Bút_Bi B-san_pham
-Heo_Hồng I-san_pham
+bút_bi B-san_pham
+heo_hồng I-san_pham
 cực O
 hot O
 khi O
 mua O
 2 O
-Kem_Cornetto B-san_pham
+kem_cornetto B-san_pham
 bất_kì O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đặc_biệt O
+đặc_biệt O
 , O
-Combo_Mỳ_Trộn_Trứng B-san_pham
-Xúc_Xích I-san_pham
+combo_mỳ_trộn_trứng B-san_pham
+xúc_xích I-san_pham
 và O
-7Up B-san_pham
+7up B-san_pham
 chỉ O
-21K B-gia_san_pham
+21k B-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Còn O
+còn O
 chần_chờ O
 gì O
 mà O
@@ -7843,11 +7843,11 @@ rủ_rê O
 hội O
 bạn O
 đến O
-FamilyMart O
+familymart O
 chọn O
 ngay O
 “ O
-Set_Sushi_Đặc_Biệt B-san_pham
+set_sushi_đặc_biệt B-san_pham
 ” O
 nơi O
 hội_tụ O
@@ -7877,20 +7877,20 @@ bạn O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Không_SỐT O
+không_sốt O
 như O
 trà_vải B-san_pham
 , O
 không O
-HOT O
+hot O
 như O
 trà_đào B-san_pham
 , O
 nhưng O
-Trà B-san_pham
-Dâu_Nestea I-san_pham
+trà B-san_pham
+dâu_nestea I-san_pham
 vẫn O
 mang O
 đến O
@@ -7905,19 +7905,19 @@ vào O
 được O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đã O
+đã O
 vậy O
 còn O
 được O
 tặng O
 thêm O
 01 O
-Bộ B-san_pham
-Bút_Sáp I-san_pham
+bộ B-san_pham
+bút_sáp I-san_pham
 12 I-san_pham
-Màu I-san_pham
+màu I-san_pham
 để O
 các O
 em O
@@ -7927,42 +7927,42 @@ sáng O
 tạo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Block_E O
+block_e O
 , O
 khu_phố O
-Riverside_Residence B-vi_tri
+riverside_residence B-vi_tri
 , O
 180 B-so_nha
-Nguyễn_Lương_Bằng B-ten_duong
+nguyễn_lương_bằng B-ten_duong
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phú I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phú I-ten_phuong_xa_thitran
 , I-ten_phuong_xa_thitran
-Phú_Mỹ_Hưng I-ten_phuong_xa_thitran
+phú_mỹ_hưng I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 234 B-so_nha
-Đề_Thám B-ten_duong
+đề_thám B-ten_duong
 , O
-P.Phạm B-ten_phuong_xa_thitran
-Ngũ_Lão I-ten_phuong_xa_thitran
+p.phạm B-ten_phuong_xa_thitran
+ngũ_lão I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nạp O
+nạp O
 năng_lượng O
 cho O
 những O
@@ -7970,60 +7970,60 @@ ngày O
 đi O
 làm O
 sau O
-Tết O
+tết O
 với O
-Bánh_Mì B-san_pham
-Trứng_Ốp_La I-san_pham
+bánh_mì B-san_pham
+trứng_ốp_la I-san_pham
 và O
 nước B-san_pham
-Aquafina I-san_pham
+aquafina I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Thảo_Điền I-vi_tri
+eleven_thảo_điền I-vi_tri
 . O
 31 B-so_nha
-Thảo_Điền B-ten_duong
+thảo_điền B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Thảo_Điền I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+thảo_điền I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bộ O
+bộ O
 đôi O
 tuyệt_hảo O
 : O
-FREEUPSIZE B-san_pham
-TRÀ I-san_pham
-TẮC I-san_pham
+freeupsize B-san_pham
+trà I-san_pham
+tắc I-san_pham
 khi O
 mua O
-Mì_Cay_Bò_Sốt B-san_pham
-Tiêu I-san_pham
+mì_cay_bò_sốt B-san_pham
+tiêu I-san_pham
 / O
-Bắp_Xào_Phô B-san_pham
-Mai I-san_pham
+bắp_xào_phô B-san_pham
+mai I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Cà_phê B-san_pham
+cà_phê B-san_pham
 đá I-san_pham
 nào O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Khuyến_mãi O
+khuyến_mãi O
 lên O
 tới O
 50% B-muc_giam_gia
@@ -8031,40 +8031,40 @@ lận O
 đó O
 , O
 ghé O
-Bảy O
+bảy O
 rinh O
 ngay O
 nha O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Block_E O
+block_e O
 , O
 khu_phố O
-Riverside_Residence B-vi_tri
+riverside_residence B-vi_tri
 , O
 180 B-so_nha
-Nguyễn_Lương_Bằng B-ten_duong
+nguyễn_lương_bằng B-ten_duong
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phú I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phú I-ten_phuong_xa_thitran
 , O
-Phú_Mỹ_Hưng B-vi_tri
+phú_mỹ_hưng B-vi_tri
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-CẢI_TIẾN O
+cải_tiến O
 : O
-BÁNH B-san_pham
-PA I-san_pham
-TÊ I-san_pham
-SÔ I-san_pham
+bánh B-san_pham
+pa I-san_pham
+tê I-san_pham
+sô I-san_pham
 với O
 diện_mạo O
 mới O
@@ -8074,24 +8074,24 @@ nhân O
 đôi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 598-600 B-so_nha
-Cách_Mạng B-ten_duong
-Tháng I-ten_duong
+cách_mạng B-ten_duong
+tháng I-ten_duong
 8 I-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 11 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Kinder_Joy B-san_pham
+kinder_joy B-san_pham
 – O
 “ O
 quả O
@@ -8120,9 +8120,9 @@ bên O
 trong O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đặc_biệt O
+đặc_biệt O
 , O
 từ O
 ngày_ngày O
@@ -8141,9 +8141,9 @@ thôi O
 nha O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thanh O
+thanh O
 toán O
 hoá_đơn O
 bất_kỳ O
@@ -8151,65 +8151,65 @@ có O
 sản_phẩm O
 7 O
 - O
-Select O
+select O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Hầm O
-B1 O
+hầm O
+b1 O
 , O
-ZENPLAZA B-vi_tri
+zenplaza B-vi_tri
 , O
 54-56 B-so_nha
-Nguyễn_Trãi B-ten_duong
+nguyễn_trãi B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Thành I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_thành I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 8,000 B-gia_san_pham
 đ I-gia_san_pham
 ( O
 size O
-S O
+s O
 ) O
 - O
 10,000 B-gia_san_pham
 đ I-gia_san_pham
 ( O
 size O
-L O
+l O
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Pop_Toy B-san_pham
+pop_toy B-san_pham
 lung_linh O
 : O
 25,000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hè O
+hè O
 tới O
 rồi O
 , O
@@ -8220,34 +8220,34 @@ bỏ_qua O
 được O
 những O
 ly O
-Yo-Cruz B-san_pham
-Ổi_Hồng I-san_pham
+yo-cruz B-san_pham
+ổi_hồng I-san_pham
 thơm_nức O
 hay O
-Lê_& B-san_pham
+lê_& B-san_pham
 amp I-san_pham
 ; I-san_pham
-Hoa_Cúc I-san_pham
+hoa_cúc I-san_pham
 thanh O
 mát O
 cùng O
 chiếc O
 deal O
-Đồng O
-Giá O
-20K B-gia_san_pham
+đồng O
+giá O
+20k B-gia_san_pham
 tê_tái O
 lòng O
 ngừơi O
 này O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh_Mì B-san_pham
-Nem_Nướng I-san_pham
+bánh_mì B-san_pham
+nem_nướng I-san_pham
 chỉ O
-19K B-gia_san_pham
+19k B-gia_san_pham
 , O
 nếu O
 ăn O
@@ -8260,25 +8260,25 @@ thêm O
 nem B-san_pham
 nướng I-san_pham
 chỉ O
-7K B-gia_san_pham
+7k B-gia_san_pham
 1 O
 chiếc O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ảnh O
+ảnh O
 : O
-Hoàng_hôn O
+hoàng_hôn O
 thung_lũng O
 ( O
-Mù_Cang_Chải B-ten_quan_huyen_thanhpho
+mù_cang_chải B-ten_quan_huyen_thanhpho
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Kéo O
+kéo O
 hơi O
 lạnh O
 về O
@@ -8286,7 +8286,7 @@ mùa O
 hè O
 với O
 kem B-san_pham
-Cornetto I-san_pham
+cornetto I-san_pham
 ngon O
 ngất_ngây O
 ngay O
@@ -8295,53 +8295,53 @@ bạn O
 ơi O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 454 B-so_nha
-Lê_Văn_Sỹ B-ten_duong
+lê_văn_sỹ B-ten_duong
 , O
-Quận O
-Quận B-ten_quan_huyen_thanhpho
+quận O
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 598-600 B-so_nha
-Cách_Mạng B-ten_duong
-Tháng I-ten_duong
+cách_mạng B-ten_duong
+tháng I-ten_duong
 8 I-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 11 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 82 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chúc O
+chúc O
 cho O
 tất_cả O
 những O
@@ -8354,28 +8354,28 @@ tràn_đầy O
 yêu_thương O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 O
 - O
-Eleven O
+eleven O
 mang O
 hương_vị O
-Hawaii O
+hawaii O
 đến O
 cho O
 bạn O
 với O
 món O
 mới O
-Salad B-san_pham
+salad B-san_pham
 cá_ngừ I-san_pham
 trứng I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tìm O
+tìm O
 các O
 sản_phẩm O
 có O
@@ -8383,27 +8383,27 @@ dán O
 nhãn O
 7 B-san_pham
 - I-san_pham
-Select I-san_pham
+select I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Trà B-san_pham
-Sữa_Trân_Châu I-san_pham
+trà B-san_pham
+sữa_trân_châu I-san_pham
 , O
-Sữa_Đậu_Nành B-san_pham
-Trân_Châu I-san_pham
+sữa_đậu_nành B-san_pham
+trân_châu I-san_pham
 đã O
 có_mặt O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Có O
+có O
 bạn O
 nào O
 từng O
@@ -8412,23 +8412,23 @@ kỷ_niệm O
 đẹp O
 với O
 tô B-san_pham
-Oden I-san_pham
+oden I-san_pham
 nghi_ngút O
 khói O
 của O
-MINISTOP O
+ministop O
 chưa O
 nhỉ O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Rau_Câu B-san_pham
-Dừa I-san_pham
+rau_câu B-san_pham
+dừa I-san_pham
 và O
-Rau_Câu B-san_pham
-Sâm I-san_pham
-Bổ_Lượng I-san_pham
+rau_câu B-san_pham
+sâm I-san_pham
+bổ_lượng I-san_pham
 không_chỉ O
 thanh O
 mát O
@@ -8445,60 +8445,60 @@ hoàn_toàn O
 tự_nhiên O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 1 O
-Giải O
-Nhất O
+giải O
+nhất O
 : O
 1 O
-Gift_Card O
+gift_card O
 trị_giá O
 500.000 B-muc_giam_gia
 đ I-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-LỄ O
-HỘI O
-BẤT_TẬN O
+lễ O
+hội O
+bất_tận O
 - O
-TRÀ B-san_pham
-SỮA I-san_pham
-NHẬN O
-LIỀN O
-TAY O
+trà B-san_pham
+sữa I-san_pham
+nhận O
+liền O
+tay O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Landmark I-vi_tri
+eleven_landmark I-vi_tri
 1 I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Khu B-vi_tri
+khu B-vi_tri
 căn_hộ I-vi_tri
-Mỹ I-vi_tri
-Phát I-vi_tri
+mỹ I-vi_tri
+phát I-vi_tri
 137 B-so_nha
-Nguyễn_Đức_Cảnh B-ten_duong
+nguyễn_đức_cảnh B-ten_duong
 , O
-P.Tân B-ten_quan_huyen_thanhpho
-Phong I-ten_quan_huyen_thanhpho
+p.tân B-ten_quan_huyen_thanhpho
+phong I-ten_quan_huyen_thanhpho
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 bánh_mì B-san_pham
 sandwich I-san_pham
 nho I-san_pham
@@ -8526,55 +8526,55 @@ dinh_dưỡng O
 nha O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thử O
+thử O
 ngay O
-Cơm_Nắm_Thanh_Cua B-san_pham
+cơm_nắm_thanh_cua B-san_pham
 và O
-Cơm_Nắm_Cá_Ngừ B-san_pham
+cơm_nắm_cá_ngừ B-san_pham
 vừa O
 lên O
 kệ O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa O
+địa O
 chỉ O
 : O
-11A B-so_nha
+11a B-so_nha
 - I-so_nha
 1 I-so_nha
 , O
-Lô B-vi_tri
-M6 I-vi_tri
+lô B-vi_tri
+m6 I-vi_tri
 , O
-Toà_Symphony B-vi_tri
+toà_symphony B-vi_tri
 , O
-Phú_Mỹ_Hưng B-vi_tri
+phú_mỹ_hưng B-vi_tri
 - I-vi_tri
-Midtown I-vi_tri
+midtown I-vi_tri
 , O
-P. B-ten_phuong_xa_thitran
-Tân_Phú I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+tân_phú I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ăn O
+ăn O
 sáng O
 với O
-Combo_Pa_Tê_Sô B-san_pham
+combo_pa_tê_sô B-san_pham
 hoặc O
-Bánh_Xếp_Cà_Ri B-san_pham
-Gà I-san_pham
+bánh_xếp_cà_ri B-san_pham
+gà I-san_pham
 và O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 hôm_nay I-san_pham
 để O
 đổi O
@@ -8582,34 +8582,34 @@ vị O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Gửi O
+gửi O
 cả O
 nhà O
 thực_đơn O
-Bánh_Mì B-san_pham
+bánh_mì B-san_pham
 và O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 nhà O
 chị O
-Bảy O
+bảy O
 ạ O
-Hẹn O
+hẹn O
 cả O
 nhà O
 ở O
 7 O
 - O
-Eleven O
+eleven O
 sáng O
 ngày_mai O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhận O
+nhận O
 ngay O
 hộp O
 quà O
@@ -8622,63 +8622,63 @@ tích_luỹ O
 đủ O
 14 O
 cây O
-Kem_Cornette B-san_pham
+kem_cornette B-san_pham
 trên O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Danh_sách O
+danh_sách O
 những O
 cửa_hàng O
 đang O
 bán O
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-QUÀ O
-TẶNG O
+quà O
+tặng O
 : O
-Tai B-san_pham
+tai B-san_pham
 nghe I-san_pham
 không I-san_pham
 dây I-san_pham
-LG I-san_pham
-Tone_Free I-san_pham
+lg I-san_pham
+tone_free I-san_pham
 / O
-Loa_LG_XbooomGO B-san_pham
+loa_lg_xbooomgo B-san_pham
 / O
-Sprite B-san_pham
+sprite B-san_pham
 lon I-san_pham
 320ml I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 : O
 82 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hôm_nay O
+hôm_nay O
 ai O
 thèm O
 bắp B-san_pham
@@ -8688,98 +8688,98 @@ nhớ O
 ghé O
 7 O
 - O
-Eleven O
+eleven O
 ngay O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thực O
+thực O
 đơn O
 ăn O
 sáng O
 nhà O
 chị O
-Bảy O
+bảy O
 ngày_một O
 đa_dạng O
 hơn O
 với O
-Bánh_Mì B-san_pham
-Nem_Nướng I-san_pham
+bánh_mì B-san_pham
+nem_nướng I-san_pham
 chuẩn_bị O
 ra_mắt O
 đây O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa O
+địa O
 chỉ O
 : O
-MP B-vi_tri
+mp B-vi_tri
 2-001.05 I-vi_tri
 , O
-Tầng_Trệt B-vi_tri
+tầng_trệt B-vi_tri
 - I-vi_tri
-Khu I-vi_tri
+khu I-vi_tri
 căn_hộ I-vi_tri
-Flora_Mizuki I-vi_tri
+flora_mizuki I-vi_tri
 , O
-P. B-ten_phuong_xa_thitran
-Bình_Hưng I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bình_hưng I-ten_phuong_xa_thitran
 , O
-H. B-ten_quan_huyen_thanhpho
-Bình_Hưng I-ten_quan_huyen_thanhpho
+h. B-ten_quan_huyen_thanhpho
+bình_hưng I-ten_quan_huyen_thanhpho
 , O
-H. B-ten_quan_huyen_thanhpho
-Bình_Chánh I-ten_quan_huyen_thanhpho
+h. B-ten_quan_huyen_thanhpho
+bình_chánh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sandwich B-san_pham
+sandwich B-san_pham
 giá O
 chỉ O
 từ O
 11 B-gia_san_pham
-K I-gia_san_pham
+k I-gia_san_pham
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bắt O
+bắt O
 lấy O
 cơ_hội O
 vàng O
 - O
-Thả O
+thả O
 ga O
 mua_sắm O
 xùng O
-SHOPEEPAY O
-HOẢN O
-TIỀN O
+shopeepay O
+hoản O
+tiền O
 50% B-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 sự O
 cải_tiến O
 hoàn_toàn O
 mới O
 , O
-Burger_Hamburg B-san_pham
+burger_hamburg B-san_pham
 đã O
 lợi_hại O
 hơn O
@@ -8802,52 +8802,52 @@ vô_cùng O
 hấp_dẫn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 13.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 500 O
-HỘP B-san_pham
-KHĂN I-san_pham
-GIẤY I-san_pham
+hộp B-san_pham
+khăn I-san_pham
+giấy I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sớm O
+sớm O
 nay O
 ăn O
 gì O
 : O
 có O
 ngay O
-COMBO O
-BÁNH_MÌ B-san_pham
-VIỆT_NAM I-san_pham
+combo O
+bánh_mì B-san_pham
+việt_nam I-san_pham
 / O
-HOTDOG B-san_pham
+hotdog B-san_pham
 / O
-PATÊSÔ B-san_pham
+patêsô B-san_pham
 & I-san_pham
 amp I-san_pham
 ; I-san_pham
 7 I-san_pham
 - I-san_pham
-CAFÉ I-san_pham
-GIẢM O
+café I-san_pham
+giảm O
 5 B-muc_giam_gia
-K I-muc_giam_gia
+k I-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đổi O
+đổi O
 ngay O
 voucher O
 giảm_giá O
@@ -8862,14 +8862,14 @@ với O
 điểm O
 trên O
 7 O
-REWARDS O
+rewards O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 + O
-Phòng_khám B-vi_tri
-Minh_Khai I-vi_tri
+phòng_khám B-vi_tri
+minh_khai I-vi_tri
 ( O
 hông O
 toà O
@@ -8877,14 +8877,14 @@ nhà O
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ăn O
+ăn O
 kem B-san_pham
-Nestlé I-san_pham
+nestlé I-san_pham
 , O
 kem B-san_pham
-Bingrae I-san_pham
+bingrae I-san_pham
 thoả_thích O
 chỉ O
 từ O
@@ -8892,15 +8892,15 @@ từ O
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chào O
+chào O
 cư_dân O
-The_Art B-vi_tri
+the_art B-vi_tri
 , O
 7 O
 - O
-Eleven O
+eleven O
 sẽ O
 chính_thức O
 mở_cửa O
@@ -8913,64 +8913,64 @@ các O
 bạn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh_Tráng B-san_pham
-Trộn I-san_pham
+bánh_tráng B-san_pham
+trộn I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Há_Cảo_Tôm_Thịt B-san_pham
+há_cảo_tôm_thịt B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng_Bình_Nước B-san_pham
+tặng_bình_nước B-san_pham
 khi O
 mua O
 4 O
 chai O
-Pocari_Sweat B-san_pham
+pocari_sweat B-san_pham
 500ml I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Quận B-ten_quan_huyen_thanhpho
-Thủ_Đức I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+thủ_đức I-ten_quan_huyen_thanhpho
 : O
 34 B-so_nha
-Hiệp_Bình B-ten_duong
+hiệp_bình B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Thủ_Đức I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+thủ_đức I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Các O
+các O
 bạn O
 hãy O
 nhanh O
 chân O
 đến O
-Ministop O
+ministop O
 để O
 thưởng_thức O
-Bánh_bao B-san_pham
+bánh_bao B-san_pham
 nóng_hổi O
 cùng O
 với O
-Mimip O
+mimip O
 nào O
 ^ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chương O
+chương O
 trình_diễn O
 ra O
 từ O
@@ -8979,14 +8979,14 @@ từ O
 10/02/2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bởi_thế O
+bởi_thế O
 , O
 mỗi O
 chiếc O
 bánh B-san_pham
-Macaron I-san_pham
+macaron I-san_pham
 giống O
 như O
 một O
@@ -8999,7 +8999,7 @@ riêng O
 , O
 vì_vậy O
 mà O
-Macaron B-san_pham
+macaron B-san_pham
 còn O
 được O
 gọi O
@@ -9009,18 +9009,18 @@ tên O
 mỹ_miều O
 : O
 “ O
-Cô O
+cô O
 tiểu_thư O
 của O
 ẩm_thực O
-Pháp O
+pháp O
 ” O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Áp_dụng O
+áp_dụng O
 từ O
 : O
 15 B-date
@@ -9028,16 +9028,16 @@ từ O
 30/04/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhưng O
+nhưng O
 đặc_biệt O
 hơn O
 hết O
@@ -9063,23 +9063,23 @@ ví O
 tử O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-66C B-so_nha
-Phó B-ten_duong
-Đức_Chính I-ten_duong
+66c B-so_nha
+phó B-ten_duong
+đức_chính I-ten_duong
 , O
-P.Nguyễn B-ten_phuong_xa_thitran
-Thái_Bình I-ten_phuong_xa_thitran
+p.nguyễn B-ten_phuong_xa_thitran
+thái_bình I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ngoài_ra O
+ngoài_ra O
 , O
 dân_cư O
 , O
@@ -9104,43 +9104,43 @@ kèm O
 phiếu O
 giảm_giá O
 10.000 B-muc_giam_gia
-VNĐ I-muc_giam_gia
+vnđ I-muc_giam_gia
 trong O
 tuần O
 khai_trương O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Danh_sách O
+danh_sách O
 tham_quan O
-VinEco_Long_Thành B-vi_tri
+vineco_long_thành B-vi_tri
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Quận B-ten_quan_huyen_thanhpho
-Gò_Vấp I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+gò_vấp I-ten_quan_huyen_thanhpho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Danh_sách O
+danh_sách O
 những O
 cửa_hàng O
 có O
 bán O
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Slurpee B-san_pham
+slurpee B-san_pham
 mới I-san_pham
 ra_mắt O
 2 O
@@ -9149,14 +9149,14 @@ mới O
 cực O
 hấp_dẫn O
 : O
-Dâu_Tươi_Ngọt_Dịu B-san_pham
+dâu_tươi_ngọt_dịu B-san_pham
 và O
-Nho_Tím_Ngọt_Mát B-san_pham
+nho_tím_ngọt_mát B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mồi O
+mồi O
 bén O
 như O
 này O
@@ -9177,35 +9177,35 @@ nồng O
 thì O
 nhớ O
 chọn O
-Chả_Lụa B-san_pham
-Que_Bì_Ớt_Xiêm I-san_pham
-Xanh I-san_pham
+chả_lụa B-san_pham
+que_bì_ớt_xiêm I-san_pham
+xanh I-san_pham
 ăn O
 ghiền O
 liền O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Túi B-san_pham
+túi B-san_pham
 điện_thoại I-san_pham
 chống I-san_pham
 nước I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ★ O
-Level O
+level O
 3 O
 : O
-Lizardon B-san_pham
-Kara-age I-san_pham
+lizardon B-san_pham
+kara-age I-san_pham
 ( O
 cực O
 cay O
 - O
-Bạn O
+bạn O
 cân_nhắc O
 trước O
 khi O
@@ -9214,91 +9214,91 @@ nha O
 ^ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vì O
+vì O
 bạn O
 sẽ O
 được O
 tặng O
 ngay O
 1 O
-Cà_Phê B-san_pham
-Socola_Nescafé I-san_pham
+cà_phê B-san_pham
+socola_nescafé I-san_pham
 180ml I-san_pham
 khi O
 mua O
 1 O
 7 B-san_pham
 - I-san_pham
-Select I-san_pham
+select I-san_pham
 bất_kì O
 đó O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Áo B-san_pham
+áo B-san_pham
 thun I-san_pham
-Coca-Cola I-san_pham
+coca-cola I-san_pham
 cao_cấp O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đón O
+đón O
 tháng O
 5 O
 tươi_mát O
 : O
-KHI O
-MUA O
+khi O
+mua O
 2 O
-TRÀ B-san_pham
-TRÁI_CÂY I-san_pham
+trà B-san_pham
+trái_cây I-san_pham
 , O
-TẶNG O
+tặng O
 1 O
-ỔI B-san_pham
-RUỘT I-san_pham
-TRẮNG I-san_pham
-CẮT O
-SẴN O
+ổi B-san_pham
+ruột I-san_pham
+trắng I-san_pham
+cắt O
+sẵn O
 giòn O
 ngọt O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Có O
+có O
 bạn O
 nào O
 dùng O
-Ngon_Ngon_Lẩu B-san_pham
+ngon_ngon_lẩu B-san_pham
 rồi O
 thì O
 share O
 cho O
-Ad O
+ad O
 bik O
 với O
 nào O
 ^ O
-O O
+o O
 ^ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đây O
+đây O
 cũng O
 là O
 đầu O
 mùa O
 nắng O
 ở O
-TP. B-ten_tinh_thanh_pho
-HCM I-ten_tinh_thanh_pho
+tp. B-ten_tinh_thanh_pho
+hcm I-ten_tinh_thanh_pho
 nên O
 rất O
 nhiều O
@@ -9313,32 +9313,32 @@ tuần O
 vừa_qua O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 14.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Áp_dụng O
+áp_dụng O
 cho O
 2 O
 sản_phẩm O
 : O
-Kem_Cornetto_Kỳ_Lân B-san_pham
+kem_cornetto_kỳ_lân B-san_pham
 85g I-san_pham
 và O
-Kem_Cornetto_Roy_Choco B-san_pham
+kem_cornetto_roy_choco B-san_pham
 88g I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sẽ O
+sẽ O
 hấp_dẫn O
 hơn O
 rất O
@@ -9347,9 +9347,9 @@ khi O
 uống O
 cùng O
 trà B-san_pham
-Tea I-san_pham
+tea I-san_pham
 + I-san_pham
-Oolong I-san_pham
+oolong I-san_pham
 , O
 lại O
 còn O
@@ -9365,9 +9365,9 @@ quá_xá O
 đã O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 vị O
 ngọt O
 và O
@@ -9385,7 +9385,7 @@ giòn_rụm O
 kèm O
 với O
 xốt B-san_pham
-Teriyaki I-san_pham
+teriyaki I-san_pham
 ngon O
 khó O
 cưỡng O
@@ -9407,18 +9407,18 @@ ngoài O
 đấy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Lịch O
+lịch O
 khai_trương O
 : O
 . O
 28/12/2018 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ngọt_ngào O
+ngọt_ngào O
 và O
 mềm_mại O
 như O
@@ -9426,10 +9426,10 @@ bánh B-san_pham
 marcaron I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tới O
-FamilyMart O
+tới O
+familymart O
 liền O
 ngay O
 để O
@@ -9443,13 +9443,13 @@ người O
 bạn O
 thân O
 " O
-Pepsi B-san_pham
+pepsi B-san_pham
 , O
-Mirinda B-san_pham
+mirinda B-san_pham
 , O
 7up B-san_pham
 , O
-Mountain_Dew B-san_pham
+mountain_dew B-san_pham
 với O
 giá O
 hấp_dẫn O
@@ -9460,16 +9460,16 @@ thôi O
 nào O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Từ O
+từ O
 ngày O
 11/06 B-date
 - O
@@ -9480,7 +9480,7 @@ cần O
 mua O
 2 O
 sản_phẩm O
-Coca-Cola B-san_pham
+coca-cola B-san_pham
 bất_kỳ O
 là O
 bạn O
@@ -9496,9 +9496,9 @@ quà O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Không_những O
+không_những O
 đẹp O
 , O
 nay O
@@ -9510,7 +9510,7 @@ khi O
 tặng O
 kèm O
 túi B-san_pham
-Tole I-san_pham
+tole I-san_pham
 " O
 trendy O
 " O
@@ -9524,41 +9524,41 @@ trên O
 vai O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 quên O
 là O
-7Up B-san_pham
+7up B-san_pham
 chỉ O
 còn O
-2K B-gia_san_pham
+2k B-gia_san_pham
 khi O
 mua O
 kèm O
 với O
-Mỳ_Trộn B-san_pham
+mỳ_trộn B-san_pham
 nhaaa O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 16 B-so_nha
-Quốc_Hương B-ten_duong
+quốc_hương B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chưa O
+chưa O
 kể O
 , O
 ăn O
 với O
-Ngon_Ngon_Lẩu B-san_pham
+ngon_ngon_lẩu B-san_pham
 chua_chua O
 ngọt O
 ngọt O
@@ -9574,19 +9574,19 @@ luôn O
 nha O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Bò_Kho_Tiêu B-san_pham
-Chay I-san_pham
+cơm_bò_kho_tiêu B-san_pham
+chay I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ghé_FamilyMart O
+ghé_familymart O
 , O
 chọn O
 ngay O
-Nestle O
+nestle O
 để O
 có O
 một O
@@ -9596,7 +9596,7 @@ sáng O
 dưỡng_chất O
 với O
 sữa B-san_pham
-Milo I-san_pham
+milo I-san_pham
 cho O
 ngày O
 dài O
@@ -9616,24 +9616,24 @@ sáng O
 bận_rộn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 “ B-san_pham
-Bột I-san_pham
+bột I-san_pham
 bánh_rán I-san_pham
 pha I-san_pham
 sẵn I-san_pham
 ” I-san_pham
-Ajinomoto I-san_pham
+ajinomoto I-san_pham
 , O
 mọi O
 chuyện O
@@ -9645,12 +9645,12 @@ muỗi O
 " O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Quà O
+quà O
 tặng O
 : O
-Trọn O
+trọn O
 bộ O
 voucher O
 thưởng_thức O
@@ -9667,26 +9667,26 @@ gt O
 k I-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ! O
-7Up B-san_pham
+7up B-san_pham
 chỉ O
-2K B-gia_san_pham
+2k B-gia_san_pham
 nhé O
 cả O
 nhà O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chương O
+chương O
 trình O
 áp_dụng O
 trong O
 tháng O
 05/2021. B-date
-Ghé_Bảy O
+ghé_bảy O
 ngay O
 để O
 không O
@@ -9701,36 +9701,36 @@ xịn O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cay O
+cay O
 ngon O
 tuyệt_đỉnh O
-MÓN O
-MỚI O
+món O
+mới O
 : O
-CƠM_CHIÊN B-san_pham
-HẢI_SẢN I-san_pham
-SA I-san_pham
-TẾ I-san_pham
+cơm_chiên B-san_pham
+hải_sản I-san_pham
+sa I-san_pham
+tế I-san_pham
 càng O
 ăn O
 càng O
 thèm️ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-KDC B-vi_tri
-Vĩnh_Phú I-vi_tri
+kdc B-vi_tri
+vĩnh_phú I-vi_tri
 – O
-Bình_Dương B-ten_tinh_thanh_pho
+bình_dương B-ten_tinh_thanh_pho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Gà B-san_pham
+gà B-san_pham
 viên I-san_pham
 tẩm I-san_pham
 bột I-san_pham
@@ -9766,18 +9766,18 @@ và O
 nhanh_chóng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh_Sừng_Bò_Misura B-san_pham
+bánh_sừng_bò_misura B-san_pham
 và O
-Trà B-san_pham
-Fuze_Tea I-san_pham
+trà B-san_pham
+fuze_tea I-san_pham
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Một_chút O
-Rau_Câu B-san_pham
+một_chút O
+rau_câu B-san_pham
 thanh O
 mát O
 sau O
@@ -9793,9 +9793,9 @@ hệ O
 tiêu_hoá O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chưa O
+chưa O
 kể O
 những O
 “ O
@@ -9820,7 +9820,7 @@ giá O
 hẹ O
 ” O
 , O
-Pad_Thai B-san_pham
+pad_thai B-san_pham
 hứa_hẹn O
 sẽ O
 đem O
@@ -9830,28 +9830,28 @@ bạn O
 trải_nghiệm O
 “ O
 cực O
-Thái O
+thái O
 ” O
 luôn O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cappuccino B-san_pham
+cappuccino B-san_pham
 , O
-American B-san_pham
+american B-san_pham
 coffee I-san_pham
 , O
-Latte B-san_pham
+latte B-san_pham
 và O
-Mocha B-san_pham
+mocha B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Áp_dụng O
+áp_dụng O
 từ O
 26/11 B-date
 - O
@@ -9864,33 +9864,33 @@ quà O
 tặng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Quận B-ten_quan_huyen_thanhpho
-Tân_Bình I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+tân_bình I-ten_quan_huyen_thanhpho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Trái B-san_pham
+trái B-san_pham
 bí I-san_pham
 : O
 . O
 1 O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sổ_tay B-san_pham
+sổ_tay B-san_pham
 : O
 30,000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sandwich B-san_pham
+sandwich B-san_pham
 giảm O
 tới O
 45% B-muc_giam_gia
@@ -9899,27 +9899,27 @@ với O
 200 O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-S06 B-vi_tri
-Shophouse_Saigon_Pearl I-vi_tri
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
 , O
 92 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đã O
+đã O
 lỡ O
 mê O
 gà B-san_pham
@@ -9938,15 +9938,15 @@ này O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhập O
+nhập O
 mã O
 code O
-TRASUANE O
+trasuane O
 trên O
 ứng_dụng O
-7Rewards O
+7rewards O
 để O
 nhận O
 voucher O
@@ -9957,9 +9957,9 @@ sữa I-san_pham
 miễn_phí O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Những_ai O
+những_ai O
 thích O
 ăn O
 một_chút O
@@ -9970,7 +9970,7 @@ nhớ O
 chọn O
 loại O
 có O
-Ớt_Xiêm_Xanh B-san_pham
+ớt_xiêm_xanh B-san_pham
 nha O
 , O
 đảm_bảo O
@@ -9978,31 +9978,31 @@ ghiền O
 luôn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 “ O
-Chời O
+chời O
 ơi O
 tin O
 được O
 hông O
 ? O
 ” O
-Sữa_tươi B-san_pham
+sữa_tươi B-san_pham
 trân_châu I-san_pham
 đường I-san_pham
 đen I-san_pham
-CHỈ O
-10K B-gia_san_pham
+chỉ O
+10k B-gia_san_pham
 10 B-gia_san_pham
-K I-gia_san_pham
+k I-gia_san_pham
 10 B-gia_san_pham
-K I-gia_san_pham
+k I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bắt_đầu O
+bắt_đầu O
 ngày O
 mới O
 với O
@@ -10010,10 +10010,10 @@ bữa O
 sáng O
 ấm O
 bụng O
-Bánh_Mì B-san_pham
-Ốp_La I-san_pham
+bánh_mì B-san_pham
+ốp_la I-san_pham
 2 I-san_pham
-Trứng I-san_pham
+trứng I-san_pham
 là O
 đầy_đủ O
 năng_lượng O
@@ -10024,23 +10024,23 @@ hiệu_quả O
 rồi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 242 B-so_nha
-G-244 I-so_nha
-Nguyễn_Đình_Chiểu B-ten_duong
+g-244 I-so_nha
+nguyễn_đình_chiểu B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ta O
+ta O
 daaaa O
 , O
 bí_mật O
@@ -10052,28 +10052,28 @@ combo O
 tuần O
 3 O
 là O
-Gà B-san_pham
-Rán I-san_pham
+gà B-san_pham
+rán I-san_pham
 và O
-Bia B-san_pham
+bia B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 32.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mê_đắm O
+mê_đắm O
 mê O
 đuối O
 với O
-Chả_Lụa B-san_pham
-Que_Bì I-san_pham
+chả_lụa B-san_pham
+que_bì I-san_pham
 với O
 hương_vị O
 đậm_đà O
@@ -10092,39 +10092,39 @@ siêu O
 đã O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 97-99 B-so_nha
-Nguyễn_Hữu_Cầu B-ten_duong
+nguyễn_hữu_cầu B-ten_duong
 , O
-P.Tân B-ten_phuong_xa_thitran
-Định I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+định I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-C. O
+c. O
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đem O
+đem O
 đến O
 sự O
 tiện_lợi O
@@ -10158,9 +10158,9 @@ thời_gian O
 nấu_nướng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Uống O
+uống O
 thật O
 nhiều O
 , O
@@ -10168,95 +10168,95 @@ trả O
 thật O
 ít O
 khi O
-NƯỚC B-san_pham
-UỐNG I-san_pham
-TH I-san_pham
-GIẢM O
-ĐẾN O
-8K B-muc_giam_gia
+nước B-san_pham
+uống I-san_pham
+th I-san_pham
+giảm O
+đến O
+8k B-muc_giam_gia
 cực O
 đã O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 30/04/2021 B-date
 . O
-Ghé_Bảy O
+ghé_bảy O
 mua O
 ngay O
 nào O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tin_vui O
+tin_vui O
 nè O
 , O
-Combo_Bánh_Mì_Nem B-san_pham
-Nướng I-san_pham
+combo_bánh_mì_nem B-san_pham
+nướng I-san_pham
 và O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 chỉ O
-20K B-gia_san_pham
+20k B-gia_san_pham
 với O
 200 O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 137-139 B-so_nha
-Cô B-ten_duong
-Bắc I-ten_duong
+cô B-ten_duong
+bắc I-ten_duong
 , O
-P.Cô B-ten_phuong_xa_thitran
-Giang I-ten_phuong_xa_thitran
+p.cô B-ten_phuong_xa_thitran
+giang I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Park I-vi_tri
+eleven_park I-vi_tri
 6 I-vi_tri
 : O
 208 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm B-san_pham
+cơm B-san_pham
 nắm I-san_pham
-Onigiri I-san_pham
+onigiri I-san_pham
 là O
 một O
 lựa_chọn O
 hoàn_hảo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
-Ưu_đãi O
+ưu_đãi O
 x O
 3 O
 : O
-Tặng_Loa_JBL B-san_pham
+tặng_loa_jbl B-san_pham
 cho O
 07 O
 khách_hàng O
@@ -10269,21 +10269,21 @@ và O
 tích O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Trứng B-san_pham
+trứng B-san_pham
 cút I-san_pham
 ngâm I-san_pham
 gia_vị I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cứ O
+cứ O
 thế O
 , O
 món O
@@ -10311,9 +10311,9 @@ phổ_biến O
 khắp_nơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-️Thời O
+️thời O
 gian O
 : O
 từ O
@@ -10323,17 +10323,17 @@ ngày O
 31/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 25.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 14.000 B-gia_san_pham
 đ I-gia_san_pham
@@ -10341,13 +10341,13 @@ Giá O
 thanh O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đâu O
+đâu O
 cần O
 phải O
 đến O
-Hong_Kong O
+hong_kong O
 mới O
 thưởng_thức O
 được O
@@ -10362,25 +10362,25 @@ béo O
 ngậy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 ngay O
 1 O
 gói O
-Đậu_Phộng B-san_pham
-Poca I-san_pham
+đậu_phộng B-san_pham
+poca I-san_pham
 42g I-san_pham
 khi O
 mua O
 3 O
-Poca_Party B-san_pham
+poca_party B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Ưu_đãi O
+ưu_đãi O
 áp_dụng O
 từ O
 8/3 B-date
@@ -10388,37 +10388,37 @@ từ O
 14/3/2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 529 B-so_nha
-Lê_Đức_Thọ B-ten_duong
+lê_đức_thọ B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
-Gò_Vấp I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+gò_vấp I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thực_đơn O
+thực_đơn O
 vô_cùng O
 đa_dạng O
 nào O
-Cơm B-san_pham
+cơm B-san_pham
 / O
-Mì B-san_pham
+mì B-san_pham
 / O
-Bún B-san_pham
+bún B-san_pham
 / O
-Salad B-san_pham
+salad B-san_pham
 tha O
 hồi O
 chọn_lựa O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Gunkan B-san_pham
+gunkan B-san_pham
 còi I-san_pham
 sò I-san_pham
 điệp I-san_pham
@@ -10427,28 +10427,28 @@ sốt I-san_pham
 cay I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tháng O
+tháng O
 mới O
 , O
-MÓN O
-MỚI O
+món O
+mới O
 : O
-XÚC_XÍCH B-san_pham
+xúc_xích B-san_pham
 & I-san_pham
 amp I-san_pham
 ; I-san_pham
-HOTDOG I-san_pham
+hotdog I-san_pham
 siêu O
 hấp O
 dẫn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Thời_gian O
+thời_gian O
 ưu_đãi O
 : O
 03 B-date
@@ -10456,11 +10456,11 @@ Thời_gian O
 09/06/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hãy O
+hãy O
 tới O
-FamilyMart O
+familymart O
 và O
 chọn O
 ngay O
@@ -10470,11 +10470,11 @@ mình O
 nước B-san_pham
 tăng I-san_pham
 lực I-san_pham
-Monster I-san_pham
+monster I-san_pham
 ” O
 và O
 “ O
-Coca-Cola B-san_pham
+coca-cola B-san_pham
 vị I-san_pham
 cà_phê I-san_pham
 ” O
@@ -10493,50 +10493,50 @@ một_cách O
 nhanh_chóng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bạn O
+bạn O
 sẽ O
 được O
 tặng O
 ngay O
 1 O
-Pepsi B-san_pham
-Cola I-san_pham
+pepsi B-san_pham
+cola I-san_pham
 390ml I-san_pham
 khi O
 mua O
 2 O
 phần O
-Gà B-san_pham
-Rán I-san_pham
+gà B-san_pham
+rán I-san_pham
 bất_kì O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ️ O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Rivergate I-vi_tri
+eleven_rivergate I-vi_tri
 : O
-L B-vi_tri
+l B-vi_tri
 1.04 I-vi_tri
-Rivergate_Residence I-vi_tri
+rivergate_residence I-vi_tri
 , O
 151-155 B-so_nha
-Bến_Vân_Đồn B-ten_duong
+bến_vân_đồn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 4 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tụ_họp O
+tụ_họp O
 bạn_bè O
 , O
 chiến_hữu O
@@ -10556,22 +10556,22 @@ vui_vẻ O
 hò_reo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thì O
+thì O
 ghé O
 ngay O
 7 O
 - O
-Eleven O
+eleven O
 dùng O
-Món_Hấp B-san_pham
+món_hấp B-san_pham
 và O
 được O
 tặng O
 1 O
 chai B-san_pham
-Aquafina I-san_pham
+aquafina I-san_pham
 nè O
 , O
 combo O
@@ -10580,19 +10580,19 @@ chất_lượng O
 luôn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh B-san_pham
-Mì_Thịt_Chả I-san_pham
+bánh B-san_pham
+mì_thịt_chả I-san_pham
 : O
 giá O
 chỉ O
 25k B-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hãy O
+hãy O
 yên_tâm O
 , O
 chỉ O
@@ -10600,7 +10600,7 @@ cần O
 một O
 thanh B-san_pham
 ngũ_cốc I-san_pham
-Fitness I-san_pham
+fitness I-san_pham
 với O
 2 O
 vị O
@@ -10623,15 +10623,15 @@ rồi O
 nha O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bí_quyết O
+bí_quyết O
 chính O
 là O
 kem B-san_pham
 chống I-san_pham
 nắng I-san_pham
-Sunplay I-san_pham
+sunplay I-san_pham
 , O
 bảo_vệ O
 tối_ưu O
@@ -10648,38 +10648,38 @@ và O
 tia_cực_tím O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa O
+địa O
 chỉ O
 : O
 81 B-so_nha
-Nguyễn_Du B-ten_duong
+nguyễn_du B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Thành I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_thành I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 , O
-Tp. B-ten_tinh_thanh_pho
-Hồ_Chí_Minh I-ten_tinh_thanh_pho
+tp. B-ten_tinh_thanh_pho
+hồ_chí_minh I-ten_tinh_thanh_pho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhắc O
+nhắc O
 nhẹ O
 cả O
 nhà O
 chương_trình O
-Flash_Sale O
-Bánh_Mì B-san_pham
-Trứng_Ốp_La I-san_pham
+flash_sale O
+bánh_mì B-san_pham
+trứng_ốp_la I-san_pham
 và O
-Cà_Phê B-san_pham
+cà_phê B-san_pham
 chỉ O
-19K B-gia_san_pham
+19k B-gia_san_pham
 vẫn O
 đang O
 diễn O
@@ -10687,43 +10687,43 @@ ra O
 nhaaa O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-HOT O
-HOT O
-HOT O
-Kẹo_Playmore B-san_pham
+hot O
+hot O
+hot O
+kẹo_playmore B-san_pham
 nhập_khẩu O
 từ O
-Thái_Lan O
+thái_lan O
 nay O
 đã O
 có_mặt O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-TẶNG O
-BÚT_BI B-san_pham
-NGỘ_NGHĨNH I-san_pham
+tặng O
+bút_bi B-san_pham
+ngộ_nghĩnh I-san_pham
 - O
-KHI O
-MUA O
-HÓA O
-ĐƠN O
-KEM O
-TỪ O
+khi O
+mua O
+hóa O
+đơn O
+kem O
+từ O
 50 O
-K O
+k O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chương_trình O
+chương_trình O
 diễn O
 ra O
 từ O
@@ -10732,13 +10732,13 @@ từ O
 31/01/2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Á O
+á O
 hậu O
 2 O
 : O
-Sữa_đậu_nành B-san_pham
+sữa_đậu_nành B-san_pham
 trân_châu I-san_pham
 đường I-san_pham
 đen I-san_pham
@@ -10746,14 +10746,14 @@ trân_châu I-san_pham
 trắng I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chưa O
+chưa O
 kể O
 với O
 hạt B-san_pham
 nêm I-san_pham
-Aji-ngon I-san_pham
+aji-ngon I-san_pham
 tuyệt_hảo O
 , O
 chúng_ta O
@@ -10772,10 +10772,10 @@ và O
 tráng_miệng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
-22K B-gia_san_pham
+chỉ O
+22k B-gia_san_pham
 cho O
 một O
 phần O
@@ -10786,40 +10786,40 @@ trứng I-san_pham
 la I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-PetroLand_Tower B-vi_tri
+petroland_tower B-vi_tri
 , O
 12 B-so_nha
-Tân_Trào B-ten_duong
+tân_trào B-ten_duong
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phú I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phú I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-SANDWICH B-san_pham
-CÁ_NGỪ I-san_pham
-TRỨNG I-san_pham
-ỐP I-san_pham
-LA I-san_pham
+sandwich B-san_pham
+cá_ngừ I-san_pham
+trứng I-san_pham
+ốp I-san_pham
+la I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Bánh_Bao B-san_pham
-Xá_Xíu I-san_pham
+bánh_bao B-san_pham
+xá_xíu I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thời_gian O
+thời_gian O
 khuyến_mại O
 : O
 13/5 B-date
@@ -10827,32 +10827,32 @@ khuyến_mại O
 25/5/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 ngay O
-Bình_Thuỷ B-san_pham
-Tinh_Valentine I-san_pham
+bình_thuỷ B-san_pham
+tinh_valentine I-san_pham
 khi O
 mua O
 3 O
 hộp O
-Yomost B-san_pham
+yomost B-san_pham
 170ml I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Poca_KT_Tự_Nhiên B-san_pham
+poca_kt_tự_nhiên B-san_pham
 52g I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cùng O
+cùng O
 bánh_bao B-san_pham
-Doraemon_Thuyền I-san_pham
-Trưởng I-san_pham
+doraemon_thuyền I-san_pham
+trưởng I-san_pham
 cực_kì O
 kool O
 ngầu O
@@ -10869,31 +10869,31 @@ thú_vị O
 nhé O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ️ O
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 : O
 82 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 lo_lắng O
 vì O
-Playmore B-san_pham
+playmore B-san_pham
 đủ O
 3 O
 vị O
@@ -10904,54 +10904,54 @@ các O
 cửa_hàng O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Vinhomes_Central_Park I-vi_tri
+eleven_vinhomes_central_park I-vi_tri
 , O
-Park B-so_nha
+park B-so_nha
 6 I-so_nha
 . I-so_nha
 208 I-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , I-ten_duong
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chẳng O
+chẳng O
 cần O
 đi O
-Nhật O
+nhật O
 cũng O
 có_thể O
 ăn O
-SUSHI B-san_pham
+sushi B-san_pham
 ngon O
 quên O
 lối O
 về O
 - O
-GIÁ O
-DÙNG O
-THỬ O
-CHỈ O
+giá O
+dùng O
+thử O
+chỉ O
 30 B-gia_san_pham
-K I-gia_san_pham
+k I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mưa O
+mưa O
 se_se O
 lạnh O
 , O
@@ -10964,7 +10964,7 @@ gà O
 nướng O
 và O
 xốt O
-BBQ O
+bbq O
 cay O
 nhè_nhẹ O
 trong O
@@ -10976,16 +10976,16 @@ tuyệt_vời O
 nhỉ O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ngày O
+ngày O
 11/2 B-date
 , O
 chúng_mình O
 cùng O
 mở O
 ứng_dụng O
-7REWARDS O
+7rewards O
 để O
 nhận O
 voucher O
@@ -10993,55 +10993,55 @@ voucher O
 từ O
 7 O
 - O
-Eleven O
+eleven O
 nhaaa O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
 * O
-Chỉ O
+chỉ O
 áp_dụng O
 tại O
 cửa_hàng O
 7 B-vi_tri
 - I-vi_tri
-Eleven_The_Lancaster I-vi_tri
+eleven_the_lancaster I-vi_tri
 , O
 22-22 B-so_nha
-Bis_Lê_Thánh_Tôn B-ten_duong
+bis_lê_thánh_tôn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ai O
+ai O
 yêu O
 bánh B-san_pham
-Dorayaki I-san_pham
+dorayaki I-san_pham
 bằng O
 mèo O
 máy O
-Doraemon O
+doraemon O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 30.000 B-san_pham
 đ I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tháng O
+tháng O
 giêng O
 là O
 tháng O
@@ -11050,19 +11050,19 @@ tháng O
 tiệc_tùng O
 đã_đời O
 với O
-Sapporo B-san_pham
+sapporo B-san_pham
 lại O
 còn O
 lời O
 thêm O
-Poca B-san_pham
+poca B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chỉ O
+chỉ O
 từ O
-25K B-gia_san_pham
+25k B-gia_san_pham
 cho O
 một O
 bữa O
@@ -11071,9 +11071,9 @@ chuẩn O
 chỉnh O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nhờ O
+nhờ O
 vào O
 kỹ_thuật O
 áp_chảo O
@@ -11107,59 +11107,59 @@ xanh_tươi O
 thu_hoạch O
 trực_tiếp O
 từ O
-Đà_Lạt B-ten_tinh_thanh_pho
+đà_lạt B-ten_tinh_thanh_pho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sổ_tay B-san_pham
+sổ_tay B-san_pham
 xinh_xắn O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 ngay O
 1 O
-Ly_Trà B-san_pham
+ly_trà B-san_pham
 7 O
 - O
-Eleven O
+eleven O
 khi O
 mua O
-Món_Hấp B-san_pham
+món_hấp B-san_pham
 bất_kì O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Kẹo_Gum_Trái_Cây B-san_pham
-Poosh I-san_pham
+kẹo_gum_trái_cây B-san_pham
+poosh I-san_pham
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Rivergate I-vi_tri
+eleven_rivergate I-vi_tri
 : O
-L B-vi_tri
+l B-vi_tri
 1.04 I-vi_tri
-Rivergate_Residence I-vi_tri
+rivergate_residence I-vi_tri
 , O
 151-155 B-so_nha
-Bến_Vân_Đồn B-ten_duong
+bến_vân_đồn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 4 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Với O
+với O
 những O
 ngày O
 đặc_biệt O
@@ -11167,7 +11167,7 @@ hướng O
 về O
 gia_đình O
 : O
-Ngày O
+ngày O
 của O
 cha O
 ( O
@@ -11179,9 +11179,9 @@ tháng O
 6 O
 ) O
 , O
-Ngày O
-Gia_Đình O
-Việt_Nam O
+ngày O
+gia_đình O
+việt_nam O
 ( O
 28/6 B-date
 ) O
@@ -11190,38 +11190,38 @@ không_khí O
 sôi_động O
 của O
 giải_vô_địch_bóng_đá O
-Thế_Giới O
+thế_giới O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ️ O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Park I-vi_tri
+eleven_park I-vi_tri
 6 I-vi_tri
 : O
 208 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vào O
+vào O
 đúng O
 ngày O
-Quốc_Tế_Phụ_Nữ O
+quốc_tế_phụ_nữ O
 8/3 B-date
 , O
 7 O
 - O
-Eleven O
+eleven O
 sẽ O
 tổ_chức O
 sự_kiện O
@@ -11237,17 +11237,17 @@ sẽ O
 làm_mưa_làm_gió O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Khởi_đầu O
+khởi_đầu O
 tuần O
 mới O
 cùng O
-Omusubi B-san_pham
+omusubi B-san_pham
 - O
 hương_vị O
 chuẩn O
-Nhật O
+nhật O
 thơm_lừng O
 từ O
 gạo O
@@ -11266,22 +11266,22 @@ loại O
 nhân O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 234 B-so_nha
-Đề_Thám B-ten_duong
+đề_thám B-ten_duong
 , O
-P.Phạm B-ten_phuong_xa_thitran
-Ngũ_Lão I-ten_phuong_xa_thitran
+p.phạm B-ten_phuong_xa_thitran
+ngũ_lão I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đây O
+đây O
 là O
 cửa_hàng O
 thứ O
@@ -11291,7 +11291,7 @@ quận B-ten_quan_huyen_thanhpho
 5 I-ten_quan_huyen_thanhpho
 : O
 ) O
-Các O
+các O
 bạn O
 ghé O
 đến O
@@ -11322,14 +11322,14 @@ nữa O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đặc_biệt O
+đặc_biệt O
 , O
 trong O
 danh_sách O
 này O
-Ad O
+ad O
 thích O
 nhất O
 là O
@@ -11348,9 +11348,9 @@ sò B-san_pham
 điệp I-san_pham
 surimi I-san_pham
 ^ O
-O O
+o O
 ^ O
-Thịt B-san_pham
+thịt B-san_pham
 ba_rọi I-san_pham
 xông I-san_pham
 khói I-san_pham
@@ -11364,7 +11364,7 @@ xông O
 khói O
 đặc_biệt O
 của O
-Nhật O
+nhật O
 đem O
 lại O
 cảm_giác O
@@ -11378,17 +11378,17 @@ người O
 dùng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-san_pham
 - I-san_pham
-Eleven_Rivergate I-san_pham
+eleven_rivergate I-san_pham
 . I-san_pham
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cho O
-Ad O
+cho O
+ad O
 thấy O
 cánh_tay O
 của O
@@ -11401,68 +11401,68 @@ anh_em O
 hội O
 ghiền O
 bánh B-san_pham
-Dorayaki I-san_pham
+dorayaki I-san_pham
 ơi O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 134 B-so_nha
-Pasteur B-ten_duong
+pasteur B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-A. B-vi_tri
+a. B-vi_tri
 7 I-vi_tri
 - I-vi_tri
-Eleven_Tôn_Dật_Tiên I-vi_tri
+eleven_tôn_dật_tiên I-vi_tri
 . I-vi_tri
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 : O
-Belleza B-vi_tri
+belleza B-vi_tri
 ( O
-Đường B-ten_duong
+đường B-ten_duong
 số I-ten_duong
 2 I-ten_duong
 ) O
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Áp_dụng O
+áp_dụng O
 từ O
 17/10 B-date
 - O
 30/11/2018 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 32.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thực_đơn O
+thực_đơn O
 cơm O
 chọn O
 món O
@@ -11475,43 +11475,43 @@ món O
 mới O
 ra_mắt O
 : O
-Cá_Thu B-san_pham
-Nhật_Kho_Cà I-san_pham
+cá_thu B-san_pham
+nhật_kho_cà I-san_pham
 và O
-Lòng_Gà_Xào_Mướp B-san_pham
+lòng_gà_xào_mướp B-san_pham
 . I-san_pham
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cùng O
-FamilyMart O
+cùng O
+familymart O
 đi O
 shopping O
 cho O
-Tết O
+tết O
 tại O
-FamilyMart_Flea_Martket B-vi_tri
+familymart_flea_martket B-vi_tri
 - O
 cửa_hàng O
 598 B-so_nha
 - I-so_nha
 600 I-so_nha
-Cách_Mạng B-ten_duong
-Tháng I-ten_duong
+cách_mạng B-ten_duong
+tháng I-ten_duong
 8 I-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 ( O
 đối_diện O
 công_viên B-vi_tri
-Lê_Thị_Riêng I-vi_tri
+lê_thị_riêng I-vi_tri
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Từ O
+từ O
 ngày O
 , O
 1/12 B-date
@@ -11524,29 +11524,29 @@ bán O
 các O
 cửa_hàng O
 của O
-FamilyMart O
+familymart O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Rivergate I-vi_tri
+eleven_rivergate I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-MÓN O
-MỚI O
+món O
+mới O
 : O
-CHÁO B-san_pham
-MỰC I-san_pham
-TIÊU I-san_pham
-XANH I-san_pham
+cháo B-san_pham
+mực I-san_pham
+tiêu I-san_pham
+xanh I-san_pham
 / O
-CHÁO B-san_pham
-SƯỜN I-san_pham
-SỤN I-san_pham
+cháo B-san_pham
+sườn I-san_pham
+sụn I-san_pham
 nóng_hổi O
 vừa O
 thổi O
@@ -11554,40 +11554,40 @@ vừa O
 ăn️ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thử O
+thử O
 ngày O
-Trà B-san_pham
-Bưởi_Thanh_Long I-san_pham
+trà B-san_pham
+bưởi_thanh_long I-san_pham
 chỉ O
-10K B-gia_san_pham
+10k B-gia_san_pham
 với O
 200 O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Kết_quả O
+kết_quả O
 sẽ O
 được O
 công_bố O
@@ -11596,18 +11596,18 @@ ngày O
 27/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 35.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Áp_dụng O
+áp_dụng O
 từ O
 : O
 01 B-date
@@ -11615,54 +11615,54 @@ từ O
 31/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 " O
-Chớp O
+chớp O
 " O
 ngay O
 cơ_hội O
 nhận O
-Tai B-san_pham
-Nghe I-san_pham
-Bluetooth I-san_pham
+tai B-san_pham
+nghe I-san_pham
+bluetooth I-san_pham
 với O
 hoá_đơn O
 từ O
-80K O
+80k O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-BÁNH B-san_pham
-TƯƠI I-san_pham
-MỖI O
-NGÀY O
-TRÀ B-san_pham
-SỮA I-san_pham
-NHẬN O
-NGAY O
+bánh B-san_pham
+tươi I-san_pham
+mỗi O
+ngày O
+trà B-san_pham
+sữa I-san_pham
+nhận O
+ngay O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tận_hưởng O
-Cà_Phê B-san_pham
-Ý I-san_pham
+tận_hưởng O
+cà_phê B-san_pham
+ý I-san_pham
 - O
 giá O
-Việt O
+việt O
 duy_nhất O
 tại O
 7 B-vi_tri
 - I-vi_tri
-Eleven_The_Lancaster I-vi_tri
+eleven_the_lancaster I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Thịt B-san_pham
+thịt B-san_pham
 ba_rọi I-san_pham
 xông I-san_pham
 khói I-san_pham
@@ -11670,16 +11670,16 @@ xiên I-san_pham
 que I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Twin_Pack_Lon_Pepsi B-san_pham
+twin_pack_lon_pepsi B-san_pham
 1,5 I-san_pham
-L I-san_pham
+l I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giảm O
+giảm O
 ngay O
 12,000 B-muc_giam_gia
 đ I-muc_giam_gia
@@ -11689,27 +11689,27 @@ cho O
 . O
 6 B-san_pham
 lon I-san_pham
-Pepsi I-san_pham
+pepsi I-san_pham
 330ml I-san_pham
 . O
 6 B-san_pham
 chai I-san_pham
-Pepsi I-san_pham
+pepsi I-san_pham
 390ml I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Gunkan_Cá B-san_pham
+gunkan_cá B-san_pham
 ngừ I-san_pham
 mayo I-san_pham
 trứng I-san_pham
 tôm I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nghe O
+nghe O
 thôi O
 là O
 đã O
@@ -11725,16 +11725,16 @@ khi O
 uống O
 thêm O
 chút O
-Trà B-san_pham
-Oolong_Tea I-san_pham
+trà B-san_pham
+oolong_tea I-san_pham
 + O
 thanh O
 mát O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đủ O
+đủ O
 loại O
 thực_phẩm O
 : O
@@ -11755,64 +11755,64 @@ cần O
 có O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 49 B-so_nha
-Bùi_Thị_Xuân B-ten_duong
+bùi_thị_xuân B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Thành I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_thành I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 598-600 B-so_nha
-Cách_Mạng B-ten_duong
-Tháng I-ten_duong
+cách_mạng B-ten_duong
+tháng I-ten_duong
 8 I-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 11 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Combo_Món_Hấp B-san_pham
+combo_món_hấp B-san_pham
 và O
-Sữa_Đậu_Nành B-san_pham
+sữa_đậu_nành B-san_pham
 chỉ O
 19,000 B-gia_san_pham
 đ I-gia_san_pham
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Vinhomes_Central_Park I-vi_tri
+eleven_vinhomes_central_park I-vi_tri
 , O
-Park B-so_nha
+park B-so_nha
 6 I-so_nha
 . I-so_nha
 208 I-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ( O
 ๑ O
@@ -11825,18 +11825,18 @@ lt O
 ; O
 ๑ O
 ) O
-Bánh_Macaron B-san_pham
+bánh_macaron B-san_pham
 nay O
 đã O
 có_mặt O
 tại O
-FamilyMart O
+familymart O
 rồi O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Món_Bánh_Mì_Que B-san_pham
+món_bánh_mì_que B-san_pham
 luôn O
 là O
 một O
@@ -11847,7 +11847,7 @@ hot O
 nhất O
 nhì O
 bên O
-Bảy O
+bảy O
 vì O
 chẳng_những O
 thơm O
@@ -11860,29 +11860,29 @@ nhiều O
 hương_vị O
 đa_dạng O
 : O
-Khô_Gà_Lá_Chanh B-san_pham
+khô_gà_lá_chanh B-san_pham
 / O
-Pate_Heo_Cay B-san_pham
+pate_heo_cay B-san_pham
 / O
-Chà_Bông_Bơ_Hột B-san_pham
-Gà I-san_pham
+chà_bông_bơ_hột B-san_pham
+gà I-san_pham
 và O
-Pate_Hải_Phòng B-san_pham
+pate_hải_phòng B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Thời_gian O
+thời_gian O
 : O
 14 B-date
 - O
 20/06/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Vừa O
+vừa O
 được O
 ăn O
 kem B-san_pham
@@ -11899,9 +11899,9 @@ nhà O
 ơi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chương_trình O
+chương_trình O
 diễn O
 ra O
 từ O
@@ -11911,53 +11911,53 @@ hết O
 31.1.2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Tôn_Thất_Tùng I-vi_tri
+eleven_tôn_thất_tùng I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mỳ_Ý B-san_pham
+mỳ_ý B-san_pham
 7 O
 - O
-Eleven O
+eleven O
 - O
-Giá_Mới_Chất_Lượng O
-Không_Đổi O
+giá_mới_chất_lượng O
+không_đổi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Khu B-vi_tri
+khu B-vi_tri
 căn_hộ I-vi_tri
-Mỹ I-vi_tri
-Phát I-vi_tri
+mỹ I-vi_tri
+phát I-vi_tri
 137 B-so_nha
-Nguyễn_Đức_Cảnh B-ten_duong
+nguyễn_đức_cảnh B-ten_duong
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phong I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phong I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thời_gian O
+thời_gian O
 : O
 01 B-date
 - O
 31/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Transformers B-san_pham
+transformers B-san_pham
 siêu O
 xịn O
 : O
@@ -11965,71 +11965,71 @@ xịn O
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
 119 B-so_nha
-An_Bình B-ten_duong
+an_bình B-ten_duong
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 5 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Bệnh I-vi_tri
+eleven_bệnh I-vi_tri
 viện I-vi_tri
-Chợ_Rẫy I-vi_tri
+chợ_rẫy I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ️ O
 7 B-vi_tri
 - I-vi_tri
-Eleven_Saigon_Pearl I-vi_tri
+eleven_saigon_pearl I-vi_tri
 : O
-S06 B-vi_tri
-Shophouse_Saigon_Pearl I-vi_tri
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
 , O
 92 B-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa O
+địa O
 chỉ O
 : O
-Shop B-vi_tri
+shop B-vi_tri
 72 I-vi_tri
 , O
-Lô_S B-vi_tri
+lô_s B-vi_tri
 6-3 I-vi_tri
 , O
-Chung_Cư B-vi_tri
-Nam_Phúc I-vi_tri
+chung_cư B-vi_tri
+nam_phúc I-vi_tri
 - I-vi_tri
-Le_Jadin I-vi_tri
+le_jadin I-vi_tri
 , O
-P.Tân B-ten_phuong_xa_thitran
-Phú I-ten_phuong_xa_thitran
+p.tân B-ten_phuong_xa_thitran
+phú I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 7 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nếu O
+nếu O
 đủ O
 700 O
 điểm O
@@ -12038,25 +12038,25 @@ nhanh_chóng O
 vào O
 ngay O
 mục O
-Voucher O
+voucher O
 để O
 nhận O
-Voucher_Fresh_Food O
+voucher_fresh_food O
 10k B-muc_giam_gia
 và I-muc_giam_gia
-Voucher_Karaoke_Icool O
+voucher_karaoke_icool O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hãy O
+hãy O
 đến O
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 vào O
 ngày O
 8/3 B-date
@@ -12076,9 +12076,9 @@ ra_mắt O
 nhé O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Từ O
+từ O
 hôm_nay O
 bạn O
 có_thể O
@@ -12089,7 +12089,7 @@ lớn I-san_pham
 tại O
 7 O
 - O
-Eleven O
+eleven O
 giá O
 chỉ O
 19k B-gia_san_pham
@@ -12103,9 +12103,9 @@ nhỏ O
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đừng O
+đừng O
 quên O
 nếu O
 muốn O
@@ -12115,8 +12115,8 @@ bụng O
 thì O
 nhớ O
 order O
-Bánh_Mì B-san_pham
-Hotdog I-san_pham
+bánh_mì B-san_pham
+hotdog I-san_pham
 nhé O
 , O
 giá O
@@ -12127,18 +12127,18 @@ thui O
 nè O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Xúc_xích B-san_pham
-Cocktail I-san_pham
+xúc_xích B-san_pham
+cocktail I-san_pham
 xông I-san_pham
 khói I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chẳng O
+chẳng O
 phải O
 là O
 em O
@@ -12156,8 +12156,8 @@ còn O
 thêm O
 quà O
 tặng O
-Bút_Bi B-san_pham
-Nông_Sản I-san_pham
+bút_bi B-san_pham
+nông_sản I-san_pham
 đáng O
 yêu O
 hết_sức O
@@ -12174,16 +12174,16 @@ mê O
 đó O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-CH B-vi_tri
+ch B-vi_tri
 9 I-vi_tri
-Thanh_Đa I-vi_tri
+thanh_đa I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chả B-san_pham
+chả B-san_pham
 cá I-san_pham
 bọc I-san_pham
 trứng I-san_pham
@@ -12196,9 +12196,9 @@ hoá_ra O
 quen O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Balo B-san_pham
+balo B-san_pham
 túi I-san_pham
 rút I-san_pham
 : O
@@ -12206,9 +12206,9 @@ rút I-san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Khởi_đầu O
+khởi_đầu O
 tuần O
 mới O
 tràn_đầy O
@@ -12218,16 +12218,16 @@ siêu O
 phẩm O
 đình_đám O
 “ O
-Cơm_Nghêu B-san_pham
+cơm_nghêu B-san_pham
 và O
-Thịt_Xào_Cay B-san_pham
+thịt_xào_cay B-san_pham
 ” O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Thời_gian O
+thời_gian O
 ưu_đãi O
 : O
 22 B-date
@@ -12235,9 +12235,9 @@ Thời_gian O
 28/5/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Được O
+được O
 chế_biến O
 bằng O
 những O
@@ -12246,29 +12246,29 @@ tự_nhiên O
 , O
 món O
 mì B-san_pham
-Ý I-san_pham
+ý I-san_pham
 dầu I-san_pham
-Oliu I-san_pham
+oliu I-san_pham
 và I-san_pham
-Bacon I-san_pham
+bacon I-san_pham
 ắt_hẳn O
 sẽ O
 đem O
 hương_vị O
 nước O
-Ý O
+ý O
 đến O
 gần O
 bạn O
 hơn_bao_giờ_hết O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bạn O
+bạn O
 có O
 biết O
-Salad B-san_pham
+salad B-san_pham
 cá_ngừ I-san_pham
 là O
 món O
@@ -12276,37 +12276,37 @@ món O
 cực_kỳ O
 nổi_tiếng O
 tại O
-Hawaii O
+hawaii O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Địa_chỉ O
+địa_chỉ O
 : O
-The_Park_Residence B-vi_tri
+the_park_residence B-vi_tri
 – I-vi_tri
-A I-vi_tri
+a I-vi_tri
 1 I-vi_tri
 - I-vi_tri
-PF-86 I-vi_tri
+pf-86 I-vi_tri
 , O
-Nguyễn_Hữu_Thọ B-ten_duong
+nguyễn_hữu_thọ B-ten_duong
 , O
-Xã B-ten_phuong_xa_thitran
-Phước_Kiểng I-ten_phuong_xa_thitran
+xã B-ten_phuong_xa_thitran
+phước_kiểng I-ten_phuong_xa_thitran
 , O
-Huyện B-ten_quan_huyen_thanhpho
-Nhà_Bè I-ten_quan_huyen_thanhpho
+huyện B-ten_quan_huyen_thanhpho
+nhà_bè I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Snack_Khoai_Tây_Tayo B-san_pham
+snack_khoai_tây_tayo B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nếu O
+nếu O
 bạn O
 là O
 fan O
@@ -12326,21 +12326,21 @@ mới O
 này O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-DUY_NHẤT O
+duy_nhất O
 trong O
 ngày O
 7/11 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hãy O
+hãy O
 đến O
-FamilyMart O
+familymart O
 thưởng_thức O
-Chicken B-san_pham
+chicken B-san_pham
 nugget I-san_pham
 và O
 chia_sẻ O
@@ -12350,21 +12350,21 @@ bạn O
 nào O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Khu B-vi_tri
+khu B-vi_tri
 vui_chơi I-vi_tri
-Thỏ_Trắng I-vi_tri
+thỏ_trắng I-vi_tri
 ( O
-Công_viên B-vi_tri
-Lê_Thị_Riêng I-vi_tri
+công_viên B-vi_tri
+lê_thị_riêng I-vi_tri
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bằng O
+bằng O
 công_thức O
 đặc_biệt O
 tạo O
@@ -12400,9 +12400,9 @@ chiếc O
 bánh O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Thử O
+thử O
 ngay O
 món O
 cơm O
@@ -12413,70 +12413,70 @@ chóp O
 " O
 này O
 tại O
-Bảy O
+bảy O
 chỉ O
 với O
-35K B-gia_san_pham
+35k B-gia_san_pham
 thôi O
 nào O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 * O
-Ngon B-san_pham
+ngon B-san_pham
 ngon I-san_pham
-Hot_Pot I-san_pham
+hot_pot I-san_pham
 đang O
 được O
 bán O
 tại O
 3 O
 cửa_hàng O
-FamilyMart O
+familymart O
 : O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Phòng O
+phòng O
 1 O
 , O
-Toà B-vi_tri
+toà B-vi_tri
 nhà_văn I-vi_tri
 phòng I-vi_tri
-CentrePoint I-vi_tri
+centrepoint I-vi_tri
 , O
 106 B-so_nha
-Nguyễn_Văn_Trỗi B-ten_duong
+nguyễn_văn_trỗi B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
 8 I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
-Phú_Nhuận I-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
+phú_nhuận I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-The B-vi_tri
-Sun_Avenue I-vi_tri
+the B-vi_tri
+sun_avenue I-vi_tri
 1 I-vi_tri
 , O
 28 B-so_nha
-Mai_Chí_Thọ B-ten_duong
+mai_chí_thọ B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-An_Phú I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+an_phú I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 2 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nay O
+nay O
 còn O
 hot O
 hơn O
@@ -12506,56 +12506,56 @@ gì O
 bằng O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Hầm O
-B1 O
+hầm O
+b1 O
 , O
-ZENPLAZA B-vi_tri
+zenplaza B-vi_tri
 , O
 54-56 B-so_nha
-Nguyễn_Trãi B-ten_duong
+nguyễn_trãi B-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Bến_Thành I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+bến_thành I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven I-vi_tri
-Nguyễn_Thị_Minh I-vi_tri
-Khai I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
 . O
 82 B-so_nha
-Nguyễn_Thị_Minh_Khai B-ten_duong
+nguyễn_thị_minh_khai B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 3 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Rivergate I-vi_tri
+eleven_rivergate I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 ️ O
-HOÀN O
-TIỀN O
-TỐI_ĐA O
-20K B-muc_giam_gia
+hoàn O
+tiền O
+tối_đa O
+20k B-muc_giam_gia
 ( O
 cho O
 hoá_đơn O
@@ -12565,114 +12565,114 @@ k O
 ) O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Giá O
+giá O
 : O
 21.000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-Thịt B-san_pham
+thịt B-san_pham
 băm I-san_pham
 xiên I-san_pham
 que I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Tặng O
+tặng O
 ngay O
 1 O
 gói O
-Đậu_Phộng B-san_pham
-Poca I-san_pham
+đậu_phộng B-san_pham
+poca I-san_pham
 42g I-san_pham
 khi O
 mua O
 3 O
-Poca_Party B-san_pham
+poca_party B-san_pham
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Pack B-san_pham
+pack B-san_pham
 6 I-san_pham
-Chai_Pepsi I-san_pham
+chai_pepsi I-san_pham
 390ml I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 15k B-gia_san_pham
 . O
-️Cá B-san_pham
-Saba_Sốt_Terriyaki I-san_pham
+️cá B-san_pham
+saba_sốt_terriyaki I-san_pham
 chuẩn O
 hương O
-Nhật_Bản O
+nhật_bản O
 - O
-Giá O
+giá O
 chỉ O
 : O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 - O
-66C B-so_nha
-Phó B-ten_duong
-Đức_Chính I-ten_duong
+66c B-so_nha
+phó B-ten_duong
+đức_chính I-ten_duong
 , O
-P. B-ten_phuong_xa_thitran
-Nguyễn_Thái_Bình I-ten_phuong_xa_thitran
+p. B-ten_phuong_xa_thitran
+nguyễn_thái_bình I-ten_phuong_xa_thitran
 , O
-Q. B-ten_quan_huyen_thanhpho
+q. B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-ƯU O
-ĐÃI O
-TƯNG_BỪNG O
+ưu O
+đãi O
+tưng_bừng O
 , O
-MỪNG O
-RE-OPENING O
-CỬA_HÀNG B-vi_tri
+mừng O
+re-opening O
+cửa_hàng B-vi_tri
 7 I-vi_tri
 - I-vi_tri
-ELEVEN I-vi_tri
-NGUYỄN_DU I-vi_tri
+eleven I-vi_tri
+nguyễn_du I-vi_tri
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-vi_tri
 - I-vi_tri
-Eleven_Vinhomes_Central_Park I-vi_tri
+eleven_vinhomes_central_park I-vi_tri
 , O
-Park B-so_nha
+park B-so_nha
 6 I-so_nha
 . I-so_nha
 208 I-so_nha
-Nguyễn_Hữu_Cảnh B-ten_duong
+nguyễn_hữu_cảnh B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
 22 I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
-Bình_Thạnh I-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Đã O
+đã O
 có O
-Combo_Bánh_Mì_Cà B-san_pham
-Phê I-san_pham
+combo_bánh_mì_cà B-san_pham
+phê I-san_pham
 , O
 luôn O
 sẵn_sàng O
@@ -12681,36 +12681,36 @@ phục_vụ O
 tại O
 7 O
 - O
-Eleven O
+eleven O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cánh_Gà B-san_pham
-Rán_Giòn I-san_pham
+cánh_gà B-san_pham
+rán_giòn I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Gunkan B-san_pham
+gunkan B-san_pham
 & I-san_pham
 amp I-san_pham
 ; I-san_pham
-Sushi I-san_pham
+sushi I-san_pham
 chuẩn O
 hương O
-Nhật_Bản O
+nhật_bản O
 đã O
 ồ_ạt O
 kéo O
 đến O
 nhà O
-Bảy O
+bảy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chương O
+chương O
 trình_diễn O
 ra O
 từ O
@@ -12719,9 +12719,9 @@ từ O
 31/01/2019 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chả_là O
+chả_là O
 ngày_xưa O
 còn O
 khó_khăn O
@@ -12744,36 +12744,36 @@ như O
 bây_giờ O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Có O
+có O
 ngay O
 cơ_hội O
 sở_hữu O
 chiếc O
-Sạc_Dự_Phòng B-san_pham
+sạc_dự_phòng B-san_pham
 tiện_dụng O
 chỉ O
 với O
 hoá_đơn O
 từ O
-80K O
+80k O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Trứng_Xúc_Xích B-san_pham
-Kim_Chi I-san_pham
+cơm_trứng_xúc_xích B-san_pham
+kim_chi I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Một O
+một O
 màu O
 xanh_tươi O
 của O
 rau_sạch B-san_pham
-Đà_Lạt I-san_pham
+đà_lạt I-san_pham
 được O
 sắp_xếp O
 khéo_léo O
@@ -12788,24 +12788,24 @@ cùng O
 nước O
 sốt O
 chất_lượng O
-Nhật_Bản O
+nhật_bản O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Dòng O
+dòng O
 cà_phê B-san_pham
 mới O
 của O
-FamilyMart O
+familymart O
 gồm O
 4 O
 hương_vị O
 : O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Dù O
+dù O
 là O
 cà_phê B-san_pham
 đen I-san_pham
@@ -12832,32 +12832,32 @@ và O
 tỉnh_táo O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 7 B-san_pham
 - I-san_pham
-Eleven_Rivergate I-san_pham
+eleven_rivergate I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Combo_Bánh_Mì_Ốp B-san_pham
-La I-san_pham
+combo_bánh_mì_ốp B-san_pham
+la I-san_pham
 2 I-san_pham
-Trứng I-san_pham
+trứng I-san_pham
 và O
-Aquafina B-san_pham
+aquafina B-san_pham
 chỉ O
 19,000 B-gia_san_pham
 đ I-gia_san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Một O
+một O
 chiếc O
 bánh B-san_pham
-Macaron I-san_pham
+macaron I-san_pham
 đúng O
 chuẩn O
 sẽ O
@@ -12898,12 +12898,12 @@ là O
 vậy O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
 16/06/2021 B-date
 . O
 - O
-Áp_dụng O
+áp_dụng O
 : O
 1 O
 lần O
@@ -12912,26 +12912,26 @@ lần O
 khách O
 . O
 2 O
-️⃣HOÀN O
-TIỀN O
+️⃣hoàn O
+tiền O
 50% B-muc_giam_gia
 , O
-TỐI_ĐA O
-10K B-muc_giam_gia
+tối_đa O
+10k B-muc_giam_gia
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cà_Phê B-san_pham
-Ý I-san_pham
+cà_phê B-san_pham
+ý I-san_pham
 , O
 giá O
-Việt O
+việt O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Hosomaki B-san_pham
+hosomaki B-san_pham
 cá_hồi I-san_pham
 nướng I-san_pham
 trộn I-san_pham
@@ -12941,25 +12941,25 @@ konbu I-san_pham
 daisi I-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Sandwich B-san_pham
+sandwich B-san_pham
 giá O
 chỉ O
 từ O
-11K B-gia_san_pham
+11k B-gia_san_pham
 khi O
 đổi O
 200 O
 điểm O
 trên O
-7REWARDS O
+7rewards O
 đó O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ai O
+ai O
 cũng O
 biết O
 món O
@@ -12967,13 +12967,13 @@ món O
 yêu O
 thích O
 của O
-Thuyền_trưởng O
-Doraemon O
+thuyền_trưởng O
+doraemon O
 chính O
 là O
 món O
 bánh_rán B-san_pham
-Dorayaki I-san_pham
+dorayaki I-san_pham
 , O
 nhưng O
 mấy_ai O
@@ -12987,30 +12987,30 @@ này O
 nhỉ O
 ? O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Ghé O
+ghé O
 ngay O
 7 O
 - O
-Eleven O
+eleven O
 thưởng_thức O
-Combo O
+combo O
 " O
 thần_thánh O
 " O
-Gà B-san_pham
-Rán I-san_pham
+gà B-san_pham
+rán I-san_pham
 + O
-Pepsi B-san_pham
+pepsi B-san_pham
 siêu O
 tiết_kiệm O
 thôi O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Bánh B-san_pham
+bánh B-san_pham
 kem I-san_pham
 và O
 hoa B-san_pham
@@ -13022,7 +13022,7 @@ tất_cả O
 các O
 hệ_thống O
 của O
-FamilyMart O
+familymart O
 để O
 phục_vụ O
 cho O
@@ -13038,23 +13038,23 @@ nơi O
 đâu O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-The_Lancaster B-vi_tri
+the_lancaster B-vi_tri
 , O
 22-22 B-so_nha
-Bis_Lê_Thánh_Tôn B-ten_duong
+bis_lê_thánh_tôn B-ten_duong
 , O
-Phường B-ten_phuong_xa_thitran
-Bến_Nghé I-ten_phuong_xa_thitran
+phường B-ten_phuong_xa_thitran
+bến_nghé I-ten_phuong_xa_thitran
 , O
-Quận B-ten_quan_huyen_thanhpho
+quận B-ten_quan_huyen_thanhpho
 1 I-ten_quan_huyen_thanhpho
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Mùa O
+mùa O
 hè O
 đã O
 đến O
@@ -13067,31 +13067,31 @@ khi O
 có O
 những O
 ly O
-Trà B-san_pham
-Trái_Cây I-san_pham
+trà B-san_pham
+trái_cây I-san_pham
 mát O
 lạnh O
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Nay O
+nay O
 còn O
 có O
 thêm O
 ưu_đãi O
 : O
 " O
-Mua O
+mua O
 2 O
-Trà B-san_pham
-Trái_Cây I-san_pham
+trà B-san_pham
+trái_cây I-san_pham
 bất_kì O
 , O
-TẶNG O
+tặng O
 01 O
-Ổi_Ruột_Trắng_Cắt B-san_pham
-Sẵn O
+ổi_ruột_trắng_cắt B-san_pham
+sẵn O
 " O
 áp_dụng O
 từ O
@@ -13100,9 +13100,9 @@ từ O
 31/05/2021 B-date
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Khởi_đầu O
+khởi_đầu O
 một O
 ngày O
 mới O
@@ -13111,7 +13111,7 @@ và O
 tỉnh_táo O
 với O
 “ O
-NESCAFE B-san_pham
+nescafe B-san_pham
 ” O
 – O
 hương_vị O
@@ -13140,28 +13140,28 @@ dễ_dàng O
 đấy O
 ! O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Cơm_Chọn_Món B-san_pham
+cơm_chọn_món B-san_pham
 nay I-san_pham
 có O
 thêm O
 sự O
 lựa_chọn O
 với O
-Cá_Thu B-san_pham
-Nhật_Kho_Cà I-san_pham
+cá_thu B-san_pham
+nhật_kho_cà I-san_pham
 và O
-Lòng_Gà_Xào_Mướp B-san_pham
+lòng_gà_xào_mướp B-san_pham
 . O
 
--DOCSTART- -X- -X- O
+-docstart- -X- -X- O
 
-Chị O
-Bảy O
+chị O
+bảy O
 gợi_ý O
 món O
-Cá_Rô B-san_pham
-Kho_Tiêu I-san_pham
+cá_rô B-san_pham
+kho_tiêu I-san_pham
 nè O
 . O
