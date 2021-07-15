@@ -364,7 +364,7 @@ Masteri I-vi_tri
 , O
 132 B-so_nha
 Bến_Vân_Đồn B-ten_duong
-, I-ten_duong
+, O
 Phường B-ten_phuong_xa_thitran
 6 I-ten_phuong_xa_thitran
 , O
@@ -382,7 +382,9 @@ tuyển_dụng O
 vừa_rồi O
 , O
 ngày O
-02-03/01/2019 B-date
+02 B-date
+- O
+03/01/2019 B-date
 tới O
 7 O
 - O
@@ -598,11 +600,10 @@ fan O
 của O
 Cà_Phê B-san_pham
 Ý I-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 đây O
-️ O
 . O
 
 -DOCSTART- -X- -X- O
@@ -627,8 +628,8 @@ thơm_lừng O
 hay O
 Sữa_Trái_Cây_Nutriboost B-san_pham
 Cam I-san_pham
-/ O
-Dâu B-san_pham
+/ I-san_pham
+Dâu I-san_pham
 chua_ngọt O
 , O
 đầy O
@@ -773,9 +774,9 @@ ngày O
 -DOCSTART- -X- -X- O
 
 Sandwich B-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 nay O
 đã O
 cải_tiến O
@@ -975,7 +976,7 @@ không_thể O
 bỏ_qua O
 món O
 Miến_Măng_Gà B-san_pham
-- I-san_pham
+- O
 mới O
 lên O
 kệ O
@@ -1002,9 +1003,9 @@ nhà O
 -DOCSTART- -X- -X- O
 
 Tặng_Trà B-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 khi O
 mua O
 món O
@@ -1039,8 +1040,8 @@ BẤT_KÌ O
 TẶNG O
 TRÀ B-san_pham
 TẮC I-san_pham
-LY O
-VỪA O
+LY I-san_pham
+VỪA I-san_pham
 . O
 
 -DOCSTART- -X- -X- O
@@ -1123,8 +1124,8 @@ ngay O
 - O
 134 B-so_nha
 Pasteur B-ten_duong
-, B-ten_phuong_xa_thitran
-P.Bến I-ten_phuong_xa_thitran
+, O
+P.Bến B-ten_phuong_xa_thitran
 Nghé I-ten_phuong_xa_thitran
 , O
 Q. B-ten_quan_huyen_thanhpho
@@ -1268,7 +1269,7 @@ hoặc O
 chai B-san_pham
 1.5 I-san_pham
 L I-san_pham
-. I-san_pham
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -1468,9 +1469,9 @@ cuối_cùng O
 -DOCSTART- -X- -X- O
 
 Sandwich B-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 mới O
 cải_tiến O
 công_thức O
@@ -1511,8 +1512,8 @@ TP. I-vi_tri
 HCM I-vi_tri
 - O
 97 B-so_nha
-Nguyễn_Thị_Minh_Khai I-so_nha
-, B-ten_duong
+Nguyễn_Thị_Minh_Khai B-ten_duong
+, O
 Phường B-ten_phuong_xa_thitran
 5 I-ten_phuong_xa_thitran
 , O
@@ -1642,7 +1643,7 @@ hạt I-san_pham
 chia I-san_pham
 đến O
 từ O
-Coca-Cola O
+Coca-Cola B-san_pham
 không_những O
 giúp O
 bổ_sung O

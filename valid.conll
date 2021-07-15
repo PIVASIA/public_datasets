@@ -56,9 +56,9 @@ C2 B-san_pham
 500ml I-san_pham
 khi O
 mua O
-7 B-san_pham
-- I-san_pham
-Select I-san_pham
+7 O
+- O
+Select O
 - O
 dòng O
 sản_phẩm O
@@ -233,7 +233,7 @@ nhá O
 -DOCSTART- -X- -X- O
 
 Bắp_Xào_Tép B-san_pham
-. I-san_pham
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -461,19 +461,19 @@ K O
 điểm O
 : O
 133-135 B-so_nha
-Đường O
-số O
-1 O
+Đường B-ten_duong
+số I-ten_duong
+1 I-ten_duong
 , O
-Tân_Phong O
-- O
-Kim_Sơn O
+Tân_Phong B-ten_thon_lang_todanpho
+- I-ten_thon_lang_todanpho
+Kim_Sơn I-ten_thon_lang_todanpho
 , O
-P.Tân O
-Phong O
+P.Tân B-ten_phuong_xa_thitran
+Phong I-ten_phuong_xa_thitran
 , O
-Quận O
-7 O
+Quận B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -680,7 +680,7 @@ Bình_Chánh B-ten_quan_huyen_thanhpho
 Combo_Sandwich B-san_pham
 và O
 Cà_Phê B-san_pham
-sáng I-san_pham
+sáng O
 nay O
 để O
 có O
@@ -1020,8 +1020,9 @@ diễn O
 ra O
 từ O
 27/12/2018 B-date
-đến B-date
-6/01/2019 I-date
+đến O
+6/01/2019 B-date
+
 và O
 có_thể O
 kết_thúc O
@@ -1114,9 +1115,9 @@ cách O
 sử_dụng O
 dòng O
 Túi_Tái_Sử_Dụng B-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 với O
 chất_liệu O
 bền_bỉ O
@@ -1514,7 +1515,7 @@ ZENPLAZA B-vi_tri
 , O
 54-56 B-so_nha
 Nguyễn_Trãi B-ten_duong
-, I-ten_duong
+, O
 P. B-ten_phuong_xa_thitran
 Bến_Thành I-ten_phuong_xa_thitran
 , O
@@ -1564,8 +1565,8 @@ TỬ I-san_pham
 Danh_sách O
 tham_quan O
 VinEco_Tam_Đảo B-vi_tri
-: I-vi_tri
-. I-vi_tri
+: O
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -1927,8 +1928,8 @@ Voucher O
 
 S06 B-vi_tri
 Shophouse_Saigon_Pearl I-vi_tri
-, B-so_nha
-92 I-so_nha
+, O
+92 B-so_nha
 Nguyễn_Hữu_Cảnh B-ten_duong
 , O
 Phường B-ten_phuong_xa_thitran
@@ -2076,7 +2077,8 @@ Nguyễn_Đình_Thành O
 
 -DOCSTART- -X- -X- O
 
-Mừng_Bò_Bía B-san_pham
+Mừng O
+Bò_Bía B-san_pham
 quay O
 trở_lại O
 , O
@@ -2349,12 +2351,12 @@ cực O
 Bắp_cải B-san_pham
 cuộn I-san_pham
 tôm I-san_pham
-. I-san_pham
+. O
 
 -DOCSTART- -X- -X- O
 
 Bánh_Gạo_Hàn_Quốc B-san_pham
-. I-san_pham
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -2654,7 +2656,7 @@ kẹp I-san_pham
 thịt I-san_pham
 là O
 Sandwich B-san_pham
-, I-san_pham
+, O
 theo O
 tên O
 của O
@@ -2723,8 +2725,8 @@ vào O
 Eleven_Quốc_Hương I-vi_tri
 . O
 16 B-so_nha
-Quốc_Hương I-so_nha
-, B-ten_duong
+Quốc_Hương B-ten_duong
+, O
 Phường B-ten_phuong_xa_thitran
 Thảo_Điền I-ten_phuong_xa_thitran
 , O
@@ -2863,7 +2865,8 @@ tin O
 được O
 hôn O
 ” O
-Slurpee_MIỄN B-san_pham
+Slurpee B-san_pham
+MIỄN O
 PHÍ O
 cho O
 mọi O
@@ -3081,7 +3084,7 @@ còn O
 Tặng O
 01 O
 Ổi_Ruột_Trắng_Cắt B-san_pham
-Sẵn O
+Sẵn I-san_pham
 nữa O
 thì O
 còn O
