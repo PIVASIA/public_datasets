@@ -3764,8 +3764,8 @@ Số B-location
 1 I-location
 Song_Hành B-location
 , I-location
-Xa_lộ B-ten_thon_lang_todanpho
-Hà_Nội I-ten_thon_lang_todanpho
+Xa_lộ B-location
+Hà_Nội I-location
 , O
 Phường B-location
 An_Phú I-location
@@ -4243,9 +4243,9 @@ nhé O
 23 B-location
 Lý_Long_Tường B-location
 , O
-Khu_phố B-ten_thon_lang_todanpho
-Garden_Plaza I-ten_thon_lang_todanpho
-2 I-ten_thon_lang_todanpho
+Khu_phố B-location
+Garden_Plaza I-location
+2 I-location
 , O
 P.Tân B-location
 Phong I-location
