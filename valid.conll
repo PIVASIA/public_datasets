@@ -56,9 +56,9 @@ C2 B-san_pham
 500ml I-san_pham
 khi O
 mua O
-7 B-san_pham
-- I-san_pham
-Select I-san_pham
+7 O
+- O
+Select O
 - O
 dòng O
 sản_phẩm O
@@ -142,15 +142,15 @@ chất_lượng O
 -DOCSTART- -X- -X- O
 
 - O
-137-139 B-location
-Cô B-location
-Bắc I-location
+137-139 B-so_nha
+Cô B-ten_duong
+Bắc I-ten_duong
 , O
-P.Cô B-location
-Giang I-location
+P.Cô B-ten_phuong_xa_thitran
+Giang I-ten_phuong_xa_thitran
 , O
-Q. B-location
-1 I-location
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -233,7 +233,7 @@ nhá O
 -DOCSTART- -X- -X- O
 
 Bắp_Xào_Tép B-san_pham
-. I-san_pham
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -287,15 +287,15 @@ nha O
 -DOCSTART- -X- -X- O
 
 - O
-242 B-location
-G-244 I-location
-Nguyễn_Đình_Chiểu B-location
+242 B-so_nha
+G-244 I-so_nha
+Nguyễn_Đình_Chiểu B-ten_duong
 , O
-P. B-location
-6 I-location
+P. B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
 , O
-Q. B-location
-3 I-location
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -318,7 +318,7 @@ ngàn I-gia_san_pham
 Quên O
 cái O
 nóng O
-Sài_Gòn B-location
+Sài_Gòn B-ten_tinh_thanh_pho
 đi O
 , O
 đã O
@@ -432,10 +432,10 @@ nữa O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Park I-location
-6 I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Park I-vi_tri
+6 I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -460,20 +460,20 @@ K O
 Địa O
 điểm O
 : O
-133-135 B-location
-Đường O
-số O
-1 O
+133-135 B-so_nha
+Đường B-ten_duong
+số I-ten_duong
+1 I-ten_duong
 , O
-Tân_Phong O
-- O
-Kim_Sơn O
+Tân_Phong B-ten_thon_lang_todanpho
+- I-ten_thon_lang_todanpho
+Kim_Sơn I-ten_thon_lang_todanpho
 , O
-P.Tân O
-Phong O
+P.Tân B-ten_phuong_xa_thitran
+Phong I-ten_phuong_xa_thitran
 , O
-Quận O
-7 O
+Quận B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -497,18 +497,18 @@ thứ O
 vào O
 hoạt_động O
 tại O
-531E B-location
-CMT8 B-location
+531E B-so_nha
+CMT8 B-ten_duong
 , O
-P. B-location
-13 I-location
+P. B-ten_phuong_xa_thitran
+13 I-ten_phuong_xa_thitran
 , O
-Q. B-location
-10 I-location
+Q. B-ten_quan_huyen_thanhpho
+10 I-ten_quan_huyen_thanhpho
 ( O
 gần O
-chợ B-location
-Hoà_Hưng I-location
+chợ B-vi_tri
+Hoà_Hưng I-vi_tri
 ) O
 . O
 
@@ -532,19 +532,19 @@ từ O
 Tầng O
 trệt O
 , O
-cao_ốc B-location
-căn_hộ I-location
-thương_mại I-location
-Tản_Đà I-location
+cao_ốc B-vi_tri
+căn_hộ I-vi_tri
+thương_mại I-vi_tri
+Tản_Đà I-vi_tri
 , O
-86 B-location
-Tản_Đà B-location
+86 B-so_nha
+Tản_Đà B-ten_duong
 , O
-P. B-location
-11 I-location
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
 , O
-Q. B-location
-5 I-location
+Q. B-ten_quan_huyen_thanhpho
+5 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -606,14 +606,14 @@ tiện_dụng O
 -DOCSTART- -X- -X- O
 
 - O
-97-99 B-location
-Nguyễn_Hữu_Cầu B-location
+97-99 B-so_nha
+Nguyễn_Hữu_Cầu B-ten_duong
 , O
-P.Tân B-location
-Định I-location
+P.Tân B-ten_phuong_xa_thitran
+Định I-ten_phuong_xa_thitran
 , O
-Q. B-location
-1 I-location
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -658,21 +658,21 @@ bằng O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Mizuki I-location
-MP3 I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Mizuki I-vi_tri
+MP3 I-vi_tri
 - O
-001.04 B-location
+001.04 B-vi_tri
 - O
-Khu B-location
-căn_hộ I-location
-Flora_Mizuki I-location
+Khu B-vi_tri
+căn_hộ I-vi_tri
+Flora_Mizuki I-vi_tri
 , O
-P. B-location
-Bình_Hưng I-location
+P. B-ten_phuong_xa_thitran
+Bình_Hưng I-ten_phuong_xa_thitran
 , O
-Bình_Chánh B-location
+Bình_Chánh B-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -680,7 +680,7 @@ Bình_Chánh B-location
 Combo_Sandwich B-san_pham
 và O
 Cà_Phê B-san_pham
-sáng I-san_pham
+sáng O
 nay O
 để O
 có O
@@ -735,8 +735,8 @@ nhé O
 
 Ảnh O
 : O
-Nhà_thờ B-location
-Đức_Bà I-location
+Nhà_thờ B-vi_tri
+Đức_Bà I-vi_tri
 - O
 Tác_giả O
 : O
@@ -745,11 +745,11 @@ Trịnh_Thanh_Phong O
 -DOCSTART- -X- -X- O
 
 - O
-54-56 B-location
-Thái_Thị_Nhạn B-location
+54-56 B-so_nha
+Thái_Thị_Nhạn B-ten_duong
 , O
-Quận B-location
-Tân_Bình I-location
+Quận B-ten_quan_huyen_thanhpho
+Tân_Bình I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -766,16 +766,16 @@ Thời_gian O
 -DOCSTART- -X- -X- O
 
 - O
-598-600 B-location
-Cách_Mạng B-location
-Tháng I-location
-8 I-location
+598-600 B-so_nha
+Cách_Mạng B-ten_duong
+Tháng I-ten_duong
+8 I-ten_duong
 , O
-P. B-location
-11 I-location
+P. B-ten_phuong_xa_thitran
+11 I-ten_phuong_xa_thitran
 , O
-Q. B-location
-3 I-location
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
 
 -DOCSTART- -X- -X- O
 
@@ -955,14 +955,14 @@ cửa_hàng O
 mới O
 khai_trương O
 tại O
-129 B-location
-Huỳnh_Văn_Bánh B-location
+129 B-so_nha
+Huỳnh_Văn_Bánh B-ten_duong
 , O
-P. B-location
-12 I-location
+P. B-ten_phuong_xa_thitran
+12 I-ten_phuong_xa_thitran
 , O
-Q. B-location
-PN I-location
+Q. B-ten_quan_huyen_thanhpho
+PN I-ten_quan_huyen_thanhpho
 vào O
 9h O
 ngày_mai O
@@ -1020,8 +1020,9 @@ diễn O
 ra O
 từ O
 27/12/2018 B-date
-đến B-date
-6/01/2019 I-date
+đến O
+6/01/2019 B-date
+
 và O
 có_thể O
 kết_thúc O
@@ -1074,7 +1075,7 @@ sức O
 nóng O
 oi_ả O
 của O
-Sài_Gòn B-location
+Sài_Gòn B-ten_tinh_thanh_pho
 khi O
 Hè O
 về O
@@ -1114,9 +1115,9 @@ cách O
 sử_dụng O
 dòng O
 Túi_Tái_Sử_Dụng B-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 với O
 chất_liệu O
 bền_bỉ O
@@ -1224,15 +1225,15 @@ thơm_phức O
 Tầng O
 B1 O
 , O
-Zen_Plaza B-location
-54-56 B-location
-Nguyễn_Trãi B-location
+Zen_Plaza B-vi_tri
+54-56 B-so_nha
+Nguyễn_Trãi B-ten_duong
 , O
-P. B-location
-Bến_Thành I-location
+P. B-ten_phuong_xa_thitran
+Bến_Thành I-ten_phuong_xa_thitran
 , O
-Quận B-location
-1 I-location
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1243,9 +1244,9 @@ Cơm_Gà_Nướng_Muối B-san_pham
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Saigon_Pearl I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Saigon_Pearl I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -1289,8 +1290,8 @@ Poca_KT_Sườn_Nướng B-san_pham
 -DOCSTART- -X- -X- O
 
 * O
-Quận B-location
-7 I-location
+Quận B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
 : O
 . O
 
@@ -1416,7 +1417,7 @@ Quà O
 được O
 trao O
 tại O
-TP.HCM. B-location
+TP.HCM. B-ten_tinh_thanh_pho
 - O
 Và O
 trong O
@@ -1449,14 +1450,14 @@ MILK I-san_pham
 -DOCSTART- -X- -X- O
 
 - O
-134 B-location
-Pasteur B-location
+134 B-so_nha
+Pasteur B-ten_duong
 , O
-P.Bến B-location
-Nghé I-location
+P.Bến B-ten_phuong_xa_thitran
+Nghé I-ten_phuong_xa_thitran
 , O
-Q. B-location
-1 I-location
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1472,36 +1473,36 @@ chảy O
 
 -DOCSTART- -X- -X- O
 
-S06 B-location
-Shophouse_Saigon_Pearl I-location
+S06 B-vi_tri
+Shophouse_Saigon_Pearl I-vi_tri
 , O
-92 B-location
-Nguyễn_Hữu_Cảnh B-location
+92 B-so_nha
+Nguyễn_Hữu_Cảnh B-ten_duong
 , O
-Phường B-location
-22 I-location
+Phường B-ten_phuong_xa_thitran
+22 I-ten_phuong_xa_thitran
 , O
-Quận B-location
-Bình_Thạnh I-location
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Saigon_Pearl I-location
-: B-location
-S06 I-location
-Shophouse_Saigon_Pearl I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Saigon_Pearl I-vi_tri
+: B-vi_tri
+S06 I-vi_tri
+Shophouse_Saigon_Pearl I-vi_tri
 , O
-92 B-location
-Nguyễn_Hữu_Cảnh I-location
-, B-location
-Phường B-location
-22 I-location
+92 B-so_nha
+Nguyễn_Hữu_Cảnh I-so_nha
+, B-ten_duong
+Phường B-ten_phuong_xa_thitran
+22 I-ten_phuong_xa_thitran
 , O
-Quận B-location
-Bình_Thạnh I-location
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1510,16 +1511,16 @@ Bình_Thạnh I-location
 Hầm O
 B1 O
 , O
-ZENPLAZA B-location
+ZENPLAZA B-vi_tri
 , O
-54-56 B-location
-Nguyễn_Trãi B-location
-, I-location
-P. B-location
-Bến_Thành I-location
+54-56 B-so_nha
+Nguyễn_Trãi B-ten_duong
 , O
-Q. B-location
-1 I-location
+P. B-ten_phuong_xa_thitran
+Bến_Thành I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1563,9 +1564,9 @@ TỬ I-san_pham
 - O
 Danh_sách O
 tham_quan O
-VinEco_Tam_Đảo B-location
-: I-location
-. I-location
+VinEco_Tam_Đảo B-vi_tri
+: O
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -1647,14 +1648,14 @@ tiếp_theo O
 -DOCSTART- -X- -X- O
 
 - O
-58 B-location
-Pasteur B-location
+58 B-so_nha
+Pasteur B-ten_duong
 , O
-P. B-location
-Bến_Nghé I-location
+P. B-ten_phuong_xa_thitran
+Bến_Nghé I-ten_phuong_xa_thitran
 , O
-Q. B-location
-1 I-location
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1757,15 +1758,15 @@ stress O
 -DOCSTART- -X- -X- O
 
 - O
-137-139 B-location
-Cô B-location
-Bắc I-location
+137-139 B-so_nha
+Cô B-ten_duong
+Bắc I-ten_duong
 , O
-P.Cô B-location
-Giang I-location
+P.Cô B-ten_phuong_xa_thitran
+Giang I-ten_phuong_xa_thitran
 , O
-Q. B-location
-1 I-location
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1828,18 +1829,18 @@ ELEVEN O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Quốc_Hương I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Quốc_Hương I-vi_tri
 . O
-16 B-location
-Quốc_Hương B-location
+16 B-so_nha
+Quốc_Hương B-ten_duong
 , O
-Phường B-location
-Thảo_Điền I-location
+Phường B-ten_phuong_xa_thitran
+Thảo_Điền I-ten_phuong_xa_thitran
 , O
-Quận B-location
-2 I-location
+Quận B-ten_quan_huyen_thanhpho
+2 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1925,17 +1926,17 @@ Voucher O
 
 -DOCSTART- -X- -X- O
 
-S06 B-location
-Shophouse_Saigon_Pearl I-location
-, B-location
-92 I-location
-Nguyễn_Hữu_Cảnh B-location
+S06 B-vi_tri
+Shophouse_Saigon_Pearl I-vi_tri
 , O
-Phường B-location
-22 I-location
+92 B-so_nha
+Nguyễn_Hữu_Cảnh B-ten_duong
 , O
-Quận B-location
-Bình_Thạnh I-location
+Phường B-ten_phuong_xa_thitran
+22 I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -2030,9 +2031,9 @@ tặng O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Rivergate I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Rivergate I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -2068,7 +2069,7 @@ với O
 Ảnh O
 : O
 Chạng_vạng O
-Nha_Trang B-location
+Nha_Trang B-ten_quan_huyen_thanhpho
 - O
 Tác_giả O
 : O
@@ -2076,7 +2077,8 @@ Nguyễn_Đình_Thành O
 
 -DOCSTART- -X- -X- O
 
-Mừng_Bò_Bía B-san_pham
+Mừng O
+Bò_Bía B-san_pham
 quay O
 trở_lại O
 , O
@@ -2122,9 +2124,9 @@ bao O
 ngày O
 chờ_đợi O
 , O
-7 B-location
-- I-location
-Eleven_The_Lancaster I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_The_Lancaster I-vi_tri
 đã O
 chính_thức O
 mở_cửa O
@@ -2167,15 +2169,15 @@ Ra_mắt O
 -DOCSTART- -X- -X- O
 
 - O
-242 B-location
-G-244 I-location
-Nguyễn_Đình_Chiểu B-location
+242 B-so_nha
+G-244 I-so_nha
+Nguyễn_Đình_Chiểu B-ten_duong
 , O
-P. B-location
-6 I-location
+P. B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
 , O
-Q. B-location
-3 I-location
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -2215,12 +2217,12 @@ King_BBQ I-san_pham
 
 -DOCSTART- -X- -X- O
 
-Vũng_Tàu B-location
+Vũng_Tàu B-ten_tinh_thanh_pho
 : O
-816 B-location
-Trần_Phú B-location
+816 B-so_nha
+Trần_Phú B-ten_duong
 – O
-Vũng_Tàu B-location
+Vũng_Tàu B-ten_tinh_thanh_pho
 . O
 
 -DOCSTART- -X- -X- O
@@ -2230,11 +2232,11 @@ bí_mật O
 ngày O
 8/3 B-date
 tại O
-7 B-location
-- I-location
-Eleven I-location
-Nguyễn_Thị_Minh I-location
-Khai I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Thị_Minh I-vi_tri
+Khai I-vi_tri
 là O
 đây O
 . O
@@ -2349,12 +2351,12 @@ cực O
 Bắp_cải B-san_pham
 cuộn I-san_pham
 tôm I-san_pham
-. I-san_pham
+. O
 
 -DOCSTART- -X- -X- O
 
 Bánh_Gạo_Hàn_Quốc B-san_pham
-. I-san_pham
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -2366,39 +2368,39 @@ cửa_hàng O
 sau O
 : O
 . O
-7 B-location
-- I-location
-Eleven_Lê_Lợi I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Lê_Lợi I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Quốc_Hương I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Quốc_Hương I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Gold_House I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Gold_House I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Tôn_Thất_Tùng I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Tôn_Thất_Tùng I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven I-location
-Nguyễn_Du I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Du I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Hậu_Giang I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Hậu_Giang I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Crescent_Residence I-location
-1 I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Crescent_Residence I-vi_tri
+1 I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Tôn_Dật_Tiên I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Tôn_Dật_Tiên I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -2522,22 +2524,22 @@ hà️ O
 -DOCSTART- -X- -X- O
 
 - O
-189 B-location
-Lê_Thánh_Tôn B-location
+189 B-so_nha
+Lê_Thánh_Tôn B-ten_duong
 , O
-P. B-location
-Bến_Nghé I-location
+P. B-ten_phuong_xa_thitran
+Bến_Nghé I-ten_phuong_xa_thitran
 , O
-Quận B-location
-1 I-location
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Crescent_Residence I-location
-1 I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Crescent_Residence I-vi_tri
+1 I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -2592,7 +2594,7 @@ số O
 
 -DOCSTART- -X- -X- O
 
-Sài_Gòn B-location
+Sài_Gòn B-ten_tinh_thanh_pho
 tháng O
 nhớ O
 năm O
@@ -2619,20 +2621,20 @@ tặng O
 
 Địa O
 chỉ O
-: B-location
-Botanica_Premier I-location
+: B-vi_tri
+Botanica_Premier I-vi_tri
 - O
-BPB B-location
-01.05 I-location
+BPB B-vi_tri
+01.05 I-vi_tri
 - O
-108 B-location
-Hồng_Hà B-location
+108 B-so_nha
+Hồng_Hà B-ten_duong
 , O
-Phường B-location
-2 I-location
+Phường B-ten_phuong_xa_thitran
+2 I-ten_phuong_xa_thitran
 , O
-Quận B-location
-Tân_Bình I-location
+Quận B-ten_quan_huyen_thanhpho
+Tân_Bình I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -2654,7 +2656,7 @@ kẹp I-san_pham
 thịt I-san_pham
 là O
 Sandwich B-san_pham
-, I-san_pham
+, O
 theo O
 tên O
 của O
@@ -2665,14 +2667,14 @@ bá_tước O
 
 -DOCSTART- -X- -X- O
 
-Quận B-location
-6 I-location
+Quận B-ten_quan_huyen_thanhpho
+6 I-ten_quan_huyen_thanhpho
 : O
-352 B-location
-Nguyễn_Văn_Luông B-location
+352 B-so_nha
+Nguyễn_Văn_Luông B-ten_duong
 , O
-Quận B-location
-6 I-location
+Quận B-ten_quan_huyen_thanhpho
+6 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -2718,18 +2720,18 @@ vào O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Quốc_Hương I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Quốc_Hương I-vi_tri
 . O
-16 B-location
-Quốc_Hương I-location
-, B-location
-Phường B-location
-Thảo_Điền I-location
+16 B-so_nha
+Quốc_Hương B-ten_duong
 , O
-Quận B-location
-2 I-location
+Phường B-ten_phuong_xa_thitran
+Thảo_Điền I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+2 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -2748,28 +2750,28 @@ ngày_mai O
 9/1 B-date
 ) O
 tại O
-162 B-location
-D2 B-location
+162 B-so_nha
+D2 B-ten_duong
 , O
-P. B-location
-25 I-location
+P. B-ten_phuong_xa_thitran
+25 I-ten_phuong_xa_thitran
 , O
-Q.Bình B-location
-Thạnh I-location
+Q.Bình B-ten_quan_huyen_thanhpho
+Thạnh I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
 
-The_Lancaster B-location
+The_Lancaster B-vi_tri
 , O
-22-22 B-location
-Bis_Lê_Thánh_Tôn B-location
+22-22 B-so_nha
+Bis_Lê_Thánh_Tôn B-ten_duong
 , O
-Phường B-location
-Bến_Nghé I-location
+Phường B-ten_phuong_xa_thitran
+Bến_Nghé I-ten_phuong_xa_thitran
 , O
-Quận B-location
-1 I-location
+Quận B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -2863,7 +2865,8 @@ tin O
 được O
 hôn O
 ” O
-Slurpee_MIỄN B-san_pham
+Slurpee B-san_pham
+MIỄN O
 PHÍ O
 cho O
 mọi O
@@ -2880,21 +2883,21 @@ Eleven O
 -DOCSTART- -X- -X- O
 
 - O
-189 B-location
-Lê_Thánh_Tôn B-location
+189 B-so_nha
+Lê_Thánh_Tôn B-ten_duong
 , O
-P.Bến B-location
-Thành I-location
+P.Bến B-ten_phuong_xa_thitran
+Thành I-ten_phuong_xa_thitran
 , O
-Q. B-location
-1 I-location
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
 
 * O
-Quận B-location
-3 I-location
+Quận B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
 : O
 . O
 
@@ -2969,59 +2972,59 @@ cửa_hàng O
 sau O
 : O
 . O
-7 B-location
-- I-location
-Eleven_Lê_Lợi I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Lê_Lợi I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven I-location
-Nguyễn_Thị_Minh I-location
-Khai I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Thị_Minh I-vi_tri
+Khai I-vi_tri
 ( O
 không O
 áp_dụng O
 GrabFood O
 ) O
 . O
-7 B-location
-- I-location
-Eleven_Thảo_Điền I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Thảo_Điền I-vi_tri
 ( O
 không O
 áp_dụng O
 GrabFood O
 ) O
 . O
-7 B-location
-- I-location
-Eleven_Quốc_Hương I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Quốc_Hương I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Gold_House I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Gold_House I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Tôn_Thất_Tùng I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Tôn_Thất_Tùng I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven I-location
-Nguyễn_Du I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Du I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Hậu_Giang I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Hậu_Giang I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Crescent_Residence I-location
-1 I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Crescent_Residence I-vi_tri
+1 I-vi_tri
 . O
-7 B-location
-- I-location
-Eleven_Tôn_Dật_Tiên I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Tôn_Dật_Tiên I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -3050,11 +3053,11 @@ Bảy O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven I-location
-- I-location
-The_Lancaster I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+- I-vi_tri
+The_Lancaster I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -3081,7 +3084,7 @@ còn O
 Tặng O
 01 O
 Ổi_Ruột_Trắng_Cắt B-san_pham
-Sẵn O
+Sẵn I-san_pham
 nữa O
 thì O
 còn O
@@ -3091,9 +3094,9 @@ bằng O
 
 -DOCSTART- -X- -X- O
 
-CH B-location
-134 I-location
-Pasteur B-location
+CH B-vi_tri
+134 I-vi_tri
+Pasteur B-ten_duong
 . O
 
 -DOCSTART- -X- -X- O
@@ -3186,9 +3189,9 @@ lớn O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Saigon_Pearl I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Saigon_Pearl I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -3255,10 +3258,10 @@ chất O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Hoàng_Anh_Gold I-location
-House I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Hoàng_Anh_Gold I-vi_tri
+House I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -3282,7 +3285,7 @@ tươi O
 - O
 Danh_sách O
 tham_quan O
-VinEco_Nam_Hội_An B-location
+VinEco_Nam_Hội_An B-vi_tri
 : O
 . O
 

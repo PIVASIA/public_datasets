@@ -60,33 +60,33 @@ với O
 
 -DOCSTART- -X- -X- O
 
-S06 B-location
-Shophouse_Saigon_Pearl I-location
+S06 B-vi_tri
+Shophouse_Saigon_Pearl I-vi_tri
 , O
-92 B-location
-Nguyễn_Hữu_Cảnh B-location
+92 B-so_nha
+Nguyễn_Hữu_Cảnh B-ten_duong
 , O
-Phường B-location
-22 I-location
+Phường B-ten_phuong_xa_thitran
+22 I-ten_phuong_xa_thitran
 , O
-Quận B-location
-Bình_Thạnh I-location
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
 
-L B-location
-1.04 I-location
-Rivergate_Residence I-location
+L B-vi_tri
+1.04 I-vi_tri
+Rivergate_Residence I-vi_tri
 , O
-151-155 B-location
-Bến_Vân_Đồn B-location
+151-155 B-so_nha
+Bến_Vân_Đồn B-ten_duong
 , O
-Phường B-location
-6 I-location
+Phường B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
 , O
-Quận B-location
-4 I-location
+Quận B-ten_quan_huyen_thanhpho
+4 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -139,17 +139,17 @@ viên I-san_pham
 
 -DOCSTART- -X- -X- O
 
-S06 B-location
-Shophouse_Saigon_Pearl I-location
+S06 B-vi_tri
+Shophouse_Saigon_Pearl I-vi_tri
 , O
-92 B-location
-Nguyễn_Hữu_Cảnh B-location
+92 B-so_nha
+Nguyễn_Hữu_Cảnh B-ten_duong
 , O
-Phường B-location
-22 I-location
+Phường B-ten_phuong_xa_thitran
+22 I-ten_phuong_xa_thitran
 , O
-Quận B-location
-Bình_Thạnh I-location
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -328,15 +328,15 @@ châu_Âu O
 -DOCSTART- -X- -X- O
 
 - O
-242 B-location
-G-244 I-location
-Nguyễn_Đình_Chiểu B-location
+242 B-so_nha
+G-244 I-so_nha
+Nguyễn_Đình_Chiểu B-ten_duong
 , O
-P. B-location
-6 I-location
+P. B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
 , O
-Q. B-location
-3 I-location
+Q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -359,17 +359,17 @@ Karaoke_Icool B-san_pham
 
 -DOCSTART- -X- -X- O
 
-Millenium B-location
-Masteri I-location
+Millenium B-vi_tri
+Masteri I-vi_tri
 , O
-132 B-location
-Bến_Vân_Đồn B-location
-, I-location
-Phường B-location
-6 I-location
+132 B-so_nha
+Bến_Vân_Đồn B-ten_duong
 , O
-Quận B-location
-4 I-location
+Phường B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+4 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -382,7 +382,9 @@ tuyển_dụng O
 vừa_rồi O
 , O
 ngày O
-02-03/01/2019 B-date
+02 B-date
+- O
+03/01/2019 B-date
 tới O
 7 O
 - O
@@ -419,28 +421,28 @@ mới O
 -DOCSTART- -X- -X- O
 
 - O
-Khu B-location
-căn_hộ I-location
-Mỹ_Phát I-location
+Khu B-vi_tri
+căn_hộ I-vi_tri
+Mỹ_Phát I-vi_tri
 , O
-137 B-location
-Nguyễn_Đức_Cảnh B-location
+137 B-so_nha
+Nguyễn_Đức_Cảnh B-ten_duong
 , O
-P.Tân B-location
-Phong I-location
+P.Tân B-ten_phuong_xa_thitran
+Phong I-ten_phuong_xa_thitran
 , O
-Q. B-location
-7 I-location
+Q. B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
 
 - O
-121 B-location
-An_Dương_Vương B-location
+121 B-so_nha
+An_Dương_Vương B-ten_duong
 , O
-Quận B-location
-5 I-location
+Quận B-ten_quan_huyen_thanhpho
+5 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -466,10 +468,10 @@ vô_cùng O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Central I-location
-1 I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Central I-vi_tri
+1 I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -505,9 +507,9 @@ không_tưởng O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Rivergate I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Rivergate I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -536,11 +538,11 @@ gia_vị I-san_pham
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven I-location
-Nguyễn_Thị_Minh I-location
-Khai I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Thị_Minh I-vi_tri
+Khai I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -552,7 +554,7 @@ chỉ O
 riêng O
 trên O
 đường O
-CMT8 B-location
+CMT8 B-ten_duong
 thôi O
 là O
 đã O
@@ -574,11 +576,11 @@ thì O
 Bảy O
 đã O
 mang O
-store B-location
-7 I-location
-- I-location
-Eleven I-location
-Nguyễn_Du I-location
+store B-vi_tri
+7 I-vi_tri
+- I-vi_tri
+Eleven I-vi_tri
+Nguyễn_Du I-vi_tri
 trở_lại O
 với O
 các O
@@ -598,11 +600,10 @@ fan O
 của O
 Cà_Phê B-san_pham
 Ý I-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 đây O
-️ O
 . O
 
 -DOCSTART- -X- -X- O
@@ -627,8 +628,8 @@ thơm_lừng O
 hay O
 Sữa_Trái_Cây_Nutriboost B-san_pham
 Cam I-san_pham
-/ O
-Dâu B-san_pham
+/ I-san_pham
+Dâu I-san_pham
 chua_ngọt O
 , O
 đầy O
@@ -647,11 +648,11 @@ kìa O
 -DOCSTART- -X- -X- O
 
 - O
-201 B-location
-Nguyễn_Xí B-location
+201 B-so_nha
+Nguyễn_Xí B-ten_duong
 , O
-Quận B-location
-Bình_Thạnh I-location
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -773,9 +774,9 @@ ngày O
 -DOCSTART- -X- -X- O
 
 Sandwich B-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 nay O
 đã O
 cải_tiến O
@@ -975,7 +976,7 @@ không_thể O
 bỏ_qua O
 món O
 Miến_Măng_Gà B-san_pham
-- I-san_pham
+- O
 mới O
 lên O
 kệ O
@@ -1002,9 +1003,9 @@ nhà O
 -DOCSTART- -X- -X- O
 
 Tặng_Trà B-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 khi O
 mua O
 món O
@@ -1015,11 +1016,11 @@ bất_kì O
 -DOCSTART- -X- -X- O
 
 - O
-14B9 B-location
-Ngô_Tất_Tố B-location
+14B9 B-so_nha
+Ngô_Tất_Tố B-ten_duong
 , O
-Quận B-location
-Bình_Thạnh I-location
+Quận B-ten_quan_huyen_thanhpho
+Bình_Thạnh I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1039,8 +1040,8 @@ BẤT_KÌ O
 TẶNG O
 TRÀ B-san_pham
 TẮC I-san_pham
-LY O
-VỪA O
+LY I-san_pham
+VỪA I-san_pham
 . O
 
 -DOCSTART- -X- -X- O
@@ -1121,31 +1122,31 @@ ngay O
 -DOCSTART- -X- -X- O
 
 - O
-134 B-location
-Pasteur B-location
-, B-location
-P.Bến I-location
-Nghé I-location
+134 B-so_nha
+Pasteur B-ten_duong
 , O
-Q. B-location
-1 I-location
+P.Bến B-ten_phuong_xa_thitran
+Nghé I-ten_phuong_xa_thitran
+, O
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
 
 - O
-145 B-location
-Nguyễn_Đình_Chiểu B-location
+145 B-so_nha
+Nguyễn_Đình_Chiểu B-ten_duong
 , O
-Quận B-location
-3 I-location
+Quận B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Saigon_Pearl I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Saigon_Pearl I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -1268,7 +1269,7 @@ hoặc O
 chai B-san_pham
 1.5 I-san_pham
 L I-san_pham
-. I-san_pham
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -1301,14 +1302,14 @@ tiếp_theo O
 khai_trương O
 tại O
 số O
-133 B-location
-Trần_Đình_Xu B-location
+133 B-so_nha
+Trần_Đình_Xu B-ten_duong
 , O
-P.Nguyễn B-location
-Cư_Trinh I-location
+P.Nguyễn B-ten_phuong_xa_thitran
+Cư_Trinh I-ten_phuong_xa_thitran
 , O
-Q. B-location
-1 I-location
+Q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
 vào O
 9h O
 sáng O
@@ -1320,9 +1321,9 @@ ngày_mai O
 
 -DOCSTART- -X- -X- O
 
-7 B-location
-- I-location
-Eleven_Saigon_Pearl I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_Saigon_Pearl I-vi_tri
 . O
 
 -DOCSTART- -X- -X- O
@@ -1376,7 +1377,7 @@ nhé O
 - O
 Danh_sách O
 tham_quan O
-VinEco_Long_Thành B-location
+VinEco_Long_Thành B-vi_tri
 : O
 . O
 
@@ -1437,9 +1438,9 @@ ngày O
 
 Tới O
 ngay O
-7 B-location
-- I-location
-Eleven_The_Lancaster I-location
+7 B-vi_tri
+- I-vi_tri
+Eleven_The_Lancaster I-vi_tri
 thử O
 Cà_Phê B-san_pham
 Ý I-san_pham
@@ -1468,9 +1469,9 @@ cuối_cùng O
 -DOCSTART- -X- -X- O
 
 Sandwich B-san_pham
-7 I-san_pham
-- I-san_pham
-Eleven I-san_pham
+7 O
+- O
+Eleven O
 mới O
 cải_tiến O
 công_thức O
@@ -1505,19 +1506,19 @@ REWARDS O
 -DOCSTART- -X- -X- O
 
 + O
-Trung_tâm B-location
-Văn_Hoá I-location
-TP. I-location
-HCM I-location
+Trung_tâm B-vi_tri
+Văn_Hoá I-vi_tri
+TP. I-vi_tri
+HCM I-vi_tri
 - O
-97 B-location
-Nguyễn_Thị_Minh_Khai I-location
-, B-location
-Phường B-location
-5 I-location
+97 B-so_nha
+Nguyễn_Thị_Minh_Khai B-ten_duong
 , O
-Quận B-location
-3 I-location
+Phường B-ten_phuong_xa_thitran
+5 I-ten_phuong_xa_thitran
+, O
+Quận B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
 . O
 
 -DOCSTART- -X- -X- O
@@ -1642,7 +1643,7 @@ hạt I-san_pham
 chia I-san_pham
 đến O
 từ O
-Coca-Cola O
+Coca-Cola B-san_pham
 không_những O
 giúp O
 bổ_sung O
