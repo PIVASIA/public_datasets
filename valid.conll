@@ -224,9 +224,9 @@ Phòng I-Ten_Tinh_ThanhPho
 
 ngõ O
 49 B-Ngo_Xiet
-Nguyễn I-Ngo_Xiet
-Công I-Ngo_Xiet
-Trứ, I-Ngo_Xiet
+Nguyễn B-Ten_Duong
+Công I-Ten_Duong
+Trứ, I-Ten_Duong
 Lê B-Ten_Quan_Huyen
 Chân, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -506,9 +506,9 @@ Nội I-Ten_Tinh_ThanhPho
 
 Ngõ O
 78 B-Ngo_Xiet
-Trần I-Ngo_Xiet
-Nguyên I-Ngo_Xiet
-Hãn, I-Ngo_Xiet
+Trần B-Ten_Duong
+Nguyên I-Ten_Duong
+Hãn, I-Ten_Duong
 Lê B-Ten_Quan_Huyen
 Chân, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -650,8 +650,8 @@ Nội I-Ten_Tinh_ThanhPho
 trong O
 ngõ O
 48 B-Ngo_Xiet
-Thư I-Ngo_Xiet
-Trung, I-Ngo_Xiet
+Thư B-Ten_Duong
+Trung, I-Ten_Duong
 Hải B-Ten_Quan_Huyen
 An, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -745,8 +745,8 @@ Nội I-Ten_Tinh_ThanhPho
 
 NGÕ O
 292 B-Ngo_Xiet
-LẠCH I-Ngo_Xiet
-TRAY, I-Ngo_Xiet
+LẠCH B-Ten_Duong
+TRAY, I-Ten_Duong
 NGÔ B-Ten_Quan_Huyen
 QUYỀN, I-Ten_Quan_Huyen
 HẢI B-Ten_Tinh_ThanhPho
@@ -765,9 +765,9 @@ cố O
 mặt O
 ngõ O
 108 B-Ngo_Xiet
-Trần I-Ngo_Xiet
-Thành I-Ngo_Xiet
-Ngọ, I-Ngo_Xiet
+Trần B-Ten_Duong
+Thành I-Ten_Duong
+Ngọ, I-Ten_Duong
 Kiến B-Ten_Quan_Huyen
 An, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -796,8 +796,8 @@ Nội I-Ten_Tinh_ThanhPho
 
 ngõ O
 52 B-Ngo_Xiet
-Chùa I-Ngo_Xiet
-Vẽ, I-Ngo_Xiet
+Chùa B-Ten_Duong
+Vẽ, I-Ten_Duong
 Hải B-Ten_Quan_Huyen
 An, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -884,8 +884,8 @@ trong O
 ngõ O
 số O
 254 B-Ngo_Xiet
-văn I-Ngo_Xiet
-cao, I-Ngo_Xiet
+văn B-Ten_Duong
+cao, I-Ten_Duong
 Hải B-Ten_Quan_Huyen
 An, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -925,9 +925,9 @@ Thượng B-Ten_Phuong_Xa_TT
 
 ngõ O
 109 B-Ngo_Xiet
-Nguyễn I-Ngo_Xiet
-Bỉnh I-Ngo_Xiet
-Khiêm, I-Ngo_Xiet
+Nguyễn B-Ten_Duong
+Bỉnh I-Ten_Duong
+Khiêm, I-Ten_Duong
 Ngô B-Ten_Quan_Huyen
 Quyền, I-Ten_Quan_Huyen
 HP B-Ten_Tinh_ThanhPho
@@ -973,8 +973,8 @@ Nội I-Ten_Tinh_ThanhPho
 
 ngõ O
 48 B-Ngo_Xiet
-Kiều I-Ngo_Xiet
-Sơn, I-Ngo_Xiet
+Kiều B-Ten_Duong
+Sơn, I-Ten_Duong
 Hải B-Ten_Quan_Huyen
 An, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -1019,9 +1019,9 @@ Nội I-Ten_Tinh_ThanhPho
 TRONG O
 NGÕ O
 351 B-Ngo_Xiet
-NGÔ I-Ngo_Xiet
-GIA I-Ngo_Xiet
-TỰ, I-Ngo_Xiet
+NGÔ B-Ten_Duong
+GIA I-Ten_Duong
+TỰ, I-Ten_Duong
 HẢI B-Ten_Quan_Huyen
 AN, I-Ten_Quan_Huyen
 HẢI B-Ten_Tinh_ThanhPho
@@ -1052,9 +1052,9 @@ Nội I-Ten_Tinh_ThanhPho
 Ngõ O
 số O
 10 B-Ngo_Xiet
-Phan I-Ngo_Xiet
-Chu I-Ngo_Xiet
-Trinh, I-Ngo_Xiet
+Phan B-Ten_Duong
+Chu I-Ten_Duong
+Trinh, I-Ten_Duong
 Hồng B-Ten_Quan_Huyen
 Bàng, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -1099,9 +1099,9 @@ ngách O
 
 NGÕ O
 280 B-Ngo_Xiet
-TRẦN I-Ngo_Xiet
-NGUYÊN I-Ngo_Xiet
-HÃN, I-Ngo_Xiet
+TRẦN B-Ten_Duong
+NGUYÊN I-Ten_Duong
+HÃN, I-Ten_Duong
 LÊ B-Ten_Quan_Huyen
 CHÂN, I-Ten_Quan_Huyen
 HẢI B-Ten_Tinh_ThanhPho
@@ -1184,9 +1184,9 @@ Phòng I-Ten_Tinh_ThanhPho
 
 ngõ O
 383 B-Ngo_Xiet
-Phủ I-Ngo_Xiet
-Thượng I-Ngo_Xiet
-Đoạn, I-Ngo_Xiet
+Phủ B-Ten_Duong
+Thượng I-Ten_Duong
+Đoạn, I-Ten_Duong
 Hải B-Ten_Quan_Huyen
 An, I-Ten_Quan_Huyen
 HP B-Ten_Tinh_ThanhPho
@@ -1229,8 +1229,8 @@ Liệt I-Ten_Phuong_Xa_TT
 
 NGÕ O
 75 B-Ngo_Xiet
-KIỀU I-Ngo_Xiet
-SƠN I-Ngo_Xiet
+KIỀU B-Ten_Duong
+SƠN I-Ten_Duong
 ,HẢI B-Ten_Quan_Huyen
 AN, I-Ten_Quan_Huyen
 HẢI B-Ten_Tinh_ThanhPho
@@ -1240,8 +1240,8 @@ PHÒNG I-Ten_Tinh_ThanhPho
 
 NGÕ O
 29 B-Ngo_Xiet
-DÂN I-Ngo_Xiet
-LẬP, I-Ngo_Xiet
+DÂN B-Ten_Duong
+LẬP, I-Ten_Duong
 LÊ B-Ten_Quan_Huyen
 CHÂN, I-Ten_Quan_Huyen
 HẢI B-Ten_Tinh_ThanhPho
@@ -1408,8 +1408,8 @@ Nội I-Ten_Tinh_ThanhPho
 mặt O
 ngõ O
 89 B-Ngo_Xiet
-Trại I-Ngo_Xiet
-Lẻ, I-Ngo_Xiet
+Trại B-Ten_Duong
+Lẻ, I-Ten_Duong
 Lê B-Ten_Quan_Huyen
 Chân, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -1530,8 +1530,8 @@ Nội I-Ten_Tinh_ThanhPho
 
 ngõ O
 384 B-Ngo_Xiet
-Lạch I-Ngo_Xiet
-Tray, I-Ngo_Xiet
+Lạch B-Ten_Duong
+Tray, I-Ten_Duong
 Ngô B-Ten_Quan_Huyen
 Quyền, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -1611,8 +1611,8 @@ mặt O
 ngõ O
 số O
 173 B-Ngo_Xiet
-Hàng I-Ngo_Xiet
-Kênh, I-Ngo_Xiet
+Hàng B-Ten_Duong
+Kênh, I-Ten_Duong
 Lê B-Ten_Quan_Huyen
 Chân, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
@@ -1672,9 +1672,9 @@ Nội I-Ten_Tinh_ThanhPho
 
 Ngõ O
 229 B-Ngo_Xiet
-Miếu I-Ngo_Xiet
-Hai I-Ngo_Xiet
-Xã, I-Ngo_Xiet
+Miếu B-Ten_Duong
+Hai I-Ten_Duong
+Xã, I-Ten_Duong
 Dư B-Ten_Phuong_Xa_TT
 Hàng I-Ten_Phuong_Xa_TT
 Kênh, I-Ten_Phuong_Xa_TT
@@ -1722,9 +1722,9 @@ Nội I-Ten_Tinh_ThanhPho
 
 NGÕ O
 145 B-Ngo_Xiet
-CHỢ I-Ngo_Xiet
-HÀNG I-Ngo_Xiet
-CŨ, I-Ngo_Xiet
+CHỢ B-Ten_Duong
+HÀNG I-Ten_Duong
+CŨ, I-Ten_Duong
 LÊ B-Ten_Quan_Huyen
 CHÂN, I-Ten_Quan_Huyen
 HẢI B-Ten_Tinh_ThanhPho
@@ -1808,9 +1808,9 @@ Nội I-Ten_Tinh_ThanhPho
 
 NGÕ O
 385 B-Ngo_Xiet
-NGÔ I-Ngo_Xiet
-GIA I-Ngo_Xiet
-TỰ, I-Ngo_Xiet
+NGÔ B-Ten_Duong
+GIA I-Ten_Duong
+TỰ, I-Ten_Duong
 HẢI B-Ten_Quan_Huyen
 AN, I-Ten_Quan_Huyen
 HẢI B-Ten_Tinh_ThanhPho
@@ -1821,8 +1821,8 @@ PHÒNG I-Ten_Tinh_ThanhPho
 trong O
 ngõ O
 118 B-Ngo_Xiet
-Lam I-Ngo_Xiet
-Sơn, I-Ngo_Xiet
+Lam B-Ten_Duong
+Sơn, I-Ten_Duong
 Lê B-Ten_Quan_Huyen
 Chân, I-Ten_Quan_Huyen
 Hải B-Ten_Tinh_ThanhPho
