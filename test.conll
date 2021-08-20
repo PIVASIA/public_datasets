@@ -7,89 +7,89 @@ dãy O
 ngõ O
 153, B-Ngo_Xiet
 đường O
-Dương B-Ten_Duong
-Văn I-Ten_Duong
-Bé, I-Ten_Duong
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Dương B-ten_duong
+Văn I-ten_duong
+Bé, I-ten_duong
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 Đường O
-An B-Ten_Duong
-Sơn, I-Ten_Duong
+An B-ten_duong
+Sơn, I-ten_duong
 Phố O
-Hàn B-Ten_Duong
-Thuyên, I-Ten_Duong
+Hàn B-ten_duong
+Thuyên, I-ten_duong
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 17 B-So_nha
 ngách O
 101/7 B-Ngach_Hem
-Phố B-Ten_Duong
-Trạm I-Ten_Duong
+Phố B-ten_duong
+Trạm I-ten_duong
 Phường O
-Long B-Ten_Phuong_Xa_TT
-Biên I-Ten_Phuong_Xa_TT
+Long B-ten_phuong_xa_thitran
+Biên I-ten_phuong_xa_thitran
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 Đường O
-Quang B-Ten_Duong
-Trung, I-Ten_Duong
+Quang B-ten_duong
+Trung, I-ten_duong
 Phường O
-Quang B-Ten_Phuong_Xa_TT
-Trung, I-Ten_Phuong_Xa_TT
+Quang B-ten_phuong_xa_thitran
+Trung, I-ten_phuong_xa_thitran
 Quận O
-Hà B-Ten_Quan_Huyen
-Đông, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hà B-ten_quan_huyen_thanhpho
+Đông, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 281 B-Ngo_Xiet
-Trần B-Ten_Duong
-Khắc I-Ten_Duong
-Chân. I-Ten_Duong
-Thanh B-Ten_Phuong_Xa_TT
-Nhàn. I-Ten_Phuong_Xa_TT
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng. I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Trần B-ten_duong
+Khắc I-ten_duong
+Chân. I-ten_duong
+Thanh B-ten_phuong_xa_thitran
+Nhàn. I-ten_phuong_xa_thitran
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng. I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 Đường O
-An B-Ten_Duong
-Sơn, I-Ten_Duong
+An B-ten_duong
+Sơn, I-ten_duong
 Phố O
-Hàn B-Ten_Duong
-Thuyên, I-Ten_Duong
+Hàn B-ten_duong
+Thuyên, I-ten_duong
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 NGÕ O
 116 B-Ngo_Xiet
-CHỢ B-Ten_Duong
-HÀNG, I-Ten_Duong
-LÊ B-Ten_Quan_Huyen
-CHÂN I-Ten_Quan_Huyen
-HP B-Ten_Tinh_ThanhPho
+CHỢ B-ten_duong
+HÀNG, I-ten_duong
+LÊ B-ten_quan_huyen_thanhpho
+CHÂN I-ten_quan_huyen_thanhpho
+HP B-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -97,18 +97,18 @@ Ngõ O
 Tự B-Ngo_Xiet
 Do I-Ngo_Xiet
 Phố O
-Tạ B-Ten_Duong
-Quang I-Ten_Duong
-Bửu, I-Ten_Duong
+Tạ B-ten_duong
+Quang I-ten_duong
+Bửu, I-ten_duong
 Phường O
-Đồng B-Ten_Phuong_Xa_TT
-Tâm, I-Ten_Phuong_Xa_TT
+Đồng B-ten_phuong_xa_thitran
+Tâm, I-ten_phuong_xa_thitran
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -116,13 +116,13 @@ trong O
 ngõ O
 số O
 111 B-Ngo_Xiet
-Miếu B-Ten_Duong
-Hai I-Ten_Duong
-Xã, I-Ten_Duong
-Lê B-Ten_Quan_Huyen
-Chân, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Miếu B-ten_duong
+Hai I-ten_duong
+Xã, I-ten_duong
+Lê B-ten_quan_huyen_thanhpho
+Chân, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -131,17 +131,17 @@ số O
 ngõ O
 515 B-Ngo_Xiet
 Đường O
-Hoàng B-Ten_Duong
-Hoa I-Ten_Duong
-Thám, I-Ten_Duong
+Hoàng B-ten_duong
+Hoa I-ten_duong
+Thám, I-ten_duong
 Phường O
-Vĩnh B-Ten_Phuong_Xa_TT
-Phúc, I-Ten_Phuong_Xa_TT
+Vĩnh B-ten_phuong_xa_thitran
+Phúc, I-ten_phuong_xa_thitran
 Quận O
-Ba B-Ten_Quan_Huyen
-Đình, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Ba B-ten_quan_huyen_thanhpho
+Đình, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -151,33 +151,33 @@ nhà O
 ngõ O
 67 B-Ngo_Xiet
 Đường O
-Nguyễn B-Ten_Duong
-Văn I-Ten_Duong
-Cừ, I-Ten_Duong
+Nguyễn B-ten_duong
+Văn I-ten_duong
+Cừ, I-ten_duong
 Phường O
-Ngọc B-Ten_Phuong_Xa_TT
-Lâm, I-Ten_Phuong_Xa_TT
+Ngọc B-ten_phuong_xa_thitran
+Lâm, I-ten_phuong_xa_thitran
 Quận O
-Long B-Ten_Quan_Huyen
-Biên, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Long B-ten_quan_huyen_thanhpho
+Biên, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 2 B-Ngo_Xiet
 Đường O
-Đại B-Ten_Duong
-lộ I-Ten_Duong
-Thăng I-Ten_Duong
-Long, I-Ten_Duong
+Đại B-ten_duong
+lộ I-ten_duong
+Thăng I-ten_duong
+Long, I-ten_duong
 Xã O
-Vân B-Ten_Phuong_Xa_TT
-Canh, I-Ten_Phuong_Xa_TT
+Vân B-ten_phuong_xa_thitran
+Canh, I-ten_phuong_xa_thitran
 Huyện O
-Hoài B-Ten_Quan_Huyen
-Đức, I-Ten_Quan_Huyen
+Hoài B-ten_quan_huyen_thanhpho
+Đức, I-ten_quan_huyen_thanhpho
 Hà O
 Nội O
 
@@ -187,17 +187,17 @@ Ngõ O
 Thống B-Ngo_Xiet
 Nhất I-Ngo_Xiet
 Phố O
-Đại B-Ten_Duong
-La, I-Ten_Duong
+Đại B-ten_duong
+La, I-ten_duong
 Phường O
-Đồng B-Ten_Phuong_Xa_TT
-Tâm, I-Ten_Phuong_Xa_TT
+Đồng B-ten_phuong_xa_thitran
+Tâm, I-ten_phuong_xa_thitran
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -214,10 +214,10 @@ ngõ O
 282 B-Ngo_Xiet
 Đà I-Ngo_Xiet
 Nẵng, I-Ngo_Xiet
-Ngô B-Ten_Quan_Huyen
-Quyền, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Ngô B-ten_quan_huyen_thanhpho
+Quyền, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -225,73 +225,73 @@ Ngõ O
 Tự B-Ngo_Xiet
 Do I-Ngo_Xiet
 Phố O
-Tạ B-Ten_Duong
-Quang I-Ten_Duong
-Bửu, I-Ten_Duong
+Tạ B-ten_duong
+Quang I-ten_duong
+Bửu, I-ten_duong
 Phường O
-Đồng B-Ten_Phuong_Xa_TT
-Tâm, I-Ten_Phuong_Xa_TT
+Đồng B-ten_phuong_xa_thitran
+Tâm, I-ten_phuong_xa_thitran
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 211 B-Ngo_Xiet
-Khương B-Ten_Duong
-Trung I-Ten_Duong
-Khương B-Ten_Phuong_Xa_TT
-Đình I-Ten_Phuong_Xa_TT
-Thanh B-Ten_Quan_Huyen
-Xuân I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Khương B-ten_duong
+Trung I-ten_duong
+Khương B-ten_phuong_xa_thitran
+Đình I-ten_phuong_xa_thitran
+Thanh B-ten_quan_huyen_thanhpho
+Xuân I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 Đường O
-Bùi B-Ten_Duong
-Xương I-Ten_Duong
-Trạch, I-Ten_Duong
+Bùi B-ten_duong
+Xương I-ten_duong
+Trạch, I-ten_duong
 Phường O
-Khương B-Ten_Phuong_Xa_TT
-Đình, I-Ten_Phuong_Xa_TT
+Khương B-ten_phuong_xa_thitran
+Đình, I-ten_phuong_xa_thitran
 Quận O
-Thanh B-Ten_Quan_Huyen
-Xuân, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Thanh B-ten_quan_huyen_thanhpho
+Xuân, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 Quỳnh, B-Ngo_Xiet
 Phường O
-Quỳnh B-Ten_Phuong_Xa_TT
-Lôi, I-Ten_Phuong_Xa_TT
+Quỳnh B-ten_phuong_xa_thitran
+Lôi, I-ten_phuong_xa_thitran
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 cấm O
 Đường O
-Chùa B-Ten_Duong
-Vẽ, I-Ten_Duong
+Chùa B-ten_duong
+Vẽ, I-ten_duong
 Phường O
-Lê B-Ten_Phuong_Xa_TT
-Lợi, I-Ten_Phuong_Xa_TT
+Lê B-ten_phuong_xa_thitran
+Lợi, I-ten_phuong_xa_thitran
 Quận O
-Ngô B-Ten_Quan_Huyen
-Quyền, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Ngô B-ten_quan_huyen_thanhpho
+Quyền, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -300,56 +300,56 @@ Số O
 ngõ O
 639 B-Ngo_Xiet
 Đường O
-Hoàng B-Ten_Duong
-Hoa I-Ten_Duong
-Thám, I-Ten_Duong
+Hoàng B-ten_duong
+Hoa I-ten_duong
+Thám, I-ten_duong
 Phường O
-Vĩnh B-Ten_Phuong_Xa_TT
-Phúc, I-Ten_Phuong_Xa_TT
+Vĩnh B-ten_phuong_xa_thitran
+Phúc, I-ten_phuong_xa_thitran
 Quận O
-Ba B-Ten_Quan_Huyen
-Đình, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Ba B-ten_quan_huyen_thanhpho
+Đình, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 125 B-Ngo_Xiet
-Phủ I-Ten_Duong
-Thượng I-Ten_Duong
-Đoạn, I-Ten_Duong
-Đông B-Ten_Phuong_Xa_TT
-Hải I-Ten_Phuong_Xa_TT
-1, I-Ten_Phuong_Xa_TT
-Hải B-Ten_Quan_Huyen
-An, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Phủ I-ten_duong
+Thượng I-ten_duong
+Đoạn, I-ten_duong
+Đông B-ten_phuong_xa_thitran
+Hải I-ten_phuong_xa_thitran
+1, I-ten_phuong_xa_thitran
+Hải B-ten_quan_huyen_thanhpho
+An, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 TRONG O
 NGÕ O
 38 B-Ngo_Xiet
-AN B-Ten_Duong
-ĐÀ I-Ten_Duong
+AN B-ten_duong
+ĐÀ I-ten_duong
 , O
-NGÔ B-Ten_Quan_Huyen
-QUYỀN, I-Ten_Quan_Huyen
-HẢI B-Ten_Tinh_ThanhPho
-PHÒNG I-Ten_Tinh_ThanhPho
+NGÔ B-ten_quan_huyen_thanhpho
+QUYỀN, I-ten_quan_huyen_thanhpho
+HẢI B-ten_tinh_thanh_pho
+PHÒNG I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 NGÕ O
 89 B-Ngo_Xiet
-LÊ B-Ten_Duong
-LỢI, I-Ten_Duong
-NGÔ B-Ten_Quan_Huyen
-QUYỀN, I-Ten_Quan_Huyen
-HẢI B-Ten_Tinh_ThanhPho
-PHÒNG I-Ten_Tinh_ThanhPho
+LÊ B-ten_duong
+LỢI, I-ten_duong
+NGÔ B-ten_quan_huyen_thanhpho
+QUYỀN, I-ten_quan_huyen_thanhpho
+HẢI B-ten_tinh_thanh_pho
+PHÒNG I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -358,17 +358,17 @@ số O
 ngõ O
 515 B-Ngo_Xiet
 Đường O
-Hoàng B-Ten_Duong
-Hoa I-Ten_Duong
-Thám, I-Ten_Duong
+Hoàng B-ten_duong
+Hoa I-ten_duong
+Thám, I-ten_duong
 Phường O
-Vĩnh B-Ten_Phuong_Xa_TT
-Phúc, I-Ten_Phuong_Xa_TT
+Vĩnh B-ten_phuong_xa_thitran
+Phúc, I-ten_phuong_xa_thitran
 Quận O
-Ba B-Ten_Quan_Huyen
-Đình, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Ba B-ten_quan_huyen_thanhpho
+Đình, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -376,14 +376,14 @@ Ngõ O
 Gốc B-Ngo_Xiet
 Đề, I-Ngo_Xiet
 Phường O
-Hoàng B-Ten_Phuong_Xa_TT
-Văn I-Ten_Phuong_Xa_TT
-Thụ, I-Ten_Phuong_Xa_TT
+Hoàng B-ten_phuong_xa_thitran
+Văn I-ten_phuong_xa_thitran
+Thụ, I-ten_phuong_xa_thitran
 Quận O
-Hoàng B-Ten_Quan_Huyen
-Mai, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hoàng B-ten_quan_huyen_thanhpho
+Mai, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -391,24 +391,24 @@ Số O
 63 B-So_nha
 ngõ O
 228 B-Ngo_Xiet
-Tam B-Ten_Duong
-trinh I-Ten_Duong
+Tam B-ten_duong
+trinh I-ten_duong
 Phường O
-Yên B-Ten_Phuong_Xa_TT
-sở I-Ten_Phuong_Xa_TT
+Yên B-ten_phuong_xa_thitran
+sở I-ten_phuong_xa_thitran
 Quận O
-Hoàng B-Ten_Quan_Huyen
-Mai I-Ten_Quan_Huyen
+Hoàng B-ten_quan_huyen_thanhpho
+Mai I-ten_quan_huyen_thanhpho
 Đường O
-Nguyễn B-Ten_Duong
-Tam I-Ten_Duong
-Trinh, I-Ten_Duong
+Nguyễn B-ten_duong
+Tam I-ten_duong
+Trinh, I-ten_duong
 Phường O
-Yên B-Ten_Phuong_Xa_TT
-Sở, I-Ten_Phuong_Xa_TT
+Yên B-ten_phuong_xa_thitran
+Sở, I-ten_phuong_xa_thitran
 Quận O
-Hoàng B-Ten_Quan_Huyen
-Mai, I-Ten_Quan_Huyen
+Hoàng B-ten_quan_huyen_thanhpho
+Mai, I-ten_quan_huyen_thanhpho
 Hà O
 Nội O
 
@@ -418,81 +418,81 @@ số O
 18b, B-So_nha
 ngõ O
 76 B-Ngo_Xiet
-Vĩnh B-Ten_Phuong_Xa_TT
-Hưng I-Ten_Phuong_Xa_TT
+Vĩnh B-ten_phuong_xa_thitran
+Hưng I-ten_phuong_xa_thitran
 , O
 Phường O
-Vĩnh B-Ten_Phuong_Xa_TT
-Hưng, I-Ten_Phuong_Xa_TT
+Vĩnh B-ten_phuong_xa_thitran
+Hưng, I-ten_phuong_xa_thitran
 Quận O
-Hoàng B-Ten_Quan_Huyen
-Mai, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội. I-Ten_Tinh_ThanhPho
+Hoàng B-ten_quan_huyen_thanhpho
+Mai, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội. I-ten_tinh_thanh_pho
 Đường O
-Hồ B-Ten_Duong
-Đền I-Ten_Duong
-Lừ, I-Ten_Duong
+Hồ B-ten_duong
+Đền I-ten_duong
+Lừ, I-ten_duong
 Phường O
-Vĩnh B-Ten_Phuong_Xa_TT
-Hưng, I-Ten_Phuong_Xa_TT
+Vĩnh B-ten_phuong_xa_thitran
+Hưng, I-ten_phuong_xa_thitran
 Quận O
-Hoàng B-Ten_Quan_Huyen
-Mai, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hoàng B-ten_quan_huyen_thanhpho
+Mai, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 466 B-Ngo_Xiet
 Đường O
-Bưởi, B-Ten_Duong
+Bưởi, B-ten_duong
 Phường O
-Cống B-Ten_Phuong_Xa_TT
-Vị, I-Ten_Phuong_Xa_TT
+Cống B-ten_phuong_xa_thitran
+Vị, I-ten_phuong_xa_thitran
 Quận O
-Ba B-Ten_Quan_Huyen
-Đình, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Ba B-ten_quan_huyen_thanhpho
+Đình, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 127 B-Ngo_Xiet
-Trung B-Ten_Duong
-Hành, I-Ten_Duong
-Đằng B-Ten_Phuong_Xa_TT
-Lâm, I-Ten_Phuong_Xa_TT
-Hải B-Ten_Quan_Huyen
-An, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Trung B-ten_duong
+Hành, I-ten_duong
+Đằng B-ten_phuong_xa_thitran
+Lâm, I-ten_phuong_xa_thitran
+Hải B-ten_quan_huyen_thanhpho
+An, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 197 B-Ngo_Xiet
-Hoàng B-Ten_Duong
-Mai. I-Ten_Duong
-Hoàng B-Ten_Phuong_Xa_TT
-Văn I-Ten_Phuong_Xa_TT
-Thụ. I-Ten_Phuong_Xa_TT
-Hoàng B-Ten_Phuong_Xa_TT
-Mai I-Ten_Phuong_Xa_TT
+Hoàng B-ten_duong
+Mai. I-ten_duong
+Hoàng B-ten_phuong_xa_thitran
+Văn I-ten_phuong_xa_thitran
+Thụ. I-ten_phuong_xa_thitran
+Hoàng B-ten_phuong_xa_thitran
+Mai I-ten_phuong_xa_thitran
 Đường O
-Hoàng B-Ten_Duong
-Mai, I-Ten_Duong
+Hoàng B-ten_duong
+Mai, I-ten_duong
 Phường O
-Hoàng B-Ten_Phuong_Xa_TT
-Văn I-Ten_Phuong_Xa_TT
-Thụ, I-Ten_Phuong_Xa_TT
+Hoàng B-ten_phuong_xa_thitran
+Văn I-ten_phuong_xa_thitran
+Thụ, I-ten_phuong_xa_thitran
 Quận O
-Hoàng B-Ten_Quan_Huyen
-Mai, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hoàng B-ten_quan_huyen_thanhpho
+Mai, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -500,32 +500,32 @@ Phố O
 Ngõ B-Ten_Thon_Lang_ToDanPho
 Trạm, I-Ten_Thon_Lang_ToDanPho
 Phường O
-Bồ B-Ten_Phuong_Xa_TT
-Đề, I-Ten_Phuong_Xa_TT
+Bồ B-ten_phuong_xa_thitran
+Đề, I-ten_phuong_xa_thitran
 Quận O
-Long B-Ten_Quan_Huyen
-Biên, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Long B-ten_quan_huyen_thanhpho
+Biên, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 20 B-So_nha
 ngõ O
 378 B-Ngo_Xiet
-Đội B-Ten_Duong
-Cấn I-Ten_Duong
+Đội B-ten_duong
+Cấn I-ten_duong
 Phố O
-Đội B-Ten_Duong
-cấn, I-Ten_Duong
+Đội B-ten_duong
+cấn, I-ten_duong
 Phường O
-Cống B-Ten_Phuong_Xa_TT
-Vị, I-Ten_Phuong_Xa_TT
+Cống B-ten_phuong_xa_thitran
+Vị, I-ten_phuong_xa_thitran
 Quận O
-Ba B-Ten_Quan_Huyen
-Đình, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Ba B-ten_quan_huyen_thanhpho
+Đình, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -533,96 +533,96 @@ ngõ O
 thịnh O
 quang O
 Đường O
-Thịnh B-Ten_Duong
-Quang, I-Ten_Duong
+Thịnh B-ten_duong
+Quang, I-ten_duong
 Phường O
-Thịnh B-Ten_Phuong_Xa_TT
-Quang, I-Ten_Phuong_Xa_TT
+Thịnh B-ten_phuong_xa_thitran
+Quang, I-ten_phuong_xa_thitran
 Quận O
-Đống B-Ten_Quan_Huyen
-Đa, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Đống B-ten_quan_huyen_thanhpho
+Đa, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 629 B-Ngo_Xiet
 Đường O
-Kim B-Ten_Duong
-Mã, I-Ten_Duong
+Kim B-ten_duong
+Mã, I-ten_duong
 Phường O
-Ngọc B-Ten_Phuong_Xa_TT
-Khánh, I-Ten_Phuong_Xa_TT
+Ngọc B-ten_phuong_xa_thitran
+Khánh, I-ten_phuong_xa_thitran
 Quận O
-Ba B-Ten_Quan_Huyen
-Đình, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Ba B-ten_quan_huyen_thanhpho
+Đình, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 634 B-Ngo_Xiet
-Minh B-Ten_Duong
-Khai, I-Ten_Duong
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Minh B-ten_duong
+Khai, I-ten_duong
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 Đường O
-Minh B-Ten_Duong
-Khai, I-Ten_Duong
+Minh B-ten_duong
+Khai, I-ten_duong
 Phố O
-Hàn B-Ten_Duong
-Thuyên, I-Ten_Duong
+Hàn B-ten_duong
+Thuyên, I-ten_duong
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 146 B-Ngo_Xiet
 Đường O
-19 B-Ten_Duong
-tháng I-Ten_Duong
-5, I-Ten_Duong
+19 B-ten_duong
+tháng I-ten_duong
+5, I-ten_duong
 Phường O
-Văn B-Ten_Phuong_Xa_TT
-Quán, I-Ten_Phuong_Xa_TT
+Văn B-ten_phuong_xa_thitran
+Quán, I-ten_phuong_xa_thitran
 Quận O
-Hà B-Ten_Quan_Huyen
-Đông, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hà B-ten_quan_huyen_thanhpho
+Đông, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 207 B-Ngo_Xiet
-Bùi B-Ten_Duong
-Xương I-Ten_Duong
-Trạch I-Ten_Duong
+Bùi B-ten_duong
+Xương I-ten_duong
+Trạch I-ten_duong
 Phường O
-Khương B-Ten_Phuong_Xa_TT
-Đình I-Ten_Phuong_Xa_TT
+Khương B-ten_phuong_xa_thitran
+Đình I-ten_phuong_xa_thitran
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 617 B-Ngo_Xiet
-Ngô B-Ten_Duong
-Gia I-Ten_Duong
-Tự, I-Ten_Duong
-Hải B-Ten_Quan_Huyen
-An, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Ngô B-ten_duong
+Gia I-ten_duong
+Tự, I-ten_duong
+Hải B-ten_quan_huyen_thanhpho
+An, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -630,10 +630,10 @@ NGÕ O
 ĐẶNG B-Ngo_Xiet
 KIM I-Ngo_Xiet
 NỞ, I-Ngo_Xiet
-LÊ B-Ten_Quan_Huyen
-CHÂN, I-Ten_Quan_Huyen
-HẢI B-Ten_Tinh_ThanhPho
-PHÒNG I-Ten_Tinh_ThanhPho
+LÊ B-ten_quan_huyen_thanhpho
+CHÂN, I-ten_quan_huyen_thanhpho
+HẢI B-ten_tinh_thanh_pho
+PHÒNG I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -641,9 +641,9 @@ ngõ O
 244 B-Ngo_Xiet
 Đà I-Ngo_Xiet
 Nẵng, I-Ngo_Xiet
-Ngô B-Ten_Quan_Huyen
-Quyền, I-Ten_Quan_Huyen
-HP B-Ten_Tinh_ThanhPho
+Ngô B-ten_quan_huyen_thanhpho
+Quyền, I-ten_quan_huyen_thanhpho
+HP B-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -652,85 +652,85 @@ Thịnh B-Ngo_Xiet
 Hào I-Ngo_Xiet
 1, I-Ngo_Xiet
 Phường O
-Hàng B-Ten_Phuong_Xa_TT
-Bột, I-Ten_Phuong_Xa_TT
+Hàng B-ten_phuong_xa_thitran
+Bột, I-ten_phuong_xa_thitran
 Quận O
-Đống B-Ten_Quan_Huyen
-Đa, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Đống B-ten_quan_huyen_thanhpho
+Đa, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 1002 B-Ngo_Xiet
 Đường O
-Láng, B-Ten_Duong
+Láng, B-ten_duong
 Phường O
-Láng B-Ten_Phuong_Xa_TT
-Thượng, I-Ten_Phuong_Xa_TT
+Láng B-ten_phuong_xa_thitran
+Thượng, I-ten_phuong_xa_thitran
 Quận O
-Đống B-Ten_Quan_Huyen
-Đa, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Đống B-ten_quan_huyen_thanhpho
+Đa, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 6 B-Ngo_Xiet
 Đường O
-Hoàng B-Ten_Duong
-Hoa I-Ten_Duong
-Thám, I-Ten_Duong
+Hoàng B-ten_duong
+Hoa I-ten_duong
+Thám, I-ten_duong
 Phường O
-Vĩnh B-Ten_Phuong_Xa_TT
-Phúc, I-Ten_Phuong_Xa_TT
+Vĩnh B-ten_phuong_xa_thitran
+Phúc, I-ten_phuong_xa_thitran
 Quận O
-Ba B-Ten_Quan_Huyen
-Đình, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Ba B-ten_quan_huyen_thanhpho
+Đình, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 254 B-Ngo_Xiet
-Minh B-Ten_Duong
-Khai I-Ten_Duong
+Minh B-ten_duong
+Khai I-ten_duong
 Đường O
-Minh B-Ten_Duong
-Khai, I-Ten_Duong
+Minh B-ten_duong
+Khai, I-ten_duong
 Phường O
-Minh B-Ten_Phuong_Xa_TT
-Khai, I-Ten_Phuong_Xa_TT
+Minh B-ten_phuong_xa_thitran
+Khai, I-ten_phuong_xa_thitran
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 Gốc B-Ngo_Xiet
 Đề, I-Ngo_Xiet
-Minh B-Ten_Phuong_Xa_TT
-Khai, I-Ten_Phuong_Xa_TT
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng I-Ten_Quan_Huyen
+Minh B-ten_phuong_xa_thitran
+Khai, I-ten_phuong_xa_thitran
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng I-ten_quan_huyen_thanhpho
 Đường O
-An B-Ten_Duong
-Sơn, I-Ten_Duong
+An B-ten_duong
+Sơn, I-ten_duong
 Phố O
-Hàn B-Ten_Duong
-Thuyên, I-Ten_Duong
+Hàn B-ten_duong
+Thuyên, I-ten_duong
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
 Hà O
 Nội O
 
@@ -738,40 +738,40 @@ Nội O
 
 Ngõ O
 1/34 B-Ngo_Xiet
-Phan B-Ten_Duong
-Đình I-Ten_Duong
-Giót I-Ten_Duong
+Phan B-ten_duong
+Đình I-ten_duong
+Giót I-ten_duong
 Phố O
-Phan B-Ten_Duong
-Đình I-Ten_Duong
-Giót, I-Ten_Duong
+Phan B-ten_duong
+Đình I-ten_duong
+Giót, I-ten_duong
 Phường O
-Phương B-Ten_Phuong_Xa_TT
-Liệt, I-Ten_Phuong_Xa_TT
+Phương B-ten_phuong_xa_thitran
+Liệt, I-ten_phuong_xa_thitran
 Quận O
-Thanh B-Ten_Quan_Huyen
-Xuân, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Thanh B-ten_quan_huyen_thanhpho
+Xuân, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 67 B-Ngo_Xiet
 phố O
-thái B-Ten_Duong
-thịnh I-Ten_Duong
+thái B-ten_duong
+thịnh I-ten_duong
 Phố O
-Thái B-Ten_Duong
-Thịnh, I-Ten_Duong
+Thái B-ten_duong
+Thịnh, I-ten_duong
 Phường O
-Trung B-Ten_Phuong_Xa_TT
-Liệt, I-Ten_Phuong_Xa_TT
+Trung B-ten_phuong_xa_thitran
+Liệt, I-ten_phuong_xa_thitran
 Quận O
-Đống B-Ten_Quan_Huyen
-Đa, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Đống B-ten_quan_huyen_thanhpho
+Đa, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -780,45 +780,45 @@ ngõ O
 151 B-Ngo_Xiet
 ngách O
 51 B-Ngach_Hem
-Nguyễn B-Ten_Duong
-Đức I-Ten_Duong
-Cảnh, I-Ten_Duong
+Nguyễn B-ten_duong
+Đức I-ten_duong
+Cảnh, I-ten_duong
 Phường O
-Tương B-Ten_Phuong_Xa_TT
-Mai, I-Ten_Phuong_Xa_TT
-Hoàng B-Ten_Quan_Huyen
-Mai, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Tương B-ten_phuong_xa_thitran
+Mai, I-ten_phuong_xa_thitran
+Hoàng B-ten_quan_huyen_thanhpho
+Mai, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 Đường O
-Hồ B-Ten_Duong
-Đền I-Ten_Duong
-Lừ, I-Ten_Duong
+Hồ B-ten_duong
+Đền I-ten_duong
+Lừ, I-ten_duong
 Phường O
-Tương B-Ten_Phuong_Xa_TT
-Mai, I-Ten_Phuong_Xa_TT
+Tương B-ten_phuong_xa_thitran
+Mai, I-ten_phuong_xa_thitran
 Quận O
-Hoàng B-Ten_Quan_Huyen
-Mai, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hoàng B-ten_quan_huyen_thanhpho
+Mai, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 6 B-Ngo_Xiet
 Đường O
-Hoàng B-Ten_Duong
-Hoa I-Ten_Duong
-Thám, I-Ten_Duong
+Hoàng B-ten_duong
+Hoa I-ten_duong
+Thám, I-ten_duong
 Phường O
-Vĩnh B-Ten_Phuong_Xa_TT
-Phúc, I-Ten_Phuong_Xa_TT
+Vĩnh B-ten_phuong_xa_thitran
+Phúc, I-ten_phuong_xa_thitran
 Quận O
-Ba B-Ten_Quan_Huyen
-Đình, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Ba B-ten_quan_huyen_thanhpho
+Đình, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -826,10 +826,10 @@ ngõ O
 474 B-Ngo_Xiet
 Đà I-Ngo_Xiet
 Nẵng, I-Ngo_Xiet
-Hải B-Ten_Quan_Huyen
-An, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Hải B-ten_quan_huyen_thanhpho
+An, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -837,10 +837,10 @@ NGÕ O
 309 B-Ngo_Xiet
 ĐÀ I-Ngo_Xiet
 NẴNG, I-Ngo_Xiet
-NGÔ B-Ten_Quan_Huyen
-QUYỀN, I-Ten_Quan_Huyen
-HẢI B-Ten_Tinh_ThanhPho
-PHÒNG I-Ten_Tinh_ThanhPho
+NGÔ B-ten_quan_huyen_thanhpho
+QUYỀN, I-ten_quan_huyen_thanhpho
+HẢI B-ten_tinh_thanh_pho
+PHÒNG I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -848,8 +848,8 @@ PHÒNG I-Ten_Tinh_ThanhPho
 ngõ O
 121 B-Ngo_Xiet
 Phường O
-Khương B-Ten_Phuong_Xa_TT
-Trung I-Ten_Phuong_Xa_TT
+Khương B-ten_phuong_xa_thitran
+Trung I-ten_phuong_xa_thitran
 
 -DOCSTART- -X- -X- O
 
@@ -859,87 +859,87 @@ rộng O
 7m O
 Trại B-Ngo_Xiet
 Lẻ, I-Ngo_Xiet
-Lê B-Ten_Quan_Huyen
-Chân, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Lê B-ten_quan_huyen_thanhpho
+Chân, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 147 B-Ngo_Xiet
-triều B-Ten_Duong
-khúc, I-Ten_Duong
-thanh B-Ten_Quan_Huyen
-xuân I-Ten_Quan_Huyen
+triều B-ten_duong
+khúc, I-ten_duong
+thanh B-ten_quan_huyen_thanhpho
+xuân I-ten_quan_huyen_thanhpho
 Đường O
-Triều B-Ten_Duong
-Khúc, I-Ten_Duong
+Triều B-ten_duong
+Khúc, I-ten_duong
 Phường O
-Hạ B-Ten_Phuong_Xa_TT
-Đình, I-Ten_Phuong_Xa_TT
+Hạ B-ten_phuong_xa_thitran
+Đình, I-ten_phuong_xa_thitran
 Quận O
-Thanh B-Ten_Quan_Huyen
-Xuân, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Thanh B-ten_quan_huyen_thanhpho
+Xuân, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 173 B-Ngo_Xiet
-Hoàng B-Ten_Duong
-Hoa I-Ten_Duong
-Thám I-Ten_Duong
+Hoàng B-ten_duong
+Hoa I-ten_duong
+Thám I-ten_duong
 Phường O
-Ngọc B-Ten_Phuong_Xa_TT
-Hà I-Ten_Phuong_Xa_TT
+Ngọc B-ten_phuong_xa_thitran
+Hà I-ten_phuong_xa_thitran
 
 -DOCSTART- -X- -X- O
 
 NGÕ O
 217 B-Ngo_Xiet
-LÊ B-Ten_Duong
-LỢI, I-Ten_Duong
-NGÔ B-Ten_Quan_Huyen
-QUYỀN, I-Ten_Quan_Huyen
-HẢI B-Ten_Tinh_ThanhPho
-PHÒNG I-Ten_Tinh_ThanhPho
+LÊ B-ten_duong
+LỢI, I-ten_duong
+NGÔ B-ten_quan_huyen_thanhpho
+QUYỀN, I-ten_quan_huyen_thanhpho
+HẢI B-ten_tinh_thanh_pho
+PHÒNG I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 170 B-Ngo_Xiet
-Cát B-Ten_Duong
-Dài, I-Ten_Duong
-Lê B-Ten_Quan_Huyen
-Chân, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Cát B-ten_duong
+Dài, I-ten_duong
+Lê B-ten_quan_huyen_thanhpho
+Chân, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 90 B-Ngo_Xiet
-Trung B-Ten_Duong
-Lực, I-Ten_Duong
-Đằng B-Ten_Phuong_Xa_TT
-Lâm, I-Ten_Phuong_Xa_TT
-Hải B-Ten_Quan_Huyen
-An, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Trung B-ten_duong
+Lực, I-ten_duong
+Đằng B-ten_phuong_xa_thitran
+Lâm, I-ten_phuong_xa_thitran
+Hải B-ten_quan_huyen_thanhpho
+An, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 ngõ O
 155 B-Ngo_Xiet
-Lán B-Ten_Duong
-Bè, I-Ten_Duong
-Lê B-Ten_Quan_Huyen
-Chân, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Lán B-ten_duong
+Bè, I-ten_duong
+Lê B-ten_quan_huyen_thanhpho
+Chân, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -947,15 +947,15 @@ Ngõ O
 Thống B-Ngo_Xiet
 Nhất I-Ngo_Xiet
 Phố O
-Đại B-Ten_Duong
-La, I-Ten_Duong
+Đại B-ten_duong
+La, I-ten_duong
 Phường O
-Đồng B-Ten_Phuong_Xa_TT
-Tâm, I-Ten_Phuong_Xa_TT
+Đồng B-ten_phuong_xa_thitran
+Tâm, I-ten_phuong_xa_thitran
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
 Hà O
 Nội O
 
@@ -965,10 +965,10 @@ NGÕ O
 386 B-Ngo_Xiet
 ĐẰNG I-Ngo_Xiet
 HẢI, I-Ngo_Xiet
-HẢI B-Ten_Quan_Huyen
-AN, I-Ten_Quan_Huyen
-HẢI B-Ten_Tinh_ThanhPho
-PHÒNG I-Ten_Tinh_ThanhPho
+HẢI B-ten_quan_huyen_thanhpho
+AN, I-ten_quan_huyen_thanhpho
+HẢI B-ten_tinh_thanh_pho
+PHÒNG I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -976,14 +976,14 @@ Ngõ O
 Gốc B-Ngo_Xiet
 Đề, I-Ngo_Xiet
 Phường O
-Minh B-Ten_Phuong_Xa_TT
-Khai, I-Ten_Phuong_Xa_TT
+Minh B-ten_phuong_xa_thitran
+Khai, I-ten_phuong_xa_thitran
 Quận O
-Hai B-Ten_Quan_Huyen
-Bà I-Ten_Quan_Huyen
-Trưng, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hai B-ten_quan_huyen_thanhpho
+Bà I-ten_quan_huyen_thanhpho
+Trưng, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
@@ -991,23 +991,1842 @@ Ngõ O
 Gốc B-Ngo_Xiet
 Đề, I-Ngo_Xiet
 Phường O
-Hoàng B-Ten_Phuong_Xa_TT
-Văn I-Ten_Phuong_Xa_TT
-Thụ, I-Ten_Phuong_Xa_TT
+Hoàng B-ten_phuong_xa_thitran
+Văn I-ten_phuong_xa_thitran
+Thụ, I-ten_phuong_xa_thitran
 Quận O
-Hoàng B-Ten_Quan_Huyen
-Mai, I-Ten_Quan_Huyen
-Hà B-Ten_Tinh_ThanhPho
-Nội I-Ten_Tinh_ThanhPho
+Hoàng B-ten_quan_huyen_thanhpho
+Mai, I-ten_quan_huyen_thanhpho
+Hà B-ten_tinh_thanh_pho
+Nội I-ten_tinh_thanh_pho
 
 -DOCSTART- -X- -X- O
 
 Ngõ O
 104 B-Ngo_Xiet
-Tôn B-Ten_Duong
-Đức I-Ten_Duong
-Thắng, I-Ten_Duong
-Lê B-Ten_Quan_Huyen
-Chân, I-Ten_Quan_Huyen
-Hải B-Ten_Tinh_ThanhPho
-Phòng I-Ten_Tinh_ThanhPho
+Tôn B-ten_duong
+Đức I-ten_duong
+Thắng, I-ten_duong
+Lê B-ten_quan_huyen_thanhpho
+Chân, I-ten_quan_huyen_thanhpho
+Hải B-ten_tinh_thanh_pho
+Phòng I-ten_tinh_thanh_pho
+
+-DOCSTART- -X- -X- O
+
+cà_phê B-san_pham
+bean-to-cup I-san_pham
+bất_cứ O
+lúc_nào O
+với O
+7 O
+- O
+eleven O
+. O
+
+-DOCSTART- -X- -X- O
+
+tặng O
+1 O
+pepsi B-san_pham
+390ml I-san_pham
+khi O
+mua O
+2 O
+phần O
+gà B-san_pham
+rán I-san_pham
+bất_kì O
+và O
+được O
+tích_luỹ O
+ngay O
+vào O
+7rewards O
+để O
+đổi O
+phần O
+gà O
+thứ O
+7 O
+miễn_phí O
+khi O
+tích O
+đủ O
+6 O
+phần O
+. O
+
+-DOCSTART- -X- -X- O
+
+“ O
+em_út O
+” O
+- O
+xúc_xích B-san_pham
+xông I-san_pham
+khói I-san_pham
+50g I-san_pham
+với O
+1.000 B-muc_giam_gia
+điểm I-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
+, O
+92 B-so_nha
+nguyễn_hữu_cảnh B-ten_duong
+, O
+phường B-ten_phuong_xa_thitran
+22 I-ten_phuong_xa_thitran
+, O
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+l B-vi_tri
+1.04 I-vi_tri
+rivergate_residence I-vi_tri
+, O
+151-155 B-so_nha
+bến_vân_đồn B-ten_duong
+, O
+phường B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
+, O
+quận B-ten_quan_huyen_thanhpho
+4 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+mỗi O
+“ O
+khách_hàng O
+nhí O
+” O
+ghé O
+thăm O
+những O
+cửa_hàng O
+dưới O
+đây O
+vào O
+ngày O
+lễ O
+thiếu_nhi O
+1/6 B-date
+sẽ O
+nhận O
+ngay O
+những O
+phần O
+quà O
+dễ_thương O
+là O
+bánh O
+ngon O
+kẹo O
+ngọt O
+đó O
+nha O
+! O
+
+-DOCSTART- -X- -X- O
+
+kiềm O
+sao O
+nổi O
+với O
+món O
+hủ_tiếu B-san_pham
+trộn I-san_pham
+bò I-san_pham
+viên I-san_pham
+đây O
+. O
+
+-DOCSTART- -X- -X- O
+
+s06 B-vi_tri
+shophouse_saigon_pearl I-vi_tri
+, O
+92 B-so_nha
+nguyễn_hữu_cảnh B-ten_duong
+, O
+phường B-ten_phuong_xa_thitran
+22 I-ten_phuong_xa_thitran
+, O
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+mỳ_trộn_trứng_xúc B-san_pham
+xích I-san_pham
+- O
+món O
+ăn O
+hứa_hẹn O
+sẽ O
+làm_mưa_làm_gió O
+tại O
+7 O
+- O
+eleven O
+vì O
+độ O
+ngon-bổ-rẻ O
+sẽ O
+ra_mắt O
+ngày O
+12/2/2019 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+quà O
+tặng O
+: O
+01 O
+voucher O
+7 O
+- O
+eleven O
+trị_giá O
+50k B-muc_giam_gia
+sẽ O
+dành O
+cho O
+5 O
+bạn O
+dự_đoán O
+đúng O
+tỉ_số O
+trận O
+đấu O
+và O
+may_mắn O
+được O
+lựa_chọn O
+ngẫu_nhiên O
+. O
+
+-DOCSTART- -X- -X- O
+
+thử O
+vị O
+cơm_nắm_onigiri B-san_pham
+mới O
+giá O
+chỉ O
+10k B-gia_san_pham
+với O
+100 O
+điểm O
+trên O
+7rewards O
+. O
+
+-DOCSTART- -X- -X- O
+
+nhận O
+ngay O
+th B-san_pham
+true_malt I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+️ O
+đặc_biệt O
+, O
+vào O
+ngày O
+này O
+, O
+người_dân O
+nhật_bản O
+thường O
+làm O
+bánh B-san_pham
+kashiwa I-san_pham
+mochi I-san_pham
+- O
+một O
+loại O
+bánh O
+gạo O
+ngọt O
+mịn O
+, O
+được O
+bọc O
+trong O
+một O
+lá O
+sồi O
+cùng O
+nhân O
+đậu_đỏ O
+thơm O
+ngon O
+, O
+dẻo O
+mềm O
+lại O
+rất O
+hấp_dẫn O
+dễ O
+ăn O
+. O
+
+-DOCSTART- -X- -X- O
+
+hiện O
+đây O
+chính O
+là O
+phiên_bản O
+kẹo B-san_pham
+ngậm I-san_pham
+đang O
+được O
+săn_đón O
+nhiều O
+nhất O
+, O
+nếu O
+chưa O
+có O
+cơ_hội O
+trải_nghiệm O
+thì O
+hãy O
+ghé O
+ngay O
+với O
+bảy O
+để O
+rinh O
+01 O
+hộp O
+về O
+nhen O
+. O
+
+-DOCSTART- -X- -X- O
+
+hoà_quyện O
+cùng O
+gà B-san_pham
+nướng I-san_pham
+mật_ong I-san_pham
+được O
+tẩm O
+ướp O
+với O
+xốt O
+bbq O
+đậm O
+vị O
+châu_âu O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+242 B-so_nha
+g-244 I-so_nha
+nguyễn_đình_chiểu B-ten_duong
+, O
+p. B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
+, O
+q. B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+một O
+số O
+lưu_ý O
+về O
+chương_trình O
+tích O
+700 O
+điểm O
+, O
+nhận O
+voucher O
+10k B-muc_giam_gia
+và O
+karaoke_icool B-san_pham
+. I-san_pham
+
+-DOCSTART- -X- -X- O
+
+millenium B-vi_tri
+masteri I-vi_tri
+, O
+132 B-so_nha
+bến_vân_đồn B-ten_duong
+, O
+phường B-ten_phuong_xa_thitran
+6 I-ten_phuong_xa_thitran
+, O
+quận B-ten_quan_huyen_thanhpho
+4 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+tiếp_nối O
+thành_công O
+của O
+sự_kiện O
+tuyển_dụng O
+vừa_rồi O
+, O
+ngày O
+02 B-date
+- O
+03/01/2019 B-date
+tới O
+7 O
+- O
+eleven O
+sẽ O
+tổ_chức O
+ngày O
+hội O
+tuyển_dụng O
+tại O
+văn_phòng O
+công_ty O
+! O
+
+-DOCSTART- -X- -X- O
+
+giàu O
+dinh_dưỡng O
+combo O
+xôi B-san_pham
+cuộn I-san_pham
++ O
+sữa_đậu_nành B-san_pham
+giảm O
+5k B-muc_giam_gia
+sẵn_sàng O
+" O
+hello O
+" O
+ngày O
+mới O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+khu B-vi_tri
+căn_hộ I-vi_tri
+mỹ_phát I-vi_tri
+, O
+137 B-so_nha
+nguyễn_đức_cảnh B-ten_duong
+, O
+p.tân B-ten_phuong_xa_thitran
+phong I-ten_phuong_xa_thitran
+, O
+q. B-ten_quan_huyen_thanhpho
+7 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+121 B-so_nha
+an_dương_vương B-ten_duong
+, O
+quận B-ten_quan_huyen_thanhpho
+5 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+macchiato_series O
+bao_gồm O
+04 O
+hương_vị O
+trà_sữa B-san_pham
+, O
+yo-cruz B-san_pham
+xoài I-san_pham
+, O
+trà B-san_pham
+lài_mật_ong I-san_pham
+, O
+và O
+cà_phê B-san_pham
+sữa_tươi I-san_pham
+vô_cùng O
+đa_dạng O
+. O
+
+-DOCSTART- -X- -X- O
+
+7 B-vi_tri
+- I-vi_tri
+eleven_central I-vi_tri
+1 I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+hẹn O
+cả O
+nhà O
+vào O
+ngày O
+1/12/2018 B-date
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+danh_sách O
+những O
+cửa_hàng O
+có O
+bán O
+cà_phê B-san_pham
+ý I-san_pham
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+túi B-san_pham
+vải I-san_pham
+dễ_thương O
+không_tưởng O
+. O
+
+-DOCSTART- -X- -X- O
+
+7 B-vi_tri
+- I-vi_tri
+eleven_rivergate I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+hãy O
+chờ O
+đón O
+điều O
+bất_ngờ O
+vào O
+ngày O
+13/3 B-date
+các O
+bạn O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+- O
+trứng B-san_pham
+gà I-san_pham
+ngâm I-san_pham
+gia_vị I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+7 B-vi_tri
+- I-vi_tri
+eleven I-vi_tri
+nguyễn_thị_minh I-vi_tri
+khai I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+vậy O
+là O
+hiện_tại O
+chỉ O
+riêng O
+trên O
+đường O
+cmt8 B-ten_duong
+thôi O
+là O
+đã O
+có O
+4 O
+cửa_hàng O
+của O
+familymart O
+rồi O
+đấy O
+. O
+
+-DOCSTART- -X- -X- O
+
+sau O
+một O
+thời_gian O
+thì O
+bảy O
+đã O
+mang O
+store B-vi_tri
+7 I-vi_tri
+- I-vi_tri
+eleven I-vi_tri
+nguyễn_du I-vi_tri
+trở_lại O
+với O
+các O
+fan O
+rồi_đây O
+! O
+
+-DOCSTART- -X- -X- O
+
+loa O
+loa O
+loa O
+tin_vui O
+cho O
+các O
+fan O
+của O
+cà_phê B-san_pham
+ý I-san_pham
+7 O
+- O
+eleven O
+đây O
+. O
+
+-DOCSTART- -X- -X- O
+
+thực_đơn O
+bánh_bao B-san_pham
+của O
+familymart O
+ngày_càng O
+đa_dạng O
+và O
+phong_phú O
+. O
+
+-DOCSTART- -X- -X- O
+
+sữa_hạt_th_true B-san_pham
+nut I-san_pham
+beo_béo O
+, O
+thơm_lừng O
+hay O
+sữa_trái_cây_nutriboost B-san_pham
+cam I-san_pham
+/ I-san_pham
+dâu I-san_pham
+chua_ngọt O
+, O
+đầy O
+vitamin O
+đang O
+rủ O
+nhau O
+giảm O
+siêu O
+khủng O
+theo O
+thùng O
+kìa O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+201 B-so_nha
+nguyễn_xí B-ten_duong
+, O
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+xèo_xèo O
+món O
+mới O
+: O
+bắp B-san_pham
+xào I-san_pham
+phô_mai I-san_pham
+thơm O
+nồng O
+khó O
+cưỡng O
+giá O
+chỉ O
+25 B-gia_san_pham
+k I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+chiếc O
+máy O
+kì_diệu O
+này O
+sẽ O
+biến O
+một O
+chai O
+coca B-san_pham
+cực O
+lạnh O
+thành O
+một O
+thức O
+uống O
+sền_sệt O
+chỉ O
+trong O
+vài O
+giây O
+, O
+mang O
+đến O
+trải_nghiệm O
+bất_ngờ O
+và O
+đầy O
+thú_vị O
+cho O
+những O
+người O
+hâm_mộ O
+coca_cola B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+thử O
+ngay O
+gà B-san_pham
+xiên_que I-san_pham
+hoặc O
+má B-san_pham
+đùi_gà_chiên_giòn I-san_pham
+nhà O
+bảy O
+nào O
+. O
+
+-DOCSTART- -X- -X- O
+
+thời_gian O
+áp_dụng O
+đến O
+31/12/2018 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+nhân_dịp O
+này O
+, O
+grab O
+dành O
+tặng O
+riêng O
+cho O
+các O
+fan O
+của O
+7 O
+- O
+eleven O
+ưu_đãi O
+30% B-muc_giam_gia
+trên O
+mỗi O
+đơn O
+hàng O
+( O
+tối_đa O
+50,000 B-muc_giam_gia
+đ I-muc_giam_gia
+) O
+khi O
+nhập O
+mã O
+7eleven O
+từ O
+ngày O
+23/1 B-date
+- O
+5/2/2019 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+sandwich B-san_pham
+7 O
+- O
+eleven O
+nay O
+đã O
+cải_tiến O
+công_thức O
+, O
+thơm O
+ngon O
+, O
+hấp_dẫn O
+hơn O
+. O
+
+-DOCSTART- -X- -X- O
+
+không O
+sợ O
+kem O
+tan O
+với O
+túi B-san_pham
+giữ I-san_pham
+nhiệt I-san_pham
+tặng O
+kèm O
+khi O
+mua O
+5 O
+kem B-san_pham
+kido I-san_pham
+cùng O
+loại O
+. O
+
+-DOCSTART- -X- -X- O
+
+không O
+hổ_danh O
+là O
+món O
+kẹo B-san_pham
+" O
+thần_thánh O
+" O
+được O
+cả O
+nhà O
+săn_lùng O
+dữ_dội O
+. O
+
+-DOCSTART- -X- -X- O
+
+sandwich B-san_pham
+luôn O
+là O
+" O
+best O
+seller O
+" O
+tại O
+7 O
+- O
+eleven O
+vì O
+độ O
+tiện_lợi O
+mà O
+vẫn O
+cung_cấp O
+đầy_đủ O
+chất O
+dinh_dưỡng O
+cho O
+bữa O
+sáng O
+. O
+
+-DOCSTART- -X- -X- O
+
+giá O
+: O
+18.000 B-gia_san_pham
+đ I-gia_san_pham
+
+-DOCSTART- -X- -X- O
+
+- O
+bánh_giò B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+mời O
+cả O
+nhà O
+tham_khảo O
+thực_đơn O
+mỳ_ý B-san_pham
+trưa O
+nay O
+ạ O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+bắp B-san_pham
+cắt I-san_pham
+khúc I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+giá O
+: O
+16.000 B-gia_san_pham
+đ I-gia_san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+cùng O
+chờ_đợi O
+sự O
+ra_mắt O
+của O
+cơm_năm_thanh_cua B-san_pham
+mayo I-san_pham
+và O
+cơm_nắm_cá_ngừ B-san_pham
+mayo I-san_pham
+nhé O
+. O
+
+-DOCSTART- -X- -X- O
+
+nhân_dịp O
+kỉ_niệm O
+4 O
+năm O
+7 O
+- O
+eleven O
+tại O
+việt_nam O
+và O
+mục_tiêu O
+hướng O
+đến O
+không_gian O
+mua_sắm O
+tiện_lợi O
+và O
+an_toàn O
+, O
+bảy O
+cùng O
+shopeepay O
+tung O
+chiếc O
+deal O
+hoàn_tiền O
+50% B-muc_giam_gia
+dành O
+riêng O
+cho O
+các O
+khách_hàng O
+khi O
+thanh_toán O
+tại O
+7 O
+- O
+eleven O
+. O
+
+-DOCSTART- -X- -X- O
+
+bạn O
+ở O
+xa O
+quê O
+nhớ O
+món O
+ăn O
+vị O
+bắc O
+hay O
+đơn_giản O
+chỉ O
+muốn O
+thử O
+hương_vị O
+mới_lạ O
+thì O
+không_thể O
+bỏ_qua O
+món O
+miến_măng_gà B-san_pham
+- O
+mới O
+lên O
+kệ O
+ngày O
+hôm_nay O
+tại O
+7 O
+- O
+eleven O
+nha O
+️ O
+. O
+
+-DOCSTART- -X- -X- O
+
+bò_bía B-san_pham
+đã O
+trở_lại O
+cả O
+nhà O
+ơiii O
+. O
+
+-DOCSTART- -X- -X- O
+
+tặng_trà B-san_pham
+7 O
+- O
+eleven O
+khi O
+mua O
+món O
+hấp O
+bất_kì O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+14b9 B-so_nha
+ngô_tất_tố B-ten_duong
+, O
+quận B-ten_quan_huyen_thanhpho
+bình_thạnh I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+ăn O
+ngon O
+, O
+uống O
+mát O
+khi O
+mua O
+2 O
+bánh_mì B-san_pham
+que I-san_pham
+bất_kì O
+- O
+tặng O
+trà B-san_pham
+tắc I-san_pham
+ly I-san_pham
+vừa I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+ngày O
+27/07 B-date
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+burger B-san_pham
+bò I-san_pham
+nấm I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+combo O
+" O
+ngon-bổ-rẻ-giao O
+tận O
+nơi O
+" O
+bánh_mì B-san_pham
+trứng_ốp_la I-san_pham
+và O
+nước B-san_pham
+aquafina I-san_pham
+luôn O
+sẵn_sàng O
+để O
+phục_vụ O
+cả O
+nhà O
+. O
+
+-DOCSTART- -X- -X- O
+
+gỏi_cuốn_tôm_thịt B-san_pham
+. I-san_pham
+
+-DOCSTART- -X- -X- O
+
+đấy O
+chính O
+là O
+món O
+sashimi B-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+ưu_đãi O
+đặc_biệt O
+khi O
+mua O
+01 O
+cơm_hộp B-san_pham
+bất_kỳ O
+kết_hợp O
+với O
+tea B-san_pham
++ I-san_pham
+plus_oolong I-san_pham
+hoặc O
+tea B-san_pham
++ I-san_pham
+plus_matcha I-san_pham
+445ml I-san_pham
+sẽ O
+được O
+ngay O
+3.000 B-muc_giam_gia
+đ I-muc_giam_gia
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+134 B-so_nha
+pasteur B-ten_duong
+, O
+p.bến B-ten_phuong_xa_thitran
+nghé I-ten_phuong_xa_thitran
+, O
+q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+145 B-so_nha
+nguyễn_đình_chiểu B-ten_duong
+, O
+quận B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+7 B-vi_tri
+- I-vi_tri
+eleven_saigon_pearl I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+chả_lụa B-san_pham
+que_bì I-san_pham
+giòn O
+sừn_sựt O
+, O
+đậm_đà O
+mà O
+nhâm_nhi O
+cùng O
+mấy O
+lon O
+nước B-san_pham
+trái_cây I-san_pham
+lên_men I-san_pham
+strongbow I-san_pham
+mát O
+lạnh O
+thì O
+còn O
+gì O
+bằng O
+. O
+
+-DOCSTART- -X- -X- O
+
+vậy O
+bạn O
+có O
+biết O
+sandwich B-san_pham
+đến O
+từ O
+đâu O
+? O
+
+-DOCSTART- -X- -X- O
+
+pack B-san_pham
+6 I-san_pham
+lon_pepsi I-san_pham
+330ml I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+không O
+cần O
+phải O
+nghĩ O
+thêm O
+nữa O
+, O
+những O
+thanh O
+kitkat B-san_pham
+ngọt_ngào O
+chắc_chắn O
+sẽ O
+khiến O
+các O
+bé O
+thích O
+mê O
+cho O
+xem O
+. O
+
+-DOCSTART- -X- -X- O
+
+nay O
+còn O
+hot O
+hơn O
+ngàn O
+lần O
+khi O
+có O
+cơ_hội O
+trúng O
+loa B-san_pham
+jbl I-san_pham
+“ O
+đỉnh O
+kout O
+” O
+cho O
+top O
+7 O
+khách_hàng O
+với O
+điểm O
+tích_luỹ O
+mua O
+kem B-san_pham
+cao O
+nhất O
+. O
+
+-DOCSTART- -X- -X- O
+
+giảm O
+40% B-muc_giam_gia
+khi O
+mua O
+6 O
+lon B-san_pham
+pepsi I-san_pham
+330ml I-san_pham
+hoặc O
+6 O
+chai B-san_pham
+pepsi I-san_pham
+390ml I-san_pham
+hoặc O
+2 O
+chai B-san_pham
+1.5 I-san_pham
+l I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+17k B-gia_san_pham
+. O
+chờ O
+gì O
+nữa O
+, O
+mau O
+đến O
+7 O
+- O
+eleven O
+thử O
+ngay O
+món O
+cơm O
+hấp_dẫn O
+này O
+nào O
+. O
+
+-DOCSTART- -X- -X- O
+
+familymart O
+chào_mừng O
+cửa_hàng O
+tiếp_theo O
+khai_trương O
+tại O
+số O
+133 B-so_nha
+trần_đình_xu B-ten_duong
+, O
+p.nguyễn B-ten_phuong_xa_thitran
+cư_trinh I-ten_phuong_xa_thitran
+, O
+q. B-ten_quan_huyen_thanhpho
+1 I-ten_quan_huyen_thanhpho
+vào O
+9h O
+sáng O
+ngày_mai O
+( O
+27/3 B-date
+) O
+. O
+
+-DOCSTART- -X- -X- O
+
+7 B-vi_tri
+- I-vi_tri
+eleven_saigon_pearl I-vi_tri
+. O
+
+-DOCSTART- -X- -X- O
+
+mì_ý B-san_pham
+hải_sản I-san_pham
+và I-san_pham
+xốt I-san_pham
+rượu_vang I-san_pham
+– O
+“ O
+cặp O
+đôi O
+” O
+tuyệt_đỉnh O
+mang O
+đậm O
+vị O
+châu_âu O
+nay O
+đã O
+có_mặt O
+tại O
+familymart O
+với O
+giá O
+vô_cùng O
+" O
+hạt_dẻ O
+" O
+. O
+
+-DOCSTART- -X- -X- O
+
+đặc_biệt O
+, O
+set B-san_pham
+gà I-san_pham
+4 I-san_pham
+viên I-san_pham
+chỉ O
+có_giá O
+20.000 B-gia_san_pham
+đồng I-gia_san_pham
+thôi O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+- O
+danh_sách O
+tham_quan O
+vineco_long_thành B-vi_tri
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+giảm O
+5,000 B-muc_giam_gia
+đ I-muc_giam_gia
+cho O
+sữa_lactasoy_socola B-san_pham
+hoặc O
+trà B-san_pham
+xanh I-san_pham
+khi O
+mua O
+sandwich B-san_pham
+bất_kì O
+. O
+
+-DOCSTART- -X- -X- O
+
+đến O
+7 O
+- O
+eleven O
+và O
+nhận O
+ngay O
+1 O
+ly O
+trà B-san_pham
+sữa I-san_pham
+miễn_phí O
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+bánh_bao B-san_pham
+trứng_cút_trứng_muối I-san_pham
+. O
+
+-DOCSTART- -X- -X- O
+
+- O
+thời_gian O
+diễn O
+ra O
+từ O
+ngày O
+: O
+15 B-date
+- O
+25/06/2021 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+tới O
+ngay O
+7 B-vi_tri
+- I-vi_tri
+eleven_the_lancaster I-vi_tri
+thử O
+cà_phê B-san_pham
+ý I-san_pham
+nào O
+. O
+
+-DOCSTART- -X- -X- O
+
+26/06/2021 B-date
+. O
+- O
+trong O
+mọi O
+trường_hợp O
+xảy O
+ra O
+, O
+ban O
+tổ_chức O
+là O
+người O
+quyết_định O
+cuối_cùng O
+. O
+
+-DOCSTART- -X- -X- O
+
+sandwich B-san_pham
+7 O
+- O
+eleven O
+mới O
+cải_tiến O
+công_thức O
+, O
+thơm O
+ngon O
+hơn O
+, O
+giá O
+còn O
+hấp_dẫn O
+hơn_nữa O
+. O
+
+-DOCSTART- -X- -X- O
+
+nhận O
+ngay O
+voucher O
+lên O
+đến O
+30% B-muc_giam_gia
+chỉ O
+với O
+100 O
+điểm O
+trên O
+7 O
+rewards O
+! O
+
+-DOCSTART- -X- -X- O
+
++ O
+trung_tâm B-vi_tri
+văn_hoá I-vi_tri
+tp. I-vi_tri
+hcm I-vi_tri
+- O
+97 B-so_nha
+nguyễn_thị_minh_khai B-ten_duong
+, O
+phường B-ten_phuong_xa_thitran
+5 I-ten_phuong_xa_thitran
+, O
+quận B-ten_quan_huyen_thanhpho
+3 I-ten_quan_huyen_thanhpho
+. O
+
+-DOCSTART- -X- -X- O
+
+đừng O
+lo O
+vì O
+combo_bánh_mì_ốp B-san_pham
+la I-san_pham
+2 I-san_pham
+trứng I-san_pham
+và O
+aquafina B-san_pham
+luôn O
+sẵn_sàng O
+để O
+giao O
+tới O
+bạn O
+qua O
+grabfood O
+đặt O
+ngay O
+nhé O
+! O
+
+-DOCSTART- -X- -X- O
+
+slurpee B-san_pham
+đã O
+trở_lại O
+mang O
+theo O
+2 O
+vị O
+mới O
+, O
+dâu_tươi O
+và O
+nho_tím O
+. O
+
+-DOCSTART- -X- -X- O
+
+áp_dụng O
+từ O
+11/2 B-date
+- O
+24/2/2019 B-date
+. O
+
+-DOCSTART- -X- -X- O
+
+giá O
+: O
+25.000 B-gia_san_pham
+đ I-gia_san_pham
+
+-DOCSTART- -X- -X- O
+
+bạn O
+đã O
+thử O
+trà B-san_pham
+sữa I-san_pham
+" O
+thần_thánh O
+" O
+7 O
+- O
+eleven O
+chưa O
+? O
+
+-DOCSTART- -X- -X- O
+
+danh_sách O
+những O
+cửa_hàng O
+có O
+bán O
+cà_phê B-san_pham
+ý I-san_pham
+️️ O
+. O
+
+-DOCSTART- -X- -X- O
+
+bánh_macaron B-san_pham
+sẽ O
+có_mặt O
+tại O
+familymart O
+từ O
+ngày O
+24.2 B-date
+ở O
+4 O
+cửa_hàng O
+sau O
+nhé O
+các O
+bạn O
+: O
+. O
+
+-DOCSTART- -X- -X- O
+
+với O
+mùi_vị O
+vô_cùng O
+thơm O
+ngon O
+, O
+những O
+chai O
+sữa B-san_pham
+trái_cây I-san_pham
+và O
+trà B-san_pham
+hạt I-san_pham
+chia I-san_pham
+đến O
+từ O
+coca-cola B-san_pham
+không_những O
+giúp O
+bổ_sung O
+vitamin O
+và O
+những O
+khoáng_chất O
+cần_thiết O
+mà_còn O
+“ O
+đập_tan O
+” O
+cơn O
+khát O
+, O
+“ O
+xua_tan O
+” O
+cảm_giác O
+mệt_mỏi O
+, O
+đem O
+lại_sức O
+sống O
+tràn_đầy O
+cho O
+ngày O
+dài O
+năng_động O
+. O
+
+-DOCSTART- -X- -X- O
+
+thêm O
+ưu_đãi O
+giảm O
+hẳn O
+10k B-muc_giam_gia
+khi O
+mua O
+yo-cruz B-san_pham
+bất_kì O
+nữa O
+thì O
+ôi_thôi O
+phải O
+ghé O
+bảy O
+liền O
+nào O
+. O
+
+-DOCSTART- -X- -X- O
+
+ghé O
+ngay O
+7 O
+- O
+eleven O
+săn O
+bình_nước_valentine B-san_pham
+siêu O
+" O
+độc O
+" O
+chỉ O
+với O
+3 O
+hộp O
+yomost B-san_pham
+170ml I-san_pham
+bất_kì O
+. O
+
+-DOCSTART- -X- -X- O
+
+món O
+mới O
+: O
+bún B-san_pham
+thái I-san_pham
+/ O
+mì B-san_pham
+trộn I-san_pham
+sốt I-san_pham
+thái I-san_pham
+chuẩn O
+vị O
+" O
+xứ_chùa_vàng O
+" O
+. O
+
+-DOCSTART- -X- -X- O
+
+30/06/2021 B-date
+. O
+ghé_bảy O
+mua O
+ngay O
+hoặc O
+đặt O
+trên O
+7now O
+để O
+trữ O
+vài O
+chiếc O
+combo O
+tha_hồ O
+lai_rai O
+hết O
+mùa O
+bóng O
+này O
+luôn O
+nhe O
+. O
+
+-DOCSTART- -X- -X- O
+
+đặc_biệt O
+, O
+trong O
+ngay O
+tuần O
+đầu_tiên O
+khi O
+mua O
+sản_phẩm O
+, O
+bạn O
+sẽ O
+được O
+giảm O
+liền O
+2,000 B-muc_giam_gia
+đ I-muc_giam_gia
+nữa O
+nha O
+! O
+
+-DOCSTART- -X- -X- O
+
+bên O
+cạnh O
+đó O
+, O
+ăn O
+kèm O
+với O
+gà B-san_pham
+karaage I-san_pham
+- O
+gà O
+chiên O
+được O
+ướp O
+và O
+chế_biến O
+theo O
+kiểu O
+nhật O
+chắc_hẳn O
+bạn O
+sẽ O
+không_thể O
+làm_lơ O
+được O
+đâu O
+nha O
+! O
