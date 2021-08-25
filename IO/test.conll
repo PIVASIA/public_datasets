@@ -1,5 +1,3 @@
--DOCSTART- -X- -X- O
-
 CHỈ O
 VỚI O
 2,5 O
@@ -8,8 +6,8 @@ SỞ_HỮU O
 NGAY O
 CĂN O
 2PN O
-TIMES B-NAME_PROJECT
-CITY I-NAME_PROJECT
+TIMES NAME_PROJECT
+CITY NAME_PROJECT
 Căn_hộ O
 2PN O
 Times_City O
@@ -29,10 +27,8 @@ bếp O
 WC O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-New_City B-NAME_PROJECT
+New_City NAME_PROJECT
 ở O
 Mai_Chí_Thọ O
 ngay O
@@ -48,10 +44,8 @@ căn O
 ngay O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-SaiGon_Riverside_Complex B-NAME_PROJECT
+SaiGon_Riverside_Complex NAME_PROJECT
 của O
 Hưng_Thịnh O
 sở_hữu O
@@ -72,8 +66,8 @@ phút O
 đến O
 Lote_Mart O
 và O
-SC B-NAME_PROJECT
-Vivo_City I-NAME_PROJECT
+SC NAME_PROJECT
+Vivo_City NAME_PROJECT
 . O
 15 O
 phút O
@@ -105,21 +99,17 @@ tài_chính O
 Phú_Mỹ_Hưng O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Mã O
 căn O
 : O
-B10 B-NUMBER_DEPARTMENT
+B10 NUMBER_DEPARTMENT
 - O
 Diện_tích O
 : O
 50,7 O
 m2 O
 . O
-
--DOCSTART- -X- -X- O
 
 Còn O
 70% O
@@ -144,7 +134,7 @@ xây_dựng O
 chỉ O
 20,7% O
 , O
-Eco_Lake_View B-NAME_PROJECT
+Eco_Lake_View NAME_PROJECT
 dành O
 nhiều O
 không_gian O
@@ -156,15 +146,13 @@ nội O
 khu O
 . O
 
--DOCSTART- -X- -X- O
-
 Gia_đình O
 có O
 suất O
 ngoại_giao O
 của O
 dự_án O
-Sunshine_Garden B-NAME_PROJECT
+Sunshine_Garden NAME_PROJECT
 giảm_giá O
 CK O
 lên O
@@ -179,8 +167,6 @@ sau O
 tết O
 2020 O
 . O
-
--DOCSTART- -X- -X- O
 
 Chuyển O
 công_tác O
@@ -199,7 +185,7 @@ giá O
 3,4 O
 tỷ O
 dự_án O
-Kosmo B-NAME_PROJECT
+Kosmo NAME_PROJECT
 ị O
 trí O
 : O
@@ -247,8 +233,6 @@ Newtatco O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Do O
 gia_đình O
 sắp O
@@ -268,7 +252,7 @@ số O
 tầng O
 19 O
 khu O
-Tràng_An_Complex B-NAME_PROJECT
+Tràng_An_Complex NAME_PROJECT
 - O
 Số O
 1 O
@@ -276,8 +260,6 @@ Phùng_Chí_Kiên O
 , O
 Cầu_Giấy O
 . O
-
--DOCSTART- -X- -X- O
 
 + O
 Chủ O
@@ -306,13 +288,13 @@ các O
 dự_án O
 như O
 : O
-Rice_City_Linh_Đàm B-NAME_PROJECT
+Rice_City_Linh_Đàm NAME_PROJECT
 ( O
 Toà_Bắc_Toà_Trung O
 Toà_Nam O
 ) O
 , O
-Rice_City_Sông_Hồng B-NAME_PROJECT
+Rice_City_Sông_Hồng NAME_PROJECT
 và O
 các O
 dự_án O
@@ -326,10 +308,8 @@ Dreamland_Hồ_Tây O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Toà O
-R3 B-NAME_BUILDING
+R3 NAME_BUILDING
 - O
 Diện_tích O
 99.32 O
@@ -370,14 +350,12 @@ HĐMB O
 3 O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 văn O
 hộ O
 tại O
 dự_án O
-Sky_Center_Phổ_Quang B-NAME_PROJECT
+Sky_Center_Phổ_Quang NAME_PROJECT
 , O
 3 O
 phòng O
@@ -392,10 +370,8 @@ ful O
 nội_thất O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Bảy_Hiền B-NAME_PROJECT
+Bảy_Hiền NAME_PROJECT
 nội_thất O
 rất O
 cao_cấp O
@@ -414,14 +390,11 @@ tử O
 triệu O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 gấp O
 căn_hộ O
-Vinhomes B-NAME_PROJECT
-Smart I-NAME_PROJECT
-City I-NAME_PROJECT
+Vinhomes Smart NAME_PROJECT
+City NAME_PROJECT
 3PNGia O
 đình O
 cần O
@@ -453,8 +426,7 @@ hợp_đồng O
 là O
 gần O
 200 O
-triệu O
-Giá O
+triệu Giá O
 trên O
 hợp_đồng O
 là O
@@ -491,13 +463,11 @@ nội O
 khu O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn O
 3PN O
 toà O
-S2 B-NAME_BUILDING
-Goldmark_City B-NAME_BUILDING
+S2 NAME_BUILDING
+Goldmark_City NAME_BUILDING
 Hồ_Tùng_Mậu O
 siêu O
 chiết_khấu O
@@ -505,15 +475,13 @@ khủng O
 17,99% O
 . O
 
--DOCSTART- -X- -X- O
-
 0931467772 O
 . O
 Căn_hộ O
 giá O
 tốt O
 tại O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 được O
 xây_dựng O
 bởi O
@@ -545,8 +513,6 @@ hiện_đại O
 tiện_nghi O
 . O
 
--DOCSTART- -X- -X- O
-
 CHỦ O
 NHÀ O
 KẸT O
@@ -555,8 +521,8 @@ GỬI O
 BÁN O
 CÁC O
 CĂN O
-TOPAZ B-NAME_PROJECT
-ELITE I-NAME_PROJECT
+TOPAZ NAME_PROJECT
+ELITE NAME_PROJECT
 2 O
 PN O
 / O
@@ -572,15 +538,13 @@ VIEW O
 THOÁNG O
 . O
 
--DOCSTART- -X- -X- O
-
 SANG_NHƯỢNG O
 49 O
 CĂN O
 KÝ_GỬI O
 PHÂN_KHU O
-DIAMOND B-NAME_PROJECT
-ALNATA I-NAME_PROJECT
+DIAMOND NAME_PROJECT
+ALNATA NAME_PROJECT
 , O
 HỖ_TRỢ O
 TÌM O
@@ -588,8 +552,6 @@ CĂN_HỘ O
 THEO O
 NHU_CẦU O
 . O
-
--DOCSTART- -X- -X- O
 
 Căn O
 04 O
@@ -612,8 +574,8 @@ giá O
 3.4 O
 - O
 3.6 O
-tỷ.T B-NAME_BUILDING
-5 I-NAME_BUILDING
+tỷ. O
+T5 NAME_BUILDING
 : O
 Căn O
 04 O
@@ -659,20 +621,20 @@ các O
 vị_trí O
 : O
 Block O
-A B-NAME_BUILDING
+A NAME_BUILDING
 , O
-B B-NAME_BUILDING
+B NAME_BUILDING
 , O
 toà O
-T1 B-NAME_BUILDING
+T1 NAME_BUILDING
 , O
-T2 B-NAME_BUILDING
+T2 NAME_BUILDING
 , O
-T3 B-NAME_BUILDING
+T3 NAME_BUILDING
 , O
-T4 B-NAME_BUILDING
+T4 NAME_BUILDING
 , O
-T5 B-NAME_BUILDING
+T5 NAME_BUILDING
 , O
 căn O
 2 O
@@ -688,14 +650,12 @@ căn O
 12 O
 . O
 
--DOCSTART- -X- -X- O
-
 Chỉ O
 cần O
 700tr O
 sở_hữu O
 căn_hộ O
-Goldora_Plaza B-NAME_PROJECT
+Goldora_Plaza NAME_PROJECT
 , O
 nhận O
 nhà O
@@ -712,13 +672,11 @@ Lotemart.Q O
 7 O
 . O
 
--DOCSTART- -X- -X- O
-
 BÁN O
 NHIỀU O
 CĂN_HỘ O
-DIAMOND B-NAME_PROJECT
-RIVERSIDE I-NAME_PROJECT
+DIAMOND NAME_PROJECT
+RIVERSIDE NAME_PROJECT
 GIÁ O
 2 O
 PHÒNG O
@@ -733,16 +691,14 @@ TỪ O
 TỶ O
 . O
 
--DOCSTART- -X- -X- O
-
 Mở O
 bán O
 Block O
 view O
 sông O
-Q7 B-NAME_PROJECT
-SAIGON I-NAME_PROJECT
-RIVERSIDE I-NAME_PROJECT
+Q7 NAME_PROJECT
+SAIGON NAME_PROJECT
+RIVERSIDE NAME_PROJECT
 chỉ O
 1 O
 tỷ O
@@ -758,8 +714,6 @@ Ck O
 3-18% O
 . O
 
--DOCSTART- -X- -X- O
-
 Chào O
 anh_chị O
 xem O
@@ -774,7 +728,7 @@ các O
 căn_hộ O
 tại O
 chung_cư O
-The_Park_Residence B-NAME_PROJECT
+The_Park_Residence NAME_PROJECT
 như O
 sau O
 : O
@@ -788,15 +742,13 @@ tr O
 tháng O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 2 O
 PN O
 - O
-B. B-NUMBER_DEPARTMENT
-07 I-NUMBER_DEPARTMENT
+B. NUMBER_DEPARTMENT
+07 NUMBER_DEPARTMENT
 tầng O
 cao O
 , O
@@ -806,7 +758,7 @@ sông O
 67,91 O
 m2 O
 dự_án O
-Aurora_Riverside B-NAME_PROJECT
+Aurora_Riverside NAME_PROJECT
 Quận O
 8 O
 , O
@@ -816,8 +768,6 @@ T O
 4/2021 O
 . O
 
--DOCSTART- -X- -X- O
-
 Ngắm O
 trọn O
 đường_đua O
@@ -826,20 +776,16 @@ với O
 căn_hộ O
 hạng O
 sang O
-Mỹ_Đình_Pearl B-NAME_PROJECT
+Mỹ_Đình_Pearl NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Cần O
 cho O
 thuê O
 căn_hộ O
 cao_cấp O
-Diamond_Lotus_Riverside B-NAME_PROJECT
+Diamond_Lotus_Riverside NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 CHÍNH O
 CHỦ O
@@ -852,8 +798,8 @@ N-3 O
 N-4 O
 N O
 - O
-IMPERIA B-NAME_PROJECT
-GARDEN I-NAME_PROJECT
+IMPERIA NAME_PROJECT
+GARDEN NAME_PROJECT
 - O
 203 O
 NGUYÊN O
@@ -863,8 +809,6 @@ TƯỞNG O
 HÀ_NỘI O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 chung_cư O
 kim O
@@ -872,28 +816,24 @@ văn O
 kim O
 lũ O
 toà O
-CT B-NAME_BUILDING
-12 I-NAME_BUILDING
-A I-NAME_BUILDING
-, I-NAME_BUILDING
-B I-NAME_BUILDING
-, I-NAME_BUILDING
-C I-NAME_BUILDING
+CT NAME_BUILDING
+12 NAME_BUILDING
+A NAME_BUILDING
+, NAME_BUILDING
+B NAME_BUILDING
+, NAME_BUILDING
+C NAME_BUILDING
 giá O
 rẻ O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
-Tera_Royal B-NAME_PROJECT
+Tera_Royal NAME_PROJECT
 - O
 Quận O
 3 O
 . O
-
--DOCSTART- -X- -X- O
 
 Nay O
 khách O
@@ -901,34 +841,32 @@ thân O
 cần O
 bán O
 căn_hộ O
-C08 B-NUMBER_DEPARTMENT
+C08 NUMBER_DEPARTMENT
 tầng O
 17 O
-View O
+ View O
 toà O
 nhà O
-Land_Mark B-NAME_BUILDING
+Land_Mark NAME_BUILDING
 như O
 sau.Mã O
 Căn O
 : O
-C08 B-NUMBER_DEPARTMENT
+C08 NUMBER_DEPARTMENT
 tầng O
 17 O
 ( O
 Mã_Căn O
-C B-NUMBER_DEPARTMENT
-17.08 I-NUMBER_DEPARTMENT
+C NUMBER_DEPARTMENT
+17.08 NUMBER_DEPARTMENT
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
-hoàng_anh B-NAME_PROJECT
-an I-NAME_PROJECT
-tiến I-NAME_PROJECT
+hoàng_anh NAME_PROJECT
+an NAME_PROJECT
+tiến NAME_PROJECT
 t O
 , O
 công_viên O
@@ -947,22 +885,20 @@ nội_thất O
 cao_cấp O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 2 O
 phòng O
 ngủ O
 tại O
 chung_cư_cư O
-Athena_Complex B-NAME_PROJECT
+Athena_Complex NAME_PROJECT
 , O
 Phương_Canh_Cho O
 thuê O
 căn_hộ O
 chung_cư O
-Athena_Complex_Bộ_Công B-NAME_PROJECT
-An I-NAME_PROJECT
+Athena_Complex_Bộ_Công NAME_PROJECT
+An NAME_PROJECT
 , O
 đường O
 70 O
@@ -973,8 +909,8 @@ Từ_Liêm O
 Địa_chỉ O
 : O
 Chung_cư O
-Athena_Complex_Bộ_Công B-NAME_PROJECT
-An I-NAME_PROJECT
+Athena_Complex_Bộ_Công NAME_PROJECT
+An NAME_PROJECT
 , O
 đường O
 70 O
@@ -986,11 +922,9 @@ Diện_tích O
 căn_hộ O
 : O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Q7 B-NAME_PROJECT
-Saigon_Riverside_Complex I-NAME_PROJECT
+Q7 NAME_PROJECT
+Saigon_Riverside_Complex NAME_PROJECT
 - O
 Căn_hộ O
 view O
@@ -1005,8 +939,6 @@ lớn O
 nhất O
 Sài_Gòn O
 . O
-
--DOCSTART- -X- -X- O
 
 Cơ_hội O
 Đầu_Tư O
@@ -1023,7 +955,7 @@ khi O
 thành_công O
 hai O
 dự_án O
-Bcons_Suối_Tiên B-NAME_PROJECT
+Bcons_Suối_Tiên NAME_PROJECT
 ( O
 bàn_giao O
 nhà O
@@ -1033,7 +965,7 @@ tiến_độ O
 tháng O
 ) O
 và O
-Bcons_Miền_Đông B-NAME_PROJECT
+Bcons_Miền_Đông NAME_PROJECT
 ( O
 đã O
 cất O
@@ -1051,7 +983,7 @@ Bcons O
 tiếp_tục O
 phát_triển O
 Dự_án O
-Bcons_Garden B-NAME_PROJECT
+Bcons_Garden NAME_PROJECT
 - O
 liền O
 kề O
@@ -1068,9 +1000,7 @@ căn O
 PN O
 . O
 
--DOCSTART- -X- -X- O
-
-Charm_Resort_Long_Hải B-NAME_PROJECT
+Charm_Resort_Long_Hải NAME_PROJECT
 - O
 đẳng_cấp O
 5 O
@@ -1079,8 +1009,6 @@ giữa O
 lòng O
 Long_Hải O
 . O
-
--DOCSTART- -X- -X- O
 
 Thông_tin O
 mới O
@@ -1091,28 +1019,27 @@ thuê O
 - O
 chuyển_nhượng O
 căn_hộ O
-Riva_Park B-NAME_PROJECT
+Riva_Park NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Chính O
 Chủ O
-Bán_Căn_Hộ_Chung O
-Cư_Newtatco B-NAME_PROJECT
-Lai_Xá I-NAME_PROJECT
+Bán O
+Căn_Hộ O
+Chung_Cư O
+Newtatco NAME_PROJECT
+Lai_Xá NAME_PROJECT
 , O
 Hoài_Đức O
 , O
 Hà_Nội O
 , O
-Toà_Nhà_Ct O
-2 O
+Toà_Nhà O
+Ct NAME_BUILDING
+2 NAME_BUILDING
 . O
 
--DOCSTART- -X- -X- O
-
-The_Botanica B-NAME_PROJECT
+The_Botanica NAME_PROJECT
 căn O
 góc O
 3PN O
@@ -1143,25 +1070,21 @@ vô_cùng O
 thông_thoáng O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_Hộ O
-Valeo_Đầm_Sen B-NAME_PROJECT
+Valeo_Đầm_Sen NAME_PROJECT
 2pn O
 Ful O
 nội_thất O
 0938.648.622 O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Căn O
 góc O
 Đông_Nam O
 toà O
-Park B-NAME_BUILDING
-9 I-NAME_BUILDING
+Park NAME_BUILDING
+9 NAME_BUILDING
 , O
 giá O
 5,6 O
@@ -1174,8 +1097,6 @@ phí O
 đồ O
 đẹp O
 . O
-
--DOCSTART- -X- -X- O
 
 Cách O
 cao_tốc O
@@ -1201,10 +1122,8 @@ dự_án O
 khu O
 dân_cư O
 trí_thức O
-Sunvaley B-NAME_PROJECT
+Sunvaley NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Căn_hộ O
 PenHouse O
@@ -1216,9 +1135,9 @@ tiện_nghi O
 PN-4 O
 WC O
 , O
-Liền B-NAME_PROJECT
-kề I-NAME_PROJECT
-Phú_Mỹ_Hưng I-NAME_PROJECT
+Liền NAME_PROJECT
+kề NAME_PROJECT
+Phú_Mỹ_Hưng NAME_PROJECT
 Lh O
 : O
 0938 O
@@ -1226,14 +1145,12 @@ Lh O
 850 O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
 124m2 O
 giá O
 4.9 O
 tỷ.Khu O
-Central B-NAME_BUILDING
+Central NAME_BUILDING
 : O
 + O
 76m2 O
@@ -1242,12 +1159,11 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 vì_vậy O
 căn O
-hộTopaz_Garden_Tân_Phú B-NAME_PROJECT
+hộ O
+Topaz_Garden_Tân_Phú NAME_PROJECT
 giá O
 rẻ O
 chỉ O
@@ -1264,8 +1180,6 @@ nhiều O
 khách_hàng O
 quan_tâm O
 . O
-
--DOCSTART- -X- -X- O
 
 Phòng O
 pháp_lý O
@@ -1310,14 +1224,12 @@ thuê O
 , O
 cầm_cố O
 tại O
-Vinhomes_Park_Hil B-NAME_PROJECT
-- I-NAME_PROJECT
-Times_City I-NAME_PROJECT
+Vinhomes_Park_Hil NAME_PROJECT
+- NAME_PROJECT
+Times_City NAME_PROJECT
 như O
 sau O
 : O
-
--DOCSTART- -X- -X- O
 
 - O
 Chỉ O
@@ -1338,16 +1250,14 @@ chất_lượng O
 sao O
 tại O
 dự_án O
-Citadines_Marina_Hạ_Long B-NAME_PROJECT
+Citadines_Marina_Hạ_Long NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 CẬP_NHẬT O
 GIỎ O
 HÀNG O
-TOPAZ B-NAME_PROJECT
-ELITE I-NAME_PROJECT
+TOPAZ NAME_PROJECT
+ELITE NAME_PROJECT
 MỚI O
 CAM_KẾT O
 GIÁ O
@@ -1360,13 +1270,11 @@ CĂN O
 2PN O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 gấp O
 căn O
-Eco_Gren B-NAME_PROJECT
+Eco_Gren NAME_PROJECT
 2 O
 pn O
 , O
@@ -1392,19 +1300,15 @@ cây O
 vàng O
 . O
 
--DOCSTART- -X- -X- O
-
 BÁN O
 CĂN_HỘ O
 3PN O
 +1 O
-ĐẢO B-NAME_PROJECT
-KIM_CƯƠNG I-NAME_PROJECT
+ĐẢO NAME_PROJECT
+KIM_CƯƠNG NAME_PROJECT
 QUẬN O
 2 O
 . O
-
--DOCSTART- -X- -X- O
 
 Tên O
 phân_khu O
@@ -1415,18 +1319,16 @@ block O
 / O
 tháp O
 : O
-A B-NAME_BUILDING
+A NAME_BUILDING
 Tầng O
 số O
 : O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 cao_cấp O
-Botanica B-NAME_PROJECT
-Premier-Novaland I-NAME_PROJECT
+Botanica NAME_PROJECT
+Premier-Novaland NAME_PROJECT
 gần O
 sân_bay O
 , O
@@ -1441,10 +1343,8 @@ view O
 thoáng O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Masteri_An_Phú B-NAME_PROJECT
+Masteri_An_Phú NAME_PROJECT
 cần O
 bán O
 tầng O
@@ -1457,14 +1357,12 @@ view O
 đẹp O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 gấp O
 căn_hộ O
 cao_cấp O
-The_Minato B-NAME_PROJECT
+The_Minato NAME_PROJECT
 1 O
 phòng O
 ngủ O
@@ -1474,7 +1372,7 @@ RẺ O
 : O
 Căn_hộ O
 dự_án O
-The_Minato B-NAME_PROJECT
+The_Minato NAME_PROJECT
 quận O
 Lê_Chân O
 , O
@@ -1497,7 +1395,7 @@ bán O
 căn_hộ O
 trung_tâm O
 Dự_án O
-The_Minato B-NAME_PROJECT
+The_Minato NAME_PROJECT
 , O
 cách O
 bến_xe O
@@ -1521,15 +1419,13 @@ trường O
 lớn O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 DT O
 67.8 O
 m2 O
 - O
 Toà O
-S B-NAME_BUILDING
+S NAME_BUILDING
 1.06 O
 tầng O
 26 O
@@ -1539,8 +1435,6 @@ bán O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Đầy_Đủ O
 Tiên_Ích O
 - O
@@ -1549,11 +1443,9 @@ sống O
 trong_lành O
 Chung_Cư O
 Cao_Cấp O
-The_City_Light_Vĩnh B-NAME_PROJECT
-Yên I-NAME_PROJECT
+The_City_Light_Vĩnh NAME_PROJECT
+Yên NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Muốn O
 bán O
@@ -1561,8 +1453,8 @@ căn_hộ O
 tầng O
 trung O
 tại O
-CT2 B-NAME_BUILDING
-EcoGren I-NAME_BUILDING
+CT2 NAME_BUILDING
+EcoGren NAME_BUILDING
 Diện O
 tích O
 : O
@@ -1652,14 +1544,12 @@ cháy O
 nổ O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 bán O
 gấp O
 căn_hộ O
-Thủ_Thiêm_Xanh B-NAME_PROJECT
+Thủ_Thiêm_Xanh NAME_PROJECT
 diện_tích O
 60m2 O
 đã O
@@ -1668,16 +1558,14 @@ sổ O
 hồng O
 . O
 
--DOCSTART- -X- -X- O
-
 CHÍNH O
 CHỦ O
 CẦN O
 TIỀN O
 BÁN O
 CH O
-CITI B-NAME_PROJECT
-ALTO I-NAME_PROJECT
+CITI NAME_PROJECT
+ALTO NAME_PROJECT
 Q2 O
 - O
 DT O
@@ -1700,12 +1588,10 @@ THEO O
 ĐỢT O
 . O
 
--DOCSTART- -X- -X- O
-
 Chủ O
 đầu_tư O
 : O
-Refico B-NAME_PROJECT
+Refico NAME_PROJECT
 Quy O
 mô O
 : O
@@ -1744,12 +1630,10 @@ dự_kiến O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 31/07/2016 O
 . O
 Căn_hộ O
-Léman_Luxury_Apartment B-NAME_PROJECT
+Léman_Luxury_Apartment NAME_PROJECT
 sở_hữu O
 vị_trí O
 vàng O
@@ -1816,8 +1700,6 @@ tại O
 Nguyễn_Đình_Chiểu O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
 Số_lượng O
 căn_hộ O
@@ -1826,32 +1708,30 @@ căn_hộ O
 căn_hộ O
 ( O
 Block O
-A B-NAME_BUILDING
+A NAME_BUILDING
 : O
 540 O
 căn O
 , O
 Block O
-B B-NAME_BUILDING
+B NAME_BUILDING
 : O
 540 O
 căn O
 & O
 block O
-C B-NAME_BUILDING
+C NAME_BUILDING
 : O
 356 O
 căn O
 , O
 block O
-D B-NAME_BUILDING
+D NAME_BUILDING
 : O
 356 O
 căn O
 ) O
 . O
-
--DOCSTART- -X- -X- O
 
 * O
 Đóng O
@@ -1860,7 +1740,7 @@ ký O
 HĐMB O
 sở_hữu O
 căn_hộ O
-The_Zei B-NAME_PROJECT
+The_Zei NAME_PROJECT
 ngay.Update O
 quỹ O
 căn O
@@ -1880,10 +1760,8 @@ Phòng O
 Kinh_doanh O
 : O
 
--DOCSTART- -X- -X- O
-
 Toà O
-OC1A B-NAME_BUILDING
+OC1A NAME_BUILDING
 , O
 71 O
 m2 O
@@ -1893,8 +1771,6 @@ sạch_sẽ O
 thoát O
 mát O
 . O
-
--DOCSTART- -X- -X- O
 
 * O
 Chính_sách O
@@ -1907,7 +1783,7 @@ tháng O
 khi O
 mua O
 chung_cư O
-Sunshine_City B-NAME_PROJECT
+Sunshine_City NAME_PROJECT
 : O
 - O
 Miễn_phí O
@@ -1916,8 +1792,6 @@ năm O
 phí O
 dịch_vụ O
 . O
-
--DOCSTART- -X- -X- O
 
 * O
 Toà_D O
@@ -1953,7 +1827,7 @@ Vị_trí O
 : O
 - O
 Dự_án O
-Imperia_Garden B-NAME_PROJECT
+Imperia_Garden NAME_PROJECT
 – O
 203 O
 Nguyễn_Huy_Tưởng O
@@ -1973,8 +1847,6 @@ các O
 ngả O
 . O
 
--DOCSTART- -X- -X- O
-
 CƠ_HỘI O
 SỞ_HỮU O
 CĂN_HỘ O
@@ -1989,9 +1861,9 @@ TRONG O
 TAY O
 . O
 căn_hộ O
-Q7 B-NAME_PROJECT
-Saigon_Riverside I-NAME_PROJECT
-complex I-NAME_PROJECT
+Q7 NAME_PROJECT
+Saigon_Riverside NAME_PROJECT
+complex NAME_PROJECT
 mở O
 bán O
 với O
@@ -2006,10 +1878,8 @@ từng O
 có O
 . O
 
--DOCSTART- -X- -X- O
-
 CĂN_HỘ O
-DUPLEX B-NAME_PROJECT
+DUPLEX NAME_PROJECT
 NGAY O
 TRUNG_TÂM O
 QUẬN O
@@ -2093,9 +1963,7 @@ mátTiện O
 ích O
 : O
 
--DOCSTART- -X- -X- O
-
-Eco_Gren_Saigon B-NAME_PROJECT
+Eco_Gren_Saigon NAME_PROJECT
 nhận O
 nhà O
 ở O
@@ -2149,33 +2017,29 @@ tiến_độ O
 Cập_nhật O
 tiến_độ O
 dự_án O
-Eco_Gren_SaiGon B-NAME_PROJECT
+Eco_Gren_SaiGon NAME_PROJECT
 ngày O
 30/11/2019 O
 . O
-
--DOCSTART- -X- -X- O
 
 Chính O
 chủ O
 bán O
 căn_hộ O
-Lavita_Garden_Thủ_Đức B-NAME_PROJECT
+Lavita_Garden_Thủ_Đức NAME_PROJECT
 , O
 68m2 O
 nhà O
 trống O
 . O
 
--DOCSTART- -X- -X- O
-
 Vị_trí O
 dự_án O
 : O
 - O
 Chung_cư O
-IA20 B-NAME_PROJECT
-Ciputra I-NAME_PROJECT
+IA20 NAME_PROJECT
+Ciputra NAME_PROJECT
 nằm O
 về O
 phía O
@@ -2196,8 +2060,6 @@ Tây_Hồ O
 - O
 Hà_Nội O
 . O
-
--DOCSTART- -X- -X- O
 
 Giá O
 tương_ứng O
@@ -2243,7 +2105,7 @@ biệt O
 Quý_khách O
 mua O
 căn_hộ O
-3G B-NAME_PROJECT
+3G NAME_PROJECT
 nếu O
 thanh_toán O
 1 O
@@ -2261,7 +2123,7 @@ hồng.Khách O
 hàng O
 mua O
 căn_hộ O
-3G B-NAME_PROJECT
+3G NAME_PROJECT
 còn O
 nhận O
 được O
@@ -2279,8 +2141,6 @@ SJC.Holine O
 : O
 0909.902.068 O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 gấp O
@@ -2289,7 +2149,7 @@ góc O
 3 O
 PN O
 tại O
-Hồng_Hà_Eco_City B-NAME_PROJECT
+Hồng_Hà_Eco_City NAME_PROJECT
 , O
 giá O
 chỉ O
@@ -2302,11 +2162,9 @@ nội_thất O
 Smarthome O
 . O
 
--DOCSTART- -X- -X- O
-
 Tại_sao O
 nói O
-Teco_Garden B-NAME_PROJECT
+Teco_Garden NAME_PROJECT
 là O
 chung_cư O
 cao_cấp O
@@ -2336,7 +2194,7 @@ tung O
 ra O
 thị_trường O
 bán O
-Teco_Garden B-NAME_PROJECT
+Teco_Garden NAME_PROJECT
 thuộc O
 quần_thể O
 Khu O
@@ -2375,16 +2233,12 @@ Vùng O
 Xanh_Thanh_Trì O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn O
-02 B-NUMBER_DEPARTMENT
+02 NUMBER_DEPARTMENT
 và O
-T B-NUMBER_DEPARTMENT
-2 I-NUMBER_DEPARTMENT
+T NUMBER_DEPARTMENT
+2 NUMBER_DEPARTMENT
 . O
-
--DOCSTART- -X- -X- O
 
 cần O
 bán O
@@ -2392,25 +2246,21 @@ căn O
 góc O
 56,2 O
 m2 O
-ct12 B-NAME_BUILDING
-a B-NAME_BUILDING
+ct12 NAME_BUILDING
+a NAME_BUILDING
 , O
-b B-NAME_BUILDING
+b NAME_BUILDING
 , O
-c B-NAME_BUILDING
+c NAME_BUILDING
 giá O
 thấp O
 nhất O
 thị_trường O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_số O
-28 B-NUMBER_DEPARTMENT
+28 NUMBER_DEPARTMENT
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Nhận O
@@ -2422,7 +2272,7 @@ giỏ O
 hàng O
 phân O
 Khu O
-Origami B-NAME_BUILDING
+Origami NAME_BUILDING
 từ O
 chủ O
 đầu_tư O
@@ -2433,7 +2283,7 @@ căn_hộ O
 view O
 sông O
 của O
-Masteri B-NAME_PROJECT
+Masteri NAME_PROJECT
 tại O
 trung_tâm O
 của O
@@ -2452,13 +2302,11 @@ sông O
 ha O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Từ O
 Chung_Cư O
-243 B-NAME_PROJECT
-Tân_Hoà_Đông I-NAME_PROJECT
+243 NAME_PROJECT
+Tân_Hoà_Đông NAME_PROJECT
 , O
 kết_nối O
 giao_thông O
@@ -2496,8 +2344,6 @@ tháng O
 2 O
 . O
 
--DOCSTART- -X- -X- O
-
 Thiết_kế O
 : O
 Công_ty O
@@ -2505,7 +2351,7 @@ thiết_kế O
 Concept.Xây O
 dựng O
 : O
-Sunshine_Construction B-NAME_PROJECT
+Sunshine_Construction NAME_PROJECT
 Pháp O
 lý O
 : O
@@ -2530,8 +2376,6 @@ công O
 dự_kiến O
 : O
 
--DOCSTART- -X- -X- O
-
 Nhận O
 ký_gửi O
 mua_bán O
@@ -2539,22 +2383,20 @@ mua_bán O
 cho O
 thuê O
 căn_hộ O
-Prosper_Plaza B-NAME_PROJECT
+Prosper_Plaza NAME_PROJECT
 Hotline O
 0935.885.889 O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn O
-số B-NUMBER_DEPARTMENT
-08 I-NUMBER_DEPARTMENT
+số NUMBER_DEPARTMENT
+08 NUMBER_DEPARTMENT
 toà O
-A7 B-NAME_BUILDING
-an B-NAME_PROJECT
-bình I-NAME_PROJECT
-city I-NAME_PROJECT
+A7 NAME_BUILDING
+an NAME_PROJECT
+bình NAME_PROJECT
+city NAME_PROJECT
 3PN O
 giá O
 2 O
@@ -2562,11 +2404,9 @@ tỷ O
 9 O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
-Mỹ_Đức B-NAME_PROJECT
+Mỹ_Đức NAME_PROJECT
 lầu O
 17 O
 , O
@@ -2578,7 +2418,7 @@ nhà O
 bán O
 gấp O
 căn_hộ O
-Mỹ_Đức B-NAME_PROJECT
+Mỹ_Đức NAME_PROJECT
 , O
 đường O
 Xô_Viết_Nghệ_Tĩnh O
@@ -2608,10 +2448,8 @@ thích O
 ngay O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_Hộ O
-Phú_Thạnh B-NAME_PROJECT
+Phú_Thạnh NAME_PROJECT
 , O
 Tân_phú O
 , O
@@ -2622,13 +2460,11 @@ LH O
 0933035311 O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 căn O
 ofice O
-Lavita_Charm B-NAME_PROJECT
+Lavita_Charm NAME_PROJECT
 thuận_tiện O
 kinh_doanh O
 giá O
@@ -2637,16 +2473,14 @@ nhất O
 thị_trường O
 . O
 
--DOCSTART- -X- -X- O
-
 MỞ O
 BÁN O
 GIAI_ĐOẠN O
 1 O
 DỰ_ÁN O
-PICITY B-NAME_PROJECT
-HIGH I-NAME_PROJECT
-PARK I-NAME_PROJECT
+PICITY NAME_PROJECT
+HIGH NAME_PROJECT
+PARK NAME_PROJECT
 THẠNH O
 XUÂN O
 QUẬN O
@@ -2686,15 +2520,13 @@ chỉ O
 mét O
 . O
 
--DOCSTART- -X- -X- O
-
 SỞ_HỮU O
 CĂN_HỘ O
 CAO_CẤP O
 ĐỐI_DIỆN O
-VINHOMES B-NAME_PROJECT
-THE I-NAME_PROJECT
-HARMONY I-NAME_PROJECT
+VINHOMES NAME_PROJECT
+THE NAME_PROJECT
+HARMONY NAME_PROJECT
 CHỈ O
 TỪ O
 1,5 O
@@ -2707,11 +2539,9 @@ TỶ O
 PN O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 cao_cấp O
-Gren_Valey_Phú_Mỹ_Hưng B-NAME_PROJECT
+Gren_Valey_Phú_Mỹ_Hưng NAME_PROJECT
 giá O
 cực O
 rẻ O
@@ -2723,8 +2553,6 @@ em O
 Vui O
 . O
 
--DOCSTART- -X- -X- O
-
 45,7% O
 . O
 - O
@@ -2734,25 +2562,23 @@ toà O
 tháp O
 : O
 Tháp O
-A B-NAME_BUILDING
+A NAME_BUILDING
 , O
-B B-NAME_BUILDING
+B NAME_BUILDING
 ( O
 23 O
 tầng O
 ) O
 ; O
 Tháp O
-C B-NAME_BUILDING
+C NAME_BUILDING
 , O
-D B-NAME_BUILDING
+D NAME_BUILDING
 ( O
 27 O
 tầng O
 ) O
 . O
-
--DOCSTART- -X- -X- O
 
 Khu O
 vườn O
@@ -2766,10 +2592,8 @@ Hồng_Thông O
 tin O
 dự_án O
 chung_cư O
-Ecohome3 B-NAME_PROJECT
+Ecohome3 NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 NGỘP O
 NGÂN_HÀNG O
@@ -2778,7 +2602,7 @@ BÁN O
 LỖ O
 LẠI O
 CĂN O
-KINGDOM B-NAME_BUILDING
+KINGDOM NAME_BUILDING
 2PN O
 VIEW O
 HỒ O
@@ -2792,11 +2616,9 @@ FUL O
 NỘI_THẤT O
 . O
 
--DOCSTART- -X- -X- O
-
 Tổng_quan O
 dự_án O
-Sunshine_City B-NAME_PROJECT
+Sunshine_City NAME_PROJECT
 : O
 - O
 Chủ O
@@ -2806,8 +2628,6 @@ Tập_đoàn O
 Sunshine_Group O
 . O
 
--DOCSTART- -X- -X- O
-
 Hỗ_trợ O
 mua O
 suất O
@@ -2815,10 +2635,8 @@ ngoại_giao O
 từ O
 CĐT O
 căn_hộ O
-Việt_Đức_Complex B-NAME_PROJECT
+Việt_Đức_Complex NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 CẦN O
 BÁN O
@@ -2826,13 +2644,11 @@ GẤP O
 CĂN_HỘ O
 CHUNG_CƯ O
 COMATCE O
-TOWER B-NAME_PROJECT
+TOWER NAME_PROJECT
 . O
 
--DOCSTART- -X- -X- O
-
 Với O
-Xuân_Mai_Complex B-NAME_PROJECT
+Xuân_Mai_Complex NAME_PROJECT
 , O
 chủ O
 đầu_tư O
@@ -2885,32 +2701,30 @@ khách_hàng O
 3 O
 . O
 
--DOCSTART- -X- -X- O
-
-G4 B-NAME_BUILDING
+G4 NAME_BUILDING
 tầng O
 tầng O
 cao_giá O
 bán O
 3.6 O
-tỷ.G B-NAME_BUILDING
-21 I-NAME_BUILDING
+tỷ. O
+G21 NAME_BUILDING
 tầng O
 trung O
 giá O
 bán O
 3.3 O
-tỷ.G B-NAME_BUILDING
-15 I-NAME_BUILDING
+tỷ. O
+G15 NAME_BUILDING
 tầng O
 cao O
 view O
-Landmark B-NAME_BUILDING
+Landmark NAME_BUILDING
 giá O
 bán O
 3,5 O
-tỷ.R B-NAME_BUILDING
-3 I-NAME_BUILDING
+tỷ. O
+R3 NAME_BUILDING
 tầng O
 trung O
 giá O
@@ -2918,8 +2732,6 @@ bán O
 4.030 O
 tỷ O
 . O
-
--DOCSTART- -X- -X- O
 
 * O
 Hơn O
@@ -2930,7 +2742,7 @@ và O
 căn O
 oficetel O
 tại O
-Eco_Gren_Sài_Gòn B-NAME_PROJECT
+Eco_Gren_Sài_Gòn NAME_PROJECT
 với O
 thiết_kế O
 đa_dạng O
@@ -2952,13 +2764,11 @@ PN O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 2 O
 căn O
-Monarchy B-NAME_PROJECT
+Monarchy NAME_PROJECT
 2 O
 phòng O
 ngủ O
@@ -3004,8 +2814,6 @@ tỷ O
 chút_xíu O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Bàn_giao O
 : O
@@ -3021,8 +2829,8 @@ dự_án O
 Tên O
 dự_án O
 : O
-Phương_Đông_Gren B-NAME_PROJECT
-park I-NAME_PROJECT
+Phương_Đông_Gren NAME_PROJECT
+park NAME_PROJECT
 - O
 Chủ O
 đầu_tư O
@@ -3040,8 +2848,6 @@ MTV O
 Đầu_tư O
 Phương_Đông O
 . O
-
--DOCSTART- -X- -X- O
 
 Ngày O
 17-6 O
@@ -3062,7 +2868,7 @@ phát_triển O
 dự_án O
 khu O
 đô_thị O
-Mizuki_Park B-NAME_PROJECT
+Mizuki_Park NAME_PROJECT
 tại O
 Nam_Sài_Gòn O
 với O
@@ -3075,8 +2881,6 @@ và O
 Nishi_Nipon_Railroad O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
 152m2 O
 , O
@@ -3087,7 +2891,7 @@ Nishi_Nipon_Railroad O
 giá O
 5.9 O
 tỷ.Khu O
-South B-NAME_BUILDING
+South NAME_BUILDING
 : O
 + O
 59m2 O
@@ -3105,8 +2909,6 @@ bán O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Nội_thất O
 dát O
@@ -3115,8 +2917,8 @@ lần O
 đầu_tiên O
 có O
 tại O
-PHÚ B-NAME_PROJECT
-MỸ_HƯNG I-NAME_PROJECT
+PHÚ NAME_PROJECT
+MỸ_HƯNG NAME_PROJECT
 * O
 Ứng_dụng O
 công_nghệ O
@@ -3158,16 +2960,14 @@ và O
 điện_thoại O
 . O
 
--DOCSTART- -X- -X- O
-
 Mua O
 nhà O
 Tháng_Ngâu_Vàng_Âu O
 Đầy_Túi O
 tại O
 Chung_cư O
-PC1 B-NAME_BUILDING
-thanh_xuân I-NAME_BUILDING
+PC1 NAME_BUILDING
+thanh_xuân NAME_BUILDING
 , O
 giá O
 chỉ O
@@ -3177,8 +2977,6 @@ tỷ O
 / O
 căn O
 . O
-
--DOCSTART- -X- -X- O
 
 Căn_hộ O
 cao_cấp O
@@ -3202,10 +3000,12 @@ nội_thất O
 . O
 15tr O
 – O
+  O
 25 O
 tr O
 / O
-tháng.Gold_View B-NAME_PROJECT
+tháng. O
+Gold_View NAME_PROJECT
 nằm O
 ngay O
 346 O
@@ -3256,15 +3056,13 @@ Quận O
 4 O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Nằm O
 trong O
 khu O
 đô_thị O
 cao_cấp O
-FLC B-NAME_PROJECT
+FLC NAME_PROJECT
 quy_mô O
 88ha O
 với O
@@ -3274,12 +3072,10 @@ tiện_ích O
 đa_dụng O
 . O
 
--DOCSTART- -X- -X- O
-
 Chuyên O
 bán O
 căn_hộ O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 1,2,3,4 O
 PN O
 và O
@@ -3290,11 +3086,9 @@ tốt O
 nhất O
 . O
 
--DOCSTART- -X- -X- O
-
-Aqua B-NAME_PROJECT
-park I-NAME_PROJECT
-bắc_giang I-NAME_PROJECT
+Aqua NAME_PROJECT
+park NAME_PROJECT
+bắc_giang NAME_PROJECT
 , O
 bán O
 lại O
@@ -3308,8 +3102,6 @@ chủ O
 đầu_tư O
 . O
 
--DOCSTART- -X- -X- O
-
 Gia_đình O
 cần O
 bán O
@@ -3317,8 +3109,8 @@ gấp O
 căn O
 114m2 O
 chung_cư O
-An_BÌnh B-NAME_PROJECT
-city I-NAME_PROJECT
+An_BÌnh NAME_PROJECT
+city NAME_PROJECT
 , O
 thành_phố O
 Giao_Lưu O
@@ -3330,13 +3122,11 @@ Phạm_Văn_Đồng O
 Hà_Nội O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Căn O
 góc O
 115m2 O
-Park_Hil B-NAME_PROJECT
+Park_Hil NAME_PROJECT
 , O
 view O
 thoáng O
@@ -3356,13 +3146,11 @@ bao O
 phí O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
-D B-NAME_PROJECT
-' I-NAME_PROJECT
-edge I-NAME_PROJECT
+D NAME_PROJECT
+' NAME_PROJECT
+edge NAME_PROJECT
 3PN O
 , O
 143m2 O
@@ -3374,10 +3162,8 @@ thang_máy O
 riêng O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 với O
 nội_thất O
 cao_cấp O
@@ -3388,12 +3174,10 @@ và O
 đẳng_cấp O
 . O
 
--DOCSTART- -X- -X- O
-
 BÁN O
 CHUNG_CƯ O
-ORIENTAL B-NAME_PROJECT
-PLAZA I-NAME_PROJECT
+ORIENTAL NAME_PROJECT
+PLAZA NAME_PROJECT
 , O
 78M2 O
 , O
@@ -3415,14 +3199,12 @@ GIÁ O
 TỶ O
 . O
 
--DOCSTART- -X- -X- O
-
 Tôi O
 cần O
 bán O
 gấp O
 căn_hộ O
-Petroland B-NAME_PROJECT
+Petroland NAME_PROJECT
 quận O
 2 O
 , O
@@ -3436,8 +3218,6 @@ ngay O
 đặc_điểm O
 : O
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Khu O
@@ -3455,7 +3235,7 @@ bằng O
 tần O
 điển O
 hình O
-Topaz_Garden B-NAME_PROJECT
+Topaz_Garden NAME_PROJECT
 pngLIÊN O
 HỆ O
 : O
@@ -3471,23 +3251,19 @@ nhận O
 hồ_sơ O
 căn O
 hộ O
-Topaz_Garden B-NAME_PROJECT
+Topaz_Garden NAME_PROJECT
 từ O
 chủ O
 đầu_tư O
 . O
-
--DOCSTART- -X- -X- O
 
 Cần O
 cho O
 thuê O
 căn_hộ O
 cao_cấp O
-Diamond_Lotus_Riverside B-NAME_PROJECT
+Diamond_Lotus_Riverside NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Chuyển O
 công_việc O
@@ -3495,7 +3271,7 @@ sang O
 lại O
 căn_hộ O
 chung_cư O
-Lotus_Garden B-NAME_PROJECT
+Lotus_Garden NAME_PROJECT
 , O
 36 O
 Trịnh_Đình_Thảo O
@@ -3504,10 +3280,8 @@ quận O
 Tân_Phú O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
-Sunshine_Garden B-NAME_PROJECT
+Sunshine_Garden NAME_PROJECT
 - O
 với O
 mức O
@@ -3527,7 +3301,7 @@ cùng.Thông O
 tin O
 chung O
 toà O
-G3 B-NAME_BUILDING
+G3 NAME_BUILDING
 : O
 - O
 Chiều O
@@ -3549,8 +3323,6 @@ siêu_thị O
 Sunshine_Mart O
 . O
 
--DOCSTART- -X- -X- O
-
 Tìm O
 chủ O
 mới O
@@ -3558,7 +3330,7 @@ cho O
 căn_hộ O
 thiết_kế O
 xinh_xắn O
-The_Park_Residence B-NAME_PROJECT
+The_Park_Residence NAME_PROJECT
 02 O
 pn O
 , O
@@ -3576,10 +3348,8 @@ Tin_Hết_Hạn O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
-Sunrise_City_View B-NAME_PROJECT
+Sunrise_City_View NAME_PROJECT
 - O
 2PN O
 2WC O
@@ -3593,17 +3363,15 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Căn O
 2 O
 phòng O
 ngủ O
 . O
-A1x B-NUMBER_DEPARTMENT
-. I-NUMBER_DEPARTMENT
-03 I-NUMBER_DEPARTMENT
+A1x NUMBER_DEPARTMENT
+. NUMBER_DEPARTMENT
+03 NUMBER_DEPARTMENT
 - O
 DT O
 : O
@@ -3615,9 +3383,9 @@ Giá O
 3.870 O
 tỷ O
 . O
-A1x B-NUMBER_DEPARTMENT
-. I-NUMBER_DEPARTMENT
-07 I-NUMBER_DEPARTMENT
+A1x NUMBER_DEPARTMENT
+. NUMBER_DEPARTMENT
+07 NUMBER_DEPARTMENT
 - O
 DT O
 : O
@@ -3629,9 +3397,9 @@ Giá O
 3.750 O
 tỷ O
 . O
-B1x B-NUMBER_DEPARTMENT
-. I-NUMBER_DEPARTMENT
-05 I-NUMBER_DEPARTMENT
+B1x NUMBER_DEPARTMENT
+. NUMBER_DEPARTMENT
+05 NUMBER_DEPARTMENT
 - O
 DT O
 : O
@@ -3643,15 +3411,13 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Bạn O
 đã O
 nghe O
 về O
 căn_hộ O
-Minh_Tran_House B-NAME_PROJECT
-2/9 I-NAME_PROJECT
+Minh_Tran_House NAME_PROJECT
+2/9 NAME_PROJECT
 Vị_trí O
 dự_án O
 : O
@@ -3710,11 +3476,9 @@ ful O
 nội_thất O
 : O
 
--DOCSTART- -X- -X- O
-
 * O
 Oficetel O
-Giai_Việt_Central_Premium B-NAME_PROJECT
+Giai_Việt_Central_Premium NAME_PROJECT
 đang O
 hot O
 , O
@@ -3731,8 +3495,6 @@ mở O
 văn_phòng O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
 Rất O
 nhiều O
@@ -3747,16 +3509,14 @@ khách_hàng O
 đầu_tiên O
 mua O
 chung_cư O
-Silk_Tower B-NAME_BUILDING
+Silk_Tower NAME_BUILDING
 - O
-FLC B-NAME_PROJECT
-Tropical_City_Hạ_Long I-NAME_PROJECT
+FLC NAME_PROJECT
+Tropical_City_Hạ_Long NAME_PROJECT
 trong O
 tháng O
 11 O
 . O
-
--DOCSTART- -X- -X- O
 
 Không_gian O
 sống O
@@ -3767,10 +3527,10 @@ bao O
 quanh O
 dự_án O
 Tiện_ích O
-D B-NAME_PROJECT
-’ I-NAME_PROJECT
-luso I-NAME_PROJECT
-Emerald I-NAME_PROJECT
+D NAME_PROJECT
+’ NAME_PROJECT
+luso NAME_PROJECT
+Emerald NAME_PROJECT
 • O
 Trường O
 mầm_non O
@@ -3814,13 +3574,11 @@ bộ O
 bể_bơi O
 … O
 
--DOCSTART- -X- -X- O
-
 Cẩm_Ly O
 0973860706 O
 Căn_hộ O
 penthouse O
-Topaz_Garden_Tân_Phú B-NAME_PROJECT
+Topaz_Garden_Tân_Phú NAME_PROJECT
 2014 O
 giá O
 rẻ O
@@ -3834,9 +3592,7 @@ căn_hộ O
 gi O
 . O
 
--DOCSTART- -X- -X- O
-
-Saigon_Pearl B-NAME_PROJECT
+Saigon_Pearl NAME_PROJECT
 - O
 khu O
 căn_hộ O
@@ -3860,13 +3616,11 @@ xanh O
 sạch O
 . O
 
--DOCSTART- -X- -X- O
-
 CĂN_HỘ O
 CAO_CẤP O
 TẠI O
 DỰ_ÁN O
-LEXINGTON B-NAME_PROJECT
+LEXINGTON NAME_PROJECT
 , O
 QUẬN O
 2 O
@@ -3880,8 +3634,6 @@ VỊ_TRÍ O
 ĐẸP O
 . O
 
--DOCSTART- -X- -X- O
-
 Chỉ O
 2,05 O
 ty O
@@ -3890,13 +3642,11 @@ ngay O
 căn_hộ O
 2PN O
 67m2 O
-CT1 B-NAME_BUILDING
-EcoGren B-NAME_PROJECT
+CT1 NAME_BUILDING
+EcoGren NAME_PROJECT
 . O
 0842158666 O
 . O
-
--DOCSTART- -X- -X- O
 
 Chính O
 chủ O
@@ -3911,7 +3661,7 @@ chuyển_nhượng O
 lại O
 căn_hộ O
 chung_cư O
-Hoàng_Dương B-NAME_PROJECT
+Hoàng_Dương NAME_PROJECT
 với O
 mức O
 giá O
@@ -3920,13 +3670,11 @@ nhất O
 thị_trường O
 . O
 
--DOCSTART- -X- -X- O
-
 Em O
 Trúc O
 chuyên O
 chuyển_nhượng O
-Masteri_Thảo_Điền B-NAME_PROJECT
+Masteri_Thảo_Điền NAME_PROJECT
 có O
 rất O
 nhiều O
@@ -3958,35 +3706,31 @@ thật O
 100% O
 . O
 
--DOCSTART- -X- -X- O
-
 Bí_mật O
 đằng O
 sau O
 căn_hộ O
-Picity B-NAME_PROJECT
+Picity NAME_PROJECT
 ở O
 Quận O
 12 O
 . O
 
--DOCSTART- -X- -X- O
-
 Chung_cư O
-Golden_Palace B-NAME_PROJECT
+Golden_Palace NAME_PROJECT
 142m2 O
 4 O
 ngủ O
 toà O
-B B-NAME_BUILDING
+B NAME_BUILDING
 căn O
-03 B-NUMBER_DEPARTMENT
+03 NUMBER_DEPARTMENT
 bán O
 lỗBán O
 gấp O
 căn_hộ O
 chung_cư O
-Golden_Palace_Mễ_Trì B-NAME_PROJECT
+Golden_Palace_Mễ_Trì NAME_PROJECT
 : O
 ⓿❾⓿❹❺❻⓿❼❻❻Căn O
 hộ O
@@ -4058,7 +3802,7 @@ tiến_độ O
 xây_dựng O
 ) O
 Chung_cư O
-Golden_Palace_Mễ_Trì B-NAME_PROJECT
+Golden_Palace_Mễ_Trì NAME_PROJECT
 đã O
 cất O
 nóc O
@@ -4068,16 +3812,14 @@ tiến_độ O
 xây_dựng O
 . O
 
--DOCSTART- -X- -X- O
-
 CẦN O
 BÁN O
 150 O
 CĂN_HỘ O
-C B-NAME_BUILDING
-AN B-NAME_PROJECT
-BÌNH I-NAME_PROJECT
-CITY I-NAME_PROJECT
+C NAME_BUILDING
+AN NAME_PROJECT
+BÌNH NAME_PROJECT
+CITY NAME_PROJECT
 GIÁ O
 CHỈ O
 TỪ O
@@ -4085,11 +3827,9 @@ TỪ O
 TỶ O
 . O
 
--DOCSTART- -X- -X- O
-
 Mở O
 bán O
-Grand_Marina_Saigon B-NAME_PROJECT
+Grand_Marina_Saigon NAME_PROJECT
 - O
 Dự_án O
 căn_hộ O
@@ -4100,11 +3840,9 @@ Quận O
 1 O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-vista B-NAME_PROJECT
-riverside I-NAME_PROJECT
+vista NAME_PROJECT
+riverside NAME_PROJECT
 , O
 1 O
 ty O
@@ -4117,13 +3855,11 @@ chợ O
 lái_thiêu O
 . O
 
--DOCSTART- -X- -X- O
-
 Cho O
 thuê O
 căn_hộ O
-12 B-NAME_PROJECT
-View I-NAME_PROJECT
+12 NAME_PROJECT
+View NAME_PROJECT
 , O
 nằm O
 ngay O
@@ -4156,8 +3892,6 @@ cao O
 giao_thông O
 thuận_tiện O
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Chủ O
@@ -4199,31 +3933,29 @@ tầng O
 3 O
 từ O
 toà O
-S1 B-NAME_BUILDING
+S1 NAME_BUILDING
 đến O
 toà O
-S B-NAME_BUILDING
-6 I-NAME_BUILDING
+S NAME_BUILDING
+6 NAME_BUILDING
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 3 O
 căn O
 Toà O
-Novo B-NAME_BUILDING
+Novo NAME_BUILDING
 giá O
 từ O
 4,9 O
-tỷ O
+tỷ  O
 - O
 Căn O
 toà O
-Centro B-NAME_BUILDING
-giá O
+Centro NAME_BUILDING
+giá  O
 4,343 O
-tỷ O
+tỷ  O
 ( O
 có_thể O
 thương_lượng O
@@ -4239,15 +3971,13 @@ diện_tích O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 Tiện_ích O
 đầy_đủ O
 , O
 cao_cấp O
 từ O
 block O
-Roxana_Tower B-NAME_BUILDING
+Roxana_Tower NAME_BUILDING
 : O
 Tầng O
 1 O
@@ -4256,10 +3986,8 @@ Khu_vực O
 ngân_hàng O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Estela_Heights B-NAME_PROJECT
+Estela_Heights NAME_PROJECT
 3PN O
 , O
 150m2 O
@@ -4269,32 +3997,28 @@ cần O
 bán O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Vị_trí O
 : O
 Nằm O
 trên O
-đường O
-Nguyễn O
+đường Nguyễn O
 Hữu O
-Thọ O
-và O
+Thọ và O
 Lê_Văn_Lương O
 , O
 liền O
 kề O
 với O
-Hoàng_Anh B-NAME_PROJECT
-Gia_Lai I-NAME_PROJECT
-3 I-NAME_PROJECT
+Hoàng_Anh NAME_PROJECT
+Gia_Lai NAME_PROJECT
+3 NAME_PROJECT
 , O
-Phú_Hoàng_Anh B-NAME_PROJECT
+Phú_Hoàng_Anh NAME_PROJECT
 , O
-Sunrise_Riverside B-NAME_PROJECT
+Sunrise_Riverside NAME_PROJECT
 , O
-The_Park B-NAME_PROJECT
+The_Park NAME_PROJECT
 , O
 gần O
 siêu_thị O
@@ -4323,14 +4047,12 @@ phút O
 xe O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 bán O
 CH O
-CT7J B-NUMBER_DEPARTMENT
-Park_View B-NAME_PROJECT
+CT7J NUMBER_DEPARTMENT
+Park_View NAME_PROJECT
 tầng O
 trung O
 DT O
@@ -4342,11 +4064,9 @@ chủ O
 1tỷ100tr O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-MT B-NAME_PROJECT
-Lương_Định I-NAME_PROJECT
+MT NAME_PROJECT
+Lương_Định NAME_PROJECT
 Của O
 , O
 80 O
@@ -4367,19 +4087,15 @@ Landmark O
 81 O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
-Miếu_Nổi B-NAME_PROJECT
+Miếu_Nổi NAME_PROJECT
 1,4 O
 tỷ O
 đường O
 Vũ_Huy_Tấn O
 bình_thạnh O
 . O
-
--DOCSTART- -X- -X- O
 
 Nhận O
 giữ O
@@ -4390,7 +4106,7 @@ căn_hộ O
 du_lịch O
 5 O
 sao O
-Plus_The_Sóng B-NAME_PROJECT
+Plus_The_Sóng NAME_PROJECT
 , O
 đường O
 Thi_Sách O
@@ -4404,14 +4120,12 @@ chọn O
 mua O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 chung_cư O
 tại O
 dự_án O
-Unimax_Twin_Tower B-NAME_PROJECT
+Unimax_Twin_Tower NAME_PROJECT
 , O
 Hà_Đông O
 , O
@@ -4425,8 +4139,6 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 cao_cấp O
 2 O
@@ -4435,7 +4147,7 @@ ngủ O
 đồ O
 toà O
 nhà O
-Handiresco B-NAME_BUILDING
+Handiresco NAME_BUILDING
 mặt O
 đường O
 Lê_Văn_Lương O
@@ -4444,25 +4156,23 @@ Tin_Hết_Hạn O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 cắt O
 lỗ O
 căn_hộ O
-Nghĩa B-NAME_PROJECT
-Đô I-NAME_PROJECT
+Nghĩa NAME_PROJECT
+Đô NAME_PROJECT
 45m2 O
 Khu_vực O
 : O
 bán O
 căn_hộ O
 toà O
-CT2C B-NAME_BUILDING
+CT2C NAME_BUILDING
 khu O
-ĐTM B-NAME_PROJECT
-Nghĩa I-NAME_PROJECT
-Đô I-NAME_PROJECT
+ĐTM NAME_PROJECT
+Nghĩa NAME_PROJECT
+Đô NAME_PROJECT
 - O
 Quận O
 Bắc O
@@ -4488,21 +4198,19 @@ căn_hộ O
 tại O
 toà O
 nhà O
-CT2C B-NAME_BUILDING
+CT2C NAME_BUILDING
 khu O
-ĐTM B-NAME_PROJECT
-Nghĩa I-NAME_PROJECT
-Đô I-NAME_PROJECT
+ĐTM NAME_PROJECT
+Nghĩa NAME_PROJECT
+Đô NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 cần O
 bán O
 căn_hộ O
-VUNG B-NAME_PROJECT
-TAU I-NAME_PROJECT
-PEARL I-NAME_PROJECT
+VUNG NAME_PROJECT
+TAU NAME_PROJECT
+PEARL NAME_PROJECT
 1 O
 PN O
 chỉ O
@@ -4513,11 +4221,9 @@ triệu O
 1 O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 2PN O
-Homyland_Riverside B-NAME_PROJECT
+Homyland_Riverside NAME_PROJECT
 quận O
 2 O
 , O
@@ -4536,8 +4242,6 @@ nhận O
 nhà O
 . O
 
--DOCSTART- -X- -X- O
-
 Tôi O
 có O
 căn_hộ O
@@ -4548,21 +4252,19 @@ cơ_bản O
 giá O
 10tr O
 Toà O
-C B-NAME_BUILDING
+C NAME_BUILDING
 Chung_cư O
-Ecolife_Tây_Hồ B-NAME_PROJECT
+Ecolife_Tây_Hồ NAME_PROJECT
 giá O
 10tr O
 . O
-
--DOCSTART- -X- -X- O
 
 Chỉ O
 800 O
 triệu O
 sở_hữu O
 căn O
-Bea_Sky B-NAME_PROJECT
+Bea_Sky NAME_PROJECT
 vị_trí O
 đắc_địa O
 - O
@@ -4571,12 +4273,10 @@ giá O
 0373627091 O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 căn O
-Phú_Đông_Premier B-NAME_PROJECT
+Phú_Đông_Premier NAME_PROJECT
 A-2 O
 x-10 O
 , O
@@ -4596,10 +4296,8 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Thổ_địa O
-Lexington B-NAME_PROJECT
+Lexington NAME_PROJECT
 , O
 Quận O
 2 O
@@ -4621,8 +4319,6 @@ giá O
 tốt O
 . O
 
--DOCSTART- -X- -X- O
-
 CHÍNH O
 CHỦ O
 CẦN O
@@ -4633,19 +4329,17 @@ DIỆN_TÍCH O
 80M2 O
 THUỘC O
 DỰ_ÁN O
-VINHOMES B-NAME_PROJECT
-GARDENIA I-NAME_PROJECT
-HÀM I-NAME_PROJECT
-NGHI I-NAME_PROJECT
+VINHOMES NAME_PROJECT
+GARDENIA NAME_PROJECT
+HÀM NAME_PROJECT
+NGHI NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 . O
 lien-ket-can-ho-topaz-tan-phu.jpg-Căn O
 hộ O
-Topaz_Garden_Tân B-NAME_PROJECT
-Phú I-NAME_PROJECT
+Topaz_Garden_Tân NAME_PROJECT
+Phú NAME_PROJECT
 : O
 Thiết_kế O
 theo O
@@ -4673,9 +4367,7 @@ nhà_trẻ O
 , O
 … O
 
--DOCSTART- -X- -X- O
-
-Golden_Park_Tower B-NAME_PROJECT
+Golden_Park_Tower NAME_PROJECT
 hội_tụ O
 đầy_đủ O
 những O
@@ -4714,8 +4406,6 @@ cho O
 cư_dân O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Vị_trí O
 vàng O
@@ -4723,11 +4413,11 @@ vàng O
 Nằm O
 tại O
 lô O
-CT19B B-NAME_BUILDING
+CT19B NAME_BUILDING
 khu O
 đô_thị O
 mới O
-Việt_Hưng B-NAME_PROJECT
+Việt_Hưng NAME_PROJECT
 , O
 Long_Biên O
 , O
@@ -4757,14 +4447,12 @@ Giang O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 chung_cư O
-Saphire B-NAME_PROJECT
-khang I-NAME_PROJECT
-Điền I-NAME_PROJECT
+Saphire NAME_PROJECT
+khang NAME_PROJECT
+Điền NAME_PROJECT
 , O
 Đường O
 Võ_Chí_Công O
@@ -4773,21 +4461,17 @@ Quận O
 9 O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 thuộc O
 toà O
-OC1B B-NAME_BUILDING
+OC1B NAME_BUILDING
 , O
 tầng O
 cao O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Oriental B-NAME_PROJECT
+Oriental NAME_PROJECT
 87 O
 m² O
 2PN O
@@ -4799,14 +4483,12 @@ mát O
 0933.03.53.11 O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 bán O
 CH O
-Khang B-NAME_PROJECT
-Gia-Lucky I-NAME_PROJECT
+Khang NAME_PROJECT
+Gia-Lucky NAME_PROJECT
 , O
 62m2 O
 , O
@@ -4818,8 +4500,6 @@ mát O
 1.05 O
 tỷ O
 . O
-
--DOCSTART- -X- -X- O
 
 QUỸ O
 CĂN O
@@ -4838,20 +4518,18 @@ HTLS O
 0%-12 O
 THÁNG O
 TẠI O
-SAMSORA B-NAME_PROJECT
-PREMIER I-NAME_PROJECT
-105 I-NAME_PROJECT
+SAMSORA NAME_PROJECT
+PREMIER NAME_PROJECT
+105 NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 ĐẶT O
 CHỖ O
 NGAY O
 CĂN_HỘ O
 DỰ_ÁN O
-LAVITA B-NAME_PROJECT
-THUẬN_AN I-NAME_PROJECT
+LAVITA NAME_PROJECT
+THUẬN_AN NAME_PROJECT
 GIÁ O
 CỰC O
 SỐC O
@@ -4869,10 +4547,8 @@ TỪ O
 CĐT O
 . O
 
--DOCSTART- -X- -X- O
-
 Tháp O
-Altaz B-NAME_BUILDING
+Altaz NAME_BUILDING
 căn_số O
 09 O
 , O
@@ -4884,8 +4560,6 @@ giá O
 6,6 O
 tỷ O
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Chỉ O
@@ -4903,7 +4577,7 @@ vận_hành O
 khai_thác O
 cho O
 thuê O
-WELHAM B-NAME_PROJECT
+WELHAM NAME_PROJECT
 cam_kết O
 lợi_nhuận O
 tối_thiểu O
@@ -4931,11 +4605,9 @@ cổ_phần O
 VHR O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Cộng_Hoà B-NAME_PROJECT
-Plaza I-NAME_PROJECT
+Cộng_Hoà NAME_PROJECT
+Plaza NAME_PROJECT
 15 O
 tr O
 / O
@@ -4945,13 +4617,11 @@ Ful O
 nội_thất O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-the B-NAME_PROJECT
-gold I-NAME_PROJECT
-view I-NAME_PROJECT
-q4 I-NAME_PROJECT
+the NAME_PROJECT
+gold NAME_PROJECT
+view NAME_PROJECT
+q4 NAME_PROJECT
 , O
 view O
 thoáng O
@@ -4971,18 +4641,14 @@ chỉ O
 tr O
 . O
 
--DOCSTART- -X- -X- O
-
 Biểu_Tượng O
 Thịnh_Vượng O
 Mới O
 Của_Khu_Nam O
 Sài_Gòn O
 - O
-Sunshine_Diamond_River B-NAME_PROJECT
+Sunshine_Diamond_River NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 CHÍNH O
 CHỦ O
@@ -4990,11 +4656,9 @@ CẦN O
 BÁN O
 GẤP O
 CĂN_HỘ O
-ROYAL B-NAME_PROJECT
-CITY I-NAME_PROJECT
+ROYAL NAME_PROJECT
+CITY NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 * O
 Độc_quyền O
@@ -5003,8 +4667,8 @@ quỹ O
 căn O
 thương_mại O
 dự_án O
-FLC B-NAME_PROJECT
-Đại_Mỗ I-NAME_PROJECT
+FLC NAME_PROJECT
+Đại_Mỗ NAME_PROJECT
 Chính O
 thức O
 ra O
@@ -5013,11 +4677,11 @@ quỹ O
 căn O
 thương_mại O
 toà O
-H1 B-NAME_BUILDING
+H1 NAME_BUILDING
 - O
-H4 B-NAME_BUILDING
-FLC B-NAME_PROJECT
-Đại_Mỗ I-NAME_PROJECT
+H4 NAME_BUILDING
+FLC NAME_PROJECT
+Đại_Mỗ NAME_PROJECT
 Số O
 lượng O
 có_hạn O
@@ -5093,8 +4757,6 @@ VS O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Địa_chỉ O
 giao_dịch O
@@ -5108,7 +4770,7 @@ Tầng O
 toà O
 C O
 dự_án O
-Eco_City_Việt_Hưng B-NAME_PROJECT
+Eco_City_Việt_Hưng NAME_PROJECT
 , O
 Giang_Biên O
 , O
@@ -5131,10 +4793,8 @@ thông_tin O
 chi_tiết O
 : O
 
--DOCSTART- -X- -X- O
-
 * O
-Marina_Tower B-NAME_PROJECT
+Marina_Tower NAME_PROJECT
 thừa O
 dịch_vụ O
 tiện_ích O
@@ -5180,8 +4840,6 @@ khu O
 vui_chơi O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 gấp O
@@ -5190,9 +4848,9 @@ cao_cấp O
 114m2 O
 tại O
 toà O
-901 B-NAME_BUILDING
+901 NAME_BUILDING
 chung_cư O
-Starlake B-NAME_PROJECT
+Starlake NAME_PROJECT
 Tây_Hồ_Tây O
 , O
 giá O
@@ -5200,22 +4858,18 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 căn_hộ O
 chung_cư O
 cao_cấp O
-HPC B-NAME_PROJECT
-Landmark I-NAME_PROJECT
+HPC NAME_PROJECT
+Landmark NAME_PROJECT
 105 O
 Tố_Hữu O
 - O
 Hà_Đông O
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Diện_tích O
@@ -5243,7 +4897,7 @@ bạn O
 sở_hữu O
 CHC O
 cao_cấp O
-The_Tera_An_Hưng B-NAME_PROJECT
+The_Tera_An_Hưng NAME_PROJECT
 - O
 Co O
 bể_bơi O
@@ -5276,14 +4930,12 @@ tầng O
 xe O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 gấp O
 căn_hộ O
-Đảo B-NAME_PROJECT
-Kim_Cương I-NAME_PROJECT
+Đảo NAME_PROJECT
+Kim_Cương NAME_PROJECT
 quận O
 2 O
 , O
@@ -5303,8 +4955,6 @@ chỉ O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Tầng O
 19 O
 . O
@@ -5317,10 +4967,10 @@ view O
 toàn O
 khu O
 đô_thị O
-Thạnh_Mỹ_Lợi B-NAME_PROJECT
+Thạnh_Mỹ_Lợi NAME_PROJECT
 , O
 Đô_thị O
-Thủ_Thiêm B-NAME_PROJECT
+Thủ_Thiêm NAME_PROJECT
 , O
 quận O
 1 O
@@ -5328,8 +4978,6 @@ và O
 sông O
 Sài_Gòn O
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Căn O
@@ -5340,7 +4988,7 @@ phòng O
 ngủ O
 , O
 toà O
-P5 B-NAME_BUILDING
+P5 NAME_BUILDING
 , O
 giá O
 4.4 O
@@ -5351,8 +4999,6 @@ bao O
 phí O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
 Tặng O
 8% O
@@ -5361,37 +5007,33 @@ cho O
 khách_hàng O
 mua O
 căn_hộ O
-CH B-NAME_PROJECT
-- I-NAME_PROJECT
-A3 I-NAME_PROJECT
+CH NAME_PROJECT
+- NAME_PROJECT
+A3 NAME_PROJECT
 ( O
 48 O
 m2 O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 CĂN_HỘ O
 78M2 O
 2PN O
 NGAY O
 CHUNG_CƯ O
-GIAI B-NAME_PROJECT
-VIỆT-SAMLAND I-NAME_PROJECT
-Q8 I-NAME_PROJECT
+GIAI NAME_PROJECT
+VIỆT-SAMLAND NAME_PROJECT
+Q8 NAME_PROJECT
 0938839926 O
 . O
-
--DOCSTART- -X- -X- O
 
 Mở O
 bán O
 20 O
 căn O
-I B-NAME_BUILDING
-- I-NAME_BUILDING
-Park I-NAME_BUILDING
+I NAME_BUILDING
+- NAME_BUILDING
+Park NAME_BUILDING
 góc O
 view O
 đẹp O
@@ -5400,13 +5042,11 @@ quận O
 12 O
 . O
 
--DOCSTART- -X- -X- O
-
 Quỹ O
 đất O
 vàng O
-Vista B-NAME_PROJECT
-Q12 I-NAME_PROJECT
+Vista NAME_PROJECT
+Q12 NAME_PROJECT
 – O
 view O
 sông O
@@ -5420,12 +5060,10 @@ Mặt_tiền O
 Hà_Huy_Giáp O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Block O
-Phoenix B-NAME_BUILDING
-2 I-NAME_BUILDING
+Phoenix NAME_BUILDING
+2 NAME_BUILDING
 chuẩn_bị O
 nhận O
 nhà O
@@ -5433,14 +5071,12 @@ thanh_toán O
 95% O
 . O
 
--DOCSTART- -X- -X- O
-
 Chung_cư O
 thuộc O
 dự_án O
 khu O
 đô_thị O
-Tây_Hồ B-NAME_PROJECT
+Tây_Hồ NAME_PROJECT
 Tây O
 đẳng_cấp O
 , O
@@ -5455,10 +5091,8 @@ T.P O
 Hà_Nội O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-BMC B-NAME_PROJECT
+BMC NAME_PROJECT
 là O
 dòng O
 căn_hộ O
@@ -5480,10 +5114,8 @@ ngủ O
 rộng_rãi O
 . O
 
--DOCSTART- -X- -X- O
-
-LUXURY B-NAME_PROJECT
-PENTHOUSE I-NAME_PROJECT
+LUXURY NAME_PROJECT
+PENTHOUSE NAME_PROJECT
 ON O
 THE O
 BEACH O
@@ -5492,7 +5124,7 @@ LIMASOL.jpg O
 Thiết_kế O
 Căn_hộ O
 penthouse O
-Topaz_Garden_Tân_Phú B-NAME_PROJECT
+Topaz_Garden_Tân_Phú NAME_PROJECT
 sang_trọng O
 , O
 độc_đáo O
@@ -5512,11 +5144,9 @@ có O
 tự_nhiên O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Ngoài_ra O
-Smile_Building B-NAME_PROJECT
+Smile_Building NAME_PROJECT
 được O
 thừa_hưởng O
 toàn_bộ O
@@ -5542,14 +5172,12 @@ hồ O
 Linh_Đàm O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 Chủ O
 bán O
 c O
-Nghĩa B-NAME_BUILDING
-Đô I-NAME_BUILDING
+Nghĩa NAME_BUILDING
+Đô NAME_BUILDING
 Giá O
 1,6 O
 tỷ O
@@ -5558,8 +5186,6 @@ bao O
 phí-106 O
 Hoàng_Quốc_Việt O
 . O
-
--DOCSTART- -X- -X- O
 
 Cần_Bán_Nhà_DT O
 86 O
@@ -5574,10 +5200,8 @@ tỷ O
 , O
 KĐT O
 Mới O
-Định_Công B-NAME_PROJECT
+Định_Công NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Kết_nối O
 quận O
@@ -5590,9 +5214,9 @@ Tiện_ích O
 nội O
 khu O
 : O
-the B-NAME_PROJECT
-gold I-NAME_PROJECT
-view I-NAME_PROJECT
+the NAME_PROJECT
+gold NAME_PROJECT
+view NAME_PROJECT
 q4 O
 Hồ O
 bơi O
@@ -5633,8 +5257,6 @@ xanh O
 , O
 … O
 
--DOCSTART- -X- -X- O
-
 Liên_hệ O
 trực_tiếp O
 CHỦ O
@@ -5665,9 +5287,9 @@ tầng O
 1 O
 , O
 toà O
-CT5 B-NAME_BUILDING
+CT5 NAME_BUILDING
 , O
-C B-NAME_BUILDING
+C NAME_BUILDING
 Cát_Tường O
 thu_nhập O
 thấp O
@@ -5681,12 +5303,10 @@ Võ_Cường O
 TP O
 Bắc_Ninh O
 
--DOCSTART- -X- -X- O
-
 + O
-Charm_Long_Hải_Resort B-NAME_PROJECT
-& I-NAME_PROJECT
-Spa I-NAME_PROJECT
+Charm_Long_Hải_Resort NAME_PROJECT
+& NAME_PROJECT
+Spa NAME_PROJECT
 có O
 diện_tích O
 quy_hoạch O
@@ -5698,11 +5318,9 @@ xây_dựng O
 35% O
 . O
 
--DOCSTART- -X- -X- O
-
 Tiện_ích O
 Căn_hộ O
-The_View_Bình_Dương B-NAME_PROJECT
+The_View_Bình_Dương NAME_PROJECT
 Toạ_lạc O
 tại O
 TP O
@@ -5710,22 +5328,18 @@ mới O
 Bình_Dương O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
 Căn O
-05 B-NUMBER_DEPARTMENT
+05 NUMBER_DEPARTMENT
 toà O
-G B-NAME_BUILDING
-1 I-NAME_BUILDING
+G NAME_BUILDING
+1 NAME_BUILDING
 : O
 1.73 O
 tỷ O
 , O
 nguyên_bản O
 . O
-
--DOCSTART- -X- -X- O
 
 Chính_thức O
 ra_mắt O
@@ -5739,10 +5353,8 @@ tại O
 Hà_Nội O
 , O
 chung_cư O
-Hồng_Hà_Eco_City B-NAME_PROJECT
+Hồng_Hà_Eco_City NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Ngoài_ra O
 do O
@@ -5755,16 +5367,14 @@ trong O
 các O
 toà O
 nhà O
-Vinhomes_Golden_River B-NAME_PROJECT
+Vinhomes_Golden_River NAME_PROJECT
 , O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 , O
-Masteri_Thảo_Điền B-NAME_PROJECT
+Masteri_Thảo_Điền NAME_PROJECT
 , O
-Masteri_An_Phú B-NAME_PROJECT
+Masteri_An_Phú NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Nằm O
@@ -5772,17 +5382,15 @@ gọn O
 trong O
 khu O
 đô_thị O
-An_Hưng B-NAME_PROJECT
+An_Hưng NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 0906.997.966 O
 . O
 Bán O
 căn_hộ O
 tháp O
-MALDIVES B-NAME_BUILDING
+MALDIVES NAME_BUILDING
 Đảo O
 Kim_Cương O
 , O
@@ -5794,16 +5402,14 @@ ty O
 5 O
 . O
 
--DOCSTART- -X- -X- O
-
 Đặc O
 điểm O
 nổi O
 bậ O
 t.Dự O
 án O
-Q7 B-NAME_PROJECT
-Saigon_Riverside I-NAME_PROJECT
+Q7 NAME_PROJECT
+Saigon_Riverside NAME_PROJECT
 toạ_lạc O
 tại O
 đường O
@@ -5830,37 +5436,31 @@ khoảng O
 2km O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 căn_hộ O
-Marina_Tower B-NAME_BUILDING
+Marina_Tower NAME_BUILDING
 : O
 - O
 DT O
 : O
 
--DOCSTART- -X- -X- O
-
 Cần O
 share O
 phòng O
 ở O
-Hoàng_Anh B-NAME_PROJECT
-Gold_House I-NAME_PROJECT
+Hoàng_Anh NAME_PROJECT
+Gold_House NAME_PROJECT
 3.5 O
 triệu O
 / O
 tháng O
 . O
 
--DOCSTART- -X- -X- O
-
 Đi O
 từ O
 dự_án O
-Mizuki_Park B-NAME_PROJECT
+Mizuki_Park NAME_PROJECT
 chỉ O
 mất O
 khoảng O
@@ -5886,14 +5486,12 @@ Sài O
 Gòn O
 . O
 
--DOCSTART- -X- -X- O
-
 CẦN O
 BÁN O
 GẤP O
 CĂN_HỘ O
 CHUNG_CƯ O
-RICHSTAR B-NAME_PROJECT
+RICHSTAR NAME_PROJECT
 64M2 O
 , O
 2 O
@@ -5911,8 +5509,6 @@ VAY O
 90% O
 ) O
 . O
-
--DOCSTART- -X- -X- O
 
 DT O
 87m2 O
@@ -5933,13 +5529,11 @@ ngay O
 cạnh O
 Khu O
 đô_thị O
-Tây_Hồ B-NAME_PROJECT
-Tây I-NAME_PROJECT
+Tây_Hồ NAME_PROJECT
+Tây NAME_PROJECT
 của O
 Daewo O
 . O
-
--DOCSTART- -X- -X- O
 
 + O
 Tầng O
@@ -5949,14 +5543,12 @@ Phòng O
 sinh_hoạt O
 cộng_đồng O
 và O
-Sky_Garden B-NAME_PROJECT
+Sky_Garden NAME_PROJECT
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-akari B-NAME_PROJECT
-city I-NAME_PROJECT
+akari NAME_PROJECT
+city NAME_PROJECT
 – O
 Mặt_tiền O
 đại_lộ O
@@ -5976,8 +5568,6 @@ cơ_bản O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 = O
 * O
 Tên O
@@ -5986,17 +5576,14 @@ dự_án O
 căn_hộ O
 chung_cư O
 cao_cấp O
-Phú_Tài_Residences_Quy B-NAME_PROJECT
-Nhơn I-NAME_PROJECT
+Phú_Tài_Residences_Quy NAME_PROJECT
+Nhơn NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Gmail O
 : O
 [ O
-email O
-protected O
+email protected O
 ] O
 Cập_nhật O
 mới O
@@ -6004,10 +5591,10 @@ nhất O
 rất O
 nhiều O
 căn_hộ O
-Diamond_Riverside B-NAME_PROJECT
+Diamond_Riverside NAME_PROJECT
 ( O
-City_Gate B-NAME_PROJECT
-2 I-NAME_PROJECT
+City_Gate NAME_PROJECT
+2 NAME_PROJECT
 ) O
 với O
 giá O
@@ -6016,13 +5603,11 @@ tốt O
 hơn O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 79m2 O
 toà O
-Phoenix B-NAME_BUILDING
-1B I-NAME_BUILDING
+Phoenix NAME_BUILDING
+1B NAME_BUILDING
 bán O
 gấp O
 trong O
@@ -6041,8 +5626,6 @@ phí O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn O
 2 O
@@ -6054,7 +5637,7 @@ wc O
 1,93 O
 tỷ O
 tại O
-Vinhomes_Gren_Bay B-NAME_PROJECT
+Vinhomes_Gren_Bay NAME_PROJECT
 goài O
 ra O
 còn O
@@ -6063,7 +5646,7 @@ loại_hình O
 khác O
 như O
 : O
-Căn O
+ Căn O
 Studio_Ful_Đồ O
 giá O
 1,06 O
@@ -6101,9 +5684,7 @@ gồm O
 có O
 : O
 
--DOCSTART- -X- -X- O
-
-High_Intela B-NAME_PROJECT
+High_Intela NAME_PROJECT
 : O
 Căn_hộ O
 Smarthome O
@@ -6165,8 +5746,6 @@ tr O
 căn O
 . O
 
--DOCSTART- -X- -X- O
-
 Hồ_Chí_MinhTổng O
 giá O
 : O
@@ -6193,8 +5772,8 @@ bán O
 giá O
 gốc O
 căn_hộ O
-LOVERA B-NAME_PROJECT
-VISTA I-NAME_PROJECT
+LOVERA NAME_PROJECT
+VISTA NAME_PROJECT
 65 O
 m2 O
 - O
@@ -6205,8 +5784,6 @@ Diện_tích O
 , O
 2WC O
 . O
-
--DOCSTART- -X- -X- O
 
 + O
 3 O
@@ -6242,18 +5819,16 @@ ký_gửi O
 các O
 căn_hộ O
 dự_án O
-Vista_Riverside B-NAME_PROJECT
+Vista_Riverside NAME_PROJECT
 giá O
 tốt O
 nhất O
 thị_trường O
 . O
 
--DOCSTART- -X- -X- O
-
 Chủ O
 đầu_tư O
-PC1 B-NAME_PROJECT
+PC1 NAME_PROJECT
 uy_tín O
 , O
 hoàn_thành O
@@ -6281,23 +5856,21 @@ phản_hồi O
 rất O
 tốt O
 ( O
-Mỹ_Đình B-NAME_PROJECT
-1 I-NAME_PROJECT
+Mỹ_Đình NAME_PROJECT
+1 NAME_PROJECT
 , O
-Mỹ_Đình B-NAME_PROJECT
-2 I-NAME_PROJECT
+Mỹ_Đình NAME_PROJECT
+2 NAME_PROJECT
 , O
-PC1 B-NAME_PROJECT
-Nàng I-NAME_PROJECT
-Hương I-NAME_PROJECT
-Nguyễn_Trãi I-NAME_PROJECT
+PC1 NAME_PROJECT
+Nàng NAME_PROJECT
+Hương NAME_PROJECT
+Nguyễn_Trãi NAME_PROJECT
 , O
-PC1 B-NAME_PROJECT
-Hà_Đông I-NAME_PROJECT
+PC1 NAME_PROJECT
+Hà_Đông NAME_PROJECT
 ) O
 . O
-
--DOCSTART- -X- -X- O
 
 Ưu_Tiên O
 Đặt_Chỗ O
@@ -6309,11 +5882,9 @@ ngủ O
 ngủ O
 tại O
 Chung_Cư O
-Cao_Cấp B-NAME_PROJECT
-The_City_Light I-NAME_PROJECT
+Cao_Cấp NAME_PROJECT
+The_City_Light NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Địa_chỉ O
@@ -6321,15 +5892,13 @@ The_City_Light I-NAME_PROJECT
 tầng O
 12B O
 chung_cư O
-60B B-NAME_PROJECT
-Nguyễn_Huy_Tưởng I-NAME_PROJECT
+60B NAME_PROJECT
+Nguyễn_Huy_Tưởng NAME_PROJECT
 , O
 Thanh_Xuân O
 , O
 Hà_Nội O
 . O
-
--DOCSTART- -X- -X- O
 
 Chính O
 chủ O
@@ -6338,7 +5907,7 @@ bán O
 căn_hộ O
 chuẩn O
 Nhật O
-Ascent_Lakeside B-NAME_PROJECT
+Ascent_Lakeside NAME_PROJECT
 view O
 MT O
 Nguyễn_Văn_Linh O
@@ -6350,13 +5919,11 @@ cất O
 nóc O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 nhanh O
 căn_hộ O
-Ehome B-NAME_PROJECT
-2 I-NAME_PROJECT
+Ehome NAME_PROJECT
+2 NAME_PROJECT
 khu O
 nam O
 long O
@@ -6365,8 +5932,6 @@ quận O
 chính O
 chủ O
 . O
-
--DOCSTART- -X- -X- O
 
 CƠ_HỘI O
 HIẾM O
@@ -6382,10 +5947,10 @@ PHÍA O
 BẮC O
 SÀI_GÒN O
 – O
-SKY B-NAME_PROJECT
-RESIDENCE I-NAME_PROJECT
-ECO I-NAME_PROJECT
-XUÂN I-NAME_PROJECT
+SKY NAME_PROJECT
+RESIDENCE NAME_PROJECT
+ECO NAME_PROJECT
+XUÂN NAME_PROJECT
 Bạn O
 muốn O
 có O
@@ -6428,18 +5993,16 @@ ECO O
 XUÂN O
 ? O
 
--DOCSTART- -X- -X- O
-
 Căn O
 chung_cư O
 3 O
 phòng O
 ngủ O
-A B-NAME_BUILDING
-2 B-NUMBER_DEPARTMENT
-24 B-NUMBER_DEPARTMENT
-02 O
-Topaz_City O
+A NAME_BUILDING
+2 NUMBER_DEPARTMENT
+24 NUMBER_DEPARTMENT
+02 NUMBER_DEPARTMENT
+Topaz_City NAME_PROJECT
 , O
 nhận O
 nhà O
@@ -6452,10 +6015,8 @@ có O
 VAT O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_Hộ O
-Topaz_Home B-NAME_PROJECT
+Topaz_Home NAME_PROJECT
 quận O
 12 O
 , O
@@ -6463,17 +6024,15 @@ quận O
 m2 O
 , O
 block O
-A B-NAME_BUILDING
+A NAME_BUILDING
 , O
 6.5 O
 tr O
 0933.03.53.11 O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Cityland_Park_Hils B-NAME_PROJECT
+Cityland_Park_Hils NAME_PROJECT
 Phan_Văn_Trị O
 75 O
 m² O
@@ -6493,37 +6052,31 @@ y O
 hình O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 chung_cư O
-A2 B-NAME_PROJECT
-Vinhomes_Gardenia_Mỹ_Đình I-NAME_PROJECT
+A2 NAME_PROJECT
+Vinhomes_Gardenia_Mỹ_Đình NAME_PROJECT
 hơn O
 2 O
 tỷ O
 Sổ_Đỏ O
 . O
 
--DOCSTART- -X- -X- O
-
 ️ O
 Tận_hưởng O
 toàn_bộ O
 tiện_ích O
 quanh O
-Vinhomes_Reviside B-NAME_PROJECT
+Vinhomes_Reviside NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 ☆Chuyên O
 cho O
 thuê O
 căn_hộ O
-ruby B-NAME_PROJECT
-garden I-NAME_PROJECT
+ruby NAME_PROJECT
+garden NAME_PROJECT
 , O
 Quận O
 tân_phú☆DT O
@@ -6558,8 +6111,6 @@ Liên_hệ O
 : O
 0938.648.622 O
 
--DOCSTART- -X- -X- O
-
 Quy_hoạch O
 dự_án O
 : O
@@ -6583,7 +6134,7 @@ Tổng O
 10.000 O
 căn O
 Mini-hotel O
-Grand_World_Phú_Quốc B-NAME_PROJECT
+Grand_World_Phú_Quốc NAME_PROJECT
 bước O
 chân O
 vào O
@@ -6635,8 +6186,6 @@ từng O
 lô O
 . O
 
--DOCSTART- -X- -X- O
-
 CHÍNH O
 CHỦ O
 CẦN O
@@ -6658,7 +6207,7 @@ HỒ_CHÍ_MINH O
 : O
 Tầng O
 3C O
-Himlam_River_Side B-NAME_PROJECT
+Himlam_River_Side NAME_PROJECT
 Đường O
 D1 O
 , O
@@ -6691,26 +6240,22 @@ chủ O
 Ms O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
 Diện_tích O
 toàn O
 dự_án O
-Q7 B-NAME_PROJECT
-Saigon_Riverside I-NAME_PROJECT
+Q7 NAME_PROJECT
+Saigon_Riverside NAME_PROJECT
 : O
 75.224,5 O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 Phòng O
 kinh_doanh O
 dự_án O
-TNR B-NAME_PROJECT
-The_Nosta I-NAME_PROJECT
+TNR NAME_PROJECT
+The_Nosta NAME_PROJECT
 - O
 90 O
 đường O
@@ -6731,8 +6276,6 @@ dự O
 916 O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 cần O
@@ -6740,9 +6283,9 @@ bán O
 căn_hộ O
 110m2 O
 toà O
-R3 B-NAME_BUILDING
+R3 NAME_BUILDING
 - O
-Royal_City B-NAME_PROJECT
+Royal_City NAME_PROJECT
 , O
 view O
 bể_bơi O
@@ -6760,8 +6303,6 @@ tr O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 Tôi O
 chính O
 chủ O
@@ -6770,7 +6311,7 @@ bán O
 căn_hộ O
 tại O
 chung_cư O
-Rose_Town B-NAME_PROJECT
+Rose_Town NAME_PROJECT
 79 O
 Ngọc O
 Hồi.Căn O
@@ -6808,10 +6349,8 @@ công_viên O
 Yên_Sở O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 bán O
 với O
 3 O
@@ -6825,16 +6364,14 @@ bày O
 trí O
 . O
 
--DOCSTART- -X- -X- O
-
 Thông_tin O
 dự_án O
 và O
 xem O
 căn_hộ O
 mẫu O
-Q7 B-NAME_PROJECT
-Saigon_Riverside I-NAME_PROJECT
+Q7 NAME_PROJECT
+Saigon_Riverside NAME_PROJECT
 nhiệt_tình O
 vui_vẻ O
 LH O
@@ -6846,12 +6383,10 @@ Ms. O
 Nguyệt O
 ) O
 
--DOCSTART- -X- -X- O
-
 BÁN O
 CĂN_HỘ O
 CHUNG_CƯ O
-BOTANICA B-NAME_PROJECT
+BOTANICA NAME_PROJECT
 , O
 ĐƯỜNG O
 104 O
@@ -6863,13 +6398,11 @@ TÂN_BÌNH O
 DT O
 : O
 
--DOCSTART- -X- -X- O
-
 Căn O
 góc O
-05 B-NUMBER_DEPARTMENT
+05 NUMBER_DEPARTMENT
 Toà O
-S6 B-NAME_BUILDING
+S6 NAME_BUILDING
 , O
 diện_tích O
 : O
@@ -6891,18 +6424,14 @@ bếp O
 riêng O
 . O
 
--DOCSTART- -X- -X- O
-
 Đầu_tư O
 lâu_dài O
 tại O
 căn_hộ O
 sở_hữu O
 Vĩnh_viễn O
-Napoleon_Nha_Trang B-NAME_PROJECT
+Napoleon_Nha_Trang NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 LH O
 0908 O
@@ -6914,11 +6443,9 @@ Quản_lý O
 cho O
 thuê O
 căn_hộ O
-Cộng_Hoà B-NAME_PROJECT
-Plaza I-NAME_PROJECT
+Cộng_Hoà NAME_PROJECT
+Plaza NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Cơ_hội O
 VÀNG O
@@ -6938,8 +6465,8 @@ an_cư O
 dài_hạn O
 Dự_án O
 căn_hộ O
-Minh_Trần_House B-NAME_PROJECT
-2/9 I-NAME_PROJECT
+Minh_Trần_House NAME_PROJECT
+2/9 NAME_PROJECT
 chính_thức O
 được O
 công_bố O
@@ -6959,8 +6486,6 @@ phòng O
 ngủ O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Cần O
 bán O
@@ -6968,7 +6493,7 @@ căn O
 3PN O
 87m2 O
 dự_án O
-Central_Premium B-NAME_PROJECT
+Central_Premium NAME_PROJECT
 , O
 dự_án O
 căn_hộ O
@@ -6980,14 +6505,12 @@ Quận O
 hiện_tại O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 giá O
 rẻ O
 nội_thất O
 đẹp O
-Orchard_Park_View B-NAME_PROJECT
+Orchard_Park_View NAME_PROJECT
 cao_cấp O
 nhất O
 88m2 O
@@ -7003,15 +6526,13 @@ triệu O
 tháng O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 Penthouse O
-Tropic_Garden B-NAME_PROJECT
+Tropic_Garden NAME_PROJECT
 bán O
 , O
 tháp O
-A1 B-NAME_BUILDING
+A1 NAME_BUILDING
 , O
 tầng O
 cao O
@@ -7060,20 +6581,16 @@ tiện_nghi O
 sang_trọng O
 … O
 
--DOCSTART- -X- -X- O
-
 Quà O
 tặng O
 khủng O
 từ O
 căn O
 hộ O
-Minh_Trần_House B-NAME_PROJECT
+Minh_Trần_House NAME_PROJECT
 4 O
 triệu O
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Tên O
@@ -7081,19 +6598,17 @@ dự_án O
 : O
 Toà O
 nhà O
-Hanhud B-NAME_BUILDING
+Hanhud NAME_BUILDING
 234 O
 Hoàng_Quốc_Việt O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Toà O
-B B-NAME_BUILDING
+B NAME_BUILDING
 - O
-IA20 B-NAME_PROJECT
-Ciputra I-NAME_PROJECT
+IA20 NAME_PROJECT
+Ciputra NAME_PROJECT
 ngay O
 liền O
 kề O
@@ -7108,8 +6623,6 @@ và O
 Nhật_Tân O
 . O
 
--DOCSTART- -X- -X- O
-
 Do O
 nhu_cầu O
 thay_đổi O
@@ -7120,9 +6633,9 @@ chung_cư O
 tại O
 toà O
 nhà O
-FLC B-NAME_BUILDING
-landmark I-NAME_BUILDING
-tower I-NAME_BUILDING
+FLC NAME_BUILDING
+landmark NAME_BUILDING
+tower NAME_BUILDING
 - O
 Diện_tích O
 : O
@@ -7196,8 +6709,6 @@ siêu O
 an_ninh O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Tiềm_năng O
 sinh O
@@ -7207,7 +6718,7 @@ cho O
 các O
 Nhà_đầu_tư O
 vì O
-Picity_High_Park B-NAME_PROJECT
+Picity_High_Park NAME_PROJECT
 toạ_lạc O
 sát O
 quận O
@@ -7222,17 +6733,15 @@ Quận O
 Gò_Vấp O
 . O
 
--DOCSTART- -X- -X- O
-
 RA O
 HÀNG O
 ĐỢT O
 CUỐI O
 TÒA O
-S2 B-NAME_BUILDING
+S2 NAME_BUILDING
 - O
-GOLDMARK B-NAME_PROJECT
-CITY I-NAME_PROJECT
+GOLDMARK NAME_PROJECT
+CITY NAME_PROJECT
 , O
 TRẢ O
 TRƯỚC O
@@ -7251,20 +6760,18 @@ LÃI O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 ＣĂＮ O
 ＨỘ O
-ＲＡＹ B-NAME_PROJECT
-ＤＥ I-NAME_PROJECT
-ＭＡＮＯＲ I-NAME_PROJECT
-ＨỒ I-NAME_PROJECT
-ＴＲÀＭ I-NAME_PROJECT
-RAY B-NAME_PROJECT
-DE I-NAME_PROJECT
-MANOR I-NAME_PROJECT
-HỒ I-NAME_PROJECT
-TRÀM I-NAME_PROJECT
+ＲＡＹ NAME_PROJECT
+ＤＥ NAME_PROJECT
+ＭＡＮＯＲ NAME_PROJECT
+ＨỒ NAME_PROJECT
+ＴＲÀＭ NAME_PROJECT
+RAY NAME_PROJECT
+DE NAME_PROJECT
+MANOR NAME_PROJECT
+HỒ NAME_PROJECT
+TRÀM NAME_PROJECT
 " O
 Biển O
 Ngọc_Sông_Xanh O
@@ -7304,8 +6811,6 @@ view O
 sông O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 , O
@@ -7315,13 +6820,11 @@ văn O
 an O
 , O
 chung_cư O
-Đất B-NAME_PROJECT
-Phương_Nam I-NAME_PROJECT
+Đất NAME_PROJECT
+Phương_Nam NAME_PROJECT
 quận O
 Bình_Thạnh O
 . O
-
--DOCSTART- -X- -X- O
 
 CĂN_HỘ O
 XANH O
@@ -7330,8 +6833,8 @@ BÊN O
 SÔNG O
 SÀI_GÒN O
 – O
-VISTA B-NAME_PROJECT
-RIVERSIDE I-NAME_PROJECT
+VISTA NAME_PROJECT
+RIVERSIDE NAME_PROJECT
 – O
 NHẬN O
 GIỮ O
@@ -7369,14 +6872,12 @@ LÝ_DO O
 NÊN O
 MUA O
 DỰ_ÁN O
-VISTA B-NAME_PROJECT
-RIVERSIDE I-NAME_PROJECT
+VISTA NAME_PROJECT
+RIVERSIDE NAME_PROJECT
 . O
 
--DOCSTART- -X- -X- O
-
 Tiện_ích O
-The_Sun_Avenue B-NAME_PROJECT
+The_Sun_Avenue NAME_PROJECT
 : O
 - O
 Hồ O
@@ -7393,13 +6894,11 @@ miễn_phí O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 giá O
 tốt O
 tại O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 được O
 xây_dựng O
 bởi O
@@ -7431,8 +6930,6 @@ hiện_đại O
 tiện_nghi O
 . O
 
--DOCSTART- -X- -X- O
-
 Giỏ O
 hàng O
 có O
@@ -7445,7 +6942,7 @@ và O
 cho O
 thuê O
 của O
-Diamond_Riverside B-NAME_PROJECT
+Diamond_Riverside NAME_PROJECT
 ( O
 City_Gate O
 2 O
@@ -7460,15 +6957,13 @@ tha_hồ O
 lựa_chọn O
 . O
 
--DOCSTART- -X- -X- O
-
 Không O
 ở O
 cần O
 chuyển_nhượng O
 gấp O
 căn_hộ O
-Riverside_Phú_Mỹ_Hưng B-NAME_PROJECT
+Riverside_Phú_Mỹ_Hưng NAME_PROJECT
 : O
 Nhà_thiết_kế O
 2 O
@@ -7486,16 +6981,12 @@ mới O
 đẹp O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_Hộ O
-Shantira B-NAME_PROJECT
+Shantira NAME_PROJECT
 View_Biển_Chỉ O
 Từ O
 1Tỷ3 O
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Ngoài_ra O
@@ -7503,7 +6994,7 @@ Ngoài_ra O
 toà O
 nhà O
 gần O
-Mipec_Tây_Sơn B-NAME_PROJECT
+Mipec_Tây_Sơn NAME_PROJECT
 rất O
 lớn O
 , O
@@ -7524,8 +7015,6 @@ của O
 con_cái O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Giá O
 từ O
@@ -7537,16 +7026,14 @@ tỷ O
 / O
 căn O
 đối_với O
-Skylinked_Vilas B-NAME_PROJECT
+Skylinked_Vilas NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Bán O
 căn_hộ O
 chung_cư O
-The_Mansion_Block B-NAME_PROJECT
-A1 I-NAME_PROJECT
+The_Mansion_Block NAME_PROJECT
+A1 NAME_PROJECT
 , O
 Xã O
 Phong_phú O
@@ -7589,12 +7076,10 @@ khách O
 thiện_chí O
 . O
 
--DOCSTART- -X- -X- O
-
 Can O
 bán O
 căn_hộ O
-Splendor_Gò_Vấp B-NAME_PROJECT
+Splendor_Gò_Vấp NAME_PROJECT
 - O
 DT O
 110m2 O
@@ -7609,20 +7094,18 @@ còn O
 thương_lượng O
 . O
 
--DOCSTART- -X- -X- O
-
 0901379878 O
 . O
 Sau O
 sự O
 thành_công O
 của O
-Sunshine_City_Sài_Gòn B-NAME_PROJECT
+Sunshine_City_Sài_Gòn NAME_PROJECT
 và O
-Sunshine_Diamond_River_Q B-NAME_PROJECT
-7 I-NAME_PROJECT
+Sunshine_Diamond_River_Q NAME_PROJECT
+7 NAME_PROJECT
 , O
-Sunshine_Group B-NAME_PROJECT
+Sunshine_Group NAME_PROJECT
 tiếp_tục O
 triển_khai O
 dự_án O
@@ -7633,11 +7116,11 @@ phía O
 Nam.Thông O
 tin O
 dự_án O
-Sunshine_Horizon B-NAME_PROJECT
+Sunshine_Horizon NAME_PROJECT
 Tên O
 gọi O
 : O
-Sunshine_Horizon B-NAME_PROJECT
+Sunshine_Horizon NAME_PROJECT
 Chủ O
 đầu_tư O
 : O
@@ -7663,14 +7146,12 @@ dự_án O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
-B B-NAME_BUILDING
-7.04 I-NAME_BUILDING
+B NAME_BUILDING
+7.04 NAME_BUILDING
 dự_án O
-The_Zei B-NAME_PROJECT
+The_Zei NAME_PROJECT
 : O
 Hướng O
 cửa O
@@ -7731,8 +7212,6 @@ vào O
 quý O
 2/2021. O
 
--DOCSTART- -X- -X- O
-
 Căn_Hộ O
 64M2 O
 , O
@@ -7746,12 +7225,10 @@ hiện_đại O
 , O
 Tại O
 Dự_án O
-IEC B-NAME_PROJECT
-Tứ I-NAME_PROJECT
-Hiệp I-NAME_PROJECT
+IEC NAME_PROJECT
+Tứ NAME_PROJECT
+Hiệp NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Bán O
 căn_hộ O
@@ -7759,13 +7236,11 @@ căn_hộ O
 2VS O
 tại O
 toà O
-Handico5 B-NAME_BUILDING
+Handico5 NAME_BUILDING
 ngõ O
 622 O
 Minh_Khai O
 . O
-
--DOCSTART- -X- -X- O
 
 Sở_hữu O
 căn O
@@ -7779,8 +7254,8 @@ dự_án O
 nhà O
 ở O
 xã_hội O
-NHS B-NAME_PROJECT
-Phương_Canh I-NAME_PROJECT
+NHS NAME_PROJECT
+Phương_Canh NAME_PROJECT
 - O
 nhà O
 cực O
@@ -7790,12 +7265,10 @@ giá O
 rẻ O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 ghép O
-The_Nasim B-NAME_PROJECT
+The_Nasim NAME_PROJECT
 3 O
 phòng O
 ngủ O
@@ -7807,8 +7280,6 @@ cơ_bản O
 thoáng O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 40m2 O
@@ -7819,17 +7290,15 @@ ngủ O
 giá O
 400tr O
 ở O
-Hóc_Môn B-NAME_PROJECT
-SHR I-NAME_PROJECT
+Hóc_Môn NAME_PROJECT
+SHR NAME_PROJECT
 . O
 
--DOCSTART- -X- -X- O
-
 Chung_cư O
-Cầu B-NAME_PROJECT
-Diễn I-NAME_PROJECT
-- I-NAME_PROJECT
-Kiều_Mai I-NAME_PROJECT
+Cầu NAME_PROJECT
+Diễn NAME_PROJECT
+- NAME_PROJECT
+Kiều_Mai NAME_PROJECT
 , O
 500 O
 triệu O
@@ -7843,8 +7312,6 @@ ful O
 ngay O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Là O
 một O
@@ -7855,7 +7322,7 @@ dự_án O
 có O
 sân O
 vườn O
-Sky_Bar B-NAME_PROJECT
+Sky_Bar NAME_PROJECT
 , O
 đường O
 dạo O
@@ -7864,25 +7331,21 @@ trên O
 không O
 . O
 
--DOCSTART- -X- -X- O
-
 Chung_cư O
 cao_cấp O
-Sunshine_Garden B-NAME_PROJECT
+Sunshine_Garden NAME_PROJECT
 mở O
 quỹ O
 căn_hộ O
 ngoại_giao O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 bán O
 căn_hộ O
-Q7 B-NAME_PROJECT
-Saigon_Riverside_Complex I-NAME_PROJECT
+Q7 NAME_PROJECT
+Saigon_Riverside_Complex NAME_PROJECT
 mặt_tiền O
 đường O
 Đào O
@@ -7931,8 +7394,6 @@ tháng O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 cần O
@@ -7952,16 +7413,14 @@ cực O
 tại O
 dự_án O
 chung_cư O
-CT14A2 B-NAME_BUILDING
+CT14A2 NAME_BUILDING
 KĐT O
-Nam_Thăng_Long B-NAME_PROJECT
+Nam_Thăng_Long NAME_PROJECT
 - O
 Tây_Hồ O
 - O
 HN O
 . O
-
--DOCSTART- -X- -X- O
 
 Giá O
 từ O
@@ -7977,9 +7436,9 @@ logia O
 riêng O
 biệt.Thông O
 tin O
-Q7 B-NAME_PROJECT
-Sài_Gòn I-NAME_PROJECT
-Riverside I-NAME_PROJECT
+Q7 NAME_PROJECT
+Sài_Gòn NAME_PROJECT
+Riverside NAME_PROJECT
 : O
 + O
 Vị_trí O
@@ -7998,13 +7457,11 @@ Quận O
 TPHCM O
 . O
 
--DOCSTART- -X- -X- O
-
 SỞ_HỮU O
 CĂN_HỘ O
-WYNHAM B-NAME_PROJECT
-SOLEIL I-NAME_PROJECT
-ĐÀ_NẴNG I-NAME_PROJECT
+WYNHAM NAME_PROJECT
+SOLEIL NAME_PROJECT
+ĐÀ_NẴNG NAME_PROJECT
 NGHỈ_DƯỠNG O
 5 O
 SAO O
@@ -8044,8 +7501,6 @@ Nghinh O
 Morison O
 . O
 
--DOCSTART- -X- -X- O
-
 Không_chỉ O
 giới_hạn O
 tên_tuổi O
@@ -8065,13 +7520,11 @@ Nha_Trang O
 với O
 dự_án O
 căn_hộ O
-Marina_Suites B-NAME_PROJECT
+Marina_Suites NAME_PROJECT
 , O
-peninsula B-NAME_PROJECT
-Nha_Trang I-NAME_PROJECT
+peninsula NAME_PROJECT
+Nha_Trang NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 chỉ O
@@ -8080,17 +7533,15 @@ mất O
 đến O
 khu O
 đô_thị O
-Phú_Mỹ_Hưng B-NAME_PROJECT
+Phú_Mỹ_Hưng NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Khu O
 đô_thị O
 mới O
-Nghĩa B-NAME_PROJECT
-đô I-NAME_PROJECT
+Nghĩa NAME_PROJECT
+đô NAME_PROJECT
 là O
 dự_án O
 có O
@@ -8106,8 +7557,6 @@ của O
 thành_phố O
 . O
 
--DOCSTART- -X- -X- O
-
 LH O
 : O
 0985.920.037 O
@@ -8116,8 +7565,8 @@ LH O
 Vị_trí O
 : O
 Chung_cư O
-Hateco B-NAME_PROJECT
-mỹ_đình I-NAME_PROJECT
+Hateco NAME_PROJECT
+mỹ_đình NAME_PROJECT
 - O
 Chỉ O
 6 O
@@ -8167,14 +7616,12 @@ hơn O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 4PN O
 rẻ O
 nhất_là O
 toà O
-Topaz B-NAME_BUILDING
+Topaz NAME_BUILDING
 tầng O
 cao O
 , O
@@ -8202,8 +7649,6 @@ cụ_thể O
 ạ O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Kính O
 mời O
@@ -8213,7 +7658,7 @@ tham_dự O
 mở O
 bán O
 dự_án O
-Victoria_Vilage B-NAME_PROJECT
+Victoria_Vilage NAME_PROJECT
 - O
 Phố O
 Âu O
@@ -8223,9 +7668,7 @@ quận O
 2 O
 . O
 
--DOCSTART- -X- -X- O
-
-The_GoldView B-NAME_PROJECT
+The_GoldView NAME_PROJECT
 sở_hữu O
 một O
 VỊ_TRÍ O
@@ -8283,12 +7726,10 @@ Quận O
 , O
 … O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Bcons_Suối_Tiên B-NAME_PROJECT
+Bcons_Suối_Tiên NAME_PROJECT
 - O
-Bcons_Miền_Đông B-NAME_PROJECT
+Bcons_Miền_Đông NAME_PROJECT
 ngay O
 Làng O
 Đại_Học O
@@ -8297,8 +7738,8 @@ Gia.Căn O
 1 O
 phòng O
 ngủ O
-Bcons_Miền_Đông B-NAME_PROJECT
-Bcons_Suối_Tiên B-NAME_PROJECT
+Bcons_Miền_Đông NAME_PROJECT
+Bcons_Suối_Tiên NAME_PROJECT
 34m2 O
 1ty150 O
 41m2 O
@@ -8307,8 +7748,8 @@ tr.Căn O
 2 O
 phòng O
 ngủ O
-Bcons_Miền_Đông B-NAME_PROJECT
-Bcons_Suối_Tiên B-NAME_PROJECT
+Bcons_Miền_Đông NAME_PROJECT
+Bcons_Suối_Tiên NAME_PROJECT
 50-57 O
 m2 O
 từ O
@@ -8318,8 +7759,6 @@ từ O
 ty O
 750 O
 . O
-
--DOCSTART- -X- -X- O
 
 Căn O
 góc O
@@ -8333,18 +7772,16 @@ ban_công O
 đẹp O
 nhất O
 dự_án O
-TSG B-NAME_PROJECT
-Lotus_Sài_Đồng I-NAME_PROJECT
+TSG NAME_PROJECT
+Lotus_Sài_Đồng NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 ☆Chuyên O
 cho O
 thuê O
 căn_hộ O
-ruby B-NAME_PROJECT
-garden I-NAME_PROJECT
+ruby NAME_PROJECT
+garden NAME_PROJECT
 , O
 Quận O
 tân_phú☆DT O
@@ -8379,8 +7816,6 @@ Liên_hệ O
 : O
 0938.648.622 O
 
--DOCSTART- -X- -X- O
-
 Ban_công O
 TB O
 giá O
@@ -8399,13 +7834,13 @@ tỷ O
 bao O
 tên.Căn O
 số O
-11 B-NUMBER_DEPARTMENT
+11 NUMBER_DEPARTMENT
 và O
 căn_số O
-16 B-NUMBER_DEPARTMENT
+16 NUMBER_DEPARTMENT
 , O
 toà O
-R4 B-NAME_BUILDING
+R4 NAME_BUILDING
 cửa O
 hướng O
 Tây O
@@ -8415,13 +7850,11 @@ hướng O
 Đông O
 . O
 
--DOCSTART- -X- -X- O
-
 Tôi O
 bán O
 lại O
 căn_hộ O
-Lavita_Charm B-NAME_PROJECT
+Lavita_Charm NAME_PROJECT
 ngã O
 tư O
 Bình_Thái O
@@ -8481,8 +7914,6 @@ và O
 dưới O
 . O
 
--DOCSTART- -X- -X- O
-
 Tổng_hợp O
 danh_sách O
 bán O
@@ -8490,18 +7921,18 @@ căn_hộ O
 ở O
 Khu O
 Đô_Thị O
-Nam_Thăng_Long B-NAME_PROJECT
+Nam_Thăng_Long NAME_PROJECT
 - O
-Ciputra B-NAME_PROJECT
+Ciputra NAME_PROJECT
 Hà_Nội O
 : O
 - O
 Tầng O
 trung O
 toà O
-G02 B-NAME_BUILDING
+G02 NAME_BUILDING
 , O
-G03 B-NAME_BUILDING
+G03 NAME_BUILDING
 DT O
 119m2 O
 , O
@@ -8516,8 +7947,6 @@ bán O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Chuyên O
 nhận O
 ký_gửi O
@@ -8526,13 +7955,11 @@ và O
 cho O
 thuê O
 căn_hộ O
-Sunrise_City B-NAME_PROJECT
+Sunrise_City NAME_PROJECT
 - O
 Sunrise_City_View_Quận O
 7 O
 . O
-
--DOCSTART- -X- -X- O
 
 Tổng_quan O
 dự_án O
@@ -8541,7 +7968,7 @@ dự_án O
 Tên O
 dự_án O
 : O
-Thủ_Thiêm_Garden B-NAME_PROJECT
+Thủ_Thiêm_Garden NAME_PROJECT
 • O
 Chủ O
 đầu_tư O
@@ -8610,12 +8037,10 @@ mang O
 thương_hiệu O
 Thủ_Thiêm O
 : O
-Thủ_Thiêm_Xanh B-NAME_PROJECT
+Thủ_Thiêm_Xanh NAME_PROJECT
 , O
-Thủ_Thiêm_Sky B-NAME_PROJECT
+Thủ_Thiêm_Sky NAME_PROJECT
 … O
-
--DOCSTART- -X- -X- O
 
 Chính O
 chủ O
@@ -8626,8 +8051,8 @@ Căn_Vinhomes_Quận O
 + O
 69m2 O
 View O
-Landmark B-NAME_BUILDING
-81 I-NAME_BUILDING
+Landmark NAME_BUILDING
+81 NAME_BUILDING
 Thoáng_Mát O
 , O
 giá O
@@ -8640,8 +8065,6 @@ LH O
 0977771919 O
 . O
 
--DOCSTART- -X- -X- O
-
 Gia_đình O
 cần O
 bán O
@@ -8651,16 +8074,14 @@ căn_hộ O
 phòng O
 ngủ O
 Chung_cư O
-Mỹ_Đình_Plaza B-NAME_PROJECT
-2 I-NAME_PROJECT
+Mỹ_Đình_Plaza NAME_PROJECT
+2 NAME_PROJECT
 , O
 Nam_Từ_Liêm O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Citizen_Trung_Sơn B-NAME_PROJECT
+Citizen_Trung_Sơn NAME_PROJECT
 , O
 căn O
 góc O
@@ -8678,14 +8099,12 @@ trieu O
 tháng O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 cắt O
 lỗ O
 căn_hộ O
-FLC B-NAME_PROJECT
-Star_Tower_Quang_Trung I-NAME_PROJECT
+FLC NAME_PROJECT
+Star_Tower_Quang_Trung NAME_PROJECT
 , O
 tầng O
 trung O
@@ -8695,17 +8114,15 @@ phòng O
 ngủ O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Cần O
 bán O
 căn_hộ O
-Prosper_Plaza B-NAME_PROJECT
+Prosper_Plaza NAME_PROJECT
 tiện O
 di_chuyển O
 đến O
-ETown_Cộng_Hoà B-NAME_BUILDING
+ETown_Cộng_Hoà NAME_BUILDING
 , O
 KCN O
 Tân_Bình O
@@ -8719,8 +8136,6 @@ T O
 Thành_phố O
 . O
 
--DOCSTART- -X- -X- O
-
 Đặc_biệt O
 có O
 1 O
@@ -8728,11 +8143,11 @@ số O
 căn O
 hot O
 như O
-G4 B-NAME_BUILDING
+G4 NAME_BUILDING
 , O
-G5 B-NAME_BUILDING
+G5 NAME_BUILDING
 , O
-G16 B-NAME_BUILDING
+G16 NAME_BUILDING
 . O
 giá O
 tốt O
@@ -8744,12 +8159,10 @@ liên_hệ O
 Ms. O
 Nguyệt O
 
--DOCSTART- -X- -X- O
-
 BÁN O
 GẤP O
 CĂN_HỘ O
-BELEZA B-NAME_PROJECT
+BELEZA NAME_PROJECT
 QUẬN O
 7 O
 , O
@@ -8774,15 +8187,13 @@ CHỈ O
 TỶ O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 * O
 * O
 Ngoài_ra O
 , O
-TSG B-NAME_PROJECT
-Lotus_Sài_Đồng I-NAME_PROJECT
+TSG NAME_PROJECT
+Lotus_Sài_Đồng NAME_PROJECT
 còn O
 là O
 dự_án O
@@ -8816,8 +8227,8 @@ năng_lượng O
 ; O
 CĐT O
 dự_án O
-TSG B-NAME_PROJECT
-Lotus_Sài_Đồng I-NAME_PROJECT
+TSG NAME_PROJECT
+Lotus_Sài_Đồng NAME_PROJECT
 nâng_cấp O
 các O
 căn_hộ O
@@ -8831,19 +8242,17 @@ thông_minh O
 Smart_Home O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Bên O
 khu O
-Park_Hil B-NAME_PROJECT
+Park_Hil NAME_PROJECT
 : O
 - O
 Căn O
 góc O
 toà O
-Park B-NAME_BUILDING
-1 I-NAME_BUILDING
+Park NAME_BUILDING
+1 NAME_BUILDING
 giá O
 5.1 O
 - O
@@ -8853,8 +8262,6 @@ bao O
 phí O
 . O
 
--DOCSTART- -X- -X- O
-
 Cơ_hội O
 sở_hữu O
 căn_hộ O
@@ -8863,7 +8270,7 @@ chuẩn O
 Singapore O
 - O
 Dự_án O
-Picity_High_Park B-NAME_PROJECT
+Picity_High_Park NAME_PROJECT
 , O
 dự_án O
 được O
@@ -8889,14 +8296,12 @@ Quận O
 12 O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Căn O
 2PN O
-L6 B-NAME_BUILDING
+L6 NAME_BUILDING
 căn_số O
-5 B-NUMBER_DEPARTMENT
+5 NUMBER_DEPARTMENT
 - O
 82m2 O
 SHV O
@@ -8946,13 +8351,11 @@ trung_tâm O
 dự_án O
 . O
 
--DOCSTART- -X- -X- O
-
 Giá O
 sốc O
 căn_hộ O
-CT8 B-NAME_PROJECT
-Mỹ_Đình I-NAME_PROJECT
+CT8 NAME_PROJECT
+Mỹ_Đình NAME_PROJECT
 cho O
 anh_chị O
 nào O
@@ -8963,11 +8366,11 @@ mới O
 ngay O
 Chuyển_nhượng O
 chung_cư O
-Emerald B-NAME_PROJECT
-- I-NAME_PROJECT
-CT8 I-NAME_PROJECT
-- I-NAME_PROJECT
-Mỹ_Đình I-NAME_PROJECT
+Emerald NAME_PROJECT
+- NAME_PROJECT
+CT8 NAME_PROJECT
+- NAME_PROJECT
+Mỹ_Đình NAME_PROJECT
 ( O
 LH O
 : O
@@ -8975,16 +8378,14 @@ LH O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 3.05 O
 tỷ O
 sở_hữu O
 căn_hộ O
 penthouse O
 đẳng_cấp O
-Eco_Dream B-NAME_PROJECT
-Nguyễn_Xiển I-NAME_PROJECT
+Eco_Dream NAME_PROJECT
+Nguyễn_Xiển NAME_PROJECT
 - O
 ngay O
 ngã O
@@ -8992,14 +8393,12 @@ tư O
 Nguyễn_Trãi O
 . O
 
--DOCSTART- -X- -X- O
-
 Chủ O
 nhà O
 cần O
 bán O
 căn_hộ O
-Park_Legend_Tân_Bình B-NAME_PROJECT
+Park_Legend_Tân_Bình NAME_PROJECT
 Vị_trí O
 : O
 Số O
@@ -9023,10 +8422,8 @@ m2 O
 Thiết_kế O
 : O
 
--DOCSTART- -X- -X- O
-
 Dự_án O
-Vista B-NAME_PROJECT
+Vista NAME_PROJECT
 - O
 View O
 sông O
@@ -9047,14 +8444,12 @@ trong O
 năm O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Cần_Bán O
 căn_hộ O
 tại O
 dự_án O
-River_Panorama B-NAME_PROJECT
+River_Panorama NAME_PROJECT
 Hoàng_Quốc O
 Việt O
 , O
@@ -9063,6 +8458,7 @@ Phú_Mỹ O
 , O
 Quận O
 7 O
+  O
 - O
 ( O
 Nội_thất O
@@ -9089,8 +8485,6 @@ tiện_nghi O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Chỉ O
 từ O
 1,3 O
@@ -9111,7 +8505,7 @@ tiện O
 ích.Căn O
 hộ O
 tại O
-Phương_Đông_Gren_Park B-NAME_PROJECT
+Phương_Đông_Gren_Park NAME_PROJECT
 là O
 căn_hộ O
 siêu O
@@ -9123,11 +8517,9 @@ trẻ O
 năng_động O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Căn_hộ O
-Marina_Tower B-NAME_PROJECT
+Marina_Tower NAME_PROJECT
 , O
 vị_trí O
 ở O
@@ -9185,8 +8577,6 @@ gần O
 2Km O
 . O
 
--DOCSTART- -X- -X- O
-
 BÁN O
 BẰNG O
 MỌI O
@@ -9196,24 +8586,22 @@ TÔI O
 CHÍNH O
 CHỦ O
 CĂN_HỘ O
-S2 B-NAME_BUILDING
+S2 NAME_BUILDING
 - O
-0905 B-NUMBER_DEPARTMENT
-VINHOMES B-NAME_PROJECT
-SYMPHONY I-NAME_PROJECT
+0905 NUMBER_DEPARTMENT
+VINHOMES NAME_PROJECT
+SYMPHONY NAME_PROJECT
 CẦN O
 BÁN O
 GẤP O
 . O
-
--DOCSTART- -X- -X- O
 
 * O
 * O
 * O
 Đặc_biệt O
 , O
-SaiGon_Riverside_Complex B-NAME_PROJECT
+SaiGon_Riverside_Complex NAME_PROJECT
 sở_hữu O
 hơn O
 50 O
@@ -9244,27 +8632,23 @@ không O
 , O
 . O
 
--DOCSTART- -X- -X- O
-
 CHÍNH O
 CHỦ O
 CẦN O
 BÁN O
 CĂN_HỘ O
-HARMONY B-NAME_BUILDING
-TOWER I-NAME_BUILDING
+HARMONY NAME_BUILDING
+TOWER NAME_BUILDING
 SƠN_TRÀ O
 , O
 ĐÀ_NẴNG O
 . O
 
--DOCSTART- -X- -X- O
-
 Kẹt O
 tiền O
 bán O
 căn_hộ O
-Imperia B-NAME_PROJECT
+Imperia NAME_PROJECT
 2PN O
 3PN O
 tầng O
@@ -9280,13 +8664,11 @@ giao.LH O
 0939053749 O
 . O
 
--DOCSTART- -X- -X- O
-
 Giới_thiệu O
 Anh_Chị O
 thông_tin O
 căn_hộ O
-Lavita_Charm B-NAME_PROJECT
+Lavita_Charm NAME_PROJECT
 vị_trí O
 mặt_tiền O
 Vành_Đai O
@@ -9299,33 +8681,27 @@ Quận O
 Thủ_Đức O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 hạng O
 sang O
-The_Marq B-NAME_PROJECT
+The_Marq NAME_PROJECT
 Quận O
 1 O
 HongKong_Land O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 2PN O
 Dự_án O
-BEA B-NAME_PROJECT
-SKY I-NAME_PROJECT
+BEA NAME_PROJECT
+SKY NAME_PROJECT
 , O
 Đường O
 Đại_lộ O
 Chu_Văn_An O
 . O
-
--DOCSTART- -X- -X- O
 
 Bán O
 căn_hộ O
@@ -9333,17 +8709,15 @@ căn_hộ O
 75.5 O
 m2 O
 Toà O
-A B-NAME_BUILDING
-Golden_West B-NAME_PROJECT
+A NAME_BUILDING
+Golden_West NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Bán O
 căn_hộ O
 chung_cư O
-Ehome B-NAME_PROJECT
-1 I-NAME_PROJECT
+Ehome NAME_PROJECT
+1 NAME_PROJECT
 , O
 Dương_Đình_Hội O
 , O
@@ -9358,8 +8732,6 @@ duy_nhất O
 căn O
 . O
 
--DOCSTART- -X- -X- O
-
 Chúng_tôi O
 chuyên O
 bán O
@@ -9367,7 +8739,7 @@ căn_hộ O
 giá O
 tốt O
 tại O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 - O
 Văn_phòng O
 tại O
@@ -9376,8 +8748,6 @@ xem O
 nhà O
 24/7 O
 . O
-
--DOCSTART- -X- -X- O
 
 250m2 O
 , O
@@ -9413,7 +8783,7 @@ tỷ O
 / O
 Vilas_Biệt O
 thự O
-Novahil_Mũi_Né B-NAME_PROJECT
+Novahil_Mũi_Né NAME_PROJECT
 sở_hữu O
 mặt O
 view_biển O
@@ -9423,16 +8793,14 @@ eo O
 Mũi_Né O
 . O
 
--DOCSTART- -X- -X- O
-
 mở O
 bán O
 chung_cư O
-H4 B-NAME_PROJECT
+H4 NAME_PROJECT
 toà O
-B B-NAME_BUILDING
+B NAME_BUILDING
 , O
-C B-NAME_BUILDING
+C NAME_BUILDING
 Linh O
 đàm O
 gọi O
@@ -9446,12 +8814,10 @@ tầng O
 Điện_thoại O
 : O
 
--DOCSTART- -X- -X- O
-
 CHUYÊN O
 CĂN_HỘ O
-VISTA B-NAME_PROJECT
-VERDE I-NAME_PROJECT
+VISTA NAME_PROJECT
+VERDE NAME_PROJECT
 GIÁ O
 TỐT O
 NHẤT O
@@ -9467,10 +8833,8 @@ VAY O
 NGÂN_HÀNG O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần_Bán_Căn_Hộ O
-Safira B-NAME_PROJECT
+Safira NAME_PROJECT
 2PN O
 - O
 67m2 O
@@ -9530,18 +8894,14 @@ chênh_lệch O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
-Gold_View B-NAME_PROJECT
+Gold_View NAME_PROJECT
 346 O
 Bến_Vân_Đồn O
 Quận O
 4 O
 . O
-
--DOCSTART- -X- -X- O
 
 0931.46.7772 O
 . O
@@ -9550,7 +8910,7 @@ nằm O
 trong O
 dự_án O
 căn_hộ O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 với O
 những O
 tiện_nghi O
@@ -9580,21 +8940,17 @@ Vinschol O
 , O
 . O
 
--DOCSTART- -X- -X- O
-
 BÁN O
 CĂN O
 2PN O
 HOT O
 NHẤT O
 DỰ_ÁN O
-TECO B-NAME_PROJECT
-DIAMOND I-NAME_PROJECT
+TECO NAME_PROJECT
+DIAMOND NAME_PROJECT
 - O
 THANH_TRÌ O
 . O
-
--DOCSTART- -X- -X- O
 
 Tháng O
 6 O
@@ -9609,12 +8965,10 @@ chung_cư O
 ngủ O
 của O
 toà O
-Citadines B-NAME_BUILDING
+Citadines NAME_BUILDING
 bên O
 Bãi_Cháy O
 . O
-
--DOCSTART- -X- -X- O
 
 CHÍNH_SÁCH O
 BẤT_NGỜ O
@@ -9623,18 +8977,16 @@ KHI O
 MUA O
 CĂN_HỘ O
 CHUNG_CƯ O
-LOTUS B-NAME_PROJECT
-CENTRAL I-NAME_PROJECT
-BẮC_NINH I-NAME_PROJECT
+LOTUS NAME_PROJECT
+CENTRAL NAME_PROJECT
+BẮC_NINH NAME_PROJECT
 . O
 
--DOCSTART- -X- -X- O
-
 Căn O
-08 B-NUMBER_DEPARTMENT
+08 NUMBER_DEPARTMENT
 toà O
-G B-NAME_BUILDING
-2 I-NAME_BUILDING
+G NAME_BUILDING
+2 NAME_BUILDING
 : O
 Cửa O
 Đông O
@@ -9652,8 +9004,6 @@ phí O
 9 O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 , O
 ban_công O
@@ -9665,19 +9015,17 @@ siêu O
 , O
 ngay O
 chung_cư O
-Sky_Center B-NAME_PROJECT
+Sky_Center NAME_PROJECT
 đường O
 Thích_Minh_Nguyệt_Tân O
 Bình O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Vị_trí O
 : O
 Chung_cư O
-B6C B-NAME_PROJECT
+B6C NAME_PROJECT
 , O
 Đường O
 Nguyễn_Chánh O
@@ -9690,8 +9038,6 @@ Cầu_Giấy O
 , O
 Hà_Nội O
 . O
-
--DOCSTART- -X- -X- O
 
 + O
 Phòng O
@@ -9713,7 +9059,7 @@ ngoài_trời O
 của O
 toàn O
 dự_án O
-Feliz_En_Vista B-NAME_PROJECT
+Feliz_En_Vista NAME_PROJECT
 : O
 Rạp O
 chiếu_phim O
@@ -9755,13 +9101,11 @@ Quận O
 2 O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Vị_trí O
 : O
 Chung_cư O
-B6C B-NAME_PROJECT
+B6C NAME_PROJECT
 , O
 Đường O
 Nguyễn_Chánh O
@@ -9775,17 +9119,15 @@ Cầu_Giấy O
 Hà_Nội O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 2PN O
 ful O
 nội_thất O
 , O
 trong O
-KDC B-NAME_BUILDING
-13B I-NAME_BUILDING
-Conic I-NAME_BUILDING
+KDC NAME_BUILDING
+13B NAME_BUILDING
+Conic NAME_BUILDING
 DT O
 76 O
 m2 O
@@ -9798,9 +9140,7 @@ giá O
 triệu O
 . O
 
--DOCSTART- -X- -X- O
-
-D-HOME B-NAME_PROJECT
+D-HOME NAME_PROJECT
 vị_trí O
 vàng O
 mặt_tiền O
@@ -9813,8 +9153,6 @@ hiện_nay O
 tại O
 Q6 O
 . O
-
--DOCSTART- -X- -X- O
 
 + O
 Tặng O
@@ -9829,8 +9167,8 @@ Bản.Thiết O
 kế O
 căn_hộ O
 Q7 O
-Sài_Gòn B-NAME_PROJECT
-Riverside I-NAME_PROJECT
+Sài_Gòn NAME_PROJECT
+Riverside NAME_PROJECT
 : O
 + O
 2 O
@@ -9846,8 +9184,6 @@ tỷ O
 850 O
 . O
 
--DOCSTART- -X- -X- O
-
 Vì O
 sao O
 thị_trường O
@@ -9856,7 +9192,7 @@ BĐS O
 chững O
 mà O
 căn_hộ O
-Soleil B-NAME_PROJECT
+Soleil NAME_PROJECT
 Đà_Nẵng O
 bán O
 HOT O
@@ -9864,11 +9200,9 @@ HOT O
 vậy O
 ? O
 
--DOCSTART- -X- -X- O
-
 - O
 Dự_án O
-The_City_Light B-NAME_PROJECT
+The_City_Light NAME_PROJECT
 toạ_lạc O
 tại O
 trung_tâm O
@@ -9901,8 +9235,6 @@ Sumitomo-Nhật O
 Bản O
 . O
 
--DOCSTART- -X- -X- O
-
 Bảng O
 giá O
 cập_nhật O
@@ -9916,7 +9248,7 @@ Times O
 Căn O
 53m2 O
 toà O
-T8 B-NAME_BUILDING
+T8 NAME_BUILDING
 giá O
 1.9 O
 - O
@@ -9926,7 +9258,7 @@ tỷ O
 Căn O
 53m2 O
 toà O
-T11 B-NAME_BUILDING
+T11 NAME_BUILDING
 giá O
 2.05-2.150 O
 tỷ O
@@ -9934,15 +9266,15 @@ tỷ O
 Căn O
 75m2 O
 toà O
-T1 B-NAME_BUILDING
+T1 NAME_BUILDING
 , O
-4 B-NAME_BUILDING
+4 NAME_BUILDING
 , O
-5 B-NAME_BUILDING
+5 NAME_BUILDING
 , O
-6 B-NAME_BUILDING
+6 NAME_BUILDING
 , O
-7 B-NAME_BUILDING
+7 NAME_BUILDING
 , O
 giá O
 2.65 O
@@ -9955,11 +9287,11 @@ Căn O
 căn O
 hoa_hậu O
 toà O
-T5 B-NAME_BUILDING
+T5 NAME_BUILDING
 , O
-6 B-NAME_BUILDING
+6 NAME_BUILDING
 , O
-7 B-NAME_BUILDING
+7 NAME_BUILDING
 , O
 giá O
 3.3 O
@@ -9974,13 +9306,13 @@ tầng O
 trung O
 , O
 toà O
-T4 B-NAME_BUILDING
+T4 NAME_BUILDING
 , O
-5 B-NAME_BUILDING
+5 NAME_BUILDING
 , O
-6 B-NAME_BUILDING
+6 NAME_BUILDING
 , O
-7 B-NAME_BUILDING
+7 NAME_BUILDING
 , O
 giá O
 2.95 O
@@ -9996,7 +9328,7 @@ tầng O
 trung O
 , O
 toà O
-T1 B-NAME_BUILDING
+T1 NAME_BUILDING
 , O
 giá O
 3.2 O
@@ -10007,23 +9339,19 @@ hồng_cầu O
 Vĩnh_Tuy O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Ocean_Vista_Phan_Thiết B-NAME_PROJECT
+Ocean_Vista_Phan_Thiết NAME_PROJECT
 Bình_Thuận O
 . O
-
--DOCSTART- -X- -X- O
 
 Chủ O
 bán O
 trực_tiếp O
 chung_cư O
-C1 B-NAME_PROJECT
-Thanh_Nhàn I-NAME_PROJECT
-- I-NAME_PROJECT
-Bạch_Mai I-NAME_PROJECT
+C1 NAME_PROJECT
+Thanh_Nhàn NAME_PROJECT
+- NAME_PROJECT
+Bạch_Mai NAME_PROJECT
 , O
 căn_hộ O
 1-2 O
@@ -10032,8 +9360,6 @@ ngủ O
 đầy_đủ O
 nội_thất O
 . O
-
--DOCSTART- -X- -X- O
 
 Dự_án O
 sở_hữu O
@@ -10047,10 +9373,10 @@ Tố_Hữu O
 nằm O
 trong O
 KĐT O
-An_Hưng B-NAME_PROJECT
+An_Hưng NAME_PROJECT
 và O
 KĐT O
-Nam_Cường B-NAME_PROJECT
+Nam_Cường NAME_PROJECT
 , O
 cơ_sở_hạ_tầng O
 xung_quanh O
@@ -10060,15 +9386,13 @@ dự_án O
 3 O
 . O
 
--DOCSTART- -X- -X- O
-
 Tôi O
 có O
 căn_hộ O
 tầng O
 cao O
-Sơn_Trà B-NAME_PROJECT
-Ocean_View I-NAME_PROJECT
+Sơn_Trà NAME_PROJECT
+Ocean_View NAME_PROJECT
 đã O
 trang_bị O
 nội_thất O
@@ -10083,10 +9407,8 @@ một O
 gia_đình O
 . O
 
--DOCSTART- -X- -X- O
-
 Chung_cư O
-Bea_Sky B-NAME_PROJECT
+Bea_Sky NAME_PROJECT
 Nguyễn_Xiển O
 : O
 không_gian O
@@ -10103,11 +9425,9 @@ xe O
 sang O
 . O
 
--DOCSTART- -X- -X- O
-
 Phòng O
 dự_án O
-Bea_Sky B-NAME_PROJECT
+Bea_Sky NAME_PROJECT
 để O
 được O
 hỗ_trợ O
@@ -10117,18 +9437,14 @@ thông_tin O
 dự_án O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Q7 B-NAME_PROJECT
-Saigon_Riverside I-NAME_PROJECT
+Q7 NAME_PROJECT
+Saigon_Riverside NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Căn_hộ O
-Skyvila B-NAME_PROJECT
+Skyvila NAME_PROJECT
 : O
 130 O
 - O
@@ -10136,11 +9452,9 @@ Skyvila B-NAME_PROJECT
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 SANG_NHƯỢNG O
 CHUNG_CƯ O
-YERSIN B-NAME_PROJECT
+YERSIN NAME_PROJECT
 - O
 PHƯỜNG O
 9 O
@@ -10149,33 +9463,27 @@ TP O
 ĐÀ_LẠT O
 . O
 
--DOCSTART- -X- -X- O
-
 cần O
 share O
 gấp O
 căn_hộ O
-Hoàng_Anh B-NAME_PROJECT
-Gold_House I-NAME_PROJECT
+Hoàng_Anh NAME_PROJECT
+Gold_House NAME_PROJECT
 cho O
 sinh_viên O
 . O
-
--DOCSTART- -X- -X- O
 
 Tên O
 chính_thức O
 dự_án O
 : O
-West_Gate B-NAME_PROJECT
+West_Gate NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Bán O
 căn_hộ O
-219 B-NAME_PROJECT
-Trung_Kính I-NAME_PROJECT
+219 NAME_PROJECT
+Trung_Kính NAME_PROJECT
 , O
 2PN O
 , O
@@ -10195,9 +9503,9 @@ Căn_hộ O
 nằm O
 tại O
 toà O
-B B-NAME_BUILDING
-219 B-NAME_PROJECT
-Trung_Kính I-NAME_PROJECT
+B NAME_BUILDING
+219 NAME_PROJECT
+Trung_Kính NAME_PROJECT
 , O
 quận O
 Cầu_Giấy O
@@ -10237,8 +9545,6 @@ cực_kì O
 đẹp O
 . O
 
--DOCSTART- -X- -X- O
-
 Khả_năng O
 lên O
 giá O
@@ -10250,10 +9556,11 @@ dễ O
 ngắn_hạn O
 và O
 dài O
-hạn.𝐁𝐈𝐄𝐍 B-NAME_PROJECT
-𝐇𝐎𝐀 I-NAME_PROJECT
-𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄 I-NAME_PROJECT
-𝐂𝐎𝐌𝐏𝐋𝐄𝐗 I-NAME_PROJECT
+hạn. O
+𝐁𝐈𝐄𝐍 NAME_PROJECT
+𝐇𝐎𝐀 NAME_PROJECT
+𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄 NAME_PROJECT
+𝐂𝐎𝐌𝐏𝐋𝐄𝐗 NAME_PROJECT
 - O
 𝐂Ă𝐍 O
 𝐇Ộ O
@@ -10272,8 +9579,6 @@ Tập_đoàn O
 Hưng_Thịnh O
 phát_triển O
 . O
-
--DOCSTART- -X- -X- O
 
 N O
 hà O
@@ -10295,8 +9600,9 @@ lạnh_giá O
 10 O
 tr O
 / O
-thángCarilon B-NAME_PROJECT
-3 I-NAME_PROJECT
+tháng O
+Carilon NAME_PROJECT
+3 NAME_PROJECT
 nằm O
 tại O
 khu_vực O
@@ -10321,12 +9627,10 @@ phút O
 xe O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 Chủ O
 Cần_Bán_Căn_Hộ O
-Vinhomes_Ocean_Park B-NAME_PROJECT
+Vinhomes_Ocean_Park NAME_PROJECT
 47 O
 M O
 2-2 O
@@ -10337,19 +9641,15 @@ Lâm-1 O
 Tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 ( O
 đối_diện O
 khu O
 BT O
 hoa O
 anh_đào O
-Vinhomes_Riverside B-NAME_PROJECT
+Vinhomes_Riverside NAME_PROJECT
 ) O
 . O
-
--DOCSTART- -X- -X- O
 
 8 O
 suất O
@@ -10358,31 +9658,25 @@ giá O
 tốt O
 nhất O
 dự_án O
-grand B-NAME_PROJECT
-center I-NAME_PROJECT
-quy I-NAME_PROJECT
-nhơn I-NAME_PROJECT
+grand NAME_PROJECT
+center NAME_PROJECT
+quy NAME_PROJECT
+nhơn NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 + O
 Khu O
-North B-NAME_PROJECT
+North NAME_PROJECT
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_Hộ O
-Lotus_Tân_Phú B-NAME_PROJECT
+Lotus_Tân_Phú NAME_PROJECT
 Ful O
 nội_thất O
 0938.648.622 O
 . O
 
--DOCSTART- -X- -X- O
-
-Lam_Sơn_Real B-NAME_PROJECT
+Lam_Sơn_Real NAME_PROJECT
 : O
 Bán O
 căn_hộ O
@@ -10393,13 +9687,11 @@ view O
 ngây_ngất O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 chung_cư O
 KĐT O
-Đặng_Xá B-NAME_PROJECT
-CT5 B-NAME_BUILDING
+Đặng_Xá NAME_PROJECT
+CT5 NAME_BUILDING
 , O
 2pn O
 2vs O
@@ -10410,15 +9702,13 @@ tầng O
 đẹp O
 . O
 
--DOCSTART- -X- -X- O
-
 MỞ O
 BÁN O
 100 O
 CĂN O
 CUỐI O
-MỸ_ĐÌNH B-NAME_PROJECT
-PEARL I-NAME_PROJECT
+MỸ_ĐÌNH NAME_PROJECT
+PEARL NAME_PROJECT
 , O
 ƯU_ĐÃI O
 CHIẾT_KHẤU O
@@ -10428,16 +9718,12 @@ HOTLINE O
 CĐT O
 : O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn O
-Penthouse_Hoàng_Anh_Gia B-NAME_PROJECT
-Lai I-NAME_PROJECT
-3 I-NAME_PROJECT
+Penthouse_Hoàng_Anh_Gia NAME_PROJECT
+Lai NAME_PROJECT
+3 NAME_PROJECT
 : O
-
--DOCSTART- -X- -X- O
 
 Trên O
 quỹ O
@@ -10447,7 +9733,7 @@ m2 O
 , O
 căn_hộ O
 du_lịch O
-Marina_Suites B-NAME_PROJECT
+Marina_Suites NAME_PROJECT
 có O
 đến O
 3 O
@@ -10481,8 +9767,6 @@ của O
 bạn O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Là O
 dự_án O
@@ -10505,7 +9789,7 @@ Coastal_Living_Land O
 là O
 CĐT O
 của O
-Oceanami B-NAME_PROJECT
+Oceanami NAME_PROJECT
 5 O
 sao O
 - O
@@ -10555,16 +9839,14 @@ chỉ O
 15% O
 . O
 
--DOCSTART- -X- -X- O
-
 Bên O
 cạnh O
 đó O
 , O
 dự_án O
-D B-NAME_PROJECT
-' I-NAME_PROJECT
-Luso I-NAME_PROJECT
+D NAME_PROJECT
+' NAME_PROJECT
+Luso NAME_PROJECT
 còn O
 mang O
 đến O
@@ -10618,8 +9900,8 @@ nhiều O
 dự_án O
 vd O
 như O
-Centana B-NAME_PROJECT
-Thủ_Thiêm I-NAME_PROJECT
+Centana NAME_PROJECT
+Thủ_Thiêm NAME_PROJECT
 bàn_giao O
 nhà O
 2018 O
@@ -10632,8 +9914,6 @@ vào O
 2019 O
 . O
 
--DOCSTART- -X- -X- O
-
 0938393820 O
 . O
 - O
@@ -10642,7 +9922,7 @@ DT O
 m2 O
 - O
 Toà O
-S B-NAME_BUILDING
+S NAME_BUILDING
 2.05 O
 tầng O
 04 O
@@ -10652,8 +9932,6 @@ bán O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 83m O
@@ -10661,12 +9939,10 @@ giá O
 rẻ O
 cuối_cùng O
 dự_án O
-6th B-NAME_PROJECT
-Element I-NAME_PROJECT
+6th NAME_PROJECT
+Element NAME_PROJECT
 Tây_Hồ_Tây O
 . O
-
--DOCSTART- -X- -X- O
 
 Kẹt O
 tiền O
@@ -10675,19 +9951,17 @@ gấp O
 căn_hộ O
 85m2 O
 tại O
-c B-NAME_PROJECT
-era I-NAME_PROJECT
-tơn I-NAME_PROJECT
-Đức I-NAME_PROJECT
-Khải I-NAME_PROJECT
+c NAME_PROJECT
+era NAME_PROJECT
+tơn NAME_PROJECT
+Đức NAME_PROJECT
+Khải NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Toà O
-Sun_CH B-NAME_BUILDING
-07 I-NAME_BUILDING
+Sun_CH NAME_BUILDING
+07 NAME_BUILDING
 diện_tích O
 94,7 O
 m2 O
@@ -10696,7 +9970,7 @@ căn O
 góc O
 view O
 KĐT O
-Starlake B-NAME_PROJECT
+Starlake NAME_PROJECT
 , O
 đường O
 Võ_Chí_Công O
@@ -10706,8 +9980,6 @@ giá O
 4.05 O
 tỷ O
 . O
-
--DOCSTART- -X- -X- O
 
 Hết O
 hợp_đồng O
@@ -10721,7 +9993,7 @@ cho O
 thuê O
 lại O
 căn_hộ O
-Vinhomes_Central_Park B-NAME_PROJECT
+Vinhomes_Central_Park NAME_PROJECT
 , O
 2 O
 phòng O
@@ -10766,8 +10038,6 @@ thương_mại O
 , O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Căn O
 3 O
@@ -10775,7 +10045,7 @@ phòng O
 ngủ O
 : O
 Tháp O
-Cruz B-NAME_BUILDING
+Cruz NAME_BUILDING
 | O
 đầy_đủ O
 nội_thất O
@@ -10786,7 +10056,7 @@ DT O
 giá O
 7.1 O
 tỷ.Tháp O
-Altaz B-NAME_BUILDING
+Altaz NAME_BUILDING
 | O
 Duplex O
 | O
@@ -10801,14 +10071,12 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn O
 góc O
 4PN O
 135m2 O
 , O
-W1 B-NAME_BUILDING
+W1 NAME_BUILDING
 hướng O
 Đông_Nam O
 view O
@@ -10825,17 +10093,15 @@ tỷ O
 7 O
 . O
 
--DOCSTART- -X- -X- O
-
 BÁN O
 GIẢM O
 LỖ O
 CĂN O
 102M2 O
 CHUNG_CƯ O
-BOYOUNG B-NAME_PROJECT
-MỖ I-NAME_PROJECT
-LAO I-NAME_PROJECT
+BOYOUNG NAME_PROJECT
+MỖ NAME_PROJECT
+LAO NAME_PROJECT
 GIÁ O
 2,547 O
 TỶ O
@@ -10846,8 +10112,6 @@ NGAY O
 420TR O
 . O
 
--DOCSTART- -X- -X- O
-
 Liên_tục O
 cập_nhật O
 quỹ O
@@ -10855,13 +10119,11 @@ căn O
 bán O
 lại O
 chuyển_nhượng O
-vinhomes B-NAME_PROJECT
-Skylake I-NAME_PROJECT
+vinhomes NAME_PROJECT
+Skylake NAME_PROJECT
 . O
 
--DOCSTART- -X- -X- O
-
-Sky_Linked_Vila B-NAME_PROJECT
+Sky_Linked_Vila NAME_PROJECT
 : O
 2 O
 Phòng O
@@ -10872,8 +10134,6 @@ Phòng O
 ngủ O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 gấp O
 căn_hộ O
@@ -10881,14 +10141,14 @@ quận O
 2 O
 , O
 chung_cư O
-Petroland B-NAME_PROJECT
+Petroland NAME_PROJECT
 ần O
 bán O
 căn_hộ O
 81m2 O
 tại O
 chung_cư O
-Petroland B-NAME_PROJECT
+Petroland NAME_PROJECT
 quận O
 2 O
 . O
@@ -10899,16 +10159,15 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Giá O
 bán O
 9.300.000.000 O
 đ O
+  O
 - O
 Căn_Penthouse O
 tháp O
-A B-NAME_BUILDING
+A NAME_BUILDING
 , O
 DT O
 240m2 O
@@ -10925,9 +10184,7 @@ toàn_bộ O
 nội_thất O
 . O
 
--DOCSTART- -X- -X- O
-
-Garden B-NAME_PROJECT
+Garden NAME_PROJECT
 tại O
 Dĩ_An O
 , O
@@ -10948,16 +10205,14 @@ căn O
 1WC O
 . O
 
--DOCSTART- -X- -X- O
-
 CHÍNH O
 CHỦ O
 CẦN O
 BÁN O
 GẤP O
 CĂN_HỘ O
-HAPY B-NAME_PROJECT
-CITY I-NAME_PROJECT
+HAPY NAME_PROJECT
+CITY NAME_PROJECT
 , O
 ĐƯỜNG O
 NGUYỄN_VĂN O
@@ -10966,14 +10221,12 @@ LINH O
 BÌNH_CHÁNH O
 . O
 
--DOCSTART- -X- -X- O
-
 Cho O
 thuê O
 căn_hộ O
-PetrolandMark B-NAME_PROJECT
-– I-NAME_PROJECT
-Mai_Chí_Thọ I-NAME_PROJECT
+PetrolandMark NAME_PROJECT
+– NAME_PROJECT
+Mai_Chí_Thọ NAME_PROJECT
 Số O
 70 O
 Mai_Chí_Thọ O
@@ -10992,13 +10245,11 @@ cao O
 Diện_tích O
 : O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 cần O
 bán O
-Lavita_Garden B-NAME_PROJECT
+Lavita_Garden NAME_PROJECT
 , O
 2 O
 phòng O
@@ -11014,14 +10265,12 @@ giá O
 tốt O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Khu O
 phức_hợp O
-Celadon_Sport B-NAME_PROJECT
-& I-NAME_PROJECT
-Resort_Club I-NAME_PROJECT
+Celadon_Sport NAME_PROJECT
+& NAME_PROJECT
+Resort_Club NAME_PROJECT
 với O
 trang_thiết_bị O
 hiện_đại O
@@ -11051,18 +10300,17 @@ yoga O
 nhà_hàng O
 . O
 
--DOCSTART- -X- -X- O
-
 + O
 3PN O
 109m2 O
 giá O
 5.2 O
 tỷ O
-ful.Sunrise_City B-NAME_PROJECT
+ful. O
+Sunrise_City NAME_PROJECT
 : O
 Khu O
-North B-NAME_PROJECT
+North NAME_PROJECT
 : O
 + O
 40m2 O
@@ -11075,8 +10323,6 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Giá O
 bán O
 10.5 O
@@ -11084,7 +10330,7 @@ tỷ O
 - O
 Căn_Penthouse O
 tháp O
-A B-NAME_BUILDING
+A NAME_BUILDING
 , O
 DT O
 297m2 O
@@ -11097,10 +10343,8 @@ nhau O
 4PN O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-The_Golden_Palm B-NUMBER_DEPARTMENT
+The_Golden_Palm NUMBER_DEPARTMENT
 2 O
 phòng O
 ngủ O
@@ -11109,10 +10353,8 @@ diện_tích O
 81m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 CĂN_HỘ O
-DUPLEX B-NAME_PROJECT
+DUPLEX NAME_PROJECT
 NGAY O
 TRUNG_TÂM O
 QUẬN O
@@ -11197,10 +10439,8 @@ mát O
 Tiện_ích O
 : O
 
--DOCSTART- -X- -X- O
-
 Chung_cư O
-Miếu_Nổi B-NAME_PROJECT
+Miếu_Nổi NAME_PROJECT
 ( O
 18 O
 tầng O
@@ -11209,11 +10449,9 @@ tầng O
 Vũ_Huy_Tấn O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Toà O
-2B B-NAME_BUILDING
+2B NAME_BUILDING
 tầng O
 cao_giá O
 2.5 O
@@ -11226,7 +10464,7 @@ sổ O
 ) O
 - O
 Toà O
-1B B-NAME_BUILDING
+1B NAME_BUILDING
 tầng O
 thấp O
 giá O
@@ -11240,7 +10478,7 @@ sổ O
 ) O
 - O
 Toà O
-1A B-NAME_BUILDING
+1A NAME_BUILDING
 tầng O
 trung O
 giá O
@@ -11254,7 +10492,7 @@ sổ O
 ) O
 - O
 Toà O
-2A B-NAME_BUILDING
+2A NAME_BUILDING
 tầng O
 cao_giá O
 2.8 O
@@ -11271,7 +10509,7 @@ Căn O
 m2 O
 - O
 Toà O
-2B B-NAME_BUILDING
+2B NAME_BUILDING
 tầng O
 trung O
 giá O
@@ -11285,7 +10523,7 @@ sổ O
 ) O
 - O
 Toà O
-2B B-NAME_BUILDING
+2B NAME_BUILDING
 tầng O
 cao_giá O
 2.8 O
@@ -11319,8 +10557,6 @@ chủ O
 nhà O
 . O
 
--DOCSTART- -X- -X- O
-
 50m2 O
 , O
 DTSD O
@@ -11348,7 +10584,7 @@ và O
 Công_Nghệ O
 , O
 cách O
-Times_City B-NAME_PROJECT
+Times_City NAME_PROJECT
 10p O
 đi O
 bộ O
@@ -11377,12 +10613,10 @@ tr O
 tháng O
 . O
 
--DOCSTART- -X- -X- O
-
 CẦN O
 BÁN O
 CĂN_HỘ O
-DOCKLANDS B-NAME_PROJECT
+DOCKLANDS NAME_PROJECT
 73M2 O
 GIÁ O
 2.99 O
@@ -11390,8 +10624,6 @@ TỶ O
 FUL O
 NỘI_THẤT O
 . O
-
--DOCSTART- -X- -X- O
 
 097.113.1101 O
 . O
@@ -11404,19 +10636,17 @@ căn_hộ O
 số O
 08 O
 toà O
-CT2 B-NAME_BUILDING
+CT2 NAME_BUILDING
 dự_án O
-Eco_Gren B-NAME_PROJECT
+Eco_Gren NAME_PROJECT
 286 O
 Nguyễn_Xiển O
 . O
 
--DOCSTART- -X- -X- O
-
 Cho O
 thuê O
 chung_cư O
-Newton_Residence B-NAME_PROJECT
+Newton_Residence NAME_PROJECT
 giá O
 tốt.Diện O
 tích O
@@ -11486,28 +10716,26 @@ khu O
 thương_mại O
 … O
 
--DOCSTART- -X- -X- O
-
-S B-NUMBER_DEPARTMENT
-1.1005 I-NUMBER_DEPARTMENT
+S NUMBER_DEPARTMENT
+1.1005 NUMBER_DEPARTMENT
 giá O
 2,45 O
-tỷ.S B-NUMBER_DEPARTMENT
-2 I-NUMBER_DEPARTMENT
-. I-NUMBER_DEPARTMENT
-2010 I-NUMBER_DEPARTMENT
+tỷ. O
+S2 NUMBER_DEPARTMENT
+. NUMBER_DEPARTMENT
+2010 NUMBER_DEPARTMENT
 giá O
 2,35 O
-tỷ.S B-NUMBER_DEPARTMENT
-2.2812 I-NUMBER_DEPARTMENT
+tỷ. O
+S2.2812 NUMBER_DEPARTMENT
 giá O
 2,5 O
-tỷ.S B-NUMBER_DEPARTMENT
-3.3012 I-NUMBER_DEPARTMENT
+tỷ. O
+S3.3012 NUMBER_DEPARTMENT
 giá O
 2,5 O
-tỷ.S B-NUMBER_DEPARTMENT
-3.2711 I-NUMBER_DEPARTMENT
+tỷ. O
+S3.2711 NUMBER_DEPARTMENT
 giá O
 2.6 O
 tỷ.LH O
@@ -11520,16 +10748,14 @@ thị_trường O
 quỹ O
 căn_hộ O
 ở O
-Skylake B-NAME_PROJECT
+Skylake NAME_PROJECT
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 CĂN_HỘ O
-WYNDHAM B-NAME_PROJECT
-SOLEIL I-NAME_PROJECT
-ĐÀ_NẴNG I-NAME_PROJECT
+WYNDHAM NAME_PROJECT
+SOLEIL NAME_PROJECT
+ĐÀ_NẴNG NAME_PROJECT
 VIEW O
 CÔNG_VIÊN O
 BIỂN O
@@ -11539,8 +10765,6 @@ VÕ O
 NGUYÊN O
 GIÁP O
 . O
-
--DOCSTART- -X- -X- O
 
 * O
 Căn O
@@ -11552,7 +10776,7 @@ ngủ O
 84m2 O
 , O
 toà O
-Ruby B-NAME_BUILDING
+Ruby NAME_BUILDING
 , O
 ful O
 nội_thất O
@@ -11580,15 +10804,13 @@ thương_lượng O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 căn_hộ O
 ngay O
 khu O
 đô_thị O
-Phú_Mỹ_Hưng B-NAME_PROJECT
+Phú_Mỹ_Hưng NAME_PROJECT
 Quận O
 7 O
 , O
@@ -11608,8 +10830,6 @@ PN O
 WC O
 . O
 
--DOCSTART- -X- -X- O
-
 Tôi O
 cần O
 bán O
@@ -11617,17 +10837,15 @@ gấp O
 căn O
 95m2 O
 chung_cư O
-Boyoung B-NAME_PROJECT
+Boyoung NAME_PROJECT
 , O
 Hà_Đông O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Toà O
-Sun_CH B-NAME_BUILDING
-06 I-NAME_BUILDING
+Sun_CH NAME_BUILDING
+06 NAME_BUILDING
 diện_tích O
 94,7 O
 m2 O
@@ -11648,8 +10866,6 @@ từ O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 tầng O
@@ -11660,10 +10876,8 @@ của O
 chủ O
 đầu_tư O
 tại O
-Hateco_Xuân_Phương B-NAME_PROJECT
+Hateco_Xuân_Phương NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Đăng_ký O
@@ -11671,7 +10885,7 @@ nhận O
 thông_tin O
 chi_tiết O
 dự_án O
-The_Sóng B-NAME_PROJECT
+The_Sóng NAME_PROJECT
 bằng O
 cách O
 inbox O
@@ -11680,13 +10894,11 @@ cal O
 trực_tiếp O
 . O
 
--DOCSTART- -X- -X- O
-
 Cho O
 thuê O
 căn_hộ O
 chung_cư O
-Topaz_City B-NAME_PROJECT
+Topaz_City NAME_PROJECT
 , O
 195 O
 Cao_Lỗ O
@@ -11705,11 +10917,9 @@ Q O
 4 O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 cao_cấp O
-Orchard_Garden B-NAME_PROJECT
+Orchard_Garden NAME_PROJECT
 73m2 O
 , O
 2 O
@@ -11762,8 +10972,6 @@ Tp_HCM_Diện O
 tích O
 : O
 
--DOCSTART- -X- -X- O
-
 - O
 Ân O
 hạn O
@@ -11808,9 +11016,9 @@ lịch O
 xem O
 căn_hộ O
 chung_cư O
-D B-NAME_PROJECT
-' I-NAME_PROJECT
-Capitale I-NAME_PROJECT
+D NAME_PROJECT
+' NAME_PROJECT
+Capitale NAME_PROJECT
 , O
 vui_lòng O
 liên_hệ O
@@ -11818,31 +11026,25 @@ số O
 điện_thoại O
 : O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 chung_cư O
-Thịnh_Vượng B-NAME_PROJECT
+Thịnh_Vượng NAME_PROJECT
 đường O
 Nguyễn_Duy_Trinh O
 . O
-
--DOCSTART- -X- -X- O
 
 Lý_do O
 để O
 chọn O
 chung_cư O
 cao_cấp O
-The_Park_Home_Cầu B-NAME_PROJECT
-Giấy I-NAME_PROJECT
+The_Park_Home_Cầu NAME_PROJECT
+Giấy NAME_PROJECT
 Chủ O
 đầu_tư O
 uy_tín O
 . O
-
--DOCSTART- -X- -X- O
 
 Cần O
 bán O
@@ -11853,18 +11055,16 @@ tầng O
 A1 O
 khu O
 đô_thị O
-VCN B-NAME_PROJECT
-Phước_Hải I-NAME_PROJECT
+VCN NAME_PROJECT
+Phước_Hải NAME_PROJECT
 , O
 Nha_Trạng O
 , O
 Khánh_Hoà O
 . O
 
--DOCSTART- -X- -X- O
-
 Khu O
-Diamond_BriliaNT B-NAME_PROJECT
+Diamond_BriliaNT NAME_PROJECT
 : O
 3 O
 Block O
@@ -11894,8 +11094,6 @@ tỷ O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Loại O
 2 O
@@ -11909,8 +11107,8 @@ căn O
 đang O
 giữ O
 chìa O
-khoá.T B-NAME_BUILDING
-1 I-NAME_BUILDING
+khoá. O
+T1 NAME_BUILDING
 : O
 Căn O
 07 O
@@ -11925,8 +11123,8 @@ căn O
 05 O
 giá O
 3.6 O
-tỷ.T B-NAME_BUILDING
-2 I-NAME_BUILDING
+tỷ. O
+T2 NAME_BUILDING
 : O
 Căn O
 03 O
@@ -11936,8 +11134,6 @@ view O
 sông O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 căn_hộ O
@@ -11945,8 +11141,8 @@ căn_hộ O
 chung_cư O
 I O
 - O
-Home B-NAME_PROJECT
-1 I-NAME_PROJECT
+Home NAME_PROJECT
+1 NAME_PROJECT
 , O
 mặt_tiền O
 đường O
@@ -11957,8 +11153,6 @@ Gò_Vấp O
 Hồ_Chí_Minh O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Giường O
 , O
@@ -11968,7 +11162,8 @@ bàn O
 , O
 ghế O
 đầy O
-đủ.Tropic_Garden B-NAME_PROJECT
+đủ. O
+Tropic_Garden NAME_PROJECT
 là O
 căn_hộ O
 cao_cấp O
@@ -11991,10 +11186,8 @@ Siêu_thị O
 Citi_Mart O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
-Celadon_City B-NAME_PROJECT
+Celadon_City NAME_PROJECT
 - O
 Khu O
 đô_thị O
@@ -12039,8 +11232,6 @@ chương_trình O
 khuyến_mãi O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Loại O
 2 O
@@ -12054,37 +11245,36 @@ căn O
 đang O
 giữ O
 chìa O
-khoá.T B-NAME_BUILDING
-1 I-NAME_BUILDING
+khoá. O
+T NAME_BUILDING
+1 NAME_BUILDING
 : O
 Căn O
-07 B-NUMBER_DEPARTMENT
+07 NUMBER_DEPARTMENT
 , O
-08 B-NUMBER_DEPARTMENT
+08 NUMBER_DEPARTMENT
 view O
 TP O
 , O
 căn O
-04 B-NUMBER_DEPARTMENT
+04 NUMBER_DEPARTMENT
 , O
-05 B-NUMBER_DEPARTMENT
+05 NUMBER_DEPARTMENT
 giá O
 3.4 O
 tỷ.T O
 2 O
 : O
 Căn O
-03 B-NUMBER_DEPARTMENT
+03 NUMBER_DEPARTMENT
 , O
-04 B-NUMBER_DEPARTMENT
+04 NUMBER_DEPARTMENT
 view O
 sông O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Oficetel_Silver_Star B-NAME_PROJECT
+Oficetel_Silver_Star NAME_PROJECT
 toạ_lạc O
 tại O
 ngay O
@@ -12098,13 +11288,11 @@ m O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 bán O
 căn_hộ O
-Gren_Town_Bình_Tân B-NAME_PROJECT
+Gren_Town_Bình_Tân NAME_PROJECT
 căn O
 góc O
 52.7 O
@@ -12120,8 +11308,6 @@ rẻ O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 * O
 Chuyên O
 bán O
@@ -12129,32 +11315,30 @@ và O
 cho O
 thuê O
 căn_hộ O
-Kingston_Residence B-NAME_PROJECT
+Kingston_Residence NAME_PROJECT
 , O
-The_Botanica B-NAME_PROJECT
+The_Botanica NAME_PROJECT
 , O
-Botanica_Premier B-NAME_PROJECT
+Botanica_Premier NAME_PROJECT
 , O
-Golden_Mansion B-NAME_PROJECT
+Golden_Mansion NAME_PROJECT
 , O
-Garden_Gate B-NAME_PROJECT
+Garden_Gate NAME_PROJECT
 , O
-Orchard_Garden B-NAME_PROJECT
+Orchard_Garden NAME_PROJECT
 , O
-Orchard_Park_View B-NAME_PROJECT
+Orchard_Park_View NAME_PROJECT
 , O
-Newton_Residence B-NAME_PROJECT
+Newton_Residence NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 TRỰC_TIẾP O
 CĐT O
-THE B-NAME_PROJECT
-MATRIX I-NAME_PROJECT
-ONE I-NAME_PROJECT
-MỄ I-NAME_PROJECT
-TRÌ I-NAME_PROJECT
+THE NAME_PROJECT
+MATRIX NAME_PROJECT
+ONE NAME_PROJECT
+MỄ NAME_PROJECT
+TRÌ NAME_PROJECT
 CHỈ O
 30% O
 NHẬN O
@@ -12174,8 +11358,6 @@ NĂM O
 171 O
 . O
 
--DOCSTART- -X- -X- O
-
 Đã O
 bán.S O
 2.2816 O
@@ -12190,21 +11372,21 @@ giá O
 3,4 O
 tỷ O
 view O
-Keangnam B-NAME_BUILDING
+Keangnam NAME_BUILDING
 S O
 2.1709 O
 giá O
 3,6 O
 tỷ O
 view O
-Keangnam B-NAME_BUILDING
+Keangnam NAME_BUILDING
 S O
 2.1811 O
 giá O
 3,7 O
 tỷ O
 view O
-Keangnam B-NAME_BUILDING
+Keangnam NAME_BUILDING
 S O
 2.2211 O
 a O
@@ -12212,7 +11394,7 @@ giá O
 3,25 O
 tỷ O
 view O
-Keangnam B-NAME_BUILDING
+Keangnam NAME_BUILDING
 S O
 2.3001 O
 giá O
@@ -12225,12 +11407,10 @@ hồ O
 m2 O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 căn_hộ O
-Sunrise_Becamex_Bình_Dương B-NAME_PROJECT
+Sunrise_Becamex_Bình_Dương NAME_PROJECT
 , O
 diện_tích O
 : O
@@ -12242,24 +11422,20 @@ phòng O
 ngủ O
 . O
 
--DOCSTART- -X- -X- O
-
 CHÍNH O
 CHỦ O
 BÁN O
 CĂN_HỘ O
-PHÚ B-NAME_PROJECT
-GIA I-NAME_PROJECT
+PHÚ NAME_PROJECT
+GIA NAME_PROJECT
 ( O
-ORCHID B-NAME_PROJECT
-PARK I-NAME_PROJECT
+ORCHID NAME_PROJECT
+PARK NAME_PROJECT
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
-Oficetel_Prosper_Phố_Đông B-NAME_PROJECT
+Oficetel_Prosper_Phố_Đông NAME_PROJECT
 hiện O
 là O
 dự_án O
@@ -12309,8 +11485,6 @@ làm O
 văn_phòng O
 . O
 
--DOCSTART- -X- -X- O
-
 Tiện_ích O
 ngoại O
 khu O
@@ -12322,7 +11496,7 @@ Kim_Quy O
 TM O
 Savico O
 - O
-Vinhomes_Cổ_Loa B-NAME_PROJECT
+Vinhomes_Cổ_Loa NAME_PROJECT
 - O
 Cách O
 sân_bay O
@@ -12345,14 +11519,12 @@ Long_Biên O
 Tứ_Liên O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 mới O
 khu O
 đô_thị O
-Hà B-NAME_PROJECT
-Đô_Centrosa I-NAME_PROJECT
+Hà NAME_PROJECT
+Đô_Centrosa NAME_PROJECT
 , O
 1-2 O
 PN O
@@ -12361,40 +11533,34 @@ tiện_nghi O
 cao_cấp O
 . O
 
--DOCSTART- -X- -X- O
-
 TỔNG_QUAN O
 CĂN_HỘ O
-PICITY B-NAME_PROJECT
-HIGH I-NAME_PROJECT
-PARK I-NAME_PROJECT
-Q12 I-NAME_PROJECT
+PICITY NAME_PROJECT
+HIGH NAME_PROJECT
+PARK NAME_PROJECT
+Q12 NAME_PROJECT
 Tên O
 dự_án O
 : O
-PiCity_High_Park B-NAME_PROJECT
+PiCity_High_Park NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 Chủ O
 Đầu_Tư O
 Mở_Bán_Căn_Hộ O
 Cao_Cấp O
-Times_City B-NAME_PROJECT
+Times_City NAME_PROJECT
 Toà O
-T08 B-NAME_BUILDING
+T08 NAME_BUILDING
 - O
-T09 B-NAME_BUILDING
+T09 NAME_BUILDING
 - O
-T11 B-NAME_BUILDING
+T11 NAME_BUILDING
 . O
-
--DOCSTART- -X- -X- O
 
 Triển_khai O
 dự_án O
-The_River B-NAME_PROJECT
+The_River NAME_PROJECT
 hoàn_toàn O
 mới O
 tại O
@@ -12415,7 +11581,7 @@ quận O
 2 O
 mang O
 tên O
-The_River B-NAME_PROJECT
+The_River NAME_PROJECT
 được O
 phát_triển O
 bởi O
@@ -12451,11 +11617,9 @@ cực_kì O
 cao O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Căn_hộ O
-Golden_Mansion B-NAME_PROJECT
+Golden_Mansion NAME_PROJECT
 sở_hữu O
 vị_trí O
 đắc_địa O
@@ -12476,10 +11640,8 @@ của O
 thành_phố O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Hope_Residence B-NAME_PROJECT
+Hope_Residence NAME_PROJECT
 Phúc_Đồng O
 , O
 Long_Biên O
@@ -12499,8 +11661,6 @@ tr O
 tháng O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 cần O
@@ -12509,7 +11669,7 @@ gấp O
 sang_nhượng O
 căn_hộ O
 3PN O
-Gateway_Thảo_Điền B-NAME_PROJECT
+Gateway_Thảo_Điền NAME_PROJECT
 giá O
 7,9 O
 tỷ O
@@ -12524,8 +11684,6 @@ LH O
 0906780289 O
 . O
 
--DOCSTART- -X- -X- O
-
 Hotline O
 - O
 Zalo O
@@ -12534,7 +11692,7 @@ Em O
 chuyên O
 bán O
 chung_cư O
-Teco_Gren_Nest B-NAME_PROJECT
+Teco_Gren_Nest NAME_PROJECT
 , O
 DT O
 58 O
@@ -12566,10 +11724,8 @@ vay O
 ngân_hàng O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_Hộ O
-Mỹ_Đình_Plaza B-NAME_PROJECT
+Mỹ_Đình_Plaza NAME_PROJECT
 , O
 Đối_Diện O
 Tôn_Thất_Thuyết O
@@ -12584,12 +11740,10 @@ Bv O
 , O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
-The B-NAME_PROJECT
-6nature I-NAME_PROJECT
-Đà_Nẵng I-NAME_PROJECT
+The NAME_PROJECT
+6nature NAME_PROJECT
+Đà_Nẵng NAME_PROJECT
 nằm O
 gần O
 với O
@@ -12597,14 +11751,14 @@ các O
 dự_án O
 đình_đám O
 như O
-Wyndham_Soleil B-NAME_PROJECT
+Wyndham_Soleil NAME_PROJECT
 , O
-T&T B-NAME_BUILDING
-Twin_Towers I-NAME_BUILDING
+T&T NAME_BUILDING
+Twin_Towers NAME_BUILDING
 , O
 Tháp O
 tài_chính O
-Danang_Gateway O
+Danang_Gateway NAME_BUILDING
 , O
 dư_địa O
 tăng_trưởng O
@@ -12612,13 +11766,11 @@ vô_cùng O
 lớn O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn O
-Penthouse B-NAME_PROJECT
-duplex I-NAME_PROJECT
-One_Verandah I-NAME_PROJECT
+Penthouse NAME_PROJECT
+duplex NAME_PROJECT
+One_Verandah NAME_PROJECT
 tầng O
 cao O
 với O
@@ -12633,7 +11785,7 @@ có O
 diện_tích O
 171m2 O
 , O
-nhà O
+ nhà O
 chưa O
 có O
 nội_thất O
@@ -12654,7 +11806,8 @@ bao O
 hết O
 toàn_bộ O
 phí O
-thuế.One_Verandah B-NAME_PROJECT
+thuế. O
+One_Verandah NAME_PROJECT
 được O
 thiết_kế O
 theo O
@@ -12682,24 +11835,20 @@ thoải_mái O
 an_cư O
 . O
 
--DOCSTART- -X- -X- O
-
 CĐT_Hưng_Thịnh O
 chính_thức O
 ra_mắt O
 dự_án O
-Lavita_Thuận_An B-NAME_PROJECT
+Lavita_Thuận_An NAME_PROJECT
 Bình_Dương O
 . O
-
--DOCSTART- -X- -X- O
 
 Thông_tin O
 dự O
 án.Tên O
 dự_án O
 : O
-The_Sóng B-NAME_PROJECT
+The_Sóng NAME_PROJECT
 Xem O
 dự_án O
 Quy_mô O
@@ -12733,26 +11882,24 @@ tỷ O
 ) O
 . O
 
--DOCSTART- -X- -X- O
-
 bán O
 căn O
 2 O
 PN O
 chung_cư O
-the B-NAME_PROJECT
-city I-NAME_PROJECT
-light I-NAME_PROJECT
-Vĩnh_Yên I-NAME_PROJECT
+the NAME_PROJECT
+city NAME_PROJECT
+light NAME_PROJECT
+Vĩnh_Yên NAME_PROJECT
 . O
 bán O
 căn_hộ O
 chung_cư O
 cao_cấp O
-the B-NAME_PROJECT
-city I-NAME_PROJECT
-light I-NAME_PROJECT
-vĩnh_yên I-NAME_PROJECT
+the NAME_PROJECT
+city NAME_PROJECT
+light NAME_PROJECT
+vĩnh_yên NAME_PROJECT
 diện_tích O
 : O
 70m2 O
@@ -12790,8 +11937,6 @@ giá O
 chủ O
 đầu_tư O
 
--DOCSTART- -X- -X- O
-
 * O
 * O
 Lý_do O
@@ -12800,8 +11945,8 @@ khách_hàng O
 muốn O
 sở_hữu O
 căn_hộ O
-TSG B-NAME_PROJECT
-Lotus_Sài_Đồng I-NAME_PROJECT
+TSG NAME_PROJECT
+Lotus_Sài_Đồng NAME_PROJECT
 : O
 + O
 Vị_trí O
@@ -12812,8 +11957,8 @@ mặt_phố O
 Sài_Đồng O
 , O
 cư_dân O
-TSG B-NAME_PROJECT
-Lotus I-NAME_PROJECT
+TSG NAME_PROJECT
+Lotus NAME_PROJECT
 vừa O
 được O
 sinh_sống O
@@ -12826,8 +11971,6 @@ văn_minh O
 , O
 hiện_đại O
 . O
-
--DOCSTART- -X- -X- O
 
 Bán O
 cắt O
@@ -12843,7 +11986,7 @@ WC O
 84m2 O
 , O
 tại O
-GoldSeason B-NAME_PROJECT
+GoldSeason NAME_PROJECT
 47 O
 Nguyễn_Tuân O
 , O
@@ -12852,15 +11995,13 @@ giá O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Giao O
 nhà O
 quý O
 3/2020. O
 Căn_hộ O
-Sài_Gòn B-NAME_PROJECT
-Intela I-NAME_PROJECT
+Sài_Gòn NAME_PROJECT
+Intela NAME_PROJECT
 vị_trí O
 13E O
 Nguyễn_Văn_Linh O
@@ -12884,17 +12025,13 @@ Kinh_Tế O
 , O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần O
 bán O
 căn_hộ O
 chung_cư O
-MD B-NAME_PROJECT
-complex I-NAME_PROJECT
+MD NAME_PROJECT
+complex NAME_PROJECT
 . O
-
--DOCSTART- -X- -X- O
 
 CẦN O
 BÁN O
@@ -12907,8 +12044,8 @@ CÔNG_VIÊN O
 TUYỆT O
 ĐẸP O
 TẠI O
-CARILON B-NAME_PROJECT
-7 I-NAME_PROJECT
+CARILON NAME_PROJECT
+7 NAME_PROJECT
 - O
 CDT O
 TC O
@@ -12917,28 +12054,24 @@ LAND O
 TPHCM O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn O
 oficetel O
 tại O
 dự_án O
-Sky B-NAME_PROJECT
-center I-NAME_PROJECT
+Sky NAME_PROJECT
+center NAME_PROJECT
 mặt_tiền O
 đường O
 Phổ_Quang O
 . O
 
--DOCSTART- -X- -X- O
-
 Cho O
 thuê O
 căn_hộ O
 cao_cấp O
-Hà_Nội B-NAME_PROJECT
-Center_Point I-NAME_PROJECT
+Hà_Nội NAME_PROJECT
+Center_Point NAME_PROJECT
 27 O
 Lê_Văn_Lương O
 ( O
@@ -13019,12 +12152,10 @@ Nam O
 542 O
 625 O
 
--DOCSTART- -X- -X- O
-
 - O
 Chung_cư O
-HDI B-NAME_PROJECT
-Tower I-NAME_PROJECT
+HDI NAME_PROJECT
+Tower NAME_PROJECT
 với O
 5 O
 tầng O
@@ -13041,21 +12172,15 @@ toà O
 nhà O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn O
 hộ O
-Topaz_Garden B-NAME_PROJECT
+Topaz_Garden NAME_PROJECT
 . O
 
--DOCSTART- -X- -X- O
-
-The_Minato_Residence B-NAME_PROJECT
+The_Minato_Residence NAME_PROJECT
 Hải O
 Phòng O
 . O
-
--DOCSTART- -X- -X- O
 
 Bán O
 trả O
@@ -13070,7 +12195,7 @@ ngủ O
 2WC O
 , O
 86m2 O
-Richmond_Bình_Thạnh B-NAME_PROJECT
+Richmond_Bình_Thạnh NAME_PROJECT
 , O
 giá O
 4,6 O
@@ -13082,12 +12207,10 @@ bao O
 sang_nhượng O
 . O
 
--DOCSTART- -X- -X- O
-
 - O
 Toà O
-Sun_CH B-NAME_BUILDING
-03 I-NAME_BUILDING
+Sun_CH NAME_BUILDING
+03 NAME_BUILDING
 diện_tích O
 86,2 O
 m2 O
@@ -13108,8 +12231,6 @@ từ O
 tỷ O
 . O
 
--DOCSTART- -X- -X- O
-
 Gía O
 bán O
 : O
@@ -13120,25 +12241,23 @@ CAM_KẾT O
 GIÁ O
 RẺ O
 NHẤT O
-TIMES B-NAME_PROJECT
-CITY I-NAME_PROJECT
+TIMES NAME_PROJECT
+CITY NAME_PROJECT
 Xem O
 nhà O
 liên_hệ O
 : O
 0911092882 O
 
--DOCSTART- -X- -X- O
-
 KHÔNG O
 ĐĂNG O
 GIÁ O
 ẢO O
 CĂN_HỘ O
-SUNRISE B-NAME_PROJECT
-CITY I-NAME_PROJECT
-QUẬN I-NAME_PROJECT
-7 I-NAME_PROJECT
+SUNRISE NAME_PROJECT
+CITY NAME_PROJECT
+QUẬN NAME_PROJECT
+7 NAME_PROJECT
 CẬP_NHẬT O
 MỚI O
 NHẤT O
@@ -13154,14 +12273,12 @@ M2 O
 TỶ O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 căn_hộ O
 toà O
 nhà O
-CTM B-NAME_PROJECT
-139 I-NAME_PROJECT
+CTM NAME_PROJECT
+139 NAME_PROJECT
 Cầu_Giấy O
 75.1 O
 m2 O
@@ -13174,15 +12291,13 @@ ful O
 nội_thất O
 . O
 
--DOCSTART- -X- -X- O
-
 Chỉ O
 1.3 O
 tỷ O
 sở_hữu O
 căn_hộ O
 dự_án O
-Eco_Dream B-NAME_PROJECT
+Eco_Dream NAME_PROJECT
 , O
 mặt O
 đường O
@@ -13192,8 +12307,6 @@ thanh O
 Xuân O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 cần O
@@ -13202,20 +12315,18 @@ căn_hộ O
 tầng O
 4 O
 chung_cư O
-Đông_Hưng B-NAME_PROJECT
-1 I-NAME_PROJECT
+Đông_Hưng NAME_PROJECT
+1 NAME_PROJECT
 Q O
 12 O
 . O
-
--DOCSTART- -X- -X- O
 
 - O
 Bán O
 căn_hộ O
 chung_cư O
-Ecohome B-NAME_PROJECT
-3 I-NAME_PROJECT
+Ecohome NAME_PROJECT
+3 NAME_PROJECT
 cho O
 những O
 khách_hàng O
@@ -13224,8 +12335,6 @@ kịp O
 làm O
 hồ_sơ O
 . O
-
--DOCSTART- -X- -X- O
 
 Căn_hộ O
 cả O
@@ -13248,8 +12357,8 @@ Bán O
 căn_hộ O
 chung_cư O
 tại O
-Q7 B-NAME_PROJECT
-Saigon_Riverside I-NAME_PROJECT
+Q7 NAME_PROJECT
+Saigon_Riverside NAME_PROJECT
 - O
 Quận O
 7 O
@@ -13263,7 +12372,7 @@ Diện_tích O
 : O
 66 O
 m² O
-Saigon_Riverside B-NAME_PROJECT
+Saigon_Riverside NAME_PROJECT
 cả O
 3 O
 mặt O
@@ -13273,26 +12382,22 @@ sông O
 Sài_Gòn O
 . O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
 chung_cư O
 ở O
 tầng O
 5 O
 căn O
-02 B-NUMBER_DEPARTMENT
+02 NUMBER_DEPARTMENT
 toà O
-R4A B-NAME_BUILDING
+R4A NAME_BUILDING
 có O
 DT O
 : O
 
--DOCSTART- -X- -X- O
-
 + O
 3 O
-km O
+ km O
 tới O
 Aeon_Mal O
 , O
@@ -13310,6 +12415,7 @@ hệ O
 báo_giá O
 chi_tiết O
 : O
+  O
 ( O
 zalo O
 / O
@@ -13325,16 +12431,14 @@ KÝ_GỬI O
 các O
 căn_hộ O
 dự_án O
-Vista_Riverside B-NAME_PROJECT
+Vista_Riverside NAME_PROJECT
 giá O
 tốt O
 nhất O
 thị_trường O
 
--DOCSTART- -X- -X- O
-
 Căn_hộ O
-Sơn_Kỳ B-NAME_PROJECT
+Sơn_Kỳ NAME_PROJECT
 2pn O
 , O
 có O
@@ -13343,15 +12447,13 @@ máy_lạnh O
 0938.648.622 O
 . O
 
--DOCSTART- -X- -X- O
-
 Cần_Bán_Gấp_Nhà O
 Mặt_Tiền O
 Đường O
 Trần_Khánh_Dư_Đoạn O
 gần O
 Chung_Cư O
-Nguyễn_Văn_Nguyễn B-NAME_PROJECT
+Nguyễn_Văn_Nguyễn NAME_PROJECT
 , O
 khu O
 văn_phòng O
@@ -13380,8 +12482,6 @@ qua O
 SĐT O
 0909.902.068 O
 
--DOCSTART- -X- -X- O
-
 Cần O
 tiền O
 kinh_doanh O
@@ -13391,7 +12491,7 @@ căn_hộ O
 trục O
 1 O
 dự_án O
-Florence B-NAME_PROJECT
+Florence NAME_PROJECT
 28 O
 Trần_Hữu_Dực O
 , O
@@ -13463,11 +12563,9 @@ giường O
 , O
 . O
 
--DOCSTART- -X- -X- O
-
 Bán O
 chung_cư O
-CT6 B-NAME_PROJECT
+CT6 NAME_PROJECT
 khu O
 đô_thị O
 văn O
@@ -13478,8 +12576,6 @@ khê O
 , O
 hà_đông O
 . O
-
--DOCSTART- -X- -X- O
 
 Bán_kính O
 1km O
@@ -13534,7 +12630,7 @@ trị_giá O
 triệu= O
 > O
 Căn_hộ O
-Duplex B-NAME_PROJECT
+Duplex NAME_PROJECT
 đang O
 là O
 Xu_hướng O
@@ -13545,8 +12641,6 @@ quan_tâm O
 hiện_nay O
 . O
 
--DOCSTART- -X- -X- O
-
 Quỹ O
 căn O
 2PN O
@@ -13554,7 +12648,7 @@ và O
 2 O
 PN O
 +1 O
-The_Zei B-NAME_PROJECT
+The_Zei NAME_PROJECT
 số O
 8 O
 Lê_Đức_Thọ O
@@ -13571,8 +12665,6 @@ chủ O
 đầu_tư O
 . O
 
--DOCSTART- -X- -X- O
-
 Chính O
 chủ O
 cắt O
@@ -13581,7 +12673,7 @@ sâu O
 căn_hộ O
 210m2 O
 chung_cư O
-Discovery_Cầu_Giấy B-NAME_PROJECT
+Discovery_Cầu_Giấy NAME_PROJECT
 , O
 giá O
 31 O
@@ -13593,16 +12685,14 @@ lh O
 0962.695.958 O
 . O
 
--DOCSTART- -X- -X- O
-
 Mở O
 bán O
 căn_hộ O
 cao_cấp O
-Sunshine B-NAME_PROJECT
-city I-NAME_PROJECT
-Quận I-NAME_PROJECT
-7 I-NAME_PROJECT
+Sunshine NAME_PROJECT
+city NAME_PROJECT
+Quận NAME_PROJECT
+7 NAME_PROJECT
 - O
 Mặt_tiền O
 Phú_Thuận O
