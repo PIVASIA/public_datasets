@@ -7674,7 +7674,7 @@ giảm O
 ngay O
 5.000 B-muc_giam_gia
 đồng I-muc_giam_gia
-khi 
+khi O
 mua O
 2 O
 chai O
@@ -13635,8 +13635,8 @@ Một O
 màu O
 xanh_tươi O
 của O
-rau_sạch 
-Đà_Lạt 
+rau_sạch O
+Đà_Lạt O
 được O
 sắp_xếp O
 khéo_léo O
@@ -13744,13 +13744,13 @@ hành_tây O
 
 -DOCSTART- -X- -X- O
 
-( 
-* 
-‿ 
-* 
-✿ 
-) 
-. 
+( O
+* O
+‿ O
+* O
+✿ O
+) O
+. O
 
 -DOCSTART- -X- -X- O
 
@@ -19030,7 +19030,7 @@ Nguyễn_Đình_Chiểu B-ten_duong
 P. O
 6 B-ten_phuong_xa_thitran
 , O
-Q. 
+Q. O
 3 B-ten_quan_huyen_thanhpho
 . O
 

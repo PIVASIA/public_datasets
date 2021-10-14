@@ -997,8 +997,8 @@ thì O
 ngon O
 , O
 sushi B-san_pham
-tự 
-cuộn 
+tự O
+cuộn O
 thì O
 ngon O
 hơn O
@@ -6348,12 +6348,12 @@ họ O
 thường O
 chỉ O
 đi O
-giày 
-bệt 
+giày O
+bệt O
 , O
 đeo O
-túi 
-cói 
+túi O
+cói O
 , O
 hoạ_tiết O
 hoa O
@@ -11202,7 +11202,7 @@ Trương_Định I-so_nha
 P. O
 6 B-ten_phuong_xa_thitran
 , O
-Q. 
+Q. O
 3 B-ten_quan_huyen_thanhpho
 . O
 
@@ -14361,7 +14361,7 @@ Nguyễn_Thị_Minh_Khai B-ten_duong
 Phường O
 5 B-ten_phuong_xa_thitran
 , O
-Quận 
+Quận O
 3 B-ten_quan_huyen_thanhpho
 . O
 
@@ -15232,11 +15232,11 @@ Khai I-vi_tri
 . O
 82 B-so_nha
 Nguyễn_Thị_Minh_Khai B-ten_duong
-, 
+, O
 Phường O
 6 B-ten_phuong_xa_thitran
 , O
-Quận 
+Quận O
 3 B-ten_quan_huyen_thanhpho
 . O
 
@@ -15932,7 +15932,7 @@ Nguyễn_Hữu_Cảnh B-ten_duong
 Phường O
 22 B-ten_phuong_xa_thitran
 , O
-Quận 
+Quận O
 Bình_Thạnh B-ten_quan_huyen_thanhpho
 . O
 
@@ -16673,7 +16673,7 @@ tô O
 mì B-san_pham
 rabokki I-san_pham
 , O
-một O 
+một O
 lon O
 mirinda B-san_pham
 soda I-san_pham
@@ -44038,7 +44038,7 @@ Bến_Nghé B-ten_phuong_xa_thitran
 , O
 Quận O
 1 B-ten_quan_huyen_thanhpho
-. 
+. O
 
 -DOCSTART- -X- -X- O
 
